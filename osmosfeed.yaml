@@ -7,5 +7,4 @@
 # cacheUrl: https://liuning0820.github.io/rss-reader/cache.json
 sources:
   - href: https://blog.thestateofme.com/feed/
-  - href: https://css-tricks.com/feed/
   - href: http://sreweekly.com/feed/

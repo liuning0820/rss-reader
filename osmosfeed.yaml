@@ -3,7 +3,6 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 cacheUrl: https://liuning0820.github.io/rss-reader/cache.json
 sources:
   - href: https://blog.thestateofme.com/feed/

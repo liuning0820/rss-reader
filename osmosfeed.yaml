@@ -4,6 +4,11 @@
 #########################
 
 cacheUrl: https://liuning0820.github.io/rss-reader/cache.json
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "RSS Feed Reader"
+
 sources:
   - href: https://blog.thestateofme.com/feed/
   - href: http://sreweekly.com/feed/
+  - href: https://liuning0820.github.io/feed.xml

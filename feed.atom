@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-11-19T12:31:35.787Z</updated>
+    <updated>2024-11-19T14:15:18.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://sreweekly.com/sre-weekly-issue-448/"/>
         <updated>2024-10-28T01:14:04.000Z</updated>
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ What Platform Engineering Meant for Adidas’s SREs They traded their monolith for microservices in a quest for scalability, but they got complexity along with it.    Jennifer Riggins — The New […]]]></summary>
-        <author>
-            <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #447]]></title>
-        <id>https://sreweekly.com/?p=1564</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-447/"/>
-        <updated>2024-10-21T01:04:12.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: If the entire team is on a Zoom bridge during an incident – how do you know what really happened and when? We added real-time Zoom/Google Meet transcripts to make sure your incident timeline has every detail. https://firehydrant.com/ai/ SLOs for Mobile Apps: Hard Truths to Consider […]]]></summary>
         <author>
             <name>lex</name>
         </author>

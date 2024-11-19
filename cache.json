@@ -61,16 +61,6 @@
           "wordCount": 1060,
           "title": "SRE Weekly Issue #448",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1564",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: If the entire team is on a Zoom bridge during an incident – how do you know what really happened and when? We added real-time Zoom/Google Meet transcripts to make sure your incident timeline has every detail. https://firehydrant.com/ai/ SLOs for Mobile Apps: Hard Truths to Consider […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-447/",
-          "publishedOn": "2024-10-21T01:04:12.000Z",
-          "wordCount": 1081,
-          "title": "SRE Weekly Issue #447",
-          "imageUrl": null
         }
       ]
     },

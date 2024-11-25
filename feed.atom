@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-11-25T01:15:43.030Z</updated>
+    <updated>2024-11-25T02:57:32.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #452]]></title>
+        <id>https://sreweekly.com/?p=1575</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-452/"/>
+        <updated>2024-11-25T02:32:06.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #451]]></title>
         <id>https://sreweekly.com/?p=1572</id>

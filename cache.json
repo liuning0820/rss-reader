@@ -23,6 +23,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1575",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-452/",
+          "publishedOn": "2024-11-25T02:32:06.000Z",
+          "wordCount": 1082,
+          "title": "SRE Weekly Issue #452",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1572",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ DEATHTRAP! The Strange story of Air France flight 736 Most fascinating air incident report I’ve seen in awhile! The pilots deviated from the non-normal checklist, and it immediately made me think […]",

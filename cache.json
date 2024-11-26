@@ -61,16 +61,6 @@
           "wordCount": 1105,
           "title": "SRE Weekly Issue #449",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1566",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ What Platform Engineering Meant for Adidas’s SREs They traded their monolith for microservices in a quest for scalability, but they got complexity along with it.    Jennifer Riggins — The New […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-448/",
-          "publishedOn": "2024-10-28T01:14:04.000Z",
-          "wordCount": 1060,
-          "title": "SRE Weekly Issue #448",
-          "imageUrl": null
         }
       ]
     },

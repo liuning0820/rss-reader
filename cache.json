@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6058",
+          "author": "Chris Swan",
+          "description": "TL;DR The Flint 2 seems to be a pretty awesome router. It was a little fiddly to set up my (quite complex) existing VLANs and wireless networks onto it, but it’s been working without a hitch since then :) Why? I’ve had a Draytek 2866ax router paired with an AP960C access point for about 18m[1]. […]",
+          "link": "https://blog.thestateofme.com/2024/11/30/gl-inet-mt-6000-flint2-review/",
+          "publishedOn": "2024-11-30T09:58:21.000Z",
+          "wordCount": 4553,
+          "title": "GL.iNet MT-6000 Flint2 Review",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2024/11/flint2_wallmount.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6032",
           "author": "Chris Swan",
           "description": "Pupdate Autumn is definitely here, and it’s been wet enough that the boys have needed their coats some days. The good news at the start of the month is that Milo’s treatment is working, and he’s back in remission :) Travel The end of the month has been quite busy for travel. NYC One of […]",

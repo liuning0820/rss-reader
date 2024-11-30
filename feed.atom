@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-11-30T08:18:56.487Z</updated>
+    <updated>2024-11-30T10:15:02.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GL.iNet MT-6000 Flint2 Review]]></title>
+        <id>http://blog.thestateofme.com/?p=6058</id>
+        <link href="https://blog.thestateofme.com/2024/11/30/gl-inet-mt-6000-flint2-review/"/>
+        <updated>2024-11-30T09:58:21.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR The Flint 2 seems to be a pretty awesome router. It was a little fiddly to set up my (quite complex) existing VLANs and wireless networks onto it, but it’s been working without a hitch since then :) Why? I’ve had a Draytek 2866ax router paired with an AP960C access point for about 18m[1]. […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #452]]></title>
         <id>https://sreweekly.com/?p=1575</id>

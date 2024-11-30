@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-11-30T18:19:40.129Z</updated>
+    <updated>2024-11-30T20:16:03.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GL.iNet MT-6000 Flint2 Review]]></title>
+        <id>https://blog.thestateofme.com/?p=6058</id>
+        <link href="http://blog.thestateofme.com/2024/11/30/gl-inet-mt-6000-flint2-review/"/>
+        <updated>2024-11-30T09:58:21.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR The Flint 2 seems to be a pretty awesome router. It was a little fiddly to set up my (quite complex) existing VLANs and wireless networks onto it, but it’s been working without a hitch since then :) Why? I’ve had a Draytek 2866ax router paired with an AP960C access point for about 18m[1]. […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GL.iNet MT-6000 Flint2 Review]]></title>
         <id>http://blog.thestateofme.com/?p=6058</id>
@@ -64,6 +74,16 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE – A Journey to Master Site Reliability Engineering This new series seems promising! I won’t link to every article in the series here, but if you’re […]]]></summary>
         <author>
             <name>lex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 2024]]></title>
+        <id>https://blog.thestateofme.com/?p=6032</id>
+        <link href="http://blog.thestateofme.com/2024/11/01/october-2024/"/>
+        <updated>2024-11-01T14:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate Autumn is definitely here, and it’s been wet enough that the boys have needed their coats some days. The good news at the start of the month is that Milo’s treatment is working, and he’s back in remission :) Travel The end of the month has been quite busy for travel. NYC One of […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

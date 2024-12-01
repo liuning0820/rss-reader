@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6068",
+          "author": "Chris Swan",
+          "description": "Pupdate The weather has been pretty miserable, so long walks at the weekend have been into town rather than out on the fields, and coats have been needed for the latter weeks. Milo’s chemo has continued with a few little hiccups caused by low neutrophils, so even more trips to the vets :( But he’s […]",
+          "link": "https://blog.thestateofme.com/2024/12/01/november-2024/",
+          "publishedOn": "2024-12-01T18:48:27.000Z",
+          "wordCount": 3889,
+          "title": "November 2024",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2024/11/solar_202411.jpg"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6058",
           "author": "Chris Swan",
           "description": "TL;DR The Flint 2 seems to be a pretty awesome router. It was a little fiddly to set up my (quite complex) existing VLANs and wireless networks onto it, but it’s been working without a hitch since then :) Why? I’ve had a Draytek 2866ax router paired with an AP960C access point for about 18m[1]. […]",

@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1577",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end…to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-453/",
+          "publishedOn": "2024-12-02T02:09:32.000Z",
+          "wordCount": 1110,
+          "title": "SRE Weekly Issue #453",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1575",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ There’s No Such Thing as a Free Lunch! The Lunch Exercise was my favorite part of the Blackrock3 training, and now Slack has adapted it for their ongoing training. How Slack […]",

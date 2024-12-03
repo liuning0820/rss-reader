@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-12-03T14:14:05.158Z</updated>
+    <updated>2024-12-03T16:20:08.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://sreweekly.com/sre-weekly-issue-450/"/>
         <updated>2024-11-11T02:33:10.000Z</updated>
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ The Unofficial SRE Track for KubeCon NA ’24 If you’re heading to KubeCon this week, here are some talks to consider.   JJ Tang — Rootly Choosing the right Postgres indexes This […]]]></summary>
-        <author>
-            <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #449]]></title>
-        <id>https://sreweekly.com/?p=1568</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-449/"/>
-        <updated>2024-11-04T02:14:10.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE – A Journey to Master Site Reliability Engineering This new series seems promising! I won’t link to every article in the series here, but if you’re […]]]></summary>
         <author>
             <name>lex</name>
         </author>

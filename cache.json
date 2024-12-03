@@ -81,16 +81,6 @@
           "wordCount": 1078,
           "title": "SRE Weekly Issue #450",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1568",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ Announcing: 52 Weeks of SRE – A Journey to Master Site Reliability Engineering This new series seems promising! I won’t link to every article in the series here, but if you’re […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-449/",
-          "publishedOn": "2024-11-04T02:14:10.000Z",
-          "wordCount": 1105,
-          "title": "SRE Weekly Issue #449",
-          "imageUrl": null
         }
       ]
     },

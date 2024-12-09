@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1579",
+          "author": "lex",
+          "description": "View on sreweekly.com Nine entire years ago, I threw together a few “issues” with my favorite SRE articles, installed WordPress, and added a subscription form, with no clue what I was doing. It’s only thanks to you folks, the thousands of subscribers and the many authors of great SRE content, that I’ve been able to […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-454/",
+          "publishedOn": "2024-12-09T02:30:37.000Z",
+          "wordCount": 1146,
+          "title": "SRE Weekly Issue #454",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1577",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end…to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in […]",

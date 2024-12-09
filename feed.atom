@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-12-09T01:19:25.289Z</updated>
+    <updated>2024-12-09T03:03:46.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #454]]></title>
+        <id>https://sreweekly.com/?p=1579</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-454/"/>
+        <updated>2024-12-09T02:30:37.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Nine entire years ago, I threw together a few “issues” with my favorite SRE articles, installed WordPress, and added a subscription form, with no clue what I was doing. It’s only thanks to you folks, the thousands of subscribers and the many authors of great SRE content, that I’ve been able to […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #453]]></title>
         <id>https://sreweekly.com/?p=1577</id>

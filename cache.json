@@ -81,16 +81,6 @@
           "wordCount": 1178,
           "title": "SRE Weekly Issue #451",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1570",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: Practice Makes Prepared: Why Every Minor System Hiccup Is Your Team’s Secret Training Ground. https://firehydrant.com/blog/the-hidden-value-of-lower-severity-incidents/ The Unofficial SRE Track for KubeCon NA ’24 If you’re heading to KubeCon this week, here are some talks to consider.   JJ Tang — Rootly Choosing the right Postgres indexes This […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-450/",
-          "publishedOn": "2024-11-11T02:33:10.000Z",
-          "wordCount": 1078,
-          "title": "SRE Weekly Issue #450",
-          "imageUrl": null
         }
       ]
     },

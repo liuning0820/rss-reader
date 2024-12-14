@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6068",
+          "author": "Chris Swan",
+          "description": "Pupdate The weather has been pretty miserable, so long walks at the weekend have been into town rather than out on the fields, and coats have been needed for the latter weeks. Milo’s chemo has continued with a few little hiccups caused by low neutrophils, so even more trips to the vets :( But he’s […]",
+          "link": "http://blog.thestateofme.com/2024/12/01/november-2024/",
+          "publishedOn": "2024-12-01T18:48:27.000Z",
+          "wordCount": 3887,
+          "title": "November 2024",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2024/11/solar_202411.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6068",
           "author": "Chris Swan",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-12-16T01:19:49.386Z</updated>
+    <updated>2024-12-16T03:03:56.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #455]]></title>
+        <id>https://sreweekly.com/?p=1581</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-455/"/>
+        <updated>2024-12-16T02:15:40.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing… all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or “Thundering […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #454]]></title>
         <id>https://sreweekly.com/?p=1579</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-12-23T01:12:33.027Z</updated>
+    <updated>2024-12-23T02:49:14.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #456]]></title>
+        <id>https://sreweekly.com/?p=1583</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-456/"/>
+        <updated>2024-12-23T02:00:47.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: On-call during the holidays? Spend more time taking in some R&R and less getting paged. Let alerts make their rounds fairly with our new Round Robin feature for Escalation Policies. https://firehydrant.com/blog/introducing-round-robin-for-signals-escalation-policies/ MTTR: When sample means and power laws combine, trouble follows Here’s another way to use […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #455]]></title>
         <id>https://sreweekly.com/?p=1581</id>

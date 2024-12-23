@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1583",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: On-call during the holidays? Spend more time taking in some R&R and less getting paged. Let alerts make their rounds fairly with our new Round Robin feature for Escalation Policies. https://firehydrant.com/blog/introducing-round-robin-for-signals-escalation-policies/ MTTR: When sample means and power laws combine, trouble follows Here’s another way to use […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-456/",
+          "publishedOn": "2024-12-23T02:00:47.000Z",
+          "wordCount": 1040,
+          "title": "SRE Weekly Issue #456",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1581",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, FireHydrant: FireHydrant Retrospectives are now more customizable and collaborative than ever with custom templates, AI-generated answers, collaborative editing… all exportable to Google Docs and Confluence. See how our retros can save you 2+ hours on every incident. https://firehydrant.com/blog/welcome-to-your-new-retrospective-experience-more-customizable-collaborative/ How to Handle Sudden Bursts of Traffic or “Thundering […]",

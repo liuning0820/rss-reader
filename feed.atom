@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-12-29T20:14:56.037Z</updated>
+    <updated>2024-12-29T22:13:08.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -62,26 +62,6 @@
         <link href="https://blog.thestateofme.com/2024/12/01/november-2024/"/>
         <updated>2024-12-01T18:48:27.000Z</updated>
         <summary type="html"><![CDATA[Pupdate The weather has been pretty miserable, so long walks at the weekend have been into town rather than out on the fields, and coats have been needed for the latter weeks. Milo’s chemo has continued with a few little hiccups caused by low neutrophils, so even more trips to the vets :( But he’s […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GL.iNet MT-6000 Flint2 Review]]></title>
-        <id>https://blog.thestateofme.com/?p=6058</id>
-        <link href="http://blog.thestateofme.com/2024/11/30/gl-inet-mt-6000-flint2-review/"/>
-        <updated>2024-11-30T09:58:21.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR The Flint 2 seems to be a pretty awesome router. It was a little fiddly to set up my (quite complex) existing VLANs and wireless networks onto it, but it’s been working without a hitch since then :) Why? I’ve had a Draytek 2866ax router paired with an AP960C access point for about 18m[1]. […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GL.iNet MT-6000 Flint2 Review]]></title>
-        <id>http://blog.thestateofme.com/?p=6058</id>
-        <link href="https://blog.thestateofme.com/2024/11/30/gl-inet-mt-6000-flint2-review/"/>
-        <updated>2024-11-30T09:58:21.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR The Flint 2 seems to be a pretty awesome router. It was a little fiddly to set up my (quite complex) existing VLANs and wireless networks onto it, but it’s been working without a hitch since then :) Why? I’ve had a Draytek 2866ax router paired with an AP960C access point for about 18m[1]. […]]]></summary>
         <author>
             <name>Chris Swan</name>
         </author>

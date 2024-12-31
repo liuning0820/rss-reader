@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2024-12-31T12:29:33.366Z</updated>
+    <updated>2024-12-31T14:13:09.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -42,16 +42,6 @@
         <link href="https://sreweekly.com/sre-weekly-issue-454/"/>
         <updated>2024-12-09T02:30:37.000Z</updated>
         <summary type="html"><![CDATA[View on sreweekly.com Nine entire years ago, I threw together a few “issues” with my favorite SRE articles, installed WordPress, and added a subscription form, with no clue what I was doing. It’s only thanks to you folks, the thousands of subscribers and the many authors of great SRE content, that I’ve been able to […]]]></summary>
-        <author>
-            <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #453]]></title>
-        <id>https://sreweekly.com/?p=1577</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-453/"/>
-        <updated>2024-12-02T02:09:32.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: Why migrate from PagerDuty? Empower team-level ownership, reduce costs, decouple alerts from incidents, automate incidents end-to-end…to name a few. Join the growing list of companies that have made the switch. (p.s. our Signals migrator makes it simple) https://firehydrant.com/migrate/from-pagerduty/ Cloudflare incident on November 14, 2024, resulting in […]]]></summary>
         <author>
             <name>lex</name>
         </author>

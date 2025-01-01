@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-01-01T20:15:49.858Z</updated>
+    <updated>2025-01-01T22:13:38.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December 2024]]></title>
+        <id>http://blog.thestateofme.com/?p=6088</id>
+        <link href="https://blog.thestateofme.com/2025/01/01/december-2024/"/>
+        <updated>2025-01-01T17:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The boys have enjoyed having their people around a bit more than usual and some extra long walks. Though the weather hasn’t always been obliging. Mum’s 80th My mum’s birthday falls just before Christmas, and this was a BIG one, which called for a family gathering. My sister drove her down to join my […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[December 2024]]></title>
         <id>https://blog.thestateofme.com/?p=6088</id>

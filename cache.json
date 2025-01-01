@@ -3,8 +3,19 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
-      "articles": []
+      "siteUrl": "http://blog.thestateofme.com",
+      "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6088",
+          "author": "Chris Swan",
+          "description": "Pupdate The boys have enjoyed having their people around a bit more than usual and some extra long walks. Though the weather hasn’t always been obliging. Mum’s 80th My mum’s birthday falls just before Christmas, and this was a BIG one, which called for a family gathering. My sister drove her down to join my […]",
+          "link": "http://blog.thestateofme.com/2025/01/01/december-2024/",
+          "publishedOn": "2025-01-01T17:18:19.000Z",
+          "wordCount": 4217,
+          "title": "December 2024",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/solar_dec24.jpg"
+        }
+      ]
     },
     {
       "title": "SRE WEEKLY",

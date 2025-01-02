@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=6111",
+          "author": "Chris Swan",
+          "description": "TL;DR My iPad Mini 5 wouldn’t connect to access points running WPA2-PSK/WPA3-SAE Mixed Mode so I’ve had to reconfigure them to just WPA2-PSK in order to get connected. Background I mentioned in my Flint 2 review that my motivation for getting a new router was better stability for my iPad and various devices. It’s certainly […]",
+          "link": "https://blog.thestateofme.com/2025/01/02/fixing-wifi-for-ipad-mini-5/",
+          "publishedOn": "2025-01-02T10:52:49.000Z",
+          "wordCount": 3665,
+          "title": "Fixing WiFi for iPad Mini 5",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6088",
           "author": "Chris Swan",

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6111",
@@ -52,6 +52,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1596",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-459/",
+          "publishedOn": "2025-01-13T02:10:45.000Z",
+          "wordCount": 1052,
+          "title": "SRE Weekly Issue #459",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1594",
           "author": "lex",

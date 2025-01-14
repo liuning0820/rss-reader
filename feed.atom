@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-01-14T16:18:33.827Z</updated>
+    <updated>2025-01-14T18:19:37.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 18 – OK but delays]]></title>
+        <id>http://blog.thestateofme.com/?p=6117</id>
+        <link href="https://blog.thestateofme.com/2025/01/14/milo-cancer-diary-part-18-ok-but-delays/"/>
+        <updated>2025-01-14T17:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #459]]></title>
         <id>https://sreweekly.com/?p=1596</id>

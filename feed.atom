@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-01-21T12:29:51.899Z</updated>
+    <updated>2025-01-21T14:13:49.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://sreweekly.com/sre-weekly-issue-457/"/>
         <updated>2024-12-30T02:32:00.000Z</updated>
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: This New Year, resolve to make incident management smarter, faster, and way less stressful with FireHydrant. Modern on-call, automated incident response, and AI tools that do the heavy lifting. https://firehydrant.com/ Preventing Out-of-Memory (OOM) Kills in Kubernetes: Tips for Optimizing Container Memory Management In this post, we’ll […]]]></summary>
-        <author>
-            <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #456]]></title>
-        <id>https://sreweekly.com/?p=1583</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-456/"/>
-        <updated>2024-12-23T02:00:47.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: On-call during the holidays? Spend more time taking in some R&R and less getting paged. Let alerts make their rounds fairly with our new Round Robin feature for Escalation Policies. https://firehydrant.com/blog/introducing-round-robin-for-signals-escalation-policies/ MTTR: When sample means and power laws combine, trouble follows Here’s another way to use […]]]></summary>
         <author>
             <name>lex</name>
         </author>

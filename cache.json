@@ -63,6 +63,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1600",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide The importance of resilience engineering Written in 2020 after an AWS outage, this article analyzes dependence […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-461/",
+          "publishedOn": "2025-01-27T04:15:48.000Z",
+          "wordCount": 996,
+          "title": "SRE Weekly Issue #461",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1598",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, incident.io: See how Netflix scaled their incident management with incident.io. By leveraging intuitive tools like Catalog and Workflows, they built a streamlined, scalable process that empowers teams to handle incidents with ease and consistency—even at Netflix’s scale. https://incident.io/customers/netflix An Incident Review of an Incident Review So I […]",

@@ -101,16 +101,6 @@
           "wordCount": 1057,
           "title": "SRE Weekly Issue #458",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1589",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, FireHydrant: This New Year, resolve to make incident management smarter, faster, and way less stressful with FireHydrant. Modern on-call, automated incident response, and AI tools that do the heavy lifting. https://firehydrant.com/ Preventing Out-of-Memory (OOM) Kills in Kubernetes: Tips for Optimizing Container Memory Management In this post, we’ll […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-457/",
-          "publishedOn": "2024-12-30T02:32:00.000Z",
-          "wordCount": 1112,
-          "title": "SRE Weekly Issue #457",
-          "imageUrl": null
         }
       ]
     },

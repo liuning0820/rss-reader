@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-01-28T14:14:13.515Z</updated>
+    <updated>2025-01-28T16:18:19.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -94,16 +94,6 @@
         <summary type="html"><![CDATA[Pupdate The boys have enjoyed having their people around a bit more than usual and some extra long walks. Though the weather hasn’t always been obliging. Mum’s 80th My mum’s birthday falls just before Christmas, and this was a BIG one, which called for a family gathering. My sister drove her down to join my […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #457]]></title>
-        <id>https://sreweekly.com/?p=1589</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-457/"/>
-        <updated>2024-12-30T02:32:00.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, FireHydrant: This New Year, resolve to make incident management smarter, faster, and way less stressful with FireHydrant. Modern on-call, automated incident response, and AI tools that do the heavy lifting. https://firehydrant.com/ Preventing Out-of-Memory (OOM) Kills in Kubernetes: Tips for Optimizing Container Memory Management In this post, we’ll […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

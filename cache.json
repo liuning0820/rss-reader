@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6125",
+          "author": "Chris Swan",
+          "description": "Pupdate I posted mid month about Milo’s chemo, and he’s since been to the local vets to start the final cycle of this protocol. Two years on from his diagnosis it’s great that the treatment is working :) Double Whisky Burns Night at the Scotch Malt Whisky Society was a lot of fun last year, […]",
+          "link": "http://blog.thestateofme.com/2025/02/01/january-2025/",
+          "publishedOn": "2025-02-01T07:25:15.000Z",
+          "wordCount": 3817,
+          "title": "January 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/pups_jan25.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6125",
           "author": "Chris Swan",
@@ -14,6 +24,16 @@
           "wordCount": 3817,
           "title": "January 2025",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/pups_jan25.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6117",
+          "author": "Chris Swan",
+          "description": "Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]",
+          "link": "http://blog.thestateofme.com/2025/01/14/milo-cancer-diary-part-18-ok-but-delays/",
+          "publishedOn": "2025-01-14T17:37:07.000Z",
+          "wordCount": 3910,
+          "title": "Milo cancer diary part 18 – OK but delays",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/milo_jan25.jpg"
         },
         {
           "id": "http://blog.thestateofme.com/?p=6117",

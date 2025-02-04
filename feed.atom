@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-02-04T14:14:24.047Z</updated>
+    <updated>2025-02-04T16:18:38.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://sreweekly.com/sre-weekly-issue-459/"/>
         <updated>2025-01-13T02:10:45.000Z</updated>
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that […]]]></summary>
-        <author>
-            <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #458]]></title>
-        <id>https://sreweekly.com/?p=1594</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-458/"/>
-        <updated>2025-01-06T02:18:26.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Ever wonder how Netflix handles incidents at their scale? With incident.io, they’ve built a process that’s smooth, scalable, and keeps everyone on the same page. Tools like Catalog and Workflows make it intuitive for teams to tackle incidents consistently—no matter how big the challenge. https://incident.io/customers/netflix Your […]]]></summary>
         <author>
             <name>lex</name>
         </author>

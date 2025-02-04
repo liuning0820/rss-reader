@@ -91,16 +91,6 @@
           "wordCount": 1052,
           "title": "SRE Weekly Issue #459",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1594",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: Ever wonder how Netflix handles incidents at their scale? With incident.io, they’ve built a process that’s smooth, scalable, and keeps everyone on the same page. Tools like Catalog and Workflows make it intuitive for teams to tackle incidents consistently—no matter how big the challenge. https://incident.io/customers/netflix Your […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-458/",
-          "publishedOn": "2025-01-06T02:18:26.000Z",
-          "wordCount": 1057,
-          "title": "SRE Weekly Issue #458",
-          "imageUrl": null
         }
       ]
     },

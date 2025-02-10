@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6125",
@@ -52,6 +52,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1608",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: Incidents move fast—so should your response. That’s why we’re building an AI responder that thinks like your team, not a machine. See how we’re doing it, the challenges faced, and what else is on the AI roadmap. https://www.youtube.com/watch?v=rNpwZPOUhuE Probabilistic Increment Sometimes, we can harness randomness to […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-463/",
+          "publishedOn": "2025-02-10T02:17:25.000Z",
+          "wordCount": 1066,
+          "title": "SRE Weekly Issue #463",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1606",
           "author": "lex",

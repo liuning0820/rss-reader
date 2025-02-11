@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-02-11T12:30:30.768Z</updated>
+    <updated>2025-02-11T14:14:41.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -84,16 +84,6 @@
         <summary type="html"><![CDATA[Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #459]]></title>
-        <id>https://sreweekly.com/?p=1596</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-459/"/>
-        <updated>2025-01-13T02:10:45.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide How to end-to-end test microservices across bounded contexts? In a microservices environment, testing user journeys that […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6125",
@@ -24,26 +24,6 @@
           "wordCount": 3817,
           "title": "January 2025",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/pups_jan25.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6117",
-          "author": "Chris Swan",
-          "description": "Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]",
-          "link": "http://blog.thestateofme.com/2025/01/14/milo-cancer-diary-part-18-ok-but-delays/",
-          "publishedOn": "2025-01-14T17:37:07.000Z",
-          "wordCount": 3910,
-          "title": "Milo cancer diary part 18 – OK but delays",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/milo_jan25.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6117",
-          "author": "Chris Swan",
-          "description": "Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]",
-          "link": "https://blog.thestateofme.com/2025/01/14/milo-cancer-diary-part-18-ok-but-delays/",
-          "publishedOn": "2025-01-14T17:37:07.000Z",
-          "wordCount": 3812,
-          "title": "Milo cancer diary part 18 – OK but delays",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/01/milo_jan25.jpg"
         }
       ]
     },

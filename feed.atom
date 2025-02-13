@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-02-13T04:17:53.870Z</updated>
+    <updated>2025-02-13T06:21:06.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -64,26 +64,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: See how Netflix scaled their incident management with incident.io. By leveraging intuitive tools like Catalog and Workflows, they built a streamlined, scalable process that empowers teams to handle incidents with ease and consistency—even at Netflix’s scale. https://incident.io/customers/netflix An Incident Review of an Incident Review So I […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo cancer diary part 18 – OK but delays]]></title>
-        <id>https://blog.thestateofme.com/?p=6117</id>
-        <link href="http://blog.thestateofme.com/2025/01/14/milo-cancer-diary-part-18-ok-but-delays/"/>
-        <updated>2025-01-14T17:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo cancer diary part 18 – OK but delays]]></title>
-        <id>http://blog.thestateofme.com/?p=6117</id>
-        <link href="https://blog.thestateofme.com/2025/01/14/milo-cancer-diary-part-18-ok-but-delays/"/>
-        <updated>2025-01-14T17:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Today brought another trip to North Downs Specialist Referrals (NDSR) for Epirubicin chemotherapy that comes at the end of this cycle of the CEOP protocol. One more cycle to go for this protocol. No scan this time, that will wait for our next visit in (hopefully) eight weeks time. If things are looking OK then, […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

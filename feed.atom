@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-02-17T01:13:27.054Z</updated>
+    <updated>2025-02-17T02:49:36.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #464]]></title>
+        <id>https://sreweekly.com/?p=1612</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-464/"/>
+        <updated>2025-02-17T02:30:11.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: For years, on-call has felt more like a burden than a solution. But modern teams are making a change. On Feb 26 at 1 PM EST, hear why—and how—they’re moving from PagerDuty to incident.io On-call. Register now. https://go.incident.io/events/migrating-from-pagerduty So You Want to Build Your Own Data […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #463]]></title>
         <id>https://sreweekly.com/?p=1608</id>

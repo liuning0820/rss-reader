@@ -33,6 +33,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1614",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: On-call shouldn’t be a constant source of stress. On Feb 26 at 1 PM EST, join us to hear from teams who’ve moved from PagerDuty to incident.io On-call—reducing noise, improving alerting, and making on-call less painful. Insights from engineers who’ve been there. https://go.incident.io/events/migrating-from-pagerduty Incident Report: Dec […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-465/",
+          "publishedOn": "2025-02-24T01:52:46.000Z",
+          "wordCount": 1089,
+          "title": "SRE Weekly Issue #465",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1612",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, incident.io: For years, on-call has felt more like a burden than a solution. But modern teams are making a change. On Feb 26 at 1 PM EST, hear why—and how—they’re moving from PagerDuty to incident.io On-call. Register now. https://go.incident.io/events/migrating-from-pagerduty So You Want to Build Your Own Data […]",

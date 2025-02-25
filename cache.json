@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6125",
@@ -70,16 +70,6 @@
           "publishedOn": "2025-02-03T02:43:35.000Z",
           "wordCount": 1068,
           "title": "SRE Weekly Issue #462",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1600",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: Effective incident management demands coordination and collaboration to minimize disruptions. This guide by incident.io covers the full incident lifecycle—from preparation to improvement—emphasizing teamwork beyond engineering. By engineers, for engineers. https://incident.io/guide The importance of resilience engineering Written in 2020 after an AWS outage, this article analyzes dependence […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-461/",
-          "publishedOn": "2025-01-27T04:15:48.000Z",
-          "wordCount": 996,
-          "title": "SRE Weekly Issue #461",
           "imageUrl": null
         }
       ]

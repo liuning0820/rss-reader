@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-03T02:53:08.202Z</updated>
+    <updated>2025-03-03T04:20:00.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #466]]></title>
+        <id>https://sreweekly.com/?p=1616</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-466/"/>
+        <updated>2025-03-03T02:56:55.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A bit of a short issue this week, as I spent most of my weekend at my child’s first First Robotics Competition of the season. FRC truly is a microcosm of reliability engineering, balancing limited time and resources while trying to produce the most reliable bot possible. A message from our sponsor, […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[February 2025]]></title>
         <id>http://blog.thestateofme.com/?p=6144</id>

@@ -3,8 +3,23 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6144",
+          "author": "Chris Swan",
+          "description": "Pupdate February was mostly cold and wet, so no particularly long walks for the boys :( FOSDEM The month started with my first trip to FOSDEM, and it was quite an experience seeing something like 8000 geeks descending on Université libre de Bruxelles. Day 1 was all about getting a feel for the event. So […]",
+          "link": "http://blog.thestateofme.com/2025/03/01/february-2025/",
+          "publishedOn": "2025-03-01T15:22:06.000Z",
+          "wordCount": 4067,
+          "title": "February 2025",
+          "enclosure": {
+            "url": "http://video.fosdem.org/2025/h2213/fosdem-2025-4846-struggles-with-making-sboms-for-c-apps.av1.webm",
+            "length": "95358157",
+            "type": "video/webm"
+          },
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/02/solar_feb25.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6144",
           "author": "Chris Swan",

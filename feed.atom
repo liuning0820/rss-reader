@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-04T16:20:21.676Z</updated>
+    <updated>2025-03-04T18:21:57.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[View on sreweekly.com A bit of a short issue this week, as I spent most of my weekend at my child’s first First Robotics Competition of the season. FRC truly is a microcosm of reliability engineering, balancing limited time and resources while trying to produce the most reliable bot possible. A message from our sponsor, […]]]></summary>
         <author>
             <name>lex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February 2025]]></title>
+        <id>https://blog.thestateofme.com/?p=6144</id>
+        <link href="http://blog.thestateofme.com/2025/03/01/february-2025/"/>
+        <updated>2025-03-01T15:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate February was mostly cold and wet, so no particularly long walks for the boys :( FOSDEM The month started with my first trip to FOSDEM, and it was quite an experience seeing something like 8000 geeks descending on Université libre de Bruxelles. Day 1 was all about getting a feel for the event. So […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

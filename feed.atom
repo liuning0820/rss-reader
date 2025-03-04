@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-04T14:15:02.255Z</updated>
+    <updated>2025-03-04T16:20:21.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -72,16 +72,6 @@
         <link href="https://sreweekly.com/sre-weekly-issue-463/"/>
         <updated>2025-02-10T02:17:25.000Z</updated>
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Incidents move fast—so should your response. That’s why we’re building an AI responder that thinks like your team, not a machine. See how we’re doing it, the challenges faced, and what else is on the AI roadmap. https://www.youtube.com/watch?v=rNpwZPOUhuE Probabilistic Increment Sometimes, we can harness randomness to […]]]></summary>
-        <author>
-            <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #462]]></title>
-        <id>https://sreweekly.com/?p=1606</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-462/"/>
-        <updated>2025-02-03T02:43:35.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: On-call shouldn’t feel like a nightmare. With incident.io, you get clear ownership, seamless escalations, and insights that actually help—so you can fix issues fast and get back to what matters. No chaos, just smooth operations. https://go.incident.io/on-call-as-it-should-be The non-existence of ACID consistency – Part 1 This article […]]]></summary>
         <author>
             <name>lex</name>
         </author>

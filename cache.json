@@ -48,6 +48,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1618",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: SEV0 is back. This fall, we’re bringing together the best minds in incident management for a day of learning, sharing, and networking in San Francisco and London. RSVP now—tickets are complimentary. https://go.incident.io/SEV0-2025 Introducing the Resilience in Software Foundation It’s been awhile since we’ve seen any updates […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-467/",
+          "publishedOn": "2025-03-10T01:56:10.000Z",
+          "wordCount": 1072,
+          "title": "SRE Weekly Issue #467",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1616",
           "author": "lex",
           "description": "View on sreweekly.com A bit of a short issue this week, as I spent most of my weekend at my child’s first First Robotics Competition of the season. FRC truly is a microcosm of reliability engineering, balancing limited time and resources while trying to produce the most reliable bot possible. A message from our sponsor, […]",

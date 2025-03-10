@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-10T01:02:50.687Z</updated>
+    <updated>2025-03-10T02:31:13.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #467]]></title>
+        <id>https://sreweekly.com/?p=1618</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-467/"/>
+        <updated>2025-03-10T01:56:10.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: SEV0 is back. This fall, we’re bringing together the best minds in incident management for a day of learning, sharing, and networking in San Francisco and London. RSVP now—tickets are complimentary. https://go.incident.io/SEV0-2025 Introducing the Resilience in Software Foundation It’s been awhile since we’ve seen any updates […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using a Model to Model]]></title>
         <id>http://blog.thestateofme.com/?p=6134</id>

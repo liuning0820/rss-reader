@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-17T01:16:56.933Z</updated>
+    <updated>2025-03-17T02:56:52.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #468]]></title>
+        <id>https://sreweekly.com/?p=1620</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-468/"/>
+        <updated>2025-03-17T01:53:40.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: MTTx metrics fall short—learn the new industry benchmarks for measuring and improving incident management. Join us on Tuesday, March 18th to discover data-driven insights from 100K+ incidents and practical steps to enhance your response strategy. https://go.incident.io/registration.goldcast.io/webinar/going-beyond-mttx-measuring-what-good-incident-management-looks-like You Can’t Build More Nines No matter how bullet-proof you […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #467]]></title>
         <id>https://sreweekly.com/?p=1618</id>

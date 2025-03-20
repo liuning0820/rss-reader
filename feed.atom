@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-20T14:15:57.630Z</updated>
+    <updated>2025-03-20T16:20:45.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Skiing in Austria (again)]]></title>
+        <id>http://blog.thestateofme.com/?p=6158</id>
+        <link href="https://blog.thestateofme.com/2025/03/20/skiing-in-austria-again/"/>
+        <updated>2025-03-20T15:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Since returning to the slopes a decade ago I’ve been skiing with my daughter, but she couldn’t join me this year, as her industrial placement doesn’t offer enough leave. After various conversations with friends ran dry I eventually reconciled that if I was going to ski this season, it would be on my own. Inghams […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silent PC upgrade]]></title>
         <id>http://blog.thestateofme.com/?p=6172</id>

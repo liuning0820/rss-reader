@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-03-24T01:17:44.821Z</updated>
+    <updated>2025-03-24T03:00:36.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #469]]></title>
+        <id>https://sreweekly.com/?p=1622</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-469/"/>
+        <updated>2025-03-24T01:38:28.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Speed isn’t everything. We studied 100K+ incidents to find out what actually makes for good incident management—from detection to follow-up. You can now view the recording of our latest live event to get even more info on the benchmarks, insights, and real-life examples from the report. […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skiing in Austria (again)]]></title>
         <id>http://blog.thestateofme.com/?p=6158</id>

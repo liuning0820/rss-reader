@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6192",
@@ -130,16 +130,6 @@
           "publishedOn": "2025-03-10T01:56:10.000Z",
           "wordCount": 1072,
           "title": "SRE Weekly Issue #467",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1616",
-          "author": "lex",
-          "description": "View on sreweekly.com A bit of a short issue this week, as I spent most of my weekend at my child’s first First Robotics Competition of the season. FRC truly is a microcosm of reliability engineering, balancing limited time and resources while trying to produce the most reliable bot possible. A message from our sponsor, […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-466/",
-          "publishedOn": "2025-03-03T02:56:55.000Z",
-          "wordCount": 1030,
-          "title": "SRE Weekly Issue #466",
           "imageUrl": null
         }
       ]

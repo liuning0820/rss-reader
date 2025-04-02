@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6192",
@@ -148,6 +148,223 @@
           "wordCount": 337,
           "title": "3w",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "AWS Machine Learning Blog",
+      "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
+      "articles": [
+        {
+          "id": "0f0758efc26b2b098306d2d40befc10e446f75fd",
+          "author": "Jimin Kim",
+          "description": "We’re excited to announce the open source release of AWS MCP Servers for code assistants — a suite of specialized Model Context Protocol (MCP) servers that bring Amazon Web Services (AWS) best practices directly to your development workflow. This post is the first in a series covering AWS MCP Servers. In this post, we walk through how these specialized MCP servers can dramatically reduce your development time while incorporating security controls, cost optimizations, and AWS Well-Architected best practices into your code.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/",
+          "publishedOn": "2025-04-01T20:22:06.000Z",
+          "wordCount": 2863,
+          "title": "Introducing AWS MCP Servers for code assistants (Part 1)",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18573-1120x630.jpg"
+        },
+        {
+          "id": "368e33e55b1864e4c9451eacd4e8a35bc846706a",
+          "author": "Mark Roy",
+          "description": "Today, MCP is providing agents standard access to an expanding list of accessible tools that you can use to accomplish a variety of tasks. In this post, we show you how to build an Amazon Bedrock agent that uses MCP to access data sources to quickly build generative AI applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/",
+          "publishedOn": "2025-04-01T19:58:56.000Z",
+          "wordCount": 3508,
+          "title": "Harness the power of MCP servers with Amazon Bedrock Agents",
+          "enclosure": {
+            "length": "17763170",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18630/mcp_demo.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18630-1120x630.jpg"
+        },
+        {
+          "id": "c89cfe8484e2a0dc07579752091c8f0a39823928",
+          "author": "Sriharsh Adari",
+          "description": "In this post, we explore practical strategies for using Constitutional AI to produce compliant content efficiently and effectively using Amazon Bedrock and LangGraph to build ConstitutionalChain for rapid content creation in highly regulated industries like finance and healthcare",
+          "link": "https://aws.amazon.com/blogs/machine-learning/generate-compliant-content-with-amazon-bedrock-and-constitutionalchain/",
+          "publishedOn": "2025-04-01T16:12:12.000Z",
+          "wordCount": 3009,
+          "title": "Generate compliant content with Amazon Bedrock and ConstitutionalChain",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/18/ML-16141-1.png"
+        },
+        {
+          "id": "ff4910af5afcdb549087c7560ecda6bc06aa7a81",
+          "author": "Adewale Akinfaderin",
+          "description": "To improve factual accuracy of large language model (LLM) responses, AWS announced Amazon Bedrock Automated Reasoning checks (in gated preview) at AWS re:Invent 2024. In this post, we discuss how to help prevent generative AI hallucinations using Amazon Bedrock Automated Reasoning checks.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/",
+          "publishedOn": "2025-04-01T15:59:57.000Z",
+          "wordCount": 4856,
+          "title": "Minimize generative AI hallucinations with Amazon Bedrock Automated Reasoning checks",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/23/ML-18268-image002.png"
+        },
+        {
+          "id": "053eaa39a230cfa9c8dccb5e4e88f4bf6db25aed",
+          "author": "Umesh Kalaspurkar",
+          "description": "In a recent AWS What’s New Post, App Studio announced two new features to accelerate application building: Prebuilt solutions catalog and cross-instance Import and Export. In this post, we walk through how to use the prebuilt solutions catalog to get started quickly and use the Import and Export feature",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aws-app-studio-introduces-a-prebuilt-solutions-catalog-and-cross-instance-import-and-export/",
+          "publishedOn": "2025-04-01T14:02:56.000Z",
+          "wordCount": 2338,
+          "title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18551-1120x630.jpg"
+        },
+        {
+          "id": "68b5b6be421a9c45c1330006e55c94ba389f325f",
+          "author": "Tony Kipkemboi, João (Joe) Moura",
+          "description": "In this post, we explore how CrewAI’s open source agentic framework, combined with Amazon Bedrock, enables the creation of sophisticated multi-agent systems that can transform how businesses operate. Through practical examples and implementation details, we demonstrate how to build, deploy, and orchestrate AI agents that can tackle complex tasks with minimal human oversight.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-systems-with-crewai-and-amazon-bedrock/",
+          "publishedOn": "2025-03-31T15:16:35.000Z",
+          "wordCount": 4281,
+          "title": "Build agentic systems with CrewAI and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/image001-1156x630.png"
+        },
+        {
+          "id": "c0474d808f98914c3a2d5a9f9e67f6bbd8dc0ac2",
+          "author": "Satveer Khurpa",
+          "description": "Amazon Bedrock Guardrails announces the general availability of image content filters, enabling you to moderate both image and text content in your generative AI applications. In this post, we discuss how to get started with image content filters in Amazon Bedrock Guardrails.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/",
+          "publishedOn": "2025-03-28T20:01:07.000Z",
+          "wordCount": 2296,
+          "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/featured-images-ML-18588-1120x630.jpg"
+        },
+        {
+          "id": "3815925151d653d5902599a166eeda9cf55f641a",
+          "author": "Nadhya Polanco",
+          "description": "When implementing machine learning workflows in Amazon SageMaker Canvas, organizations might need to consider external dependencies required for their specific use cases. Although SageMaker Canvas provides powerful no-code and low-code capabilities for rapid experimentation, some projects might require specialized dependencies and libraries that aren’t included by default in SageMaker Canvas. This post provides an example of how to incorporate code that relies on external dependencies into your SageMaker Canvas workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/",
+          "publishedOn": "2025-03-27T19:00:50.000Z",
+          "wordCount": 2773,
+          "title": "Integrating custom dependencies in Amazon SageMaker Canvas workflows",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/canvascustom-1120x630.png"
+        },
+        {
+          "id": "9d1a09f0f854f508435803b3861bc3b81a65b83e",
+          "author": "Sumeet Kumar",
+          "description": "In this post, we explore how you can use Amazon Bedrock to generate high-quality categorical ground truth data, which is crucial for training machine learning (ML) models in a cost-sensitive environment. Generative AI solutions can play an invaluable role during the model development phase by simplifying training and test data creation for multiclass classification supervised learning use cases. We dive deep into this process on how to use XML tags to structure the prompt and guide Amazon Bedrock in generating a balanced label dataset with high accuracy. We also showcase a real-world example for predicting the root cause category for support cases. This use case, solvable through ML, can enable support teams to better understand customer needs and optimize response strategies.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/generate-training-data-and-cost-effectively-train-categorical-models-with-amazon-bedrock/",
+          "publishedOn": "2025-03-27T18:55:05.000Z",
+          "wordCount": 8208,
+          "title": "Generate training data and cost-effectively train categorical models with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/costeffective-1120x630.png"
+        },
+        {
+          "id": "f8f2c5545b48f7f16062818e5ef4bc5c200a9e0d",
+          "author": "Satveer Khurpa",
+          "description": "In this post, we explore how to modify your Regional access controls to specifically allow Amazon Bedrock cross-Region inference while maintaining broader Regional restrictions for other AWS services. We provide practical examples for both SCP modifications and AWS Control Tower implementations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enable-amazon-bedrock-cross-region-inference-in-multi-account-environments/",
+          "publishedOn": "2025-03-27T15:03:57.000Z",
+          "wordCount": 3508,
+          "title": "Enable Amazon Bedrock cross-Region inference in multi-account environments",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/featured-images-ML-18467-1120x630.jpg"
+        },
+        {
+          "id": "9857358e33e7d66c69b73702f0398485cfe6a07a",
+          "author": "Marc Karp",
+          "description": "Today, we are announcing an enhanced private hub feature with several new capabilities that give organizations greater control over their ML assets. These enhancements include the ability to fine-tune SageMaker JumpStart models directly within the private hub, support for adding and managing custom-trained models, deep linking capabilities for associated notebooks, and improved model version management.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/",
+          "publishedOn": "2025-03-26T16:10:49.000Z",
+          "wordCount": 2936,
+          "title": "Amazon SageMaker JumpStart adds fine-tuning support for models in a private model hub",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/featured-images-ml-18118-1-1120x630.jpg"
+        },
+        {
+          "id": "892451178febfe68679b4fcce9a5ca263df312fa",
+          "author": "Isha Dua",
+          "description": "Generative AI has emerged as a game changer, offering unprecedented opportunities for game designers to push boundaries and create immersive virtual worlds. At the forefront of this revolution is Stability AI’s cutting-edge text-to-image AI model, Stable Diffusion 3.5 Large (SD3.5 Large), which is transforming the way we approach game environment creation. In this post, we explore how you can use SD3.5 Large to address practical gaming needs such as early concept art and character design.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-powered-game-design-accelerating-early-development-with-stability-ai-models-on-amazon-bedrock/",
+          "publishedOn": "2025-03-26T14:53:31.000Z",
+          "wordCount": 1958,
+          "title": "Generative AI-powered game design: Accelerating early development with Stability AI models on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/stability-ai-game-design-1120x630.jpg"
+        },
+        {
+          "id": "c24700deba0a4a7bc2ea0df992cd34791a0698fa",
+          "author": "Jagdeep Singh Soni",
+          "description": "Amazon Bedrock announces the preview launch of Session Management APIs, a new capability that enables developers to simplify state and context management for generative AI applications built with popular open source frameworks such as LangGraph and LlamaIndex. Session Management APIs provide an out-of-the-box solution that enables developers to securely manage state and conversation context across […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-launches-session-management-apis-for-generative-ai-applications-preview/",
+          "publishedOn": "2025-03-25T22:16:43.000Z",
+          "wordCount": 2802,
+          "title": "Amazon Bedrock launches Session Management APIs for generative AI applications (Preview)",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/25/ml18358-featured-images.png"
+        },
+        {
+          "id": "c4e7759b3dce8220fd4479a352f73a5de0b278cc",
+          "author": "Melanie Li",
+          "description": "In this post, we discuss the challenges faced by organizations when updating models in production. Then we deep dive into the new rolling update feature for inference components and provide practical examples using DeepSeek distilled models to demonstrate this feature. Finally, we explore how to set up rolling updates in different scenarios.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/",
+          "publishedOn": "2025-03-25T21:17:04.000Z",
+          "wordCount": 3880,
+          "title": "Enhance deployment guardrails with inference component rolling updates for Amazon SageMaker AI inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/25/featured-images-ML-18441-1120x630.jpg"
+        },
+        {
+          "id": "743076ce678c9a68c93d522f5247b03207cc7b08",
+          "author": "Clement Perrot",
+          "description": "In this post, we discuss how to evaluate the performance of your knowledge base, including the metrics and data to use for evaluation. We also address some of the tactics and configuration changes that can improve specific metrics.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-and-improve-performance-of-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2025-03-25T16:12:07.000Z",
+          "wordCount": 3692,
+          "title": "Evaluate and improve performance of Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/13/ML-17061-10-venn-diagram-877x630.png"
+        },
+        {
+          "id": "98018e526a37ea734fe87639bca1eb8958c074b9",
+          "author": "Takeshi Kobayashi",
+          "description": "In this post, we demonstrate how to enhance enterprise productivity for your large language model (LLM) solution by using the Amazon Q index for ISVs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-enterprise-productivity-for-your-llm-solution-by-becoming-an-amazon-q-business-data-accessor/",
+          "publishedOn": "2025-03-25T16:06:46.000Z",
+          "wordCount": 2762,
+          "title": "Enhance enterprise productivity for your LLM solution by becoming an Amazon Q Business data accessor",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/20/blog-Qindex-architecture.png"
+        },
+        {
+          "id": "79256449f8ddd8cdd46a760ca59140a15cbbcb3e",
+          "author": "Jasmine Rasheed Syed",
+          "description": "Discover how to build a GenAI powered virtual IT troubleshooting assistant using Amazon Q Business. This innovative solution integrates with popular ITSM tools like ServiceNow, Atlassian Jira, and Confluence to streamline information retrieval and enhance collaboration across your organization. By harnessing the power of generative AI, this assistant can significantly boost operational efficiency and provide 24/7 support tailored to individual needs. Learn how to set up, configure, and leverage this solution to transform your enterprise information management.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-enabled-virtual-it-troubleshooting-assistant-using-amazon-q-business/",
+          "publishedOn": "2025-03-21T16:52:07.000Z",
+          "wordCount": 2709,
+          "title": "Build a generative AI enabled virtual IT troubleshooting assistant using Amazon Q Business",
+          "enclosure": {
+            "length": "38437850",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-17840/DemoITLeaderPersona.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/11/Feature-Image.jpeg"
+        },
+        {
+          "id": "ae9b55b2aa826df925218c47d3ae44aaaf467452",
+          "author": "Erik Cordsen",
+          "description": "In this post, we explore how you can use these multi-modal generative AI models to streamline the management of technical documents. By extracting and structuring the key information from the source materials, the models can create a searchable knowledge base that allows you to quickly locate the data, formulas, and visualizations you need to support your work.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/process-formulas-and-charts-with-anthropics-claude-on-amazon-bedrock/",
+          "publishedOn": "2025-03-21T16:45:47.000Z",
+          "wordCount": 2933,
+          "title": "Process formulas and charts with Anthropic’s Claude on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/21/formulas.jpg"
+        },
+        {
+          "id": "6700ecfff1d189294e0988b7a82601914f0094ae",
+          "author": "Upendra V",
+          "description": "This post presents a comprehensive AIOps solution that combines various AWS services such as Amazon Bedrock, AWS Lambda, and Amazon CloudWatch to create an AI assistant for effective incident management. This solution also uses Amazon Bedrock Knowledge Bases and Amazon Bedrock Agents. The solution uses the power of Amazon Bedrock to enable the deployment of intelligent agents capable of monitoring IT systems, analyzing logs and metrics, and invoking automated remediation processes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-it-operations-with-amazon-bedrock-agents/",
+          "publishedOn": "2025-03-21T16:37:27.000Z",
+          "wordCount": 2739,
+          "title": "Automate IT operations with Amazon Bedrock Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/19/ML-16260-Architecture-Diagram.jpg"
+        },
+        {
+          "id": "2983c916fb110c5e83889c8bd47a5a8224976c6b",
+          "author": "Wael Dimassi",
+          "description": "AWS provides a powerful tool called AWS Support Automation Workflows, which is a collection of curated AWS Systems Manager self-service automation runbooks. These runbooks are created by AWS Support Engineering with best practices learned from solving customer issues. They enable AWS customers to troubleshoot, diagnose, and remediate common issues with their AWS resources. In this post, we explore how to use the power of Amazon Bedrock Agents and AWS Support Automation Workflows to create an intelligent agent capable of troubleshooting issues with AWS resources.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-aws-resource-troubleshooting-with-amazon-bedrock-agents-and-aws-support-automation-workflows/",
+          "publishedOn": "2025-03-20T17:27:17.000Z",
+          "wordCount": 3202,
+          "title": "Streamline AWS resource troubleshooting with Amazon Bedrock Agents and AWS Support Automation Workflows",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/04/Bedrock_SAW.jpg"
         }
       ]
     }

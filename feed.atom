@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-02T18:22:56.775Z</updated>
+    <updated>2025-04-02T20:17:55.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ray jobs on Amazon SageMaker HyperPod: scalable and resilient distributed AI]]></title>
+        <id>03ef5342d4fa59827d19a10b327008eefb8c1a85</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ray-jobs-on-amazon-sagemaker-hyperpod-scalable-and-resilient-distributed-ai/"/>
+        <updated>2025-04-02T19:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Ray is an open source framework that makes it straightforward to create, deploy, and optimize distributed Python jobs. In this post, we demonstrate the steps involved in running Ray jobs on SageMaker HyperPod.]]></summary>
+        <author>
+            <name>Mark Vinciguerra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Large Language Models on Amazon Bedrock for multi-step task execution]]></title>
+        <id>9c2192c48803ec4cc36965deeb8d9d69ac49481f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/using-large-language-models-on-amazon-bedrock-for-multi-step-task-execution/"/>
+        <updated>2025-04-02T19:12:09.000Z</updated>
+        <summary type="html"><![CDATA[This post explores the application of LLMs in executing complex analytical queries through an API, with specific focus on Amazon Bedrock. To demonstrate this process, we present a use case where the system identifies the patient with the least number of vaccines by retrieving, grouping, and sorting data, and ultimately presenting the final result.]]></summary>
+        <author>
+            <name>Bruno Klein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing AWS MCP Servers for code assistants (Part 1)]]></title>
         <id>0f0758efc26b2b098306d2d40befc10e446f75fd</id>

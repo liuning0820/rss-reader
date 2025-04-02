@@ -157,6 +157,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "03ef5342d4fa59827d19a10b327008eefb8c1a85",
+          "author": "Mark Vinciguerra",
+          "description": "Ray is an open source framework that makes it straightforward to create, deploy, and optimize distributed Python jobs. In this post, we demonstrate the steps involved in running Ray jobs on SageMaker HyperPod.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/ray-jobs-on-amazon-sagemaker-hyperpod-scalable-and-resilient-distributed-ai/",
+          "publishedOn": "2025-04-02T19:18:48.000Z",
+          "wordCount": 6861,
+          "title": "Ray jobs on Amazon SageMaker HyperPod: scalable and resilient distributed AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/02/scalable-ray-jobs-1120x630.jpg"
+        },
+        {
+          "id": "9c2192c48803ec4cc36965deeb8d9d69ac49481f",
+          "author": "Bruno Klein",
+          "description": "This post explores the application of LLMs in executing complex analytical queries through an API, with specific focus on Amazon Bedrock. To demonstrate this process, we present a use case where the system identifies the patient with the least number of vaccines by retrieving, grouping, and sorting data, and ultimately presenting the final result.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/using-large-language-models-on-amazon-bedrock-for-multi-step-task-execution/",
+          "publishedOn": "2025-04-02T19:12:09.000Z",
+          "wordCount": 2782,
+          "title": "Using Large Language Models on Amazon Bedrock for multi-step task execution",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/blog_2.png"
+        },
+        {
           "id": "0f0758efc26b2b098306d2d40befc10e446f75fd",
           "author": "Jimin Kim",
           "description": "We’re excited to announce the open source release of AWS MCP Servers for code assistants — a suite of specialized Model Context Protocol (MCP) servers that bring Amazon Web Services (AWS) best practices directly to your development workflow. This post is the first in a series covering AWS MCP Servers. In this post, we walk through how these specialized MCP servers can dramatically reduce your development time while incorporating security controls, cost optimizations, and AWS Well-Architected best practices into your code.",

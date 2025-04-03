@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-03T14:15:50.987Z</updated>
+    <updated>2025-04-03T16:20:05.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How AWS Sales uses generative AI to streamline account planning]]></title>
+        <id>52e3e63ab2026ff681792d5981da33962b71d3c0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-generative-ai-to-streamline-account-planning/"/>
+        <updated>2025-04-03T15:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Every year, AWS Sales personnel draft in-depth, forward looking strategy documents for established AWS customers. These documents help the AWS Sales team to align with our customer growth strategy and to collaborate with the entire sales team on long-term growth ideas for AWS customers. In this post, we showcase how the AWS Sales product team built the generative AI account plans draft assistant.]]></summary>
+        <author>
+            <name>Saksham Kakar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaping the future: OMRON’s data-driven journey with AWS]]></title>
+        <id>f16cf6c7a58d762f878d775f9dc43b35c783b167</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/shaping-the-future-omrons-data-driven-journey-with-aws/"/>
+        <updated>2025-04-03T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[OMRON Corporation is a leading technology provider in industrial automation, healthcare, and electronic components. In their Shaping the Future 2030 (SF2030) strategic plan, OMRON aims to address diverse social issues, drive sustainable business growth, transform business models and capabilities, and accelerate digital transformation. At the heart of this transformation is the OMRON Data & Analytics Platform (ODAP), an innovative initiative designed to revolutionize how the company harnesses its data assets. This post explores how OMRON Europe is using Amazon Web Services (AWS) to build its advanced ODAP and its progress toward harnessing the power of generative AI.]]></summary>
+        <author>
+            <name>Emrah Kaya, Xinyi Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Workforce: using AI and Drones to simplify infrastructure inspections]]></title>
+        <id>04b78f16db300204bffe27033678be60b2153340</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-workforce-using-ai-and-drones-to-simplify-infrastructure-inspections/"/>
+        <updated>2025-04-03T15:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Inspecting wind turbines, power lines, 5G towers, and pipelines is a tough job. It’s often dangerous, time-consuming, and prone to human error. This post is the first in a three-part series exploring AI Workforce, the AWS AI-powered drone inspection system. In this post, we introduce the concept and key benefits. The second post dives into the AWS architecture that powers AI Workforce, and the third focuses on the drone setup and integration.]]></summary>
+        <author>
+            <name>Miguel Munoz de Rivera Gonzalez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ray jobs on Amazon SageMaker HyperPod: scalable and resilient distributed AI]]></title>
         <id>03ef5342d4fa59827d19a10b327008eefb8c1a85</id>

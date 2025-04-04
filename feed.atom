@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-04T18:21:52.136Z</updated>
+    <updated>2025-04-04T20:17:26.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prompting for the best price-performance]]></title>
+        <id>d94b0f4ec2954f3de2a4cfe7eaa5fa95b3fa942e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/prompting-for-the-best-price-performance/"/>
+        <updated>2025-04-04T20:03:48.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we discuss how to optimize prompting in Amazon Nova for the best price-performance.]]></summary>
+        <author>
+            <name>Claudio Mazzoni</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evaluate models or RAG systems using Amazon Bedrock Evaluations – Now generally available]]></title>
         <id>05b7b9ad4382e8322999e22c668f157a1e392d63</id>

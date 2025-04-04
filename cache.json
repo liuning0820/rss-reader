@@ -126,6 +126,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d94b0f4ec2954f3de2a4cfe7eaa5fa95b3fa942e",
+          "author": "Claudio Mazzoni",
+          "description": "In this blog, we discuss how to optimize prompting in Amazon Nova for the best price-performance.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-the-best-price-performance/",
+          "publishedOn": "2025-04-04T20:03:48.000Z",
+          "wordCount": 3813,
+          "title": "Prompting for the best price-performance",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/04/featured-images-ML-18369-1120x630.jpg"
+        },
+        {
           "id": "05b7b9ad4382e8322999e22c668f157a1e392d63",
           "author": "Adewale Akinfaderin",
           "description": "Today, we’re excited to announce the general availability of these evaluation features in Amazon Bedrock Evaluations, along with significant enhancements that make them fully environment-agnostic. In this post, we explore these new features in detail, showing you how to evaluate both RAG systems and models with practical examples. We demonstrate how to use the comparison capabilities to benchmark different implementations and make data-driven decisions about your AI deployments.",

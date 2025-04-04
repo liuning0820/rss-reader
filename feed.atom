@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-04T02:57:42.669Z</updated>
+    <updated>2025-04-04T04:19:19.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -354,26 +354,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: SEV0 is back. This fall, we’re bringing together the best minds in incident management for a day of learning, sharing, and networking in San Francisco and London. RSVP now—tickets are complimentary. https://go.incident.io/SEV0-2025 Introducing the Resilience in Software Foundation It’s been awhile since we’ve seen any updates […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a Model to Model]]></title>
-        <id>https://blog.thestateofme.com/?p=6134</id>
-        <link href="http://blog.thestateofme.com/2025/03/05/using-a-model-to-model/"/>
-        <updated>2025-03-05T15:14:47.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR Once we get past ‘bullshit work‘, the primary enterprise use cases for Large Language Models (LLMs) appear to converge on various ways to make it easier to work with unstructured data. That’s because an LLM can generate an ‘understanding’ of the data, saving the painstaking process of getting humans to provide context. Of course […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a Model to Model]]></title>
-        <id>http://blog.thestateofme.com/?p=6134</id>
-        <link href="https://blog.thestateofme.com/2025/03/05/using-a-model-to-model/"/>
-        <updated>2025-03-05T15:14:47.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR Once we get past ‘bullshit work‘, the primary enterprise use cases for Large Language Models (LLMs) appear to converge on various ways to make it easier to work with unstructured data. That’s because an LLM can generate an ‘understanding’ of the data, saving the painstaking process of getting humans to provide context. Of course […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

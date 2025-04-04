@@ -64,26 +64,6 @@
           "wordCount": 4264,
           "title": "Silent PC upgrade",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6134",
-          "author": "Chris Swan",
-          "description": "TL;DR Once we get past ‘bullshit work‘, the primary enterprise use cases for Large Language Models (LLMs) appear to converge on various ways to make it easier to work with unstructured data. That’s because an LLM can generate an ‘understanding’ of the data, saving the painstaking process of getting humans to provide context. Of course […]",
-          "link": "http://blog.thestateofme.com/2025/03/05/using-a-model-to-model/",
-          "publishedOn": "2025-03-05T15:14:47.000Z",
-          "wordCount": 4415,
-          "title": "Using a Model to Model",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6134",
-          "author": "Chris Swan",
-          "description": "TL;DR Once we get past ‘bullshit work‘, the primary enterprise use cases for Large Language Models (LLMs) appear to converge on various ways to make it easier to work with unstructured data. That’s because an LLM can generate an ‘understanding’ of the data, saving the painstaking process of getting humans to provide context. Of course […]",
-          "link": "https://blog.thestateofme.com/2025/03/05/using-a-model-to-model/",
-          "publishedOn": "2025-03-05T15:14:47.000Z",
-          "wordCount": 4332,
-          "title": "Using a Model to Model",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },

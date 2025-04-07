@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-07T20:17:53.901Z</updated>
+    <updated>2025-04-07T22:15:48.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multi-tenancy in RAG applications in a single Amazon Bedrock knowledge base with metadata filtering]]></title>
+        <id>01d6ecb090ec41e583a2f710c28a6dcffba0ea22</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/multi-tenancy-in-rag-applications-in-a-single-amazon-bedrock-knowledge-base-with-metadata-filtering/"/>
+        <updated>2025-04-07T21:56:23.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how Amazon Bedrock Knowledge Bases can help you scale your data management effectively while maintaining proper access controls on different management levels.]]></summary>
+        <author>
+            <name>Breanne Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effectively use prompt caching on Amazon Bedrock]]></title>
+        <id>6bb880c5ceadfbfb505422c571bca9606e3d7a68</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/"/>
+        <updated>2025-04-07T21:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Prompt caching, now generally available on Amazon Bedrock with Anthropic’s Claude 3.5 Haiku and Claude 3.7 Sonnet, along with Nova Micro, Nova Lite, and Nova Pro models, lowers response latency by up to 85% and reduces costs up to 90% by caching frequently used prompts across multiple API calls. This post provides a detailed overview of the prompt caching feature on Amazon Bedrock and offers guidance on how to effectively use this feature to achieve improved latency and cost savings.]]></summary>
+        <author>
+            <name>Sharon Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advanced tracing and evaluation of generative AI agents using LangChain and Amazon SageMaker AI MLFlow]]></title>
         <id>4959a2b205b5a5decd8466087e09ec4d8b74954e</id>

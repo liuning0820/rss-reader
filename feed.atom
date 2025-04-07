@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-07T01:18:47.885Z</updated>
+    <updated>2025-04-07T03:02:13.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #471]]></title>
+        <id>https://sreweekly.com/?p=1626</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-471/"/>
+        <updated>2025-04-07T01:23:33.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: We’re building an AI agent that investigates incidents with you—diagnosing the problem and even fixing it. Go behind the scenes with the incident.io engineers rethinking what’s possible with AI, one ambitious idea (and bug) at a time. https://go.incident.io/building-with-ai Models, models every where, so let’s have a […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prompting for the best price-performance]]></title>
         <id>d94b0f4ec2954f3de2a4cfe7eaa5fa95b3fa942e</id>

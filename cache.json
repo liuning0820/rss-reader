@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6192",
@@ -125,6 +125,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "7a4b58c9591b169928b1fa471d3979aa31b779df",
+          "author": "Daniel Vieira",
+          "description": "In this post, we show how iFood uses SageMaker to revolutionize its ML operations. By harnessing the power of SageMaker, iFood streamlines the entire ML lifecycle, from model training to deployment. This integration not only simplifies complex processes but also automates critical tasks.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-ifood-built-a-platform-to-run-hundreds-of-machine-learning-models-with-amazon-sagemaker-inference/",
+          "publishedOn": "2025-04-08T17:37:35.000Z",
+          "wordCount": 4139,
+          "title": "How iFood built a platform to run hundreds of machine learning models with Amazon SageMaker Inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/20/ifood-4.jpg"
+        },
+        {
+          "id": "8f571a733f01cfd014785f1d93a457490a79be19",
+          "author": "Devi Nair",
+          "description": "In this post, we explore how to use Amazon Bedrock for synthetic data generation, considering these challenges alongside the potential benefits to develop effective strategies for various applications across multiple industries, including AI and machine learning (ML).",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-synthetic-data-strategy-using-amazon-bedrock/",
+          "publishedOn": "2025-04-08T16:40:16.000Z",
+          "wordCount": 4482,
+          "title": "Build an enterprise synthetic data strategy using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/04/ML-17470-featured-image-1203x630.png"
+        },
         {
           "id": "4eddc267f6794d17f803dc02f645ecc36d14fe75",
           "author": "Marco Punio",

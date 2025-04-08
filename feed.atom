@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-08T16:20:56.427Z</updated>
+    <updated>2025-04-08T18:22:23.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How iFood built a platform to run hundreds of machine learning models with Amazon SageMaker Inference]]></title>
+        <id>7a4b58c9591b169928b1fa471d3979aa31b779df</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-ifood-built-a-platform-to-run-hundreds-of-machine-learning-models-with-amazon-sagemaker-inference/"/>
+        <updated>2025-04-08T17:37:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how iFood uses SageMaker to revolutionize its ML operations. By harnessing the power of SageMaker, iFood streamlines the entire ML lifecycle, from model training to deployment. This integration not only simplifies complex processes but also automates critical tasks.]]></summary>
+        <author>
+            <name>Daniel Vieira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an enterprise synthetic data strategy using Amazon Bedrock]]></title>
+        <id>8f571a733f01cfd014785f1d93a457490a79be19</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-synthetic-data-strategy-using-amazon-bedrock/"/>
+        <updated>2025-04-08T16:40:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to use Amazon Bedrock for synthetic data generation, considering these challenges alongside the potential benefits to develop effective strategies for various applications across multiple industries, including AI and machine learning (ML).]]></summary>
+        <author>
+            <name>Devi Nair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Llama 4 family of models from Meta are now available in SageMaker JumpStart]]></title>
         <id>4eddc267f6794d17f803dc02f645ecc36d14fe75</id>

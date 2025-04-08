@@ -136,6 +136,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "4eddc267f6794d17f803dc02f645ecc36d14fe75",
+          "author": "Marco Punio",
+          "description": "Today, we’re excited to announce the availability of Llama 4 Scout and Maverick models in Amazon SageMaker JumpStart. In this blog post, we walk you through how to deploy and prompt a Llama-4-Scout-17B-16E-Instruct model using SageMaker JumpStart.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/llama-4-family-of-models-from-meta-are-now-available-in-sagemaker-jumpstart/",
+          "publishedOn": "2025-04-07T22:54:49.000Z",
+          "wordCount": 5347,
+          "title": "Llama 4 family of models from Meta are now available in SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/featured-images-ML-18512-1120x630.jpg"
+        },
+        {
           "id": "01d6ecb090ec41e583a2f710c28a6dcffba0ea22",
           "author": "Breanne Warner",
           "description": "This post demonstrates how Amazon Bedrock Knowledge Bases can help you scale your data management effectively while maintaining proper access controls on different management levels.",

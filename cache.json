@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6192",
@@ -125,6 +125,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "a9d7b4d7c791e524858e019b1710caf02db66d2e",
+          "author": "Guillermo Mansilla",
+          "description": "In this post, we explore Amazon Q Business Insights capabilities and its importance for organizations. We begin with an overview of the available metrics and how they can be used for measuring user engagement and system effectiveness. Then we provide instructions for accessing and navigating this dashboard.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/boost-team-productivity-with-amazon-q-business-insights/",
+          "publishedOn": "2025-04-09T16:10:30.000Z",
+          "wordCount": 4845,
+          "title": "Boost team productivity with Amazon Q Business Insights",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/ML-18028-Picture1-1260x577.jpg"
+        },
+        {
+          "id": "11cece0f5733d155762b5f0d6ea7db687d7d10c9",
+          "author": "Nima Seifi",
+          "description": "Organizations are increasingly using multiple large language models (LLMs) when building generative AI applications. Although an individual LLM can be highly capable, it might not optimally address a wide range of use cases or meet diverse performance requirements. The multi-LLM approach enables organizations to effectively choose the right model for each task, adapt to different […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multi-llm-routing-strategies-for-generative-ai-applications-on-aws/",
+          "publishedOn": "2025-04-09T16:02:16.000Z",
+          "wordCount": 5158,
+          "title": "Multi-LLM routing strategies for generative AI applications on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/ml-17345-multi-llm-static-routing-004.png"
+        },
         {
           "id": "7a4b58c9591b169928b1fa471d3979aa31b779df",
           "author": "Daniel Vieira",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-09T18:22:55.996Z</updated>
+    <updated>2025-04-09T20:17:19.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Implement human-in-the-loop confirmation with Amazon Bedrock Agents]]></title>
+        <id>ed096bef652f92e00fcc7760a2f1000a4f617964</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/implement-human-in-the-loop-confirmation-with-amazon-bedrock-agents/"/>
+        <updated>2025-04-09T19:46:34.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we focus specifically on enabling end-users to approve actions and provide feedback using built-in Amazon Bedrock Agents features, specifically HITL patterns for providing safe and effective agent operations. We explore the patterns available using a Human Resources (HR) agent example that helps employees requesting time off.]]></summary>
+        <author>
+            <name>Clement Perrot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boost team productivity with Amazon Q Business Insights]]></title>
         <id>a9d7b4d7c791e524858e019b1710caf02db66d2e</id>

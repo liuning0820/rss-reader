@@ -126,6 +126,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "ed096bef652f92e00fcc7760a2f1000a4f617964",
+          "author": "Clement Perrot",
+          "description": "In this post, we focus specifically on enabling end-users to approve actions and provide feedback using built-in Amazon Bedrock Agents features, specifically HITL patterns for providing safe and effective agent operations. We explore the patterns available using a Human Resources (HR) agent example that helps employees requesting time off.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implement-human-in-the-loop-confirmation-with-amazon-bedrock-agents/",
+          "publishedOn": "2025-04-09T19:46:34.000Z",
+          "wordCount": 2963,
+          "title": "Implement human-in-the-loop confirmation with Amazon Bedrock Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/09/featured-images-ML-18282-1120x630.jpg"
+        },
+        {
           "id": "a9d7b4d7c791e524858e019b1710caf02db66d2e",
           "author": "Guillermo Mansilla",
           "description": "In this post, we explore Amazon Q Business Insights capabilities and its importance for organizations. We begin with an overview of the available metrics and how they can be used for measuring user engagement and system effectiveness. Then we provide instructions for accessing and navigating this dashboard.",

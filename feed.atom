@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-10T18:21:15.710Z</updated>
+    <updated>2025-04-10T20:18:07.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reduce ML training costs with Amazon SageMaker HyperPod]]></title>
+        <id>81e630b8ad5f49e6704cd19294eef60b81c97bfb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reduce-ml-training-costs-with-amazon-sagemaker-hyperpod/"/>
+        <updated>2025-04-10T20:11:51.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore the challenges of large-scale frontier model training, focusing on hardware failures and the benefits of Amazon SageMaker HyperPod - a solution that minimizes disruptions, enhances efficiency, and reduces training costs.]]></summary>
+        <author>
+            <name>Anoop Saha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Model customization, RAG, or both: A case study with Amazon Nova]]></title>
         <id>d27cd30df1af47607961e31e9dc4da441c9680a5</id>

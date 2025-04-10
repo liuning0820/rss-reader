@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-10T14:15:53.263Z</updated>
+    <updated>2025-04-10T16:20:30.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pixtral Large is now available in Amazon Bedrock]]></title>
+        <id>22652c43a225c2a761388326148bfe423faac911</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pixtral-large-is-now-available-in-amazon-bedrock/"/>
+        <updated>2025-04-10T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to get started with the Pixtral Large model in Amazon Bedrock. The Pixtral Large multimodal model allows you to tackle a variety of use cases, such as document understanding, logical reasoning, handwriting recognition, image comparison, entity extraction, extracting structured data from scanned images, and caption generation.]]></summary>
+        <author>
+            <name>Deepesh Dhapola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implement human-in-the-loop confirmation with Amazon Bedrock Agents]]></title>
         <id>ed096bef652f92e00fcc7760a2f1000a4f617964</id>

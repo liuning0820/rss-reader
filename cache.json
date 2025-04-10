@@ -126,6 +126,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "22652c43a225c2a761388326148bfe423faac911",
+          "author": "Deepesh Dhapola",
+          "description": "In this post, we demonstrate how to get started with the Pixtral Large model in Amazon Bedrock. The Pixtral Large multimodal model allows you to tackle a variety of use cases, such as document understanding, logical reasoning, handwriting recognition, image comparison, entity extraction, extracting structured data from scanned images, and caption generation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-large-is-now-available-in-amazon-bedrock/",
+          "publishedOn": "2025-04-10T15:30:11.000Z",
+          "wordCount": 3221,
+          "title": "Pixtral Large is now available in Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/10/pixlb-1120x630.png"
+        },
+        {
           "id": "ed096bef652f92e00fcc7760a2f1000a4f617964",
           "author": "Clement Perrot",
           "description": "In this post, we focus specifically on enabling end-users to approve actions and provide feedback using built-in Amazon Bedrock Agents features, specifically HITL patterns for providing safe and effective agent operations. We explore the patterns available using a Human Resources (HR) agent example that helps employees requesting time off.",

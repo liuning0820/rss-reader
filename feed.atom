@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-10T16:20:30.296Z</updated>
+    <updated>2025-04-10T18:21:15.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Model customization, RAG, or both: A case study with Amazon Nova]]></title>
+        <id>d27cd30df1af47607961e31e9dc4da441c9680a5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/model-customization-rag-or-both-a-case-study-with-amazon-nova/"/>
+        <updated>2025-04-10T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[The introduction of Amazon Nova models represent a significant advancement in the field of AI, offering new opportunities for large language model (LLM) optimization. In this post, we demonstrate how to effectively perform model customization and RAG with Amazon Nova models as a baseline. We conducted a comprehensive comparison study between model customization and RAG using the latest Amazon Nova models, and share these valuable insights.]]></summary>
+        <author>
+            <name>Flora Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate user-personalized communication with Amazon Personalize and Amazon Bedrock]]></title>
+        <id>2a6669ddff2845bd386a4eeaee23e9b30e820f86</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/generate-user-personalized-communication-with-amazon-personalize-and-amazon-bedrock/"/>
+        <updated>2025-04-10T16:43:53.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to use Amazon Personalize and Amazon Bedrock to generate personalized outreach emails for individual users using a video-on-demand use case. This concept can be applied to other domains, such as compelling customer experiences for ecommerce and digital marketing use cases.]]></summary>
+        <author>
+            <name>Anna Grüebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating regulatory compliance: A multi-agent solution using Amazon Bedrock and CrewAI]]></title>
+        <id>2e45dd6fae9d8d4444a1b977cb69fcf32d7093c6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automating-regulatory-compliance-a-multi-agent-solution-using-amazon-bedrock-and-crewai/"/>
+        <updated>2025-04-10T16:39:31.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how AI agents can streamline compliance and fulfill regulatory requirements for financial institutions using Amazon Bedrock and CrewAI. We demonstrate how to build a multi-agent system that can automatically summarize new regulations, assess their impact on operations, and provide prescriptive technical guidance. You'll learn how to use Amazon Bedrock Knowledge Bases and Amazon Bedrock Agents with CrewAI to create a comprehensive, automated compliance solution.]]></summary>
+        <author>
+            <name>Balu Mathew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pixtral Large is now available in Amazon Bedrock]]></title>
         <id>22652c43a225c2a761388326148bfe423faac911</id>

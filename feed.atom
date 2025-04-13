@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-13T08:19:12.132Z</updated>
+    <updated>2025-04-13T10:16:52.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Florida 2025]]></title>
+        <id>https://blog.thestateofme.com/?p=6214</id>
+        <link href="http://blog.thestateofme.com/2025/04/13/florida-2025/"/>
+        <updated>2025-04-13T08:48:58.000Z</updated>
+        <summary type="html"><![CDATA[I can hardly believe it’s been 15y since I did a post on this. I guess our biennial trips through to 2018 were similar enough to not really justify full reports. Though 2014 was quite different as $son0 and I did our PADI Open Water certification, which was a major distraction from the parks. Then […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冬去春来]]></title>
         <id>https://liuning0820.github.io/2025/04/13/%E5%86%AC%E5%8E%BB%E6%98%A5%E6%9D%A5.html</id>

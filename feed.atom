@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-14T01:20:05.789Z</updated>
+    <updated>2025-04-14T03:04:50.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #472]]></title>
+        <id>https://sreweekly.com/?p=1628</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-472/"/>
+        <updated>2025-04-14T01:52:42.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Scaling Nextdoor’s Datastores: Part 4 In this part of the Scaling Nextdoor’s Datastores blog series, we will see how the […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Florida 2025]]></title>
         <id>http://blog.thestateofme.com/?p=6214</id>

@@ -157,6 +157,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "49234d6900b93c10000923535317b636c87d9ace",
+          "author": "Kim Nguyen, Shyam Banuprakash",
+          "description": "The collaboration between Clario and AWS demonstrated the potential of AWS AI and machine learning (AI/ML) services and generative AI models, such as Anthropic’s Claude, to streamline document generation processes in the life sciences industry and, specifically, for complicated clinical trial processes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/clario-enhances-the-quality-of-the-clinical-trial-documentation-process-with-amazon-bedrock/",
+          "publishedOn": "2025-04-15T17:55:59.000Z",
+          "wordCount": 2319,
+          "title": "Clario enhances the quality of the clinical trial documentation process with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/architecture-2.png"
+        },
+        {
+          "id": "6cbc32a8b2d4b6fd829c36f935e4e67f4cf60085",
+          "author": "Lior Sadan",
+          "description": "This post demonstrates how to deploy and serve the Mixtral 8x7B language model on AWS Inferentia2 instances for cost-effective, high-performance inference. We'll walk through model compilation using Hugging Face Optimum Neuron, which provides a set of tools enabling straightforward model loading, training, and inference, and the Text Generation Inference (TGI) Container, which has the toolkit for deploying and serving LLMs with Hugging Face.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mixtral-8x7b-on-amazon-sagemaker-with-aws-inferentia2/",
+          "publishedOn": "2025-04-15T17:47:22.000Z",
+          "wordCount": 3671,
+          "title": "Optimizing Mixtral 8x7B on Amazon SageMaker with AWS Inferentia2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/mixtral8x7b_sagemaker-inferentia-1120x630.jpg"
+        },
+        {
+          "id": "6ba7698fcbae7600ff9437d516e45a73b8012a62",
+          "author": "Sujatha Dantuluri",
+          "description": "In this post, we demonstrate how to elevate business productivity by leveraging Amazon Q to provide insights that enable research, data analysis, and report potential fraud cases within Amazon Connect.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/elevate-business-productivity-with-amazon-q-and-amazon-connect/",
+          "publishedOn": "2025-04-15T17:42:49.000Z",
+          "wordCount": 2933,
+          "title": "Elevate business productivity with Amazon Q and Amazon Connect",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/ML-17430_architecture.jpg"
+        },
+        {
           "id": "e34b849cc972cfe09bef67955216498f74f95777",
           "author": "Jagdeep Singh Soni",
           "description": "This post demonstrates how to integrate open-source multi-agent framework, LangGraph, with Amazon Bedrock. It explains how to use LangGraph and Amazon Bedrock to build powerful, interactive multi-agent applications that use graph-based orchestration.",

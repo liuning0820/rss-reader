@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-15T12:33:29.421Z</updated>
+    <updated>2025-04-15T14:16:44.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -614,16 +614,6 @@
         <summary type="html"><![CDATA[TL;DR After 6.5y+ of service my PC needed a refresh – so it has a new motherboard, CPU, RAM and SSD, and I’ve taken the opportunity to switch to Linux. It’s still completely silent, but noticeably faster :) Background I built a Silent PC based on a Streacom DB4 case back in the summer of […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #468]]></title>
-        <id>https://sreweekly.com/?p=1620</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-468/"/>
-        <updated>2025-03-17T01:53:40.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: MTTx metrics fall short—learn the new industry benchmarks for measuring and improving incident management. Join us on Tuesday, March 18th to discover data-driven insights from 100K+ incidents and practical steps to enhance your response strategy. https://go.incident.io/registration.goldcast.io/webinar/going-beyond-mttx-measuring-what-good-incident-management-looks-like You Can’t Build More Nines No matter how bullet-proof you […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

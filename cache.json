@@ -137,6 +137,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d40b6daa165240c8a62c0769ee68d0017aed4e71",
+          "author": "David Girling",
+          "description": "This post demonstrates how Zoom users can access their Amazon Q Business enterprise data directly within their Zoom interface, alleviating the need to switch between applications while maintaining enterprise security boundaries. Organizations can now configure Zoom as a data accessor in Amazon Q Business, enabling seamless integration between their Amazon Q index and Zoom AI Companion. This integration allows users to access their enterprise knowledge in a controlled manner directly within the Zoom platform.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/add-zoom-as-a-data-accessor-to-your-amazon-q-index/",
+          "publishedOn": "2025-04-17T18:19:47.000Z",
+          "wordCount": 2877,
+          "title": "Add Zoom as a data accessor to your Amazon Q index",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/17/featured-images-ML-18520-1120x630.jpg"
+        },
+        {
+          "id": "74bede199a93faffc812ff4903823b984742f4ce",
+          "author": "Ameet Deshpande, Vatsal Saglani",
+          "description": "In this post, we explore how QyrusAI and Amazon Bedrock are revolutionizing shift-left testing, enabling teams to deliver better software faster. Amazon Bedrock is a fully managed service that allows businesses to build and scale generative AI applications using foundation models (FMs) from leading AI providers. It enables seamless integration with AWS services, offering customization, security, and scalability without managing infrastructure.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-quality-assurance-shift-left-testing-with-qyrusai-and-amazon-bedrock/",
+          "publishedOn": "2025-04-17T16:50:32.000Z",
+          "wordCount": 2911,
+          "title": "The future of quality assurance: Shift-left testing with QyrusAI and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/08/ML-16915-APIBuilder-805x630.png"
+        },
+        {
+          "id": "2c44c98250b563d96cd62255ed1046fbfb27f28e",
+          "author": "Alex Burkleaux",
+          "description": "Amazon Bedrock Data Automation (BDA) is a new managed feature powered by FMs in Amazon Bedrock. BDA extracts structured outputs from unstructured content—including documents, images, video, and audio—while alleviating the need for complex custom workflows. In this post, we demonstrate how BDA automatically extracts rich video insights such as chapter segments and audio segments, detects text in scenes, and classifies Interactive Advertising Bureau (IAB) taxonomies, and then uses these insights to build a nonlinear ads solution to enhance contextual advertising effectiveness.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-video-insights-for-contextual-advertising-using-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-04-17T16:47:45.000Z",
+          "wordCount": 2936,
+          "title": "Automate video insights for contextual advertising using Amazon Bedrock Data Automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/03/overlayexample-1.jpg"
+        },
+        {
+          "id": "d3a73cadab6fe23fdc5cece6e7338acaf580d25c",
+          "author": "Rielah De Jesus",
+          "description": "This post is a joint collaboration between Salesforce and AWS and is being cross-published on both the Salesforce Engineering Blog and the AWS Machine Learning Blog. The Salesforce AI Model Serving team is working to push the boundaries of natural language processing and AI capabilities for enterprise applications. Their key focus areas include optimizing large […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-achieves-high-performance-model-deployment-with-amazon-sagemaker-ai/",
+          "publishedOn": "2025-04-17T16:42:08.000Z",
+          "wordCount": 2559,
+          "title": "How Salesforce achieves high-performance model deployment with Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/10/DJLInitiationFlow-1157x630.png"
+        },
+        {
           "id": "7ee99f509b5c4cd129bd088849d2c765155cff78",
           "author": "Vikram Venkataraman",
           "description": "In this post, we demonstrate how to orchestrate multiple Amazon Bedrock agents to create a sophisticated Amazon EKS troubleshooting system. By enabling collaboration between specialized agents—deriving insights from K8sGPT and performing actions through the ArgoCD framework—you can build a comprehensive automation that identifies, analyzes, and resolves cluster issues with minimal human intervention.",

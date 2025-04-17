@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-17T16:20:45.223Z</updated>
+    <updated>2025-04-17T18:22:25.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Add Zoom as a data accessor to your Amazon Q index]]></title>
+        <id>d40b6daa165240c8a62c0769ee68d0017aed4e71</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/add-zoom-as-a-data-accessor-to-your-amazon-q-index/"/>
+        <updated>2025-04-17T18:19:47.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how Zoom users can access their Amazon Q Business enterprise data directly within their Zoom interface, alleviating the need to switch between applications while maintaining enterprise security boundaries. Organizations can now configure Zoom as a data accessor in Amazon Q Business, enabling seamless integration between their Amazon Q index and Zoom AI Companion. This integration allows users to access their enterprise knowledge in a controlled manner directly within the Zoom platform.]]></summary>
+        <author>
+            <name>David Girling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of quality assurance: Shift-left testing with QyrusAI and Amazon Bedrock]]></title>
+        <id>74bede199a93faffc812ff4903823b984742f4ce</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/the-future-of-quality-assurance-shift-left-testing-with-qyrusai-and-amazon-bedrock/"/>
+        <updated>2025-04-17T16:50:32.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how QyrusAI and Amazon Bedrock are revolutionizing shift-left testing, enabling teams to deliver better software faster. Amazon Bedrock is a fully managed service that allows businesses to build and scale generative AI applications using foundation models (FMs) from leading AI providers. It enables seamless integration with AWS services, offering customization, security, and scalability without managing infrastructure.]]></summary>
+        <author>
+            <name>Ameet Deshpande, Vatsal Saglani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate video insights for contextual advertising using Amazon Bedrock Data Automation]]></title>
+        <id>2c44c98250b563d96cd62255ed1046fbfb27f28e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-video-insights-for-contextual-advertising-using-amazon-bedrock-data-automation/"/>
+        <updated>2025-04-17T16:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock Data Automation (BDA) is a new managed feature powered by FMs in Amazon Bedrock. BDA extracts structured outputs from unstructured content—including documents, images, video, and audio—while alleviating the need for complex custom workflows. In this post, we demonstrate how BDA automatically extracts rich video insights such as chapter segments and audio segments, detects text in scenes, and classifies Interactive Advertising Bureau (IAB) taxonomies, and then uses these insights to build a nonlinear ads solution to enhance contextual advertising effectiveness.]]></summary>
+        <author>
+            <name>Alex Burkleaux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Salesforce achieves high-performance model deployment with Amazon SageMaker AI]]></title>
+        <id>d3a73cadab6fe23fdc5cece6e7338acaf580d25c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-salesforce-achieves-high-performance-model-deployment-with-amazon-sagemaker-ai/"/>
+        <updated>2025-04-17T16:42:08.000Z</updated>
+        <summary type="html"><![CDATA[This post is a joint collaboration between Salesforce and AWS and is being cross-published on both the Salesforce Engineering Blog and the AWS Machine Learning Blog. The Salesforce AI Model Serving team is working to push the boundaries of natural language processing and AI capabilities for enterprise applications. Their key focus areas include optimizing large […]]]></summary>
+        <author>
+            <name>Rielah De Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate Amazon EKS troubleshooting using an Amazon Bedrock agentic workflow]]></title>
         <id>7ee99f509b5c4cd129bd088849d2c765155cff78</id>

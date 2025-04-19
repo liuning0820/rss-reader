@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -715,16 +715,6 @@
           "wordCount": 2739,
           "title": "Automate IT operations with Amazon Bedrock Agents",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/19/ML-16260-Architecture-Diagram.jpg"
-        },
-        {
-          "id": "2983c916fb110c5e83889c8bd47a5a8224976c6b",
-          "author": "Wael Dimassi",
-          "description": "AWS provides a powerful tool called AWS Support Automation Workflows, which is a collection of curated AWS Systems Manager self-service automation runbooks. These runbooks are created by AWS Support Engineering with best practices learned from solving customer issues. They enable AWS customers to troubleshoot, diagnose, and remediate common issues with their AWS resources. In this post, we explore how to use the power of Amazon Bedrock Agents and AWS Support Automation Workflows to create an intelligent agent capable of troubleshooting issues with AWS resources.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-aws-resource-troubleshooting-with-amazon-bedrock-agents-and-aws-support-automation-workflows/",
-          "publishedOn": "2025-03-20T17:27:17.000Z",
-          "wordCount": 3202,
-          "title": "Streamline AWS resource troubleshooting with Amazon Bedrock Agents and AWS Support Automation Workflows",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/04/Bedrock_SAW.jpg"
         }
       ]
     }

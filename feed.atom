@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-19T04:18:54.148Z</updated>
+    <updated>2025-04-19T06:22:03.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -684,16 +684,6 @@
         <summary type="html"><![CDATA[This post presents a comprehensive AIOps solution that combines various AWS services such as Amazon Bedrock, AWS Lambda, and Amazon CloudWatch to create an AI assistant for effective incident management. This solution also uses Amazon Bedrock Knowledge Bases and Amazon Bedrock Agents. The solution uses the power of Amazon Bedrock to enable the deployment of intelligent agents capable of monitoring IT systems, analyzing logs and metrics, and invoking automated remediation processes.]]></summary>
         <author>
             <name>Upendra V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline AWS resource troubleshooting with Amazon Bedrock Agents and AWS Support Automation Workflows]]></title>
-        <id>2983c916fb110c5e83889c8bd47a5a8224976c6b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/streamline-aws-resource-troubleshooting-with-amazon-bedrock-agents-and-aws-support-automation-workflows/"/>
-        <updated>2025-03-20T17:27:17.000Z</updated>
-        <summary type="html"><![CDATA[AWS provides a powerful tool called AWS Support Automation Workflows, which is a collection of curated AWS Systems Manager self-service automation runbooks. These runbooks are created by AWS Support Engineering with best practices learned from solving customer issues. They enable AWS customers to troubleshoot, diagnose, and remediate common issues with their AWS resources. In this post, we explore how to use the power of Amazon Bedrock Agents and AWS Support Automation Workflows to create an intelligent agent capable of troubleshooting issues with AWS resources.]]></summary>
-        <author>
-            <name>Wael Dimassi</name>
         </author>
     </entry>
 </feed>

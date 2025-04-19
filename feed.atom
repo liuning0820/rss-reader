@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-19T02:54:45.032Z</updated>
+    <updated>2025-04-19T04:18:54.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -694,26 +694,6 @@
         <summary type="html"><![CDATA[AWS provides a powerful tool called AWS Support Automation Workflows, which is a collection of curated AWS Systems Manager self-service automation runbooks. These runbooks are created by AWS Support Engineering with best practices learned from solving customer issues. They enable AWS customers to troubleshoot, diagnose, and remediate common issues with their AWS resources. In this post, we explore how to use the power of Amazon Bedrock Agents and AWS Support Automation Workflows to create an intelligent agent capable of troubleshooting issues with AWS resources.]]></summary>
         <author>
             <name>Wael Dimassi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skiing in Austria (again)]]></title>
-        <id>https://blog.thestateofme.com/?p=6158</id>
-        <link href="http://blog.thestateofme.com/2025/03/20/skiing-in-austria-again/"/>
-        <updated>2025-03-20T15:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Since returning to the slopes a decade ago I’ve been skiing with my daughter, but she couldn’t join me this year, as her industrial placement doesn’t offer enough leave. After various conversations with friends ran dry I eventually reconciled that if I was going to ski this season, it would be on my own. Inghams […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skiing in Austria (again)]]></title>
-        <id>http://blog.thestateofme.com/?p=6158</id>
-        <link href="https://blog.thestateofme.com/2025/03/20/skiing-in-austria-again/"/>
-        <updated>2025-03-20T15:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Since returning to the slopes a decade ago I’ve been skiing with my daughter, but she couldn’t join me this year, as her industrial placement doesn’t offer enough leave. After various conversations with friends ran dry I eventually reconciled that if I was going to ski this season, it would be on my own. Inghams […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

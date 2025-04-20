@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-20T04:18:21.939Z</updated>
+    <updated>2025-04-20T06:21:44.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -654,36 +654,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Speed isn’t everything. We studied 100K+ incidents to find out what actually makes for good incident management—from detection to follow-up. You can now view the recording of our latest live event to get even more info on the benchmarks, insights, and real-life examples from the report. […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a generative AI enabled virtual IT troubleshooting assistant using Amazon Q Business]]></title>
-        <id>79256449f8ddd8cdd46a760ca59140a15cbbcb3e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-enabled-virtual-it-troubleshooting-assistant-using-amazon-q-business/"/>
-        <updated>2025-03-21T16:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to build a GenAI powered virtual IT troubleshooting assistant using Amazon Q Business. This innovative solution integrates with popular ITSM tools like ServiceNow, Atlassian Jira, and Confluence to streamline information retrieval and enhance collaboration across your organization. By harnessing the power of generative AI, this assistant can significantly boost operational efficiency and provide 24/7 support tailored to individual needs. Learn how to set up, configure, and leverage this solution to transform your enterprise information management.]]></summary>
-        <author>
-            <name>Jasmine Rasheed Syed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process formulas and charts with Anthropic’s Claude on Amazon Bedrock]]></title>
-        <id>ae9b55b2aa826df925218c47d3ae44aaaf467452</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/process-formulas-and-charts-with-anthropics-claude-on-amazon-bedrock/"/>
-        <updated>2025-03-21T16:45:47.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how you can use these multi-modal generative AI models to streamline the management of technical documents. By extracting and structuring the key information from the source materials, the models can create a searchable knowledge base that allows you to quickly locate the data, formulas, and visualizations you need to support your work.]]></summary>
-        <author>
-            <name>Erik Cordsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate IT operations with Amazon Bedrock Agents]]></title>
-        <id>6700ecfff1d189294e0988b7a82601914f0094ae</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-it-operations-with-amazon-bedrock-agents/"/>
-        <updated>2025-03-21T16:37:27.000Z</updated>
-        <summary type="html"><![CDATA[This post presents a comprehensive AIOps solution that combines various AWS services such as Amazon Bedrock, AWS Lambda, and Amazon CloudWatch to create an AI assistant for effective incident management. This solution also uses Amazon Bedrock Knowledge Bases and Amazon Bedrock Agents. The solution uses the power of Amazon Bedrock to enable the deployment of intelligent agents capable of monitoring IT systems, analyzing logs and metrics, and invoking automated remediation processes.]]></summary>
-        <author>
-            <name>Upendra V</name>
         </author>
     </entry>
 </feed>

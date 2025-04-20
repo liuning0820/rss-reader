@@ -680,41 +680,6 @@
           "wordCount": 2762,
           "title": "Enhance enterprise productivity for your LLM solution by becoming an Amazon Q Business data accessor",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/20/blog-Qindex-architecture.png"
-        },
-        {
-          "id": "79256449f8ddd8cdd46a760ca59140a15cbbcb3e",
-          "author": "Jasmine Rasheed Syed",
-          "description": "Discover how to build a GenAI powered virtual IT troubleshooting assistant using Amazon Q Business. This innovative solution integrates with popular ITSM tools like ServiceNow, Atlassian Jira, and Confluence to streamline information retrieval and enhance collaboration across your organization. By harnessing the power of generative AI, this assistant can significantly boost operational efficiency and provide 24/7 support tailored to individual needs. Learn how to set up, configure, and leverage this solution to transform your enterprise information management.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-enabled-virtual-it-troubleshooting-assistant-using-amazon-q-business/",
-          "publishedOn": "2025-03-21T16:52:07.000Z",
-          "wordCount": 2709,
-          "title": "Build a generative AI enabled virtual IT troubleshooting assistant using Amazon Q Business",
-          "enclosure": {
-            "length": "38437850",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-17840/DemoITLeaderPersona.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/11/Feature-Image.jpeg"
-        },
-        {
-          "id": "ae9b55b2aa826df925218c47d3ae44aaaf467452",
-          "author": "Erik Cordsen",
-          "description": "In this post, we explore how you can use these multi-modal generative AI models to streamline the management of technical documents. By extracting and structuring the key information from the source materials, the models can create a searchable knowledge base that allows you to quickly locate the data, formulas, and visualizations you need to support your work.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/process-formulas-and-charts-with-anthropics-claude-on-amazon-bedrock/",
-          "publishedOn": "2025-03-21T16:45:47.000Z",
-          "wordCount": 2933,
-          "title": "Process formulas and charts with Anthropic’s Claude on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/21/formulas.jpg"
-        },
-        {
-          "id": "6700ecfff1d189294e0988b7a82601914f0094ae",
-          "author": "Upendra V",
-          "description": "This post presents a comprehensive AIOps solution that combines various AWS services such as Amazon Bedrock, AWS Lambda, and Amazon CloudWatch to create an AI assistant for effective incident management. This solution also uses Amazon Bedrock Knowledge Bases and Amazon Bedrock Agents. The solution uses the power of Amazon Bedrock to enable the deployment of intelligent agents capable of monitoring IT systems, analyzing logs and metrics, and invoking automated remediation processes.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automate-it-operations-with-amazon-bedrock-agents/",
-          "publishedOn": "2025-03-21T16:37:27.000Z",
-          "wordCount": 2739,
-          "title": "Automate IT operations with Amazon Bedrock Agents",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/19/ML-16260-Architecture-Diagram.jpg"
         }
       ]
     }

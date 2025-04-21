@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -52,6 +52,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1630",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Scaling Nextdoor’s Datastores: Part 5 In this final installment of the Scaling Nextdoor’s Datastores blog series, we detail how the […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-473/",
+          "publishedOn": "2025-04-21T03:02:18.000Z",
+          "wordCount": 1189,
+          "title": "SRE Weekly Issue #473",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1628",
           "author": "lex",

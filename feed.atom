@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-21T01:21:38.928Z</updated>
+    <updated>2025-04-21T03:08:03.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #473]]></title>
+        <id>https://sreweekly.com/?p=1630</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-473/"/>
+        <updated>2025-04-21T03:02:18.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Scaling Nextdoor’s Datastores: Part 5 In this final installment of the Scaling Nextdoor’s Datastores blog series, we detail how the […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a FinOps agent using Amazon Bedrock with multi-agent capability and Amazon Nova as the foundation model]]></title>
         <id>34ecb60fc8973268c2a75ff1f7cfb3040379d77e</id>

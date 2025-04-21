@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "555bf4bfc1b42438c8e3d7a033099ecab9eceb70",
+          "author": "Deepak Dalakoti",
+          "description": "In this post, we explore the importance of evaluating LLMs in the context of generative AI applications, highlighting the challenges posed by issues like hallucinations and biases. We introduced a comprehensive solution using AWS services to automate the evaluation process, allowing for continuous monitoring and assessment of LLM performance. By using tools like the FMeval Library, Ragas, LLMeter, and Step Functions, the solution provides flexibility and scalability, meeting the evolving needs of LLM consumers.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-automated-generative-ai-solution-evaluation-pipeline-with-amazon-nova/",
+          "publishedOn": "2025-04-21T17:16:08.000Z",
+          "wordCount": 4117,
+          "title": "Build an automated generative AI solution evaluation pipeline with Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/ml-15698-image002-1114x630.jpg"
+        },
+        {
           "id": "34ecb60fc8973268c2a75ff1f7cfb3040379d77e",
           "author": "Salman Ahmed",
           "description": "In this post, we use the multi-agent feature of Amazon Bedrock to demonstrate a powerful and innovative approach to AWS cost management. By using the advanced capabilities of Amazon Nova FMs, we’ve developed a solution that showcases how AI-driven agents can revolutionize the way organizations analyze, optimize, and manage their AWS costs.",

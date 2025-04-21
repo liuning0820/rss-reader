@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-21T18:22:07.121Z</updated>
+    <updated>2025-04-21T20:18:20.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a location-aware agent using Amazon Bedrock Agents and Foursquare APIs]]></title>
+        <id>662f5bb7bcd5c548f57a81fa71398f9a2314ae3a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-location-aware-agent-using-amazon-bedrock-agents-and-foursquare-apis/"/>
+        <updated>2025-04-21T18:45:27.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we combine Amazon Bedrock Agents and Foursquare APIs to demonstrate how you can use a location-aware agent to bring personalized responses to your users.]]></summary>
+        <author>
+            <name>John Baker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build an automated generative AI solution evaluation pipeline with Amazon Nova]]></title>
         <id>555bf4bfc1b42438c8e3d7a033099ecab9eceb70</id>

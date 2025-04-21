@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "662f5bb7bcd5c548f57a81fa71398f9a2314ae3a",
+          "author": "John Baker",
+          "description": "In this post, we combine Amazon Bedrock Agents and Foursquare APIs to demonstrate how you can use a location-aware agent to bring personalized responses to your users.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-location-aware-agent-using-amazon-bedrock-agents-and-foursquare-apis/",
+          "publishedOn": "2025-04-21T18:45:27.000Z",
+          "wordCount": 2266,
+          "title": "Build a location-aware agent using Amazon Bedrock Agents and Foursquare APIs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/08/ML-18276-1-Archiecture-diagram-1260x350.png"
+        },
+        {
           "id": "555bf4bfc1b42438c8e3d7a033099ecab9eceb70",
           "author": "Deepak Dalakoti",
           "description": "In this post, we explore the importance of evaluating LLMs in the context of generative AI applications, highlighting the challenges posed by issues like hallucinations and biases. We introduced a comprehensive solution using AWS services to automate the evaluation process, allowing for continuous monitoring and assessment of LLM performance. By using tools like the FMeval Library, Ragas, LLMeter, and Step Functions, the solution provides flexibility and scalability, meeting the evolving needs of LLM consumers.",

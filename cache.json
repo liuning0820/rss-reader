@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -90,16 +90,6 @@
           "publishedOn": "2025-03-31T01:55:38.000Z",
           "wordCount": 1132,
           "title": "SRE Weekly Issue #470",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1622",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: Speed isn’t everything. We studied 100K+ incidents to find out what actually makes for good incident management—from detection to follow-up. You can now view the recording of our latest live event to get even more info on the benchmarks, insights, and real-life examples from the report. […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-469/",
-          "publishedOn": "2025-03-24T01:38:28.000Z",
-          "wordCount": 1111,
-          "title": "SRE Weekly Issue #469",
           "imageUrl": null
         }
       ]

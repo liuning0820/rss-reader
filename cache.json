@@ -117,6 +117,51 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6ef052f783f7dd9cf7b2d547d981fbeead415403",
+          "author": "Vivek Gangasani",
+          "description": "Today, we’re excited to announce the launch of Amazon SageMaker Large Model Inference (LMI) container v15, powered by vLLM 0.8.4 with support for the vLLM V1 engine. This release introduces significant performance improvements, expanded model compatibility with multimodality (that is, the ability to understand and analyze text-to-text, images-to-text, and text-to-images data), and provides built-in integration with vLLM to help you seamlessly deploy and serve large language models (LLMs) with the highest performance at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-llm-performance-with-amazon-sagemaker-large-model-inference-container-v15/",
+          "publishedOn": "2025-04-22T17:28:40.000Z",
+          "wordCount": 2429,
+          "title": "Supercharge your LLM performance with Amazon SageMaker Large Model Inference container v15",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/featured-images-ML-18766-1120x630.jpg"
+        },
+        {
+          "id": "0200f5b5a84c5cfe58ad7559beb8783a7534b5c3",
+          "author": "Rui Cardoso",
+          "description": "In the first post of this series, we introduced a comprehensive evaluation framework for Amazon Q Business, a fully managed Retrieval Augmented Generation (RAG) solution that uses your company’s proprietary data without the complexity of managing large language models (LLMs). The first post focused on selecting appropriate use cases, preparing data, and implementing metrics to […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accuracy-evaluation-framework-for-amazon-q-business-part-2/",
+          "publishedOn": "2025-04-22T17:18:57.000Z",
+          "wordCount": 4321,
+          "title": "Accuracy evaluation framework for Amazon Q Business – Part 2",
+          "enclosure": {
+            "length": "55191476",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18280/ML-18280-demo.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/ML-18280-truthfulness-1-1066x630.jpg"
+        },
+        {
+          "id": "b8b4483af4f40eec3e0f5250ff4f69f83df4665b",
+          "author": "Shreyas Subramanian",
+          "description": "Today, we’re happy to announce the general availability of Amazon Bedrock Intelligent Prompt Routing. In this blog post, we detail various highlights from our internal testing, how you can get started, and point out some caveats and best practices. We encourage you to incorporate Amazon Bedrock Intelligent Prompt Routing into your new and existing generative AI applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/",
+          "publishedOn": "2025-04-22T17:15:31.000Z",
+          "wordCount": 2932,
+          "title": "Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/22/featured-images-Use-Amazon-Bedrock-Intelligent-Prompt-Routing-for-cost-and-latency-benefits-1120x630.jpg"
+        },
+        {
+          "id": "3f1d20932667f2fb527e7125ed86380d4509e167",
+          "author": "Aparajithan Vaidyanathan",
+          "description": "In this post, we explore how Infosys developed Infosys Event AI to unlock the insights generated from events and conferences. Through its suite of features—including real-time transcription, intelligent summaries, and an interactive chat assistant—Infosys Event AI makes event knowledge accessible and provides an immersive engagement solution for the attendees, during and after the event.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-improved-accessibility-for-event-knowledge-using-amazon-nova-pro-amazon-bedrock-and-amazon-elemental-media-services/",
+          "publishedOn": "2025-04-22T17:12:46.000Z",
+          "wordCount": 3164,
+          "title": "How Infosys improved accessibility for Event Knowledge using Amazon Nova Pro, Amazon Bedrock and Amazon Elemental Media Services",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/17/3-streaming.jpg"
+        },
+        {
           "id": "b08d7e14274d10a8f864b2e11e6ff5c6db9c8d05",
           "author": "Wang Rui",
           "description": "Today, we are excited to announce the availability of Prompt Optimization on Amazon Bedrock. With this capability, you can now optimize your prompts for several use cases with a single API call or a click of a button on the Amazon Bedrock console. In this blog post, we discuss how Prompt Optimization improves the performance of large language models (LLMs) for intelligent text processing task in Yuewen Group.",

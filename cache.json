@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -116,6 +116,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "9e72b003073ae43dbaa395716df908ed35ef1126",
+          "author": "Nick Biso",
+          "description": "In this post, we discuss how you can build an AI-powered document processing platform with open source NER and LLMs on SageMaker.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-document-processing-platform-with-open-source-ner-model-and-llm-on-amazon-sagemaker/",
+          "publishedOn": "2025-04-23T16:06:35.000Z",
+          "wordCount": 2815,
+          "title": "Build an AI-powered document processing platform with open source NER model and LLM on Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/23/document-processing-sagemaker-1120x630.jpg"
+        },
+        {
+          "id": "bba533050dafb54c11c12b0d447bb00cfbe78138",
+          "author": "Praveen Chamarthi",
+          "description": "In this post, we explore two approaches for securing sensitive data in RAG applications using Amazon Bedrock. The first approach focused on identifying and redacting sensitive data before ingestion into an Amazon Bedrock knowledge base, and the second demonstrated a fine-grained RBAC pattern for managing access to sensitive information during retrieval. These solutions represent just two possible approaches among many for securing sensitive data in generative AI applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/protect-sensitive-data-in-rag-applications-with-amazon-bedrock/",
+          "publishedOn": "2025-04-23T16:00:18.000Z",
+          "wordCount": 4496,
+          "title": "Protect sensitive data in RAG applications with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/ml-17892-s1-retrieval-flow-2-1110x630.png"
+        },
         {
           "id": "6ef052f783f7dd9cf7b2d547d981fbeead415403",
           "author": "Vivek Gangasani",

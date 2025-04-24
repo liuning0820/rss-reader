@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-24T16:20:51.019Z</updated>
+    <updated>2025-04-24T18:22:24.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale]]></title>
+        <id>c51652081e86ead377a26a3a9bd261c58ad9b6d7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/"/>
+        <updated>2025-04-24T16:23:48.000Z</updated>
+        <summary type="html"><![CDATA[In this post, the AWS and Cisco teams unveil a new methodical approach that addresses the challenges of enterprise-grade SQL generation. The teams were able to reduce the complexity of the NL2SQL process while delivering higher accuracy and better overall performance.]]></summary>
+        <author>
+            <name>Renuka Kumar, Toby Fotherby, Shweta Keshavanarayana, Thomas Matthew, Daniel Vaquero, Atul Varshneya, and Jessica Wu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Field Experience reduced cost and delivered low latency and high performance with Amazon Nova Lite foundation model]]></title>
         <id>b61aa066650e752aa18cf2f35ea64f43fc6494dd</id>

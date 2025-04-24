@@ -117,6 +117,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c51652081e86ead377a26a3a9bd261c58ad9b6d7",
+          "author": "Renuka Kumar, Toby Fotherby, Shweta Keshavanarayana, Thomas Matthew, Daniel Vaquero, Atul Varshneya, and Jessica Wu",
+          "description": "In this post, the AWS and Cisco teams unveil a new methodical approach that addresses the challenges of enterprise-grade SQL generation. The teams were able to reduce the complexity of the NL2SQL process while delivering higher accuracy and better overall performance.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/",
+          "publishedOn": "2025-04-24T16:23:48.000Z",
+          "wordCount": 4709,
+          "title": "Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/09/ML-18212-nl2sql-aws-impl-example-1002x630.png"
+        },
+        {
           "id": "b61aa066650e752aa18cf2f35ea64f43fc6494dd",
           "author": "Anuj Jauhari",
           "description": "The AFX team’s product migration to the Nova Lite model has delivered tangible enterprise value by enhancing sales workflows. By migrating to the Amazon Nova Lite model, the team has not only achieved significant cost savings and reduced latency, but has also empowered sellers with a leading intelligent and reliable solution.",

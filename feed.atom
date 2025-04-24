@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-24T14:15:47.624Z</updated>
+    <updated>2025-04-24T16:20:51.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Field Experience reduced cost and delivered low latency and high performance with Amazon Nova Lite foundation model]]></title>
+        <id>b61aa066650e752aa18cf2f35ea64f43fc6494dd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-field-experience-reduced-cost-and-delivered-low-latency-and-high-performance-with-amazon-nova-lite-foundation-model/"/>
+        <updated>2025-04-24T16:17:50.000Z</updated>
+        <summary type="html"><![CDATA[The AFX team’s product migration to the Nova Lite model has delivered tangible enterprise value by enhancing sales workflows. By migrating to the Amazon Nova Lite model, the team has not only achieved significant cost savings and reduced latency, but has also empowered sellers with a leading intelligent and reliable solution.]]></summary>
+        <author>
+            <name>Anuj Jauhari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combine keyword and semantic search for text and images using Amazon Bedrock and Amazon OpenSearch Service]]></title>
+        <id>076f38fa1e653e66b4ee7a2c015362cd4def8cab</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/combine-keyword-and-semantic-search-for-text-and-images-using-amazon-bedrock-and-amazon-opensearch-service/"/>
+        <updated>2025-04-24T16:13:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk you through how to build a hybrid search solution using OpenSearch Service powered by multimodal embeddings from the Amazon Titan Multimodal Embeddings G1 model through Amazon Bedrock. This solution demonstrates how you can enable users to submit both text and images as queries to retrieve relevant results from a sample retail image dataset.]]></summary>
+        <author>
+            <name>Renan Bertolazzi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build an AI-powered document processing platform with open source NER model and LLM on Amazon SageMaker]]></title>
         <id>9e72b003073ae43dbaa395716df908ed35ef1126</id>

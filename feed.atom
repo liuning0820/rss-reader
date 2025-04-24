@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-24T08:22:09.884Z</updated>
+    <updated>2025-04-24T10:18:11.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,26 +704,6 @@
         <summary type="html"><![CDATA[Generative AI has emerged as a game changer, offering unprecedented opportunities for game designers to push boundaries and create immersive virtual worlds. At the forefront of this revolution is Stability AI’s cutting-edge text-to-image AI model, Stable Diffusion 3.5 Large (SD3.5 Large), which is transforming the way we approach game environment creation. In this post, we explore how you can use SD3.5 Large to address practical gaming needs such as early concept art and character design.]]></summary>
         <author>
             <name>Isha Dua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Bedrock launches Session Management APIs for generative AI applications (Preview)]]></title>
-        <id>c24700deba0a4a7bc2ea0df992cd34791a0698fa</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-launches-session-management-apis-for-generative-ai-applications-preview/"/>
-        <updated>2025-03-25T22:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock announces the preview launch of Session Management APIs, a new capability that enables developers to simplify state and context management for generative AI applications built with popular open source frameworks such as LangGraph and LlamaIndex. Session Management APIs provide an out-of-the-box solution that enables developers to securely manage state and conversation context across […]]]></summary>
-        <author>
-            <name>Jagdeep Singh Soni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance deployment guardrails with inference component rolling updates for Amazon SageMaker AI inference]]></title>
-        <id>c4e7759b3dce8220fd4479a352f73a5de0b278cc</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/enhance-deployment-guardrails-with-inference-component-rolling-updates-for-amazon-sagemaker-ai-inference/"/>
-        <updated>2025-03-25T21:17:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss the challenges faced by organizations when updating models in production. Then we deep dive into the new rolling update feature for inference components and provide practical examples using DeepSeek distilled models to demonstrate this feature. Finally, we explore how to set up rolling updates in different scenarios.]]></summary>
-        <author>
-            <name>Melanie Li</name>
         </author>
     </entry>
 </feed>

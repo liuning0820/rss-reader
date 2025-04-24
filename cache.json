@@ -755,26 +755,6 @@
           "wordCount": 3880,
           "title": "Enhance deployment guardrails with inference component rolling updates for Amazon SageMaker AI inference",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/25/featured-images-ML-18441-1120x630.jpg"
-        },
-        {
-          "id": "743076ce678c9a68c93d522f5247b03207cc7b08",
-          "author": "Clement Perrot",
-          "description": "In this post, we discuss how to evaluate the performance of your knowledge base, including the metrics and data to use for evaluation. We also address some of the tactics and configuration changes that can improve specific metrics.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-and-improve-performance-of-amazon-bedrock-knowledge-bases/",
-          "publishedOn": "2025-03-25T16:12:07.000Z",
-          "wordCount": 3692,
-          "title": "Evaluate and improve performance of Amazon Bedrock Knowledge Bases",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/13/ML-17061-10-venn-diagram-877x630.png"
-        },
-        {
-          "id": "98018e526a37ea734fe87639bca1eb8958c074b9",
-          "author": "Takeshi Kobayashi",
-          "description": "In this post, we demonstrate how to enhance enterprise productivity for your large language model (LLM) solution by using the Amazon Q index for ISVs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-enterprise-productivity-for-your-llm-solution-by-becoming-an-amazon-q-business-data-accessor/",
-          "publishedOn": "2025-03-25T16:06:46.000Z",
-          "wordCount": 2762,
-          "title": "Enhance enterprise productivity for your LLM solution by becoming an Amazon Q Business data accessor",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/20/blog-Qindex-architecture.png"
         }
       ]
     }

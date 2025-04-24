@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-24T03:04:01.885Z</updated>
+    <updated>2025-04-24T04:19:41.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,26 +724,6 @@
         <summary type="html"><![CDATA[In this post, we discuss the challenges faced by organizations when updating models in production. Then we deep dive into the new rolling update feature for inference components and provide practical examples using DeepSeek distilled models to demonstrate this feature. Finally, we explore how to set up rolling updates in different scenarios.]]></summary>
         <author>
             <name>Melanie Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluate and improve performance of Amazon Bedrock Knowledge Bases]]></title>
-        <id>743076ce678c9a68c93d522f5247b03207cc7b08</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/evaluate-and-improve-performance-of-amazon-bedrock-knowledge-bases/"/>
-        <updated>2025-03-25T16:12:07.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss how to evaluate the performance of your knowledge base, including the metrics and data to use for evaluation. We also address some of the tactics and configuration changes that can improve specific metrics.]]></summary>
-        <author>
-            <name>Clement Perrot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance enterprise productivity for your LLM solution by becoming an Amazon Q Business data accessor]]></title>
-        <id>98018e526a37ea734fe87639bca1eb8958c074b9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/enhance-enterprise-productivity-for-your-llm-solution-by-becoming-an-amazon-q-business-data-accessor/"/>
-        <updated>2025-03-25T16:06:46.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to enhance enterprise productivity for your large language model (LLM) solution by using the Amazon Q index for ISVs.]]></summary>
-        <author>
-            <name>Takeshi Kobayashi</name>
         </author>
     </entry>
 </feed>

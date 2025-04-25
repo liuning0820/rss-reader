@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-25T03:03:50.003Z</updated>
+    <updated>2025-04-25T04:20:12.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,16 +714,6 @@
         <summary type="html"><![CDATA[In this post, we explore how to modify your Regional access controls to specifically allow Amazon Bedrock cross-Region inference while maintaining broader Regional restrictions for other AWS services. We provide practical examples for both SCP modifications and AWS Control Tower implementations.]]></summary>
         <author>
             <name>Satveer Khurpa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker JumpStart adds fine-tuning support for models in a private model hub]]></title>
-        <id>9857358e33e7d66c69b73702f0398485cfe6a07a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/"/>
-        <updated>2025-03-26T16:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are announcing an enhanced private hub feature with several new capabilities that give organizations greater control over their ML assets. These enhancements include the ability to fine-tune SageMaker JumpStart models directly within the private hub, support for adding and managing custom-trained models, deep linking capabilities for associated notebooks, and improved model version management.]]></summary>
-        <author>
-            <name>Marc Karp</name>
         </author>
     </entry>
 </feed>

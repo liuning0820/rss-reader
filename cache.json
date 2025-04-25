@@ -755,16 +755,6 @@
           "wordCount": 2936,
           "title": "Amazon SageMaker JumpStart adds fine-tuning support for models in a private model hub",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/featured-images-ml-18118-1-1120x630.jpg"
-        },
-        {
-          "id": "892451178febfe68679b4fcce9a5ca263df312fa",
-          "author": "Isha Dua",
-          "description": "Generative AI has emerged as a game changer, offering unprecedented opportunities for game designers to push boundaries and create immersive virtual worlds. At the forefront of this revolution is Stability AI’s cutting-edge text-to-image AI model, Stable Diffusion 3.5 Large (SD3.5 Large), which is transforming the way we approach game environment creation. In this post, we explore how you can use SD3.5 Large to address practical gaming needs such as early concept art and character design.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-powered-game-design-accelerating-early-development-with-stability-ai-models-on-amazon-bedrock/",
-          "publishedOn": "2025-03-26T14:53:31.000Z",
-          "wordCount": 1958,
-          "title": "Generative AI-powered game design: Accelerating early development with Stability AI models on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/stability-ai-game-design-1120x630.jpg"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-25T01:19:23.660Z</updated>
+    <updated>2025-04-25T03:03:50.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,16 +724,6 @@
         <summary type="html"><![CDATA[Today, we are announcing an enhanced private hub feature with several new capabilities that give organizations greater control over their ML assets. These enhancements include the ability to fine-tune SageMaker JumpStart models directly within the private hub, support for adding and managing custom-trained models, deep linking capabilities for associated notebooks, and improved model version management.]]></summary>
         <author>
             <name>Marc Karp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI-powered game design: Accelerating early development with Stability AI models on Amazon Bedrock]]></title>
-        <id>892451178febfe68679b4fcce9a5ca263df312fa</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/generative-ai-powered-game-design-accelerating-early-development-with-stability-ai-models-on-amazon-bedrock/"/>
-        <updated>2025-03-26T14:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI has emerged as a game changer, offering unprecedented opportunities for game designers to push boundaries and create immersive virtual worlds. At the forefront of this revolution is Stability AI’s cutting-edge text-to-image AI model, Stable Diffusion 3.5 Large (SD3.5 Large), which is transforming the way we approach game environment creation. In this post, we explore how you can use SD3.5 Large to address practical gaming needs such as early concept art and character design.]]></summary>
-        <author>
-            <name>Isha Dua</name>
         </author>
     </entry>
 </feed>

@@ -735,16 +735,6 @@
           "wordCount": 8208,
           "title": "Generate training data and cost-effectively train categorical models with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/costeffective-1120x630.png"
-        },
-        {
-          "id": "f8f2c5545b48f7f16062818e5ef4bc5c200a9e0d",
-          "author": "Satveer Khurpa",
-          "description": "In this post, we explore how to modify your Regional access controls to specifically allow Amazon Bedrock cross-Region inference while maintaining broader Regional restrictions for other AWS services. We provide practical examples for both SCP modifications and AWS Control Tower implementations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/enable-amazon-bedrock-cross-region-inference-in-multi-account-environments/",
-          "publishedOn": "2025-03-27T15:03:57.000Z",
-          "wordCount": 3508,
-          "title": "Enable Amazon Bedrock cross-Region inference in multi-account environments",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/featured-images-ML-18467-1120x630.jpg"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-26T02:57:42.932Z</updated>
+    <updated>2025-04-26T04:18:53.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,16 +704,6 @@
         <summary type="html"><![CDATA[In this post, we explore how you can use Amazon Bedrock to generate high-quality categorical ground truth data, which is crucial for training machine learning (ML) models in a cost-sensitive environment. Generative AI solutions can play an invaluable role during the model development phase by simplifying training and test data creation for multiclass classification supervised learning use cases. We dive deep into this process on how to use XML tags to structure the prompt and guide Amazon Bedrock in generating a balanced label dataset with high accuracy. We also showcase a real-world example for predicting the root cause category for support cases. This use case, solvable through ML, can enable support teams to better understand customer needs and optimize response strategies.]]></summary>
         <author>
             <name>Sumeet Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enable Amazon Bedrock cross-Region inference in multi-account environments]]></title>
-        <id>f8f2c5545b48f7f16062818e5ef4bc5c200a9e0d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/enable-amazon-bedrock-cross-region-inference-in-multi-account-environments/"/>
-        <updated>2025-03-27T15:03:57.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to modify your Regional access controls to specifically allow Amazon Bedrock cross-Region inference while maintaining broader Regional restrictions for other AWS services. We provide practical examples for both SCP modifications and AWS Control Tower implementations.]]></summary>
-        <author>
-            <name>Satveer Khurpa</name>
         </author>
     </entry>
 </feed>

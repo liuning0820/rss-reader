@@ -715,26 +715,6 @@
           "wordCount": 2296,
           "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/featured-images-ML-18588-1120x630.jpg"
-        },
-        {
-          "id": "3815925151d653d5902599a166eeda9cf55f641a",
-          "author": "Nadhya Polanco",
-          "description": "When implementing machine learning workflows in Amazon SageMaker Canvas, organizations might need to consider external dependencies required for their specific use cases. Although SageMaker Canvas provides powerful no-code and low-code capabilities for rapid experimentation, some projects might require specialized dependencies and libraries that aren’t included by default in SageMaker Canvas. This post provides an example of how to incorporate code that relies on external dependencies into your SageMaker Canvas workflows.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/",
-          "publishedOn": "2025-03-27T19:00:50.000Z",
-          "wordCount": 2773,
-          "title": "Integrating custom dependencies in Amazon SageMaker Canvas workflows",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/canvascustom-1120x630.png"
-        },
-        {
-          "id": "9d1a09f0f854f508435803b3861bc3b81a65b83e",
-          "author": "Sumeet Kumar",
-          "description": "In this post, we explore how you can use Amazon Bedrock to generate high-quality categorical ground truth data, which is crucial for training machine learning (ML) models in a cost-sensitive environment. Generative AI solutions can play an invaluable role during the model development phase by simplifying training and test data creation for multiclass classification supervised learning use cases. We dive deep into this process on how to use XML tags to structure the prompt and guide Amazon Bedrock in generating a balanced label dataset with high accuracy. We also showcase a real-world example for predicting the root cause category for support cases. This use case, solvable through ML, can enable support teams to better understand customer needs and optimize response strategies.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generate-training-data-and-cost-effectively-train-categorical-models-with-amazon-bedrock/",
-          "publishedOn": "2025-03-27T18:55:05.000Z",
-          "wordCount": 8208,
-          "title": "Generate training data and cost-effectively train categorical models with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/27/costeffective-1120x630.png"
         }
       ]
     }

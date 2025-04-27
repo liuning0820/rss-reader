@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -705,16 +705,6 @@
           "wordCount": 4281,
           "title": "Build agentic systems with CrewAI and Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/image001-1156x630.png"
-        },
-        {
-          "id": "c0474d808f98914c3a2d5a9f9e67f6bbd8dc0ac2",
-          "author": "Satveer Khurpa",
-          "description": "Amazon Bedrock Guardrails announces the general availability of image content filters, enabling you to moderate both image and text content in your generative AI applications. In this post, we discuss how to get started with image content filters in Amazon Bedrock Guardrails.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/",
-          "publishedOn": "2025-03-28T20:01:07.000Z",
-          "wordCount": 2296,
-          "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/featured-images-ML-18588-1120x630.jpg"
         }
       ]
     }

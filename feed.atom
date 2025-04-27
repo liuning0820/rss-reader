@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-27T06:21:54.372Z</updated>
+    <updated>2025-04-27T08:19:23.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -674,16 +674,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Intercom migrated hundreds of engineers from PagerDuty and Atlassian Status Page to incident.io in just weeks, improving resolution times, simplifying incident management, and delivering a better customer support experience. Watch the video case study. https://go.incident.io/customers/intercom The Sociotechnical Reality Engineer An SRE thinks about the meaning of […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today]]></title>
-        <id>c0474d808f98914c3a2d5a9f9e67f6bbd8dc0ac2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/"/>
-        <updated>2025-03-28T20:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock Guardrails announces the general availability of image content filters, enabling you to moderate both image and text content in your generative AI applications. In this post, we discuss how to get started with image content filters in Amazon Bedrock Guardrails.]]></summary>
-        <author>
-            <name>Satveer Khurpa</name>
         </author>
     </entry>
 </feed>

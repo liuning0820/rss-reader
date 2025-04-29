@@ -91,16 +91,6 @@
           "wordCount": 1093,
           "title": "SRE Weekly Issue #471",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1624",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: Intercom migrated hundreds of engineers from PagerDuty and Atlassian Status Page to incident.io in just weeks, improving resolution times, simplifying incident management, and delivering a better customer support experience. Watch the video case study. https://go.incident.io/customers/intercom The Sociotechnical Reality Engineer An SRE thinks about the meaning of […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-470/",
-          "publishedOn": "2025-03-31T01:55:38.000Z",
-          "wordCount": 1132,
-          "title": "SRE Weekly Issue #470",
-          "imageUrl": null
         }
       ]
     },

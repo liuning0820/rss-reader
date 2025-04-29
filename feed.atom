@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-29T12:35:51.025Z</updated>
+    <updated>2025-04-29T14:17:12.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -694,16 +694,6 @@
         <summary type="html"><![CDATA[In this post, we explore how CrewAI’s open source agentic framework, combined with Amazon Bedrock, enables the creation of sophisticated multi-agent systems that can transform how businesses operate. Through practical examples and implementation details, we demonstrate how to build, deploy, and orchestrate AI agents that can tackle complex tasks with minimal human oversight.]]></summary>
         <author>
             <name>Tony Kipkemboi, João (Joe) Moura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #470]]></title>
-        <id>https://sreweekly.com/?p=1624</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-470/"/>
-        <updated>2025-03-31T01:55:38.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Intercom migrated hundreds of engineers from PagerDuty and Atlassian Status Page to incident.io in just weeks, improving resolution times, simplifying incident management, and delivering a better customer support experience. Watch the video case study. https://go.incident.io/customers/intercom The Sociotechnical Reality Engineer An SRE thinks about the meaning of […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

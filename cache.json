@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -116,6 +116,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "09adbaa09f66d966d0056383025cb1cf99245bf6",
+          "author": "Yunfei Bai",
+          "description": "In this post, we present an LLM migration paradigm and architecture, including a continuous process of model evaluation, prompt generation using Amazon Bedrock, and data-aware optimization. The solution evaluates the model performance before migration and iteratively optimizes the Amazon Nova model prompts using user-provided dataset and objective metrics.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/improve-amazon-nova-migration-performance-with-data-aware-prompt-optimization/",
+          "publishedOn": "2025-04-29T16:18:24.000Z",
+          "wordCount": 4259,
+          "title": "Improve Amazon Nova migration performance with data-aware prompt optimization",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/17/ML18320-figure-1B-1080x630.png"
+        },
         {
           "id": "8665f6092a91a35da1d3f6ba2973900cc4bcb4d7",
           "author": "Baishali Chaudhury",

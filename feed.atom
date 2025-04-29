@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-29T14:17:12.347Z</updated>
+    <updated>2025-04-29T16:20:43.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve Amazon Nova migration performance with data-aware prompt optimization]]></title>
+        <id>09adbaa09f66d966d0056383025cb1cf99245bf6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improve-amazon-nova-migration-performance-with-data-aware-prompt-optimization/"/>
+        <updated>2025-04-29T16:18:24.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we present an LLM migration paradigm and architecture, including a continuous process of model evaluation, prompt generation using Amazon Bedrock, and data-aware optimization. The solution evaluates the model performance before migration and iteratively optimizes the Amazon Nova model prompts using user-provided dataset and objective metrics.]]></summary>
+        <author>
+            <name>Yunfei Bai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Customize Amazon Nova models to improve tool usage]]></title>
         <id>8665f6092a91a35da1d3f6ba2973900cc4bcb4d7</id>

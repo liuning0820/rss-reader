@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -116,6 +116,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0461f1e9e2ede75141c4b21edb2e51224ab8b422",
+          "author": "Cassandre Vandeputte",
+          "description": "In this post, we explore how AWS services can be seamlessly integrated with open source tools to help establish a robust red teaming mechanism within your organization. Specifically, we discuss Data Reply’s red teaming solution, a comprehensive blueprint to enhance AI safety and responsible AI practices.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-in-action-how-data-reply-red-teaming-supports-generative-ai-safety-on-aws/",
+          "publishedOn": "2025-04-29T16:32:18.000Z",
+          "wordCount": 3321,
+          "title": "Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/image001-3-1242x630.png"
+        },
+        {
+          "id": "45ccc28d0b7f4cbdb32d71e45329d168b9ea8260",
+          "author": "Vu Le",
+          "description": "This post demonstrates how AWS LLM League’s gamified enablement accelerates partners’ practical AI development capabilities, while showcasing how fine-tuning smaller language models can deliver cost-effective, specialized solutions for specific industry needs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/intervision-accelerates-ai-development-using-aws-llm-league-and-amazon-sagemaker-ai/",
+          "publishedOn": "2025-04-29T16:21:46.000Z",
+          "wordCount": 2770,
+          "title": "InterVision accelerates AI development using AWS LLM League and Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/16/ML-18199-image002-workflow.png"
+        },
         {
           "id": "09adbaa09f66d966d0056383025cb1cf99245bf6",
           "author": "Yunfei Bai",

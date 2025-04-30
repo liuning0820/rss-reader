@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-30T18:23:21.493Z</updated>
+    <updated>2025-04-30T20:18:25.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build public-facing generative AI applications using Amazon Q Business for anonymous users]]></title>
+        <id>7e0fb8f751ee74945810096690182ca7b6ea69d0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-public-facing-generative-ai-applications-using-amazon-q-business-for-anonymous-users/"/>
+        <updated>2025-04-30T19:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce that Amazon Q Business now supports anonymous user access. With this new feature, you can now create Amazon Q Business applications with anonymous user mode, where user authentication is not required and content is publicly accessible. In this post, we demonstrate how to build a public-facing generative AI application using Amazon Q Business for anonymous users.]]></summary>
+        <author>
+            <name>Vishnu Elangovan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FloQast builds an AI-powered accounting transformation solution with Anthropic’s Claude 3 on Amazon Bedrock]]></title>
+        <id>e4bec8c22944b630a47d0ef10237bf71553bb9d7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/floqast-builds-an-ai-powered-accounting-transformation-solution-with-anthropics-claude-3-on-amazon-bedrock/"/>
+        <updated>2025-04-30T18:37:32.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how FloQast built an AI-powered accounting transaction solution using Anthropic’s Claude 3 on Amazon Bedrock.]]></summary>
+        <author>
+            <name>Kartik Bhatnagar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights in implementing production-ready solutions with generative AI]]></title>
+        <id>e442204e2212b3e0f2a265e22354796fe882cb45</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/insights-in-implementing-production-ready-solutions-with-generative-ai/"/>
+        <updated>2025-04-30T18:34:40.000Z</updated>
+        <summary type="html"><![CDATA[As generative AI revolutionizes industries, organizations are eager to harness its potential. However, the journey from production-ready solutions to full-scale implementation can present distinct operational and technical considerations. This post explores key insights and lessons learned from AWS customers in Europe, Middle East, and Africa (EMEA) who have successfully navigated this transition, providing a roadmap for others looking to follow suit.]]></summary>
+        <author>
+            <name>Giorgio Pessot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS]]></title>
         <id>0461f1e9e2ede75141c4b21edb2e51224ab8b422</id>

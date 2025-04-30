@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -96,6 +96,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "7e0fb8f751ee74945810096690182ca7b6ea69d0",
+          "author": "Vishnu Elangovan",
+          "description": "Today, we’re excited to announce that Amazon Q Business now supports anonymous user access. With this new feature, you can now create Amazon Q Business applications with anonymous user mode, where user authentication is not required and content is publicly accessible. In this post, we demonstrate how to build a public-facing generative AI application using Amazon Q Business for anonymous users.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-public-facing-generative-ai-applications-using-amazon-q-business-for-anonymous-users/",
+          "publishedOn": "2025-04-30T19:00:10.000Z",
+          "wordCount": 3118,
+          "title": "Build public-facing generative AI applications using Amazon Q Business for anonymous users",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/29/featured-images-ML-18565-1120x630.jpg"
+        },
+        {
+          "id": "e4bec8c22944b630a47d0ef10237bf71553bb9d7",
+          "author": "Kartik Bhatnagar",
+          "description": "In this post, we share how FloQast built an AI-powered accounting transaction solution using Anthropic’s Claude 3 on Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/floqast-builds-an-ai-powered-accounting-transformation-solution-with-anthropics-claude-3-on-amazon-bedrock/",
+          "publishedOn": "2025-04-30T18:37:32.000Z",
+          "wordCount": 2904,
+          "title": "FloQast builds an AI-powered accounting transformation solution with Anthropic’s Claude 3 on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/17/ML-17740-Image003-1260x582.png"
+        },
+        {
+          "id": "e442204e2212b3e0f2a265e22354796fe882cb45",
+          "author": "Giorgio Pessot",
+          "description": "As generative AI revolutionizes industries, organizations are eager to harness its potential. However, the journey from production-ready solutions to full-scale implementation can present distinct operational and technical considerations. This post explores key insights and lessons learned from AWS customers in Europe, Middle East, and Africa (EMEA) who have successfully navigated this transition, providing a roadmap for others looking to follow suit.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/insights-in-implementing-production-ready-solutions-with-generative-ai/",
+          "publishedOn": "2025-04-30T18:34:40.000Z",
+          "wordCount": 3235,
+          "title": "Insights in implementing production-ready solutions with generative AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/30/insights-in-implementing-1120x630.jpg"
+        },
         {
           "id": "0461f1e9e2ede75141c4b21edb2e51224ab8b422",
           "author": "Cassandre Vandeputte",

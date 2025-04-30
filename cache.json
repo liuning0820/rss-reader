@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -24,26 +24,6 @@
           "wordCount": 6278,
           "title": "Florida 2025",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/04/rental_car_apr25.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6192",
-          "author": "Chris Swan",
-          "description": "Pupdate March was reasonably dry (and even sunny sometimes), so the boys were able to get out for some nice long walks :) Milo also finished his third chemo protocol. I’m overdue a diary post about that, but the short version is that he’s doing well :) Skiing The month started with me skiing in […]",
-          "link": "http://blog.thestateofme.com/2025/03/31/march-2025/",
-          "publishedOn": "2025-03-31T21:17:37.000Z",
-          "wordCount": 4458,
-          "title": "March 2025",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/03/pups_202503.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6192",
-          "author": "Chris Swan",
-          "description": "Pupdate March was reasonably dry (and even sunny sometimes), so the boys were able to get out for some nice long walks :) Milo also finished his third chemo protocol. I’m overdue a diary post about that, but the short version is that he’s doing well :) Skiing The month started with me skiing in […]",
-          "link": "https://blog.thestateofme.com/2025/03/31/march-2025/",
-          "publishedOn": "2025-03-31T21:17:37.000Z",
-          "wordCount": 4463,
-          "title": "March 2025",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/03/pups_202503.jpg"
         }
       ]
     },

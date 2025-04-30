@@ -745,16 +745,6 @@
           "wordCount": 2338,
           "title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18551-1120x630.jpg"
-        },
-        {
-          "id": "68b5b6be421a9c45c1330006e55c94ba389f325f",
-          "author": "Tony Kipkemboi, João (Joe) Moura",
-          "description": "In this post, we explore how CrewAI’s open source agentic framework, combined with Amazon Bedrock, enables the creation of sophisticated multi-agent systems that can transform how businesses operate. Through practical examples and implementation details, we demonstrate how to build, deploy, and orchestrate AI agents that can tackle complex tasks with minimal human oversight.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-systems-with-crewai-and-amazon-bedrock/",
-          "publishedOn": "2025-03-31T15:16:35.000Z",
-          "wordCount": 4281,
-          "title": "Build agentic systems with CrewAI and Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/image001-1156x630.png"
         }
       ]
     }

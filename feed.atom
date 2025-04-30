@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-30T03:04:01.633Z</updated>
+    <updated>2025-04-30T04:20:01.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,16 +714,6 @@
         <summary type="html"><![CDATA[Pupdate March was reasonably dry (and even sunny sometimes), so the boys were able to get out for some nice long walks :) Milo also finished his third chemo protocol. I’m overdue a diary post about that, but the short version is that he’s doing well :) Skiing The month started with me skiing in […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build agentic systems with CrewAI and Amazon Bedrock]]></title>
-        <id>68b5b6be421a9c45c1330006e55c94ba389f325f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-agentic-systems-with-crewai-and-amazon-bedrock/"/>
-        <updated>2025-03-31T15:16:35.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how CrewAI’s open source agentic framework, combined with Amazon Bedrock, enables the creation of sophisticated multi-agent systems that can transform how businesses operate. Through practical examples and implementation details, we demonstrate how to build, deploy, and orchestrate AI agents that can tackle complex tasks with minimal human oversight.]]></summary>
-        <author>
-            <name>Tony Kipkemboi, João (Joe) Moura</name>
         </author>
     </entry>
 </feed>

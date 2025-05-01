@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-01T06:24:56.353Z</updated>
+    <updated>2025-05-01T08:21:57.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -694,16 +694,6 @@
         <summary type="html"><![CDATA[We’re excited to announce the open source release of AWS MCP Servers for code assistants — a suite of specialized Model Context Protocol (MCP) servers that bring Amazon Web Services (AWS) best practices directly to your development workflow. This post is the first in a series covering AWS MCP Servers. In this post, we walk through how these specialized MCP servers can dramatically reduce your development time while incorporating security controls, cost optimizations, and AWS Well-Architected best practices into your code.]]></summary>
         <author>
             <name>Jimin Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harness the power of MCP servers with Amazon Bedrock Agents]]></title>
-        <id>368e33e55b1864e4c9451eacd4e8a35bc846706a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/"/>
-        <updated>2025-04-01T19:58:56.000Z</updated>
-        <summary type="html"><![CDATA[Today, MCP is providing agents standard access to an expanding list of accessible tools that you can use to accomplish a variety of tasks. In this post, we show you how to build an Amazon Bedrock agent that uses MCP to access data sources to quickly build generative AI applications.]]></summary>
-        <author>
-            <name>Mark Roy</name>
         </author>
     </entry>
 </feed>

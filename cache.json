@@ -720,21 +720,6 @@
           "wordCount": 2863,
           "title": "Introducing AWS MCP Servers for code assistants (Part 1)",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18573-1120x630.jpg"
-        },
-        {
-          "id": "368e33e55b1864e4c9451eacd4e8a35bc846706a",
-          "author": "Mark Roy",
-          "description": "Today, MCP is providing agents standard access to an expanding list of accessible tools that you can use to accomplish a variety of tasks. In this post, we show you how to build an Amazon Bedrock agent that uses MCP to access data sources to quickly build generative AI applications.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/",
-          "publishedOn": "2025-04-01T19:58:56.000Z",
-          "wordCount": 3508,
-          "title": "Harness the power of MCP servers with Amazon Bedrock Agents",
-          "enclosure": {
-            "length": "17763170",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18630/mcp_demo.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18630-1120x630.jpg"
         }
       ]
     }

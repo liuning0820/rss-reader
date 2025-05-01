@@ -107,6 +107,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d7d5eaef99dba985314485739c892bebdc7ee128",
+          "author": "Yanyan Zhang",
+          "description": "In this post, we share comprehensive best practices and scientific insights for fine-tuning Meta Llama 3.2 multimodal models on Amazon Bedrock. By following these guidelines, you can fine-tune smaller, more cost-effective models to achieve performance that rivals or even surpasses much larger models—potentially reducing both inference costs and latency, while maintaining high accuracy for your specific use case.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-meta-llama-3-2-multimodal-fine-tuning-on-amazon-bedrock/",
+          "publishedOn": "2025-05-01T21:08:27.000Z",
+          "wordCount": 3465,
+          "title": "Best practices for Meta Llama 3.2 multimodal fine-tuning on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/01/best-practices-meta-llama-1120x630.jpg"
+        },
+        {
           "id": "bcc75f5647ad075626836f246151b92ad7c3f89e",
           "author": "Mona Mona",
           "description": "The MCP proposed by Anthropic offers a standardized way of connecting FMs to data sources, and now you can use this capability with SageMaker AI. In this post, we presented an example of combining the power of SageMaker AI and MCP to build an application that offers a new perspective on loan underwriting through specialized roles and automated workflows.",

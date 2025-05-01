@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-01T20:17:16.365Z</updated>
+    <updated>2025-05-01T22:15:55.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best practices for Meta Llama 3.2 multimodal fine-tuning on Amazon Bedrock]]></title>
+        <id>d7d5eaef99dba985314485739c892bebdc7ee128</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-meta-llama-3-2-multimodal-fine-tuning-on-amazon-bedrock/"/>
+        <updated>2025-05-01T21:08:27.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share comprehensive best practices and scientific insights for fine-tuning Meta Llama 3.2 multimodal models on Amazon Bedrock. By following these guidelines, you can fine-tune smaller, more cost-effective models to achieve performance that rivals or even surpasses much larger models—potentially reducing both inference costs and latency, while maintaining high accuracy for your specific use case.]]></summary>
+        <author>
+            <name>Yanyan Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Extend large language models powered by Amazon SageMaker AI using Model Context Protocol]]></title>
         <id>bcc75f5647ad075626836f246151b92ad7c3f89e</id>

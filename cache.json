@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6214",
@@ -735,26 +735,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18630/mcp_demo.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18630-1120x630.jpg"
-        },
-        {
-          "id": "c89cfe8484e2a0dc07579752091c8f0a39823928",
-          "author": "Sriharsh Adari",
-          "description": "In this post, we explore practical strategies for using Constitutional AI to produce compliant content efficiently and effectively using Amazon Bedrock and LangGraph to build ConstitutionalChain for rapid content creation in highly regulated industries like finance and healthcare",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generate-compliant-content-with-amazon-bedrock-and-constitutionalchain/",
-          "publishedOn": "2025-04-01T16:12:12.000Z",
-          "wordCount": 3009,
-          "title": "Generate compliant content with Amazon Bedrock and ConstitutionalChain",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/18/ML-16141-1.png"
-        },
-        {
-          "id": "ff4910af5afcdb549087c7560ecda6bc06aa7a81",
-          "author": "Adewale Akinfaderin",
-          "description": "To improve factual accuracy of large language model (LLM) responses, AWS announced Amazon Bedrock Automated Reasoning checks (in gated preview) at AWS re:Invent 2024. In this post, we discuss how to help prevent generative AI hallucinations using Amazon Bedrock Automated Reasoning checks.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/",
-          "publishedOn": "2025-04-01T15:59:57.000Z",
-          "wordCount": 4856,
-          "title": "Minimize generative AI hallucinations with Amazon Bedrock Automated Reasoning checks",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/23/ML-18268-image002.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-01T03:14:29.817Z</updated>
+    <updated>2025-05-01T04:22:04.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,26 +704,6 @@
         <summary type="html"><![CDATA[Today, MCP is providing agents standard access to an expanding list of accessible tools that you can use to accomplish a variety of tasks. In this post, we show you how to build an Amazon Bedrock agent that uses MCP to access data sources to quickly build generative AI applications.]]></summary>
         <author>
             <name>Mark Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate compliant content with Amazon Bedrock and ConstitutionalChain]]></title>
-        <id>c89cfe8484e2a0dc07579752091c8f0a39823928</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/generate-compliant-content-with-amazon-bedrock-and-constitutionalchain/"/>
-        <updated>2025-04-01T16:12:12.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore practical strategies for using Constitutional AI to produce compliant content efficiently and effectively using Amazon Bedrock and LangGraph to build ConstitutionalChain for rapid content creation in highly regulated industries like finance and healthcare]]></summary>
-        <author>
-            <name>Sriharsh Adari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimize generative AI hallucinations with Amazon Bedrock Automated Reasoning checks]]></title>
-        <id>ff4910af5afcdb549087c7560ecda6bc06aa7a81</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/"/>
-        <updated>2025-04-01T15:59:57.000Z</updated>
-        <summary type="html"><![CDATA[To improve factual accuracy of large language model (LLM) responses, AWS announced Amazon Bedrock Automated Reasoning checks (in gated preview) at AWS re:Invent 2024. In this post, we discuss how to help prevent generative AI hallucinations using Amazon Bedrock Automated Reasoning checks.]]></summary>
-        <author>
-            <name>Adewale Akinfaderin</name>
         </author>
     </entry>
 </feed>

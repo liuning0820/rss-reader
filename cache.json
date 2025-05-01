@@ -755,16 +755,6 @@
           "wordCount": 4856,
           "title": "Minimize generative AI hallucinations with Amazon Bedrock Automated Reasoning checks",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/23/ML-18268-image002.png"
-        },
-        {
-          "id": "053eaa39a230cfa9c8dccb5e4e88f4bf6db25aed",
-          "author": "Umesh Kalaspurkar",
-          "description": "In a recent AWS What’s New Post, App Studio announced two new features to accelerate application building: Prebuilt solutions catalog and cross-instance Import and Export. In this post, we walk through how to use the prebuilt solutions catalog to get started quickly and use the Import and Export feature",
-          "link": "https://aws.amazon.com/blogs/machine-learning/aws-app-studio-introduces-a-prebuilt-solutions-catalog-and-cross-instance-import-and-export/",
-          "publishedOn": "2025-04-01T14:02:56.000Z",
-          "wordCount": 2338,
-          "title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18551-1120x630.jpg"
         }
       ]
     }

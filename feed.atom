@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-01T01:26:15.647Z</updated>
+    <updated>2025-05-01T03:14:29.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,16 +724,6 @@
         <summary type="html"><![CDATA[To improve factual accuracy of large language model (LLM) responses, AWS announced Amazon Bedrock Automated Reasoning checks (in gated preview) at AWS re:Invent 2024. In this post, we discuss how to help prevent generative AI hallucinations using Amazon Bedrock Automated Reasoning checks.]]></summary>
         <author>
             <name>Adewale Akinfaderin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export]]></title>
-        <id>053eaa39a230cfa9c8dccb5e4e88f4bf6db25aed</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-app-studio-introduces-a-prebuilt-solutions-catalog-and-cross-instance-import-and-export/"/>
-        <updated>2025-04-01T14:02:56.000Z</updated>
-        <summary type="html"><![CDATA[In a recent AWS What’s New Post, App Studio announced two new features to accelerate application building: Prebuilt solutions catalog and cross-instance Import and Export. In this post, we walk through how to use the prebuilt solutions catalog to get started quickly and use the Import and Export feature]]></summary>
-        <author>
-            <name>Umesh Kalaspurkar</name>
         </author>
     </entry>
 </feed>

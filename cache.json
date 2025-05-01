@@ -97,6 +97,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "218ca171ee4d12bdd12a91241b0ac16e3df57b57",
+          "author": "Yanyan Zhang",
+          "description": "In this post, we highlight the advanced data augmentation techniques and performance improvements in Amazon Bedrock Model Distillation with Meta's Llama model family. This technique transfers knowledge from larger, more capable foundation models (FMs) that act as teachers to smaller, more efficient models (students), creating specialized models that excel at specific tasks.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-model-distillation-boost-function-calling-accuracy-while-reducing-cost-and-latency/",
+          "publishedOn": "2025-05-01T01:04:26.000Z",
+          "wordCount": 3848,
+          "title": "Amazon Bedrock Model Distillation: Boost function calling accuracy while reducing cost and latency",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/30/abmd-1120x630.png"
+        },
+        {
           "id": "7e0fb8f751ee74945810096690182ca7b6ea69d0",
           "author": "Vishnu Elangovan",
           "description": "Today, we’re excited to announce that Amazon Q Business now supports anonymous user access. With this new feature, you can now create Amazon Q Business applications with anonymous user mode, where user authentication is not required and content is publicly accessible. In this post, we demonstrate how to build a public-facing generative AI application using Amazon Q Business for anonymous users.",

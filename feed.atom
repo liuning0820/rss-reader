@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-04-30T22:15:47.763Z</updated>
+    <updated>2025-05-01T01:26:15.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock Model Distillation: Boost function calling accuracy while reducing cost and latency]]></title>
+        <id>218ca171ee4d12bdd12a91241b0ac16e3df57b57</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-model-distillation-boost-function-calling-accuracy-while-reducing-cost-and-latency/"/>
+        <updated>2025-05-01T01:04:26.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we highlight the advanced data augmentation techniques and performance improvements in Amazon Bedrock Model Distillation with Meta's Llama model family. This technique transfers knowledge from larger, more capable foundation models (FMs) that act as teachers to smaller, more efficient models (students), creating specialized models that excel at specific tasks.]]></summary>
+        <author>
+            <name>Yanyan Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build public-facing generative AI applications using Amazon Q Business for anonymous users]]></title>
         <id>7e0fb8f751ee74945810096690182ca7b6ea69d0</id>

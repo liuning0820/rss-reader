@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6250",
+          "author": "Chris Swan",
+          "description": "Pupdate April has been rather nice, which has given the opportunity for plenty of long walks :) Florida We started the month in Florida, more on that in its own post – Florida 2025. Bike bother Vespa I mentioned my broken Vespa last month, and returned from Florida to a diagnosis of low compression, and […]",
+          "link": "https://blog.thestateofme.com/2025/05/01/april-2025/",
+          "publishedOn": "2025-05-01T09:38:53.000Z",
+          "wordCount": 4586,
+          "title": "April 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/04/img_9723.jpeg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6214",
           "author": "Chris Swan",
           "description": "I can hardly believe it’s been 15y since I did a post on this. I guess our biennial trips through to 2018 were similar enough to not really justify full reports. Though 2014 was quite different as $son0 and I did our PADI Open Water certification, which was a major distraction from the parks. Then […]",
@@ -710,16 +720,6 @@
           "wordCount": 2782,
           "title": "Using Large Language Models on Amazon Bedrock for multi-step task execution",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/26/blog_2.png"
-        },
-        {
-          "id": "0f0758efc26b2b098306d2d40befc10e446f75fd",
-          "author": "Jimin Kim",
-          "description": "We’re excited to announce the open source release of AWS MCP Servers for code assistants — a suite of specialized Model Context Protocol (MCP) servers that bring Amazon Web Services (AWS) best practices directly to your development workflow. This post is the first in a series covering AWS MCP Servers. In this post, we walk through how these specialized MCP servers can dramatically reduce your development time while incorporating security controls, cost optimizations, and AWS Well-Architected best practices into your code.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/",
-          "publishedOn": "2025-04-01T20:22:06.000Z",
-          "wordCount": 2863,
-          "title": "Introducing AWS MCP Servers for code assistants (Part 1)",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/01/featured-images-ML-18573-1120x630.jpg"
         }
       ]
     }

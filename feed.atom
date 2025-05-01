@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-01T08:21:57.130Z</updated>
+    <updated>2025-05-01T10:18:02.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April 2025]]></title>
+        <id>http://blog.thestateofme.com/?p=6250</id>
+        <link href="https://blog.thestateofme.com/2025/05/01/april-2025/"/>
+        <updated>2025-05-01T09:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate April has been rather nice, which has given the opportunity for plenty of long walks :) Florida We started the month in Florida, more on that in its own post – Florida 2025. Bike bother Vespa I mentioned my broken Vespa last month, and returned from Florida to a diagnosis of low compression, and […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Bedrock Model Distillation: Boost function calling accuracy while reducing cost and latency]]></title>
         <id>218ca171ee4d12bdd12a91241b0ac16e3df57b57</id>
@@ -684,16 +694,6 @@
         <summary type="html"><![CDATA[This post explores the application of LLMs in executing complex analytical queries through an API, with specific focus on Amazon Bedrock. To demonstrate this process, we present a use case where the system identifies the patient with the least number of vaccines by retrieving, grouping, and sorting data, and ultimately presenting the final result.]]></summary>
         <author>
             <name>Bruno Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing AWS MCP Servers for code assistants (Part 1)]]></title>
-        <id>0f0758efc26b2b098306d2d40befc10e446f75fd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/"/>
-        <updated>2025-04-01T20:22:06.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce the open source release of AWS MCP Servers for code assistants — a suite of specialized Model Context Protocol (MCP) servers that bring Amazon Web Services (AWS) best practices directly to your development workflow. This post is the first in a series covering AWS MCP Servers. In this post, we walk through how these specialized MCP servers can dramatically reduce your development time while incorporating security controls, cost optimizations, and AWS Well-Architected best practices into your code.]]></summary>
-        <author>
-            <name>Jimin Kim</name>
         </author>
     </entry>
 </feed>

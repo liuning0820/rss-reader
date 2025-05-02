@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-02T16:20:38.748Z</updated>
+    <updated>2025-05-02T18:22:46.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a gen AI–powered financial assistant with Amazon Bedrock multi-agent collaboration]]></title>
+        <id>57d2f86c6988c8d1677c4125febebcac23c21901</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-gen-ai-powered-financial-assistant-with-amazon-bedrock-multi-agent-collaboration/"/>
+        <updated>2025-05-02T17:23:07.000Z</updated>
+        <summary type="html"><![CDATA[This post explores a financial assistant system that specializes in three key tasks: portfolio creation, company research, and communication. This post aims to illustrate the use of multiple specialized agents within the Amazon Bedrock multi-agent collaboration capability, with particular emphasis on their application in financial analysis.]]></summary>
+        <author>
+            <name>Suheel Farooq</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordFinder app: Harnessing generative AI on AWS for aphasia communication]]></title>
         <id>5f4d2fb57148ca4849a3f3cf7f00211c894e199f</id>

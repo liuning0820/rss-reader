@@ -107,6 +107,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "57d2f86c6988c8d1677c4125febebcac23c21901",
+          "author": "Suheel Farooq",
+          "description": "This post explores a financial assistant system that specializes in three key tasks: portfolio creation, company research, and communication. This post aims to illustrate the use of multiple specialized agents within the Amazon Bedrock multi-agent collaboration capability, with particular emphasis on their application in financial analysis.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-gen-ai-powered-financial-assistant-with-amazon-bedrock-multi-agent-collaboration/",
+          "publishedOn": "2025-05-02T17:23:07.000Z",
+          "wordCount": 4970,
+          "title": "Build a gen AI–powered financial assistant with Amazon Bedrock multi-agent collaboration",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/16/image001-1-1047x630.jpg"
+        },
+        {
           "id": "5f4d2fb57148ca4849a3f3cf7f00211c894e199f",
           "author": "Kori Ramijoo, Scott Harding, Sonia Brownsett, David Copland",
           "description": "In this post, we showcase how Dr. Kori Ramajoo, Dr. Sonia Brownsett, Prof. David Copland, from QARC, and Scott Harding, a person living with aphasia, used AWS services to develop WordFinder, a mobile, cloud-based solution that helps individuals with aphasia increase their independence through the use of AWS generative AI technology.",

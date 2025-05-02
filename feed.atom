@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-02T14:16:03.080Z</updated>
+    <updated>2025-05-02T16:20:38.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordFinder app: Harnessing generative AI on AWS for aphasia communication]]></title>
+        <id>5f4d2fb57148ca4849a3f3cf7f00211c894e199f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/wordfinder-app-harnessing-generative-ai-on-aws-for-aphasia-communication/"/>
+        <updated>2025-05-02T16:16:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we showcase how Dr. Kori Ramajoo, Dr. Sonia Brownsett, Prof. David Copland, from QARC, and Scott Harding, a person living with aphasia, used AWS services to develop WordFinder, a mobile, cloud-based solution that helps individuals with aphasia increase their independence through the use of AWS generative AI technology.]]></summary>
+        <author>
+            <name>Kori Ramijoo, Scott Harding, Sonia Brownsett, David Copland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get faster and actionable AWS Trusted Advisor insights to make data-driven decisions using Amazon Q Business]]></title>
+        <id>542285c21d3edb8e59de58195262f4dba32ed628</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/get-faster-and-actionable-aws-trusted-advisor-insights-to-make-data-driven-decisions-using-amazon-q-business/"/>
+        <updated>2025-05-02T16:11:38.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to create an application using Amazon Q Business with Jira integration that used a dataset containing a Trusted Advisor detailed report. This solution demonstrates how to use new generative AI services like Amazon Q Business to get data insights faster and make them actionable.]]></summary>
+        <author>
+            <name>Satish Bhonsle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best practices for Meta Llama 3.2 multimodal fine-tuning on Amazon Bedrock]]></title>
         <id>d7d5eaef99dba985314485739c892bebdc7ee128</id>

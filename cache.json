@@ -705,16 +705,6 @@
           "wordCount": 4016,
           "title": "Advanced tracing and evaluation of generative AI agents using LangChain and Amazon SageMaker AI MLFlow",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/advanced-tracing-1120x630.jpg"
-        },
-        {
-          "id": "d94b0f4ec2954f3de2a4cfe7eaa5fa95b3fa942e",
-          "author": "Claudio Mazzoni",
-          "description": "In this blog, we discuss how to optimize prompting in Amazon Nova for the best price-performance.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-the-best-price-performance/",
-          "publishedOn": "2025-04-04T20:03:48.000Z",
-          "wordCount": 3813,
-          "title": "Prompting for the best price-performance",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/04/featured-images-ML-18369-1120x630.jpg"
         }
       ]
     }

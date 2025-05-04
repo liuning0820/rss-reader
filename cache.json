@@ -725,26 +725,6 @@
           "wordCount": 5173,
           "title": "Evaluate models or RAG systems using Amazon Bedrock Evaluations – Now generally available",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/03/featured-images-ML-18535-1120x630.jpg"
-        },
-        {
-          "id": "48c3e3b3dc5efeb94262aea05e6654599ed278b9",
-          "author": "Jeremy Curuksu",
-          "description": "In this post, we introduce a state-of-the-art method to fine-tune LLMs by reinforcement learning, reviewed the pros and cons of RLHF vs. RLAIF vs. DPO, and saw how to scale LLM fine-tuning efforts with RLAIF. We also see how to implement an end-to-end RLAIF pipeline on SageMaker using the Hugging Face Transformer and TRL libraries, and using either off-the-shelf toxicity reward models to align responses during PPO or by directly prompting an LLM to generate quantitative reward feedback during PPO.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/",
-          "publishedOn": "2025-04-04T14:42:45.000Z",
-          "wordCount": 6932,
-          "title": "Fine-tune large language models with reinforcement learning from human or AI feedback",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/22/AWSblog_RLAIF_Fig1-1260x357.png"
-        },
-        {
-          "id": "102c2441982fdee3685ba828a9ca0b65479b5b7d",
-          "author": "Daniel Wirjo",
-          "description": "Lumi is a leading Australian fintech lender empowering small businesses with fast, flexible, and transparent funding solutions. They use real-time data and machine learning (ML) to offer customized loans that fuel sustainable growth and solve the challenges of accessing capital. This post explores how Lumi uses Amazon SageMaker AI to meet this goal, enhance their transaction processing and classification capabilities, and ultimately grow their business by providing faster processing of loan applications, more accurate credit decisions, and improved customer experience.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-lumi-streamlines-loan-approvals-with-amazon-sagemaker-ai/",
-          "publishedOn": "2025-04-04T14:39:37.000Z",
-          "wordCount": 2620,
-          "title": "How Lumi streamlines loan approvals with Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/28/Cover-Lumi-and-SageMaker-AI.png"
         }
       ]
     }

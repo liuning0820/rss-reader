@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1636",
+          "author": "lex",
+          "description": "View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven’t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class.   Ivan Shubin — Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-475/",
+          "publishedOn": "2025-05-05T01:48:52.000Z",
+          "wordCount": 1073,
+          "title": "SRE Weekly Issue #475",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1632",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Why do we do blameless incident reviews? This is a truly outstanding article about blameless incident analysis! Beyond just “why”, […]",

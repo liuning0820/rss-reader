@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-05T01:22:48.726Z</updated>
+    <updated>2025-05-05T03:10:50.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #475]]></title>
+        <id>https://sreweekly.com/?p=1636</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-475/"/>
+        <updated>2025-05-05T01:48:52.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven’t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class.   Ivan Shubin — Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plex Media Server]]></title>
         <id>https://liuning0820.github.io/2025/05/05/plex-media-server.html</id>

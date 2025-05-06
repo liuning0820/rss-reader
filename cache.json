@@ -81,16 +81,6 @@
           "wordCount": 1156,
           "title": "SRE Weekly Issue #472",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1626",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: We’re building an AI agent that investigates incidents with you—diagnosing the problem and even fixing it. Go behind the scenes with the incident.io engineers rethinking what’s possible with AI, one ambitious idea (and bug) at a time. https://go.incident.io/building-with-ai Models, models every where, so let’s have a […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-471/",
-          "publishedOn": "2025-04-07T01:23:33.000Z",
-          "wordCount": 1093,
-          "title": "SRE Weekly Issue #471",
-          "imageUrl": null
         }
       ]
     },

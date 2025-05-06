@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-06T20:18:54.408Z</updated>
+    <updated>2025-05-06T22:16:06.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use custom metrics to evaluate your generative AI application with Amazon Bedrock]]></title>
+        <id>c51805fa560884cce1bbae1c377f2012aed6c1d4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/use-custom-metrics-to-evaluate-your-generative-ai-application-with-amazon-bedrock/"/>
+        <updated>2025-05-06T21:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Now with Amazon Bedrock, you can develop custom evaluation metrics for both model and RAG evaluations. This capability extends the LLM-as-a-judge framework that drives Amazon Bedrock Evaluations. In this post, we demonstrate how to use custom metrics in Amazon Bedrock Evaluations to measure and improve the performance of your generative AI applications according to your specific business requirements and evaluation criteria.]]></summary>
+        <author>
+            <name>Shreyas Subramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #475]]></title>
         <id>https://sreweekly.com/?p=1636</id>

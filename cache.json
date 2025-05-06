@@ -117,6 +117,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c51805fa560884cce1bbae1c377f2012aed6c1d4",
+          "author": "Shreyas Subramanian",
+          "description": "Now with Amazon Bedrock, you can develop custom evaluation metrics for both model and RAG evaluations. This capability extends the LLM-as-a-judge framework that drives Amazon Bedrock Evaluations. In this post, we demonstrate how to use custom metrics in Amazon Bedrock Evaluations to measure and improve the performance of your generative AI applications according to your specific business requirements and evaluation criteria.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/use-custom-metrics-to-evaluate-your-generative-ai-application-with-amazon-bedrock/",
+          "publishedOn": "2025-05-06T21:39:21.000Z",
+          "wordCount": 5280,
+          "title": "Use custom metrics to evaluate your generative AI application with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/06/featured-images-ML-18787-1120x630.jpg"
+        },
+        {
           "id": "57d2f86c6988c8d1677c4125febebcac23c21901",
           "author": "Suheel Farooq",
           "description": "This post explores a financial assistant system that specializes in three key tasks: portfolio creation, company research, and communication. This post aims to illustrate the use of multiple specialized agents within the Amazon Bedrock multi-agent collaboration capability, with particular emphasis on their application in financial analysis.",

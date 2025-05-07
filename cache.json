@@ -117,6 +117,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d3ed23edd69b6b44950ec2b5fd67ca33b7652c7e",
+          "author": "Kilian Zimmerer, Daniel Ringler",
+          "description": "Whereas traditional forecasting methods typically rely on statistical modeling, Chronos treats time series data as a language to be modeled and uses a pre-trained FM to generate forecasts — similar to how large language models (LLMs) generate texts. Chronos helps you achieve accurate predictions faster, significantly reducing development time compared to traditional methods. In this post, we share how Deutsche Bahn is redefining forecasting using Chronos models, and provide an example use case to demonstrate how you can get started using Chronos.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-deutsche-bahn-redefines-forecasting-using-chronos-models-now-available-on-amazon-bedrock-marketplace/",
+          "publishedOn": "2025-05-07T15:22:11.000Z",
+          "wordCount": 2832,
+          "title": "How Deutsche Bahn redefines forecasting using Chronos models – Now available on Amazon Bedrock Marketplace",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/28/ml-18537-architecture-1260x353.png"
+        },
+        {
           "id": "c51805fa560884cce1bbae1c377f2012aed6c1d4",
           "author": "Shreyas Subramanian",
           "description": "Now with Amazon Bedrock, you can develop custom evaluation metrics for both model and RAG evaluations. This capability extends the LLM-as-a-judge framework that drives Amazon Bedrock Evaluations. In this post, we demonstrate how to use custom metrics in Amazon Bedrock Evaluations to measure and improve the performance of your generative AI applications according to your specific business requirements and evaluation criteria.",

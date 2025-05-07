@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-07T04:20:04.118Z</updated>
+    <updated>2025-05-07T06:24:45.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -684,16 +684,6 @@
         <summary type="html"><![CDATA[Prompt caching, now generally available on Amazon Bedrock with Anthropic’s Claude 3.5 Haiku and Claude 3.7 Sonnet, along with Nova Micro, Nova Lite, and Nova Pro models, lowers response latency by up to 85% and reduces costs up to 90% by caching frequently used prompts across multiple API calls. This post provides a detailed overview of the prompt caching feature on Amazon Bedrock and offers guidance on how to effectively use this feature to achieve improved latency and cost savings.]]></summary>
         <author>
             <name>Sharon Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced tracing and evaluation of generative AI agents using LangChain and Amazon SageMaker AI MLFlow]]></title>
-        <id>4959a2b205b5a5decd8466087e09ec4d8b74954e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/advanced-tracing-and-evaluation-of-generative-ai-agents-using-langchain-and-amazon-sagemaker-ai-mlflow/"/>
-        <updated>2025-04-07T17:45:21.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I show you how to combine LangChain's LangGraph, Amazon SageMaker AI, and MLflow to demonstrate a powerful workflow for developing, evaluating, and deploying sophisticated generative AI agents. This integration provides the tools needed to gain deep insights into the generative AI agent's performance, iterate quickly, and maintain version control throughout the development process.]]></summary>
-        <author>
-            <name>Sandeep Raveesh-Babu</name>
         </author>
     </entry>
 </feed>

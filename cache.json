@@ -715,16 +715,6 @@
           "wordCount": 4435,
           "title": "Effectively use prompt caching on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/featured-images-ML-18188-1120x630.jpg"
-        },
-        {
-          "id": "4959a2b205b5a5decd8466087e09ec4d8b74954e",
-          "author": "Sandeep Raveesh-Babu",
-          "description": "In this post, I show you how to combine LangChain's LangGraph, Amazon SageMaker AI, and MLflow to demonstrate a powerful workflow for developing, evaluating, and deploying sophisticated generative AI agents. This integration provides the tools needed to gain deep insights into the generative AI agent's performance, iterate quickly, and maintain version control throughout the development process.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/advanced-tracing-and-evaluation-of-generative-ai-agents-using-langchain-and-amazon-sagemaker-ai-mlflow/",
-          "publishedOn": "2025-04-07T17:45:21.000Z",
-          "wordCount": 4016,
-          "title": "Advanced tracing and evaluation of generative AI agents using LangChain and Amazon SageMaker AI MLFlow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/advanced-tracing-1120x630.jpg"
         }
       ]
     }

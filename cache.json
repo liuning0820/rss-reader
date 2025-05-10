@@ -605,16 +605,6 @@
           "wordCount": 2439,
           "title": "Racing beyond DeepRacer: Debut of the AWS LLM League",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/03/ML-18355-7-1186x630.jpg"
-        },
-        {
-          "id": "81e630b8ad5f49e6704cd19294eef60b81c97bfb",
-          "author": "Anoop Saha",
-          "description": "In this post, we explore the challenges of large-scale frontier model training, focusing on hardware failures and the benefits of Amazon SageMaker HyperPod - a solution that minimizes disruptions, enhances efficiency, and reduces training costs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/reduce-ml-training-costs-with-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-04-10T20:11:51.000Z",
-          "wordCount": 3624,
-          "title": "Reduce ML training costs with Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/10/featured-images-ML-17713-1120x630.jpg"
         }
       ]
     }

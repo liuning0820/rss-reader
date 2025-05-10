@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-10T03:01:56.131Z</updated>
+    <updated>2025-05-10T04:18:53.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -614,16 +614,6 @@
         <summary type="html"><![CDATA[In this post, we explore how AI agents can streamline compliance and fulfill regulatory requirements for financial institutions using Amazon Bedrock and CrewAI. We demonstrate how to build a multi-agent system that can automatically summarize new regulations, assess their impact on operations, and provide prescriptive technical guidance. You'll learn how to use Amazon Bedrock Knowledge Bases and Amazon Bedrock Agents with CrewAI to create a comprehensive, automated compliance solution.]]></summary>
         <author>
             <name>Balu Mathew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixtral Large is now available in Amazon Bedrock]]></title>
-        <id>22652c43a225c2a761388326148bfe423faac911</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/pixtral-large-is-now-available-in-amazon-bedrock/"/>
-        <updated>2025-04-10T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to get started with the Pixtral Large model in Amazon Bedrock. The Pixtral Large multimodal model allows you to tackle a variety of use cases, such as document understanding, logical reasoning, handwriting recognition, image comparison, entity extraction, extracting structured data from scanned images, and caption generation.]]></summary>
-        <author>
-            <name>Deepesh Dhapola</name>
         </author>
     </entry>
 </feed>

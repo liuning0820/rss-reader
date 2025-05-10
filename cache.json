@@ -645,16 +645,6 @@
           "wordCount": 3135,
           "title": "Automating regulatory compliance: A multi-agent solution using Amazon Bedrock and CrewAI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/03/image001.png"
-        },
-        {
-          "id": "22652c43a225c2a761388326148bfe423faac911",
-          "author": "Deepesh Dhapola",
-          "description": "In this post, we demonstrate how to get started with the Pixtral Large model in Amazon Bedrock. The Pixtral Large multimodal model allows you to tackle a variety of use cases, such as document understanding, logical reasoning, handwriting recognition, image comparison, entity extraction, extracting structured data from scanned images, and caption generation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-large-is-now-available-in-amazon-bedrock/",
-          "publishedOn": "2025-04-10T15:30:11.000Z",
-          "wordCount": 3221,
-          "title": "Pixtral Large is now available in Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/10/pixlb-1120x630.png"
         }
       ]
     }

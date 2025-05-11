@@ -575,36 +575,6 @@
           "wordCount": 3290,
           "title": "Dynamic text-to-SQL for enterprise workloads with Amazon Bedrock Agents",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/Picture2-2.png"
-        },
-        {
-          "id": "893eb38706d37a76b293ad637e9500feca29f0d4",
-          "author": "Upendra V",
-          "description": "In this post, we demonstrate how you can use custom plugins for Amazon Q Business to build a chatbot that can interact with multiple APIs using natural language prompts. We showcase how to build an AIOps chatbot that enables users to interact with their AWS infrastructure through natural language queries and commands. The chatbot is capable of handling tasks such as querying the data about Amazon Elastic Compute Cloud (Amazon EC2) ports and Amazon Simple Storage Service (Amazon S3) buckets access settings.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-an-aiops-chatbot-with-amazon-q-business-custom-plugins/",
-          "publishedOn": "2025-04-11T17:50:13.000Z",
-          "wordCount": 2711,
-          "title": "Building an AIOps chatbot with Amazon Q Business custom plugins",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/11/aiopschatbot-1120x630.png"
-        },
-        {
-          "id": "c68a587504a8f1066bc6492787e67120fd3dd4e6",
-          "author": "Peter Chung",
-          "description": "This post describes how the AWS Customer Channel Technology – Localization Team worked with TransPerfect to integrate Amazon Bedrock into the GlobalLink translation management system, a cloud-based solution designed to help organizations manage their multilingual content and translation workflows. Organizations use TransPerfect’s solution to rapidly create and deploy content at scale in multiple languages using AI.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-transperfect-improved-translation-quality-and-efficiency-using-amazon-bedrock/",
-          "publishedOn": "2025-04-11T17:25:50.000Z",
-          "wordCount": 2657,
-          "title": "How TransPerfect Improved Translation Quality and Efficiency Using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/04/ml-17188-1.png"
-        },
-        {
-          "id": "57251eef5036c4016bbcd24a6292d5c1be91b7b9",
-          "author": "Vincent Oh",
-          "description": "The AWS LLM League was designed to lower the barriers to entry in generative AI model customization by providing an experience where participants, regardless of their prior data science experience, could engage in fine-tuning LLMs. Using Amazon SageMaker JumpStart, attendees were guided through the process of customizing LLMs to address real business challenges adaptable to their domain.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/racing-beyond-deepracer-debut-of-the-aws-llm-league/",
-          "publishedOn": "2025-04-11T17:16:58.000Z",
-          "wordCount": 2439,
-          "title": "Racing beyond DeepRacer: Debut of the AWS LLM League",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/03/ML-18355-7-1186x630.jpg"
         }
       ]
     }

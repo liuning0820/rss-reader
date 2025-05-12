@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1638",
+          "author": "lex",
+          "description": "View on sreweekly.com Automation and The Substitution Myth The myth is: The underlying and often unexamined assumption for the benefits of automation is the notion that computers/machines are better at some tasks, and humans are better at a different, non-overlapping set of tasks. This article lays out several pitfalls to this approach, with references.   Courtney […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-476/",
+          "publishedOn": "2025-05-12T01:16:27.000Z",
+          "wordCount": 1082,
+          "title": "SRE Weekly Issue #476",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1636",
           "author": "lex",
           "description": "View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven’t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class.   Ivan Shubin — Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: […]",

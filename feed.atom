@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-11T22:15:10.839Z</updated>
+    <updated>2025-05-12T01:23:26.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #476]]></title>
+        <id>https://sreweekly.com/?p=1638</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-476/"/>
+        <updated>2025-05-12T01:16:27.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Automation and The Substitution Myth The myth is: The underlying and often unexamined assumption for the benefits of automation is the notion that computers/machines are better at some tasks, and humans are better at a different, non-overlapping set of tasks. This article lays out several pitfalls to this approach, with references.   Courtney […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elevate marketing intelligence with Amazon Bedrock and LLMs for content creation, sentiment analysis, and campaign performance evaluation]]></title>
         <id>0786623591ded64861ac461a9031cc138626a83f</id>

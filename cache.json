@@ -97,6 +97,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "43f1932e06197826eb958196bb1b7aaa2683f5dd",
+          "author": "Hina Chaudhry",
+          "description": "Generative AI tools have transformed how we work, create, and process information. At Amazon Web Services (AWS), security is our top priority. Therefore, Amazon Bedrock provides comprehensive security controls and best practices to help protect your applications and data. In this post, we explore the security measures and practical strategies provided by Amazon Bedrock Agents to safeguard your AI interactions against indirect prompt injections, making sure that your applications remain both secure and reliable.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agents-a-guide-to-safeguarding-against-indirect-prompt-injections/",
+          "publishedOn": "2025-05-13T17:33:33.000Z",
+          "wordCount": 3388,
+          "title": "Securing Amazon Bedrock Agents: A guide to safeguarding against indirect prompt injections",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/13/featured-images-ML-18386-1120x630.jpg"
+        },
+        {
+          "id": "4b5179d063aca37ff510ea5e080fa2bb7691d931",
+          "author": "Kanishk Mahajan",
+          "description": "In this post, we demonstrate a solution using Amazon Elastic Kubernetes Service (EKS) with Amazon Bedrock to build scalable and containerized RAG solutions for your generative AI applications on AWS while bringing your unstructured user file data to Amazon Bedrock in a straightforward, fast, and secure way.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-containerized-rag-based-generative-ai-applications-in-aws-using-amazon-eks-with-amazon-bedrock/",
+          "publishedOn": "2025-05-13T16:43:18.000Z",
+          "wordCount": 1983,
+          "title": "Build scalable containerized RAG based generative AI applications in AWS using Amazon EKS with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/23/eksbedrock-arch-diagram1.png"
+        },
+        {
+          "id": "177effddf1cba62f5f209b4e1c1bb68cbfb141bb",
+          "author": "Julio P. Roque",
+          "description": "Recognizing the transformative benefits of generative AI for enterprises, we at Hexagon’s Asset Lifecycle Intelligence division sought to enhance how users interact with our Enterprise Asset Management (EAM) products. Understanding these advantages, we partnered with AWS to embark on a journey to develop HxGN Alix, an AI-powered digital worker using AWS generative AI services. This blog post explores the strategy, development, and implementation of HxGN Alix, demonstrating how a tailored AI solution can drive efficiency and enhance user satisfaction.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-hexagon-built-an-ai-assistant-using-aws-generative-ai-services/",
+          "publishedOn": "2025-05-13T16:39:20.000Z",
+          "wordCount": 3790,
+          "title": "How Hexagon built an AI assistant using AWS generative AI services",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/LLMEvaluation-978x630.png"
+        },
+        {
           "id": "363b3c61905d9d7bad69e82c87e5221adba9bd80",
           "author": "Dylan Martin",
           "description": "In this post, we demonstrate how your organization can reduce the end-to-end burden of resolving regular challenges experienced by your IT support teams—from understanding errors and reviewing diagnoses, remediation steps, and relevant documentation, to opening external support tickets using common third-party services such as Jira.",

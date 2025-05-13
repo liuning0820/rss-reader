@@ -71,16 +71,6 @@
           "wordCount": 1189,
           "title": "SRE Weekly Issue #473",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1628",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Scaling Nextdoor’s Datastores: Part 4 In this part of the Scaling Nextdoor’s Datastores blog series, we will see how the […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-472/",
-          "publishedOn": "2025-04-14T01:52:42.000Z",
-          "wordCount": 1156,
-          "title": "SRE Weekly Issue #472",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-14T04:20:39.367Z</updated>
+    <updated>2025-05-14T06:24:47.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -544,26 +544,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to elevate business productivity by leveraging Amazon Q to provide insights that enable research, data analysis, and report potential fraud cases within Amazon Connect.]]></summary>
         <author>
             <name>Sujatha Dantuluri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build multi-agent systems with LangGraph and Amazon Bedrock]]></title>
-        <id>e34b849cc972cfe09bef67955216498f74f95777</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-multi-agent-systems-with-langgraph-and-amazon-bedrock/"/>
-        <updated>2025-04-14T16:47:42.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how to integrate open-source multi-agent framework, LangGraph, with Amazon Bedrock. It explains how to use LangGraph and Amazon Bedrock to build powerful, interactive multi-agent applications that use graph-based orchestration.]]></summary>
-        <author>
-            <name>Jagdeep Singh Soni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic text-to-SQL for enterprise workloads with Amazon Bedrock Agents]]></title>
-        <id>6fb7b0495fdbcebc1c495bd994fbb60b2a4617cd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/dynamic-text-to-sql-for-enterprise-workloads-with-amazon-bedrock-agents/"/>
-        <updated>2025-04-14T16:44:36.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how enterprises can implement a scalable agentic text-to-SQL solution using Amazon Bedrock Agents, with advanced error-handling tools and automated schema discovery to enhance database query efficiency.]]></summary>
-        <author>
-            <name>Jiwon Yeom</name>
         </author>
     </entry>
 </feed>

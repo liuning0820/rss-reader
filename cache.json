@@ -575,26 +575,6 @@
           "wordCount": 2933,
           "title": "Elevate business productivity with Amazon Q and Amazon Connect",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/ML-17430_architecture.jpg"
-        },
-        {
-          "id": "e34b849cc972cfe09bef67955216498f74f95777",
-          "author": "Jagdeep Singh Soni",
-          "description": "This post demonstrates how to integrate open-source multi-agent framework, LangGraph, with Amazon Bedrock. It explains how to use LangGraph and Amazon Bedrock to build powerful, interactive multi-agent applications that use graph-based orchestration.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-systems-with-langgraph-and-amazon-bedrock/",
-          "publishedOn": "2025-04-14T16:47:42.000Z",
-          "wordCount": 3207,
-          "title": "Build multi-agent systems with LangGraph and Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/02/blog-18269-Pic6.png"
-        },
-        {
-          "id": "6fb7b0495fdbcebc1c495bd994fbb60b2a4617cd",
-          "author": "Jiwon Yeom",
-          "description": "This post demonstrates how enterprises can implement a scalable agentic text-to-SQL solution using Amazon Bedrock Agents, with advanced error-handling tools and automated schema discovery to enhance database query efficiency.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-text-to-sql-for-enterprise-workloads-with-amazon-bedrock-agents/",
-          "publishedOn": "2025-04-14T16:44:36.000Z",
-          "wordCount": 3290,
-          "title": "Dynamic text-to-SQL for enterprise workloads with Amazon Bedrock Agents",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/Picture2-2.png"
         }
       ]
     }

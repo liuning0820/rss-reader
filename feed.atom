@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-15T18:24:10.012Z</updated>
+    <updated>2025-05-15T20:18:53.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Apoidea Group enhances visual information extraction from banking documents with multimodal models using LLaMA-Factory on Amazon SageMaker HyperPod]]></title>
+        <id>5c7e1d518e2b6b677f282e747c9ec8ba35cdae0a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-apoidea-group-enhances-visual-information-extraction-from-banking-documents-with-multimodal-models-using-llama-factory-on-amazon-sagemaker-hyperpod/"/>
+        <updated>2025-05-15T19:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Building on this foundation of specialized information extraction solutions and using the capabilities of SageMaker HyperPod, we collaborate with APOIDEA Group to explore the use of large vision language models (LVLMs) to further improve table structure recognition performance on banking and financial documents. In this post, we present our work and step-by-step code on fine-tuning the Qwen2-VL-7B-Instruct model using LLaMA-Factory on SageMaker HyperPod.]]></summary>
+        <author>
+            <name>Tony Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Qualtrics built Socrates: An AI platform powered by Amazon SageMaker and Amazon Bedrock]]></title>
+        <id>5a1d027034926735963684b5c8857b2a60e07cba</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-qualtrics-built-socrates-an-ai-platform-powered-by-amazon-sagemaker-and-amazon-bedrock/"/>
+        <updated>2025-05-15T19:53:51.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how Qualtrics built an AI platform powered by Amazon SageMaker and Amazon Bedrock.]]></summary>
+        <author>
+            <name>Jay Kshirsagar, Ronald Quan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vxceed secures transport operations with Amazon Bedrock]]></title>
+        <id>c2f492c5ef4f95750e6250075eabe260c89c5735</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/vxceed-secures-transport-operations-with-amazon-bedrock/"/>
+        <updated>2025-05-15T19:45:29.000Z</updated>
+        <summary type="html"><![CDATA[AWS partnered with Vxceed to support their AI strategy, resulting in the development of LimoConnect Q, an innovative ground transportation management solution. Using AWS services including Amazon Bedrock and Lambda, Vxceed successfully built a secure, AI-powered solution that streamlines trip booking and document processing.]]></summary>
+        <author>
+            <name>Deepika Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost-effective AI image generation with PixArt-Sigma inference on AWS Trainium and AWS Inferentia]]></title>
+        <id>cfc90a1a4fbacee3b7ee8f216a7fb23e12f334a3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/cost-effective-ai-image-generation-with-pixart-sigma-inference-on-aws-trainium-and-aws-inferentia/"/>
+        <updated>2025-05-14T15:23:55.000Z</updated>
+        <summary type="html"><![CDATA[This post is the first in a series where we will run multiple diffusion transformers on Trainium and Inferentia-powered instances. In this post, we show how you can deploy PixArt-Sigma to Trainium and Inferentia-powered instances.]]></summary>
+        <author>
+            <name>Achintya Pinninti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cost-effective AI image generation with PixArt-Σ inference on AWS Trainium and AWS Inferentia]]></title>
         <id>cfc90a1a4fbacee3b7ee8f216a7fb23e12f334a3</id>

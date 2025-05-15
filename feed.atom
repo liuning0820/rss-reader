@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-15T04:20:29.326Z</updated>
+    <updated>2025-05-15T06:25:30.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -544,36 +544,6 @@
         <summary type="html"><![CDATA[In this post, we present a solution using generative AI and large language models (LLMs) to alleviate the time-consuming and labor-intensive tasks required to build a computer vision application, enabling you to immediately start taking pictures of your asset labels and extract the necessary information to update the inventory using AWS services]]></summary>
         <author>
             <name>Elisabetta Castellano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clario enhances the quality of the clinical trial documentation process with Amazon Bedrock]]></title>
-        <id>49234d6900b93c10000923535317b636c87d9ace</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/clario-enhances-the-quality-of-the-clinical-trial-documentation-process-with-amazon-bedrock/"/>
-        <updated>2025-04-15T17:55:59.000Z</updated>
-        <summary type="html"><![CDATA[The collaboration between Clario and AWS demonstrated the potential of AWS AI and machine learning (AI/ML) services and generative AI models, such as Anthropic’s Claude, to streamline document generation processes in the life sciences industry and, specifically, for complicated clinical trial processes.]]></summary>
-        <author>
-            <name>Kim Nguyen, Shyam Banuprakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Mixtral 8x7B on Amazon SageMaker with AWS Inferentia2]]></title>
-        <id>6cbc32a8b2d4b6fd829c36f935e4e67f4cf60085</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/optimizing-mixtral-8x7b-on-amazon-sagemaker-with-aws-inferentia2/"/>
-        <updated>2025-04-15T17:47:22.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how to deploy and serve the Mixtral 8x7B language model on AWS Inferentia2 instances for cost-effective, high-performance inference. We'll walk through model compilation using Hugging Face Optimum Neuron, which provides a set of tools enabling straightforward model loading, training, and inference, and the Text Generation Inference (TGI) Container, which has the toolkit for deploying and serving LLMs with Hugging Face.]]></summary>
-        <author>
-            <name>Lior Sadan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevate business productivity with Amazon Q and Amazon Connect]]></title>
-        <id>6ba7698fcbae7600ff9437d516e45a73b8012a62</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/elevate-business-productivity-with-amazon-q-and-amazon-connect/"/>
-        <updated>2025-04-15T17:42:49.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to elevate business productivity by leveraging Amazon Q to provide insights that enable research, data analysis, and report potential fraud cases within Amazon Connect.]]></summary>
-        <author>
-            <name>Sujatha Dantuluri</name>
         </author>
     </entry>
 </feed>

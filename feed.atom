@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-16T16:20:52.543Z</updated>
+    <updated>2025-05-16T18:23:35.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Set up a custom plugin on Amazon Q Business and authenticate with Amazon Cognito to interact with backend systems]]></title>
+        <id>7c0ae7779651df7403ff349ccd3e9dba21de1c7a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/set-up-a-custom-plugin-on-amazon-q-business-and-authenticate-with-amazon-cognito-to-interact-with-backend-systems/"/>
+        <updated>2025-05-16T16:51:03.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build a custom plugin with Amazon Q Business for backend integration. This plugin can integrate existing systems, including third-party systems, with little to no development in just weeks and automate critical workflows. Additionally, we show how to safeguard the solution using Amazon Cognito and AWS IAM Identity Center, maintaining the safety and integrity of sensitive data and workflows.]]></summary>
+        <author>
+            <name>Shubhankar Sumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detect hallucinations for RAG-based systems]]></title>
+        <id>c066f508ee98a7a883ba339d25588e4cf1cad04a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/"/>
+        <updated>2025-05-16T16:44:40.000Z</updated>
+        <summary type="html"><![CDATA[This post walks you through how to create a basic hallucination detection system for RAG-based applications. We also weigh the pros and cons of different methods in terms of accuracy, precision, recall, and cost.]]></summary>
+        <author>
+            <name>Zainab Afolabi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS machine learning supports Scuderia Ferrari HP pit stop analysis]]></title>
+        <id>ab02c2ba048cee727f635bfba5b103161e04ec46</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-supports-scuderia-ferrari-hp-pit-stop-analysis/"/>
+        <updated>2025-05-16T16:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Pit crews are trained to operate at optimum efficiency, although measuring their performance has been challenging, until now. In this post, we share how Amazon Web Services (AWS) is helping Scuderia Ferrari HP develop more accurate pit stop analysis techniques using machine learning (ML).]]></summary>
+        <author>
+            <name>Alessio Ludovici</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate edge AI development with SiMa.ai Edgematic with a seamless AWS integration]]></title>
+        <id>3506c6f5650be58ba9bd15c98acba997e7ebb305</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-edge-ai-development-with-sima-ai-edgematic-with-a-seamless-aws-integration/"/>
+        <updated>2025-05-16T16:28:10.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to retrain and quantize a model using SageMaker AI and the SiMa.ai Palette software suite. The goal is to accurately detect individuals in environments where visibility and protective equipment detection are essential for compliance and safety.]]></summary>
+        <author>
+            <name>Manuel Lopez Roldan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Apoidea Group enhances visual information extraction from banking documents with multimodal models using LLaMA-Factory on Amazon SageMaker HyperPod]]></title>
         <id>5c7e1d518e2b6b677f282e747c9ec8ba35cdae0a</id>

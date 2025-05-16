@@ -585,36 +585,6 @@
           "wordCount": 2559,
           "title": "How Salesforce achieves high-performance model deployment with Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/10/DJLInitiationFlow-1157x630.png"
-        },
-        {
-          "id": "7ee99f509b5c4cd129bd088849d2c765155cff78",
-          "author": "Vikram Venkataraman",
-          "description": "In this post, we demonstrate how to orchestrate multiple Amazon Bedrock agents to create a sophisticated Amazon EKS troubleshooting system. By enabling collaboration between specialized agents—deriving insights from K8sGPT and performing actions through the ArgoCD framework—you can build a comprehensive automation that identifies, analyzes, and resolves cluster issues with minimal human intervention.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-eks-troubleshooting-using-an-amazon-bedrock-agentic-workflow/",
-          "publishedOn": "2025-04-16T20:13:09.000Z",
-          "wordCount": 3004,
-          "title": "Automate Amazon EKS troubleshooting using an Amazon Bedrock agentic workflow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/08/blog-update.drawio-1260x476.png"
-        },
-        {
-          "id": "667853f669be33e9aad6de15c701a96537cba1e8",
-          "author": "John Kitaoka",
-          "description": "In this post, we explore how Low-Rank Adaptation (LoRA) can be used to address these challenges effectively. Specifically, we discuss using LoRA serving with LoRA eXchange (LoRAX) and Amazon Elastic Compute Cloud (Amazon EC2) GPU instances, allowing organizations to efficiently manage and serve their growing portfolio of fine-tuned models, optimize costs, and provide seamless performance for their customers.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/",
-          "publishedOn": "2025-04-16T19:53:20.000Z",
-          "wordCount": 4078,
-          "title": "Host concurrent LLMs with LoRAX",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/07/LoRaX-EC2-2-1260x628.png"
-        },
-        {
-          "id": "e326ccc136d794a47ea3cca93d24f56235827ad8",
-          "author": "Elisabetta Castellano",
-          "description": "In this post, we present a solution using generative AI and large language models (LLMs) to alleviate the time-consuming and labor-intensive tasks required to build a computer vision application, enabling you to immediately start taking pictures of your asset labels and extract the necessary information to update the inventory using AWS services",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-based-asset-inventory-application-with-low-or-no-training/",
-          "publishedOn": "2025-04-16T19:49:33.000Z",
-          "wordCount": 5658,
-          "title": "Build a computer vision-based asset inventory application with low or no training",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/08/embeddings-908x630.png"
         }
       ]
     }

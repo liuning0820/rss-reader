@@ -107,6 +107,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "75a61d5430bb898ce18f5629e9db4a21b6efce4a",
+          "author": "Gan Luan",
+          "description": "HERE collaborated with the GenAIIC. Our joint mission was to create an intelligent AI coding assistant that could provide explanations and executable code solutions in response to users’ natural language queries. The requirement was to build a scalable system that could translate natural language questions into HTML code with embedded JavaScript, ready for immediate rendering as an interactive map that users can see on screen.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/here-technologies-boosts-developer-productivity-with-new-generative-ai-powered-coding-assistant/",
+          "publishedOn": "2025-05-19T17:41:23.000Z",
+          "wordCount": 3655,
+          "title": "HERE Technologies boosts developer productivity with new generative AI-powered coding assistant",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/24/ml-17998-here-map.png"
+        },
+        {
           "id": "7c0ae7779651df7403ff349ccd3e9dba21de1c7a",
           "author": "Shubhankar Sumar",
           "description": "In this post, we demonstrate how to build a custom plugin with Amazon Q Business for backend integration. This plugin can integrate existing systems, including third-party systems, with little to no development in just weeks and automate critical workflows. Additionally, we show how to safeguard the solution using Amazon Cognito and AWS IAM Identity Center, maintaining the safety and integrity of sensitive data and workflows.",

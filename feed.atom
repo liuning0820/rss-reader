@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-19T01:24:58.109Z</updated>
+    <updated>2025-05-19T03:16:01.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #477]]></title>
+        <id>https://sreweekly.com/?p=1640</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-477/"/>
+        <updated>2025-05-19T01:33:16.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Human Error Strikes Again… or Does It? Why don’t we look for the root cause of a successful outcome?   Hamed Silatani — Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Set up a custom plugin on Amazon Q Business and authenticate with Amazon Cognito to interact with backend systems]]></title>
         <id>7c0ae7779651df7403ff349ccd3e9dba21de1c7a</id>

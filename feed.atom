@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-20T14:17:18.838Z</updated>
+    <updated>2025-05-20T16:21:52.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -544,16 +544,6 @@
         <summary type="html"><![CDATA[In this post, we explore the importance of evaluating LLMs in the context of generative AI applications, highlighting the challenges posed by issues like hallucinations and biases. We introduced a comprehensive solution using AWS services to automate the evaluation process, allowing for continuous monitoring and assessment of LLM performance. By using tools like the FMeval Library, Ragas, LLMeter, and Step Functions, the solution provides flexibility and scalability, meeting the evolving needs of LLM consumers.]]></summary>
         <author>
             <name>Deepak Dalakoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #473]]></title>
-        <id>https://sreweekly.com/?p=1630</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-473/"/>
-        <updated>2025-04-21T03:02:18.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Scaling Nextdoor’s Datastores: Part 5 In this final installment of the Scaling Nextdoor’s Datastores blog series, we detail how the […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

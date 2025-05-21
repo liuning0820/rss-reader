@@ -580,16 +580,6 @@
           "wordCount": 2409,
           "title": "Amazon Bedrock Prompt Optimization Drives LLM Applications Innovation for Yuewen Group",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/featured-images-ML-17933-1120x630.jpg"
-        },
-        {
-          "id": "662f5bb7bcd5c548f57a81fa71398f9a2314ae3a",
-          "author": "John Baker",
-          "description": "In this post, we combine Amazon Bedrock Agents and Foursquare APIs to demonstrate how you can use a location-aware agent to bring personalized responses to your users.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-location-aware-agent-using-amazon-bedrock-agents-and-foursquare-apis/",
-          "publishedOn": "2025-04-21T18:45:27.000Z",
-          "wordCount": 2266,
-          "title": "Build a location-aware agent using Amazon Bedrock Agents and Foursquare APIs",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/08/ML-18276-1-Archiecture-diagram-1260x350.png"
         }
       ]
     }

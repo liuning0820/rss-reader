@@ -97,6 +97,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "35a3824e39437ee1ba0e5e64bb4d3c293be08d53",
+          "author": "Mohammad Tahsin",
+          "description": "In this post, we present a solution for securing distributed logging multi-account deployments using Amazon Bedrock and LangChain.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/secure-distributed-logging-in-scalable-multi-account-deployments-using-amazon-bedrock-and-langchain/",
+          "publishedOn": "2025-05-21T16:46:26.000Z",
+          "wordCount": 3375,
+          "title": "Secure distributed logging in scalable multi-account deployments using Amazon Bedrock and LangChain",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/21/featured-images-ML-18659-1120x630.jpg"
+        },
+        {
           "id": "4a6c86c70e01f7426915a487c56ac46ac4c90e26",
           "author": "Piyali Kamra",
           "description": "In this post, we introduce a multi-agent collaboration pipeline for processing unstructured insurance data using Amazon Bedrock, featuring specialized agents for classification, conversion, and metadata extraction. We demonstrate how this domain-aware approach transforms diverse data formats like claims documents, videos, and audio files into metadata-rich outputs that enable fraud detection, customer 360-degree views, and advanced analytics.",

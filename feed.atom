@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-21T10:18:41.484Z</updated>
+    <updated>2025-05-21T12:35:24.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -534,16 +534,6 @@
         <summary type="html"><![CDATA[In this post, we explore how Infosys developed Infosys Event AI to unlock the insights generated from events and conferences. Through its suite of features—including real-time transcription, intelligent summaries, and an interactive chat assistant—Infosys Event AI makes event knowledge accessible and provides an immersive engagement solution for the attendees, during and after the event.]]></summary>
         <author>
             <name>Aparajithan Vaidyanathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Bedrock Prompt Optimization Drives LLM Applications Innovation for Yuewen Group]]></title>
-        <id>b08d7e14274d10a8f864b2e11e6ff5c6db9c8d05</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-optimization-drives-llm-applications-innovation-for-yuewen-group/"/>
-        <updated>2025-04-21T22:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are excited to announce the availability of Prompt Optimization on Amazon Bedrock. With this capability, you can now optimize your prompts for several use cases with a single API call or a click of a button on the Amazon Bedrock console. In this blog post, we discuss how Prompt Optimization improves the performance of large language models (LLMs) for intelligent text processing task in Yuewen Group.]]></summary>
-        <author>
-            <name>Wang Rui</name>
         </author>
     </entry>
 </feed>

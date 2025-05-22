@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-22T14:17:03.499Z</updated>
+    <updated>2025-05-22T16:21:59.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boosting team productivity with Amazon Q Business Microsoft 365 integrations for Microsoft 365 Outlook and Word]]></title>
+        <id>22135586f4a2581be94eb7d2108f3b4cffa6c571</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/boosting-team-productivity-with-amazon-q-business-microsoft-365-integrations-for-microsoft-365-outlook-and-word/"/>
+        <updated>2025-05-22T15:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Business integration with Microsoft 365 applications offers powerful AI assistance directly within the tools that your team already uses daily. In this post, we explore how these integrations for Outlook and Word can transform your workflow.]]></summary>
+        <author>
+            <name>Leo Mentis Raj Selvaraj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrate Amazon Bedrock Agents with Slack]]></title>
         <id>122da9844c8487009861561e388917ecd564d08c</id>

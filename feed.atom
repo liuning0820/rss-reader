@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-22T16:21:59.074Z</updated>
+    <updated>2025-05-22T18:24:11.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting]]></title>
+        <id>545be771637c99fd9634e31b4d4e23075480378a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimize-query-responses-with-user-feedback-using-amazon-bedrock-embedding-and-few-shot-prompting/"/>
+        <updated>2025-05-22T16:43:07.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how Amazon Bedrock, combined with a user feedback dataset and few-shot prompting, can refine responses for higher user satisfaction. By using Amazon Titan Text Embeddings v2, we demonstrate a statistically significant improvement in response quality, making it a valuable tool for applications seeking accurate and personalized responses.]]></summary>
+        <author>
+            <name>Tanay Chowdhury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boosting team productivity with Amazon Q Business Microsoft 365 integrations for Microsoft 365 Outlook and Word]]></title>
         <id>22135586f4a2581be94eb7d2108f3b4cffa6c571</id>

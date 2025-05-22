@@ -97,6 +97,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "545be771637c99fd9634e31b4d4e23075480378a",
+          "author": "Tanay Chowdhury",
+          "description": "This post demonstrates how Amazon Bedrock, combined with a user feedback dataset and few-shot prompting, can refine responses for higher user satisfaction. By using Amazon Titan Text Embeddings v2, we demonstrate a statistically significant improvement in response quality, making it a valuable tool for applications seeking accurate and personalized responses.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimize-query-responses-with-user-feedback-using-amazon-bedrock-embedding-and-few-shot-prompting/",
+          "publishedOn": "2025-05-22T16:43:07.000Z",
+          "wordCount": 3637,
+          "title": "Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/22/featured-images-ML-17920-1120x630.jpg"
+        },
+        {
           "id": "22135586f4a2581be94eb7d2108f3b4cffa6c571",
           "author": "Leo Mentis Raj Selvaraj",
           "description": "Amazon Q Business integration with Microsoft 365 applications offers powerful AI assistance directly within the tools that your team already uses daily. In this post, we explore how these integrations for Outlook and Word can transform your workflow.",

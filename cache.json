@@ -97,6 +97,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "21066146982c3823b42b1b8a93bd9f30e8b4a272",
+          "author": "Mulay Ahmed and Ruby Donald",
+          "description": "In this post, we explore how Principal used this opportunity to build an integrated voice VA reporting and analytics solution using an Amazon QuickSight dashboard.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-increases-voice-virtual-assistant-performance-using-genesys-amazon-lex-and-amazon-quicksight/",
+          "publishedOn": "2025-05-23T16:02:19.000Z",
+          "wordCount": 2242,
+          "title": "Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/23/featured-images-ML-17823-1120x630.jpg"
+        },
+        {
           "id": "545be771637c99fd9634e31b4d4e23075480378a",
           "author": "Tanay Chowdhury",
           "description": "This post demonstrates how Amazon Bedrock, combined with a user feedback dataset and few-shot prompting, can refine responses for higher user satisfaction. By using Amazon Titan Text Embeddings v2, we demonstrate a statistically significant improvement in response quality, making it a valuable tool for applications seeking accurate and personalized responses.",

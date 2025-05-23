@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-23T14:16:24.353Z</updated>
+    <updated>2025-05-23T16:20:33.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight]]></title>
+        <id>21066146982c3823b42b1b8a93bd9f30e8b4a272</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/principal-financial-group-increases-voice-virtual-assistant-performance-using-genesys-amazon-lex-and-amazon-quicksight/"/>
+        <updated>2025-05-23T16:02:19.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Principal used this opportunity to build an integrated voice VA reporting and analytics solution using an Amazon QuickSight dashboard.]]></summary>
+        <author>
+            <name>Mulay Ahmed and Ruby Donald</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting]]></title>
         <id>545be771637c99fd9634e31b4d4e23075480378a</id>

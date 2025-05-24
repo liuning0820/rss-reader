@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-24T04:19:36.131Z</updated>
+    <updated>2025-05-24T06:21:57.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,16 +494,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Why do we do blameless incident reviews? This is a truly outstanding article about blameless incident analysis! Beyond just “why”, […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale]]></title>
-        <id>c51652081e86ead377a26a3a9bd261c58ad9b6d7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/"/>
-        <updated>2025-04-24T16:23:48.000Z</updated>
-        <summary type="html"><![CDATA[In this post, the AWS and Cisco teams unveil a new methodical approach that addresses the challenges of enterprise-grade SQL generation. The teams were able to reduce the complexity of the NL2SQL process while delivering higher accuracy and better overall performance.]]></summary>
-        <author>
-            <name>Renuka Kumar, Toby Fotherby, Shweta Keshavanarayana, Thomas Matthew, Daniel Vaquero, Atul Varshneya, and Jessica Wu</name>
         </author>
     </entry>
 </feed>

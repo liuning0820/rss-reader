@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-27T12:36:07.000Z</updated>
+    <updated>2025-05-27T14:16:58.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -504,16 +504,6 @@
         <summary type="html"><![CDATA[In this post, we introduced the Open Source Bedrock Agent Evaluation framework, a Langfuse-integrated solution that streamlines the agent development process. We demonstrated how this evaluation framework can be integrated with pharmaceutical research agents. We used it to evaluate agent performance against biomarker questions and sent traces to Langfuse to view evaluation metrics across question types.]]></summary>
         <author>
             <name>Rishiraj Chandra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #474]]></title>
-        <id>https://sreweekly.com/?p=1632</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-474/"/>
-        <updated>2025-04-28T01:55:52.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: We’ve just raised $62M at incident.io to build AI agents that resolve incidents with you. See how we’re pioneering a new era of incident management. https://go.incident.io/blog/incident.io-raises-62m Why do we do blameless incident reviews? This is a truly outstanding article about blameless incident analysis! Beyond just “why”, […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

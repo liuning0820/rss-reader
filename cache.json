@@ -107,6 +107,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "199eef1e439f0bd41b70ead937e65266f9998de3",
+          "author": "Ashish Lal",
+          "description": "Amazon Bedrock Data Automation helps organizations streamline development and boost efficiency through customizable, multimodal analytics. It eliminates the heavy lifting of unstructured content processing at scale, whether for video or audio. The new capabilities make it faster to extract tailored, generative AI-powered insights like scene summaries, key topics, and customer intents from video and audio. This unlocks the value of unstructured content for use cases such as improving sales productivity and enhancing customer experience.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/",
+          "publishedOn": "2025-05-27T20:22:24.000Z",
+          "wordCount": 1896,
+          "title": "New Amazon Bedrock Data Automation capabilities streamline video and audio analysis",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/27/featured-images-ML-18353-1120x630.jpg"
+        },
+        {
           "id": "7be52456e9b72716d754a63c027f22d516211526",
           "author": "Heidi Vogel Brockmann, Ronald Brockmann",
           "description": "In this post, we share how GuardianGamer uses AWS services including Amazon Nova and Amazon Bedrock to deliver a scalable and efficient supervision platform. The team uses Amazon Nova for intelligent narrative generation to provide parents with meaningful insights into their children’s gaming activities and social interactions, while maintaining a non-intrusive approach to monitoring.",

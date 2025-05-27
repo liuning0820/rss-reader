@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-27T20:19:01.918Z</updated>
+    <updated>2025-05-27T22:16:03.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Amazon Bedrock Data Automation capabilities streamline video and audio analysis]]></title>
+        <id>199eef1e439f0bd41b70ead937e65266f9998de3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/"/>
+        <updated>2025-05-27T20:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock Data Automation helps organizations streamline development and boost efficiency through customizable, multimodal analytics. It eliminates the heavy lifting of unstructured content processing at scale, whether for video or audio. The new capabilities make it faster to extract tailored, generative AI-powered insights like scene summaries, key topics, and customer intents from video and audio. This unlocks the value of unstructured content for use cases such as improving sales productivity and enhancing customer experience.]]></summary>
+        <author>
+            <name>Ashish Lal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GuardianGamer scales family-safe cloud gaming with AWS]]></title>
         <id>7be52456e9b72716d754a63c027f22d516211526</id>

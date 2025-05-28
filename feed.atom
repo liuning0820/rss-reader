@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-28T04:22:04.785Z</updated>
+    <updated>2025-05-28T06:25:14.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -504,16 +504,6 @@
         <summary type="html"><![CDATA[In this post, we present an LLM migration paradigm and architecture, including a continuous process of model evaluation, prompt generation using Amazon Bedrock, and data-aware optimization. The solution evaluates the model performance before migration and iteratively optimizes the Amazon Nova model prompts using user-provided dataset and objective metrics.]]></summary>
         <author>
             <name>Yunfei Bai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customize Amazon Nova models to improve tool usage]]></title>
-        <id>8665f6092a91a35da1d3f6ba2973900cc4bcb4d7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-to-improve-tool-usage/"/>
-        <updated>2025-04-28T17:47:59.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate model customization (fine-tuning) for tool use with Amazon Nova. We first introduce a tool usage use case, and gave details about the dataset. We walk through the details of Amazon Nova specific data formatting and showed how to do tool calling through the Converse and Invoke APIs in Amazon Bedrock. After getting the baseline results from Amazon Nova models, we explain in detail the fine-tuning process, hosting fine-tuned models with provisioned throughput, and using the fine-tuned Amazon Nova models for inference.]]></summary>
-        <author>
-            <name>Baishali Chaudhury</name>
         </author>
     </entry>
 </feed>

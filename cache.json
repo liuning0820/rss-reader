@@ -545,16 +545,6 @@
           "wordCount": 4139,
           "title": "Customize Amazon Nova models to improve tool usage",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/23/iML-18065-SolutionOverviewjpg-911x630.jpg"
-        },
-        {
-          "id": "2881e224e92fe270c8629a96ed58405bdd40ef66",
-          "author": "Rishiraj Chandra",
-          "description": "In this post, we introduced the Open Source Bedrock Agent Evaluation framework, a Langfuse-integrated solution that streamlines the agent development process. We demonstrated how this evaluation framework can be integrated with pharmaceutical research agents. We used it to evaluate agent performance against biomarker questions and sent traces to Langfuse to view evaluation metrics across question types.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/",
-          "publishedOn": "2025-04-28T15:31:56.000Z",
-          "wordCount": 3286,
-          "title": "Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/23/ML-18286-Eval-Workflow.png"
         }
       ]
     }

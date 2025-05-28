@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-28T03:11:41.936Z</updated>
+    <updated>2025-05-28T04:22:04.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate model customization (fine-tuning) for tool use with Amazon Nova. We first introduce a tool usage use case, and gave details about the dataset. We walk through the details of Amazon Nova specific data formatting and showed how to do tool calling through the Converse and Invoke APIs in Amazon Bedrock. After getting the baseline results from Amazon Nova models, we explain in detail the fine-tuning process, hosting fine-tuned models with provisioned throughput, and using the fine-tuned Amazon Nova models for inference.]]></summary>
         <author>
             <name>Baishali Chaudhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge]]></title>
-        <id>2881e224e92fe270c8629a96ed58405bdd40ef66</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/"/>
-        <updated>2025-04-28T15:31:56.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduced the Open Source Bedrock Agent Evaluation framework, a Langfuse-integrated solution that streamlines the agent development process. We demonstrated how this evaluation framework can be integrated with pharmaceutical research agents. We used it to evaluate agent performance against biomarker questions and sent traces to Langfuse to view evaluation metrics across question types.]]></summary>
-        <author>
-            <name>Rishiraj Chandra</name>
         </author>
     </entry>
 </feed>

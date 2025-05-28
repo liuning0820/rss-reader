@@ -107,6 +107,41 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "eb0a99c699ae379848f181928b419e9309a439bf",
+          "author": "Sovik Nath",
+          "description": "In this post, we walk through how to build a multi-agent investment research assistant using the multi-agent collaboration capability of Amazon Bedrock. Our solution demonstrates how a team of specialized AI agents can work together to analyze financial news, evaluate stock performance, optimize portfolio allocations, and deliver comprehensive investment insights—all orchestrated through a unified, natural language interface.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/part-3-building-an-ai-powered-assistant-for-investment-research-with-multi-agent-collaboration-in-amazon-bedrock-and-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-05-28T18:39:06.000Z",
+          "wordCount": 3867,
+          "title": "Part 3: Building an AI-powered assistant for investment research with multi-agent collaboration in Amazon Bedrock and Amazon Bedrock Data Automation",
+          "enclosure": {
+            "length": "66646354",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18163/InvestmentResearchAgentDemov2.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/15/technical.jpg"
+        },
+        {
+          "id": "6b4b3ddeb038bf71268875a066a75dadfacb5a97",
+          "author": "Ganesh Raam Ramadurai",
+          "description": "This post explores deploying a text-to-SQL pipeline using generative AI models and Amazon Bedrock to ask natural language questions to a genomics database. We demonstrate how to implement an AI assistant web interface with AWS Amplify and explain the prompt engineering strategies adopted to generate the SQL queries. Finally, we present instructions to deploy the service in your own AWS account.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/a-generative-ai-prototype-with-amazon-bedrock-transforms-life-sciences-and-the-genome-analysis-process/",
+          "publishedOn": "2025-05-28T18:36:14.000Z",
+          "wordCount": 3726,
+          "title": "A generative AI prototype with Amazon Bedrock transforms life sciences and the genome analysis process",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/16/ML-16693-arch-diag-Image-001-1.png"
+        },
+        {
+          "id": "018494f0dc6de7f5d73496137436311d74f01036",
+          "author": "Santosh Vallurupalli",
+          "description": "We are excited to announce the availability of Gemma 3 27B Instruct models through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. In this post, we show you how to get started with Gemma 3 27B Instruct on both Amazon Bedrock Marketplace and SageMaker JumpStart, and how to use the model’s powerful instruction-following capabilities in your applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/gemma-3-27b-model-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2025-05-28T18:30:05.000Z",
+          "wordCount": 3152,
+          "title": "Gemma 3 27B model now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/28/featured-images-ML-18880-1120x630.jpg"
+        },
+        {
           "id": "3a07715d8709362ff17a9dd5999533a47fff05a6",
           "author": "Lana Zhang",
           "description": "In this post, we walk through building a full-stack application that processes multimodal content using Amazon Bedrock Data Automation, stores the extracted information in an Amazon Bedrock knowledge base, and enables natural language querying through a RAG-based Q&A interface.",

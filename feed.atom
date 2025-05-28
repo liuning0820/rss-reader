@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-28T12:36:04.015Z</updated>
+    <updated>2025-05-28T14:18:09.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Rufus doubled their inference speed and handled Prime Day traffic with AWS AI chips and parallel decoding]]></title>
+        <id>6eac06ee11a06e22b9c5ae252cc52001146f7347</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-rufus-doubled-their-inference-speed-and-handled-prime-day-traffic-with-aws-ai-chips-and-parallel-decoding/"/>
+        <updated>2025-05-28T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Rufus, an AI-powered shopping assistant, relies on many components to deliver its customer experience including a foundation LLM (for response generation) and a query planner (QP) model for query classification and retrieval enhancement. This post focuses on how the QP model used draft centric speculative decoding (SD)—also called parallel decoding—with AWS AI chips to meet the demands of Prime Day. By combining parallel decoding with AWS Trainium and Inferentia chips, Rufus achieved two times faster response times, a 50% reduction in inference costs, and seamless scalability during peak traffic.]]></summary>
+        <author>
+            <name>Shruti Dubey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Amazon Bedrock Data Automation capabilities streamline video and audio analysis]]></title>
         <id>199eef1e439f0bd41b70ead937e65266f9998de3</id>

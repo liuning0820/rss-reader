@@ -580,26 +580,6 @@
           "wordCount": 3321,
           "title": "Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/image001-3-1242x630.png"
-        },
-        {
-          "id": "45ccc28d0b7f4cbdb32d71e45329d168b9ea8260",
-          "author": "Vu Le",
-          "description": "This post demonstrates how AWS LLM League’s gamified enablement accelerates partners’ practical AI development capabilities, while showcasing how fine-tuning smaller language models can deliver cost-effective, specialized solutions for specific industry needs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/intervision-accelerates-ai-development-using-aws-llm-league-and-amazon-sagemaker-ai/",
-          "publishedOn": "2025-04-29T16:21:46.000Z",
-          "wordCount": 2770,
-          "title": "InterVision accelerates AI development using AWS LLM League and Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/16/ML-18199-image002-workflow.png"
-        },
-        {
-          "id": "09adbaa09f66d966d0056383025cb1cf99245bf6",
-          "author": "Yunfei Bai",
-          "description": "In this post, we present an LLM migration paradigm and architecture, including a continuous process of model evaluation, prompt generation using Amazon Bedrock, and data-aware optimization. The solution evaluates the model performance before migration and iteratively optimizes the Amazon Nova model prompts using user-provided dataset and objective metrics.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/improve-amazon-nova-migration-performance-with-data-aware-prompt-optimization/",
-          "publishedOn": "2025-04-29T16:18:24.000Z",
-          "wordCount": 4259,
-          "title": "Improve Amazon Nova migration performance with data-aware prompt optimization",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/17/ML18320-figure-1B-1080x630.png"
         }
       ]
     }

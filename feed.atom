@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-29T03:12:02.734Z</updated>
+    <updated>2025-05-29T04:22:36.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -544,26 +544,6 @@
         <summary type="html"><![CDATA[In this post, we explore how AWS services can be seamlessly integrated with open source tools to help establish a robust red teaming mechanism within your organization. Specifically, we discuss Data Reply’s red teaming solution, a comprehensive blueprint to enhance AI safety and responsible AI practices.]]></summary>
         <author>
             <name>Cassandre Vandeputte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InterVision accelerates AI development using AWS LLM League and Amazon SageMaker AI]]></title>
-        <id>45ccc28d0b7f4cbdb32d71e45329d168b9ea8260</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/intervision-accelerates-ai-development-using-aws-llm-league-and-amazon-sagemaker-ai/"/>
-        <updated>2025-04-29T16:21:46.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how AWS LLM League’s gamified enablement accelerates partners’ practical AI development capabilities, while showcasing how fine-tuning smaller language models can deliver cost-effective, specialized solutions for specific industry needs.]]></summary>
-        <author>
-            <name>Vu Le</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Amazon Nova migration performance with data-aware prompt optimization]]></title>
-        <id>09adbaa09f66d966d0056383025cb1cf99245bf6</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/improve-amazon-nova-migration-performance-with-data-aware-prompt-optimization/"/>
-        <updated>2025-04-29T16:18:24.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we present an LLM migration paradigm and architecture, including a continuous process of model evaluation, prompt generation using Amazon Bedrock, and data-aware optimization. The solution evaluates the model performance before migration and iteratively optimizes the Amazon Nova model prompts using user-provided dataset and objective metrics.]]></summary>
-        <author>
-            <name>Yunfei Bai</name>
         </author>
     </entry>
 </feed>

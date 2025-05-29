@@ -107,6 +107,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "3bb4bbe5b235420c492617a3d2121b3ebb163040",
+          "author": "Karsten Schroer",
+          "description": "In this post, we explore how a leading GeoFM (Clay Foundation’s Clay foundation model available on Hugging Face) can be deployed for large-scale inference and fine-tuning on Amazon SageMaker.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-earth-observation-with-geospatial-foundation-models-on-aws/",
+          "publishedOn": "2025-05-29T21:16:44.000Z",
+          "wordCount": 4922,
+          "title": "Revolutionizing earth observation with geospatial foundation models on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/featured-images-ML-18209-1120x630.jpg"
+        },
+        {
           "id": "227913960e800aac958438d8c82982a0a8e17870",
           "author": "Ying Hou",
           "description": "In this post, we demonstrate an example of building an agentic RAG application using the LlamaIndex framework. LlamaIndex is a framework that connects FMs with external data sources. It helps ingest, structure, and retrieve information from databases, APIs, PDFs, and more, enabling the agent and RAG for AI applications. This application serves as a research tool, using the Mistral Large 2 FM on Amazon Bedrock generate responses for the agent flow.",

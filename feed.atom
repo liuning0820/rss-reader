@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-29T18:23:52.783Z</updated>
+    <updated>2025-05-29T20:19:18.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create an agentic RAG application for advanced knowledge discovery with LlamaIndex, and Mistral in Amazon Bedrock]]></title>
+        <id>227913960e800aac958438d8c82982a0a8e17870</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/create-an-agentic-rag-application-for-advanced-knowledge-discovery-with-llamaindex-and-mistral-in-amazon-bedrock/"/>
+        <updated>2025-05-29T20:10:51.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate an example of building an agentic RAG application using the LlamaIndex framework. LlamaIndex is a framework that connects FMs with external data sources. It helps ingest, structure, and retrieve information from databases, APIs, PDFs, and more, enabling the agent and RAG for AI applications. This application serves as a research tool, using the Mistral Large 2 FM on Amazon Bedrock generate responses for the agent flow.]]></summary>
+        <author>
+            <name>Ying Hou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-to-image basics with Amazon Nova Canvas]]></title>
+        <id>e12f6c346e449dcd74e7d65f0f4348aea5599fd8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/text-to-image-basics-with-amazon-nova-canvas/"/>
+        <updated>2025-05-29T19:29:49.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we focus on the Amazon Nova Canvas image generation model. We then provide an overview of the image generation process (diffusion) and dive deep into the input parameters for text-to-image generation with Amazon Nova Canvas.]]></summary>
+        <author>
+            <name>Arjun Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-world applications of Amazon Nova Canvas for interior design and product photography]]></title>
+        <id>f4ad59727833b77a21e74fb047eedefddd145e94</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/real-world-applications-of-amazon-nova-canvas-for-interior-design-and-product-photography/"/>
+        <updated>2025-05-29T19:26:14.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Amazon Nova Canvas can solve real-world business challenges through advanced image generation techniques. We focus on two specific use cases that demonstrate the power and flexibility of this technology: interior design and product photography.]]></summary>
+        <author>
+            <name>Arjun Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 3: Building an AI-powered assistant for investment research with multi-agent collaboration in Amazon Bedrock and Amazon Bedrock Data Automation]]></title>
         <id>eb0a99c699ae379848f181928b419e9309a439bf</id>

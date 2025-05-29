@@ -570,16 +570,6 @@
           "wordCount": 3235,
           "title": "Insights in implementing production-ready solutions with generative AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/30/insights-in-implementing-1120x630.jpg"
-        },
-        {
-          "id": "0461f1e9e2ede75141c4b21edb2e51224ab8b422",
-          "author": "Cassandre Vandeputte",
-          "description": "In this post, we explore how AWS services can be seamlessly integrated with open source tools to help establish a robust red teaming mechanism within your organization. Specifically, we discuss Data Reply’s red teaming solution, a comprehensive blueprint to enhance AI safety and responsible AI practices.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-in-action-how-data-reply-red-teaming-supports-generative-ai-safety-on-aws/",
-          "publishedOn": "2025-04-29T16:32:18.000Z",
-          "wordCount": 3321,
-          "title": "Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/image001-3-1242x630.png"
         }
       ]
     }

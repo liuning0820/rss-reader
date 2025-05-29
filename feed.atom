@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-29T04:22:36.269Z</updated>
+    <updated>2025-05-29T06:25:35.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -534,16 +534,6 @@
         <summary type="html"><![CDATA[As generative AI revolutionizes industries, organizations are eager to harness its potential. However, the journey from production-ready solutions to full-scale implementation can present distinct operational and technical considerations. This post explores key insights and lessons learned from AWS customers in Europe, Middle East, and Africa (EMEA) who have successfully navigated this transition, providing a roadmap for others looking to follow suit.]]></summary>
         <author>
             <name>Giorgio Pessot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS]]></title>
-        <id>0461f1e9e2ede75141c4b21edb2e51224ab8b422</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/responsible-ai-in-action-how-data-reply-red-teaming-supports-generative-ai-safety-on-aws/"/>
-        <updated>2025-04-29T16:32:18.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how AWS services can be seamlessly integrated with open source tools to help establish a robust red teaming mechanism within your organization. Specifically, we discuss Data Reply’s red teaming solution, a comprehensive blueprint to enhance AI safety and responsible AI practices.]]></summary>
-        <author>
-            <name>Cassandre Vandeputte</name>
         </author>
     </entry>
 </feed>

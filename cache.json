@@ -570,16 +570,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18689/agentic-demo-video.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/01/ML-18689-IDP_in_mortgage_processing-1105x630.jpg"
-        },
-        {
-          "id": "218ca171ee4d12bdd12a91241b0ac16e3df57b57",
-          "author": "Yanyan Zhang",
-          "description": "In this post, we highlight the advanced data augmentation techniques and performance improvements in Amazon Bedrock Model Distillation with Meta's Llama model family. This technique transfers knowledge from larger, more capable foundation models (FMs) that act as teachers to smaller, more efficient models (students), creating specialized models that excel at specific tasks.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-model-distillation-boost-function-calling-accuracy-while-reducing-cost-and-latency/",
-          "publishedOn": "2025-05-01T01:04:26.000Z",
-          "wordCount": 3848,
-          "title": "Amazon Bedrock Model Distillation: Boost function calling accuracy while reducing cost and latency",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/30/abmd-1120x630.png"
         }
       ]
     }

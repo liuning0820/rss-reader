@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-30T16:21:51.716Z</updated>
+    <updated>2025-05-30T18:23:51.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy Amazon SageMaker Projects with Terraform Cloud]]></title>
+        <id>d7f85bb395e5d94da0c05bbf126af35c78256cb2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-projects-with-terraform-cloud/"/>
+        <updated>2025-05-30T17:27:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post you define, deploy, and provision a SageMaker Project custom template purely in Terraform. With no dependencies on other IaC tools, you can now enable SageMaker Projects strictly within your Terraform Enterprise infrastructure.]]></summary>
+        <author>
+            <name>Max Copeland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ZURU improved the accuracy of floor plan generation by 109% using Amazon Bedrock and Amazon SageMaker]]></title>
+        <id>18d316f7d52dafde0260f4c03c9632fd3035c21e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-zuru-improved-the-accuracy-of-floor-plan-generation-by-109-using-amazon-bedrock-and-amazon-sagemaker/"/>
+        <updated>2025-05-30T17:18:24.000Z</updated>
+        <summary type="html"><![CDATA[ZURU collaborated with AWS Generative AI Innovation Center and AWS Professional Services to implement a more accurate text-to-floor plan generator using generative AI. In this post, we show you why a solution using a large language model (LLM) was chosen. We explore how model selection, prompt engineering, and fine-tuning can be used to improve results.]]></summary>
+        <author>
+            <name>Federico Di Mattia, Simone Bartoli, Marco Venturelli, Stefano Pellegrini, Enrico Petrucci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going beyond AI assistants: Examples from Amazon.com reinventing industries with generative AI]]></title>
+        <id>b462012de270e591499ba1c159ea3e9bfda36da6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/going-beyond-ai-assistants-examples-from-amazon-com-reinventing-industries-with-generative-ai/"/>
+        <updated>2025-05-30T17:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Non-conversational applications offer unique advantages such as higher latency tolerance, batch processing, and caching, but their autonomous nature requires stronger guardrails and exhaustive quality assurance compared to conversational applications, which benefit from real-time user feedback and supervision. This post examines four diverse Amazon.com examples of such generative AI applications.]]></summary>
+        <author>
+            <name>Burak Gozluklu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architect a mature generative AI foundation on AWS]]></title>
+        <id>4b216781c496ceff2fc13b51dfa10b08ff663497</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/architect-a-mature-generative-ai-foundation-on-aws/"/>
+        <updated>2025-05-30T17:02:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we give an overview of a well-established generative AI foundation, dive into its components, and present an end-to-end perspective. We look at different operating models and explore how such a foundation can operate within those boundaries. Lastly, we present a maturity model that helps enterprises assess their evolution path.]]></summary>
+        <author>
+            <name>Chaitra Mathur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battery Bother]]></title>
+        <id>http://blog.thestateofme.com/?p=6280</id>
+        <link href="https://blog.thestateofme.com/2025/05/30/battery-bother/"/>
+        <updated>2025-05-30T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR I was foolish to believe that paying a premium for a battery with a 5y guarantee would actually get me a battery that lasted 5y :( Background The original battery in my 2010 XC60 died after a little over 5y. I replaced it with an Exide EA852 from Tayna that lasted a bit over […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Amazon OpenSearch ML connector APIs]]></title>
         <id>fb70e4ee6ff898bf0bb9aeebd4156917448a7068</id>

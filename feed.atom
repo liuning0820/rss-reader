@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-30T20:18:34.108Z</updated>
+    <updated>2025-05-30T22:16:05.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -594,16 +594,6 @@
         <summary type="html"><![CDATA[In this post, we introduce agentic automatic mortgage approval, a next-generation sample solution that uses autonomous AI agents powered by Amazon Bedrock Agents and Amazon Bedrock Data Automation. These agents orchestrate the entire mortgage approval process—intelligently verifying documents, assessing risk, and making data-driven decisions with minimal human intervention.]]></summary>
         <author>
             <name>Wrick Talukdar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 2025]]></title>
-        <id>http://blog.thestateofme.com/?p=6250</id>
-        <link href="https://blog.thestateofme.com/2025/05/01/april-2025/"/>
-        <updated>2025-05-01T09:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate April has been rather nice, which has given the opportunity for plenty of long walks :) Florida We started the month in Florida, more on that in its own post – Florida 2025. Bike bother Vespa I mentioned my broken Vespa last month, and returned from Florida to a diagnosis of low compression, and […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

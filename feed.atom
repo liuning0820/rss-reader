@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-30T14:17:28.621Z</updated>
+    <updated>2025-05-30T16:21:51.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Amazon OpenSearch ML connector APIs]]></title>
+        <id>fb70e4ee6ff898bf0bb9aeebd4156917448a7068</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/using-amazon-opensearch-ml-connector-apis/"/>
+        <updated>2025-05-30T15:57:21.000Z</updated>
+        <summary type="html"><![CDATA[OpenSearch offers a wide range of third-party machine learning (ML) connectors to support this augmentation. This post highlights two of these third-party ML connectors. The first connector we demonstrate is the Amazon Comprehend connector. In this post, we show you how to use this connector to invoke the LangDetect API to detect the languages of ingested documents. The second connector we demonstrate is the Amazon Bedrock connector to invoke the Amazon Titan Text Embeddings v2 model so that you can create embeddings from ingested documents and perform semantic search.]]></summary>
+        <author>
+            <name>John Trollinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging the gap between development and production: Seamless model lifecycle management with Amazon Bedrock]]></title>
+        <id>5c3da5dddd774698cf9ea5a935450a07e68f0cfc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bridging-the-gap-between-development-and-production-seamless-model-lifecycle-management-with-amazon-bedrock/"/>
+        <updated>2025-05-30T15:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock Model Copy and Model Share features provide a powerful option for managing the lifecycle of an AI application from development to production. In this comprehensive blog post, we'll dive deep into the Model Share and Model Copy features, exploring their functionalities, benefits, and practical applications in a typical development-to-production scenario.]]></summary>
+        <author>
+            <name>Ishan Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolutionizing earth observation with geospatial foundation models on AWS]]></title>
         <id>3bb4bbe5b235420c492617a3d2121b3ebb163040</id>

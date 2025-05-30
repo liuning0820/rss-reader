@@ -107,6 +107,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fb70e4ee6ff898bf0bb9aeebd4156917448a7068",
+          "author": "John Trollinger",
+          "description": "OpenSearch offers a wide range of third-party machine learning (ML) connectors to support this augmentation. This post highlights two of these third-party ML connectors. The first connector we demonstrate is the Amazon Comprehend connector. In this post, we show you how to use this connector to invoke the LangDetect API to detect the languages of ingested documents. The second connector we demonstrate is the Amazon Bedrock connector to invoke the Amazon Titan Text Embeddings v2 model so that you can create embeddings from ingested documents and perform semantic search.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-opensearch-ml-connector-apis/",
+          "publishedOn": "2025-05-30T15:57:21.000Z",
+          "wordCount": 3992,
+          "title": "Using Amazon OpenSearch ML connector APIs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/19/ML-17073_arch-diagram-1-910x630.png"
+        },
+        {
+          "id": "5c3da5dddd774698cf9ea5a935450a07e68f0cfc",
+          "author": "Ishan Singh",
+          "description": "Amazon Bedrock Model Copy and Model Share features provide a powerful option for managing the lifecycle of an AI application from development to production. In this comprehensive blog post, we'll dive deep into the Model Share and Model Copy features, exploring their functionalities, benefits, and practical applications in a typical development-to-production scenario.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/bridging-the-gap-between-development-and-production-seamless-model-lifecycle-management-with-amazon-bedrock/",
+          "publishedOn": "2025-05-30T15:53:09.000Z",
+          "wordCount": 3035,
+          "title": "Bridging the gap between development and production: Seamless model lifecycle management with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/20/ML-17607-2-1260x439.png"
+        },
+        {
           "id": "3bb4bbe5b235420c492617a3d2121b3ebb163040",
           "author": "Karsten Schroer",
           "description": "In this post, we explore how a leading GeoFM (Clay Foundation’s Clay foundation model available on Hugging Face) can be deployed for large-scale inference and fine-tuning on Amazon SageMaker.",

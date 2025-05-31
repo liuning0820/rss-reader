@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-31T04:20:30.588Z</updated>
+    <updated>2025-05-31T06:22:56.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -564,36 +564,6 @@
         <summary type="html"><![CDATA[In this post, we share comprehensive best practices and scientific insights for fine-tuning Meta Llama 3.2 multimodal models on Amazon Bedrock. By following these guidelines, you can fine-tune smaller, more cost-effective models to achieve performance that rivals or even surpasses much larger models—potentially reducing both inference costs and latency, while maintaining high accuracy for your specific use case.]]></summary>
         <author>
             <name>Yanyan Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend large language models powered by Amazon SageMaker AI using Model Context Protocol]]></title>
-        <id>bcc75f5647ad075626836f246151b92ad7c3f89e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/extend-large-language-models-powered-by-amazon-sagemaker-ai-using-model-context-protocol/"/>
-        <updated>2025-05-01T17:21:26.000Z</updated>
-        <summary type="html"><![CDATA[The MCP proposed by Anthropic offers a standardized way of connecting FMs to data sources, and now you can use this capability with SageMaker AI. In this post, we presented an example of combining the power of SageMaker AI and MCP to build an application that offers a new perspective on loan underwriting through specialized roles and automated workflows.]]></summary>
-        <author>
-            <name>Mona Mona</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate document translation and standardization with Amazon Bedrock and Amazon Translate]]></title>
-        <id>0bba01f82b9dde8048d99ffbaf537a0130290f65</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-document-translation-and-standardization-with-amazon-bedrock-and-amazon-translate/"/>
-        <updated>2025-05-01T16:54:33.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how you can automate language localization through translating documents using Amazon Web Services (AWS). The solution combines Amazon Bedrock and AWS Serverless technologies, a suite of fully managed event-driven services for running code, managing data, and integrating applications—all without managing servers.]]></summary>
-        <author>
-            <name>Nadhya Polanco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous mortgage processing using Amazon Bedrock Data Automation and Amazon Bedrock Agents]]></title>
-        <id>4632f90cc355bfca6fd537469befe1ce556558a1</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/autonomous-mortgage-processing-using-amazon-bedrock-data-automation-and-amazon-bedrock-agents/"/>
-        <updated>2025-05-01T16:52:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce agentic automatic mortgage approval, a next-generation sample solution that uses autonomous AI agents powered by Amazon Bedrock Agents and Amazon Bedrock Data Automation. These agents orchestrate the entire mortgage approval process—intelligently verifying documents, assessing risk, and making data-driven decisions with minimal human intervention.]]></summary>
-        <author>
-            <name>Wrick Talukdar</name>
         </author>
     </entry>
 </feed>

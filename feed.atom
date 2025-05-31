@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-05-31T08:20:32.996Z</updated>
+    <updated>2025-05-31T10:16:41.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[In this post, we give an overview of a well-established generative AI foundation, dive into its components, and present an end-to-end perspective. We look at different operating models and explore how such a foundation can operate within those boundaries. Lastly, we present a maturity model that helps enterprises assess their evolution path.]]></summary>
         <author>
             <name>Chaitra Mathur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battery Bother]]></title>
+        <id>https://blog.thestateofme.com/?p=6280</id>
+        <link href="http://blog.thestateofme.com/2025/05/30/battery-bother/"/>
+        <updated>2025-05-30T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR I was foolish to believe that paying a premium for a battery with a 5y guarantee would actually get me a battery that lasted 5y :( Background The original battery in my 2010 XC60 died after a little over 5y. I replaced it with an Exide EA852 from Tayna that lasted a bit over […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>
@@ -458,6 +468,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Milo cancer diary part 19 – Four]]></title>
+        <id>https://blog.thestateofme.com/?p=6269</id>
+        <link href="http://blog.thestateofme.com/2025/05/12/milo-cancer-diary-part-19-four/"/>
+        <updated>2025-05-12T11:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Milo is four today, another milestone worth celebrating :) Last week he had a scan, which followed 8 weeks after the end of his third (modified) CHOP protocol. The scan was clear, so we’ll be back to NDSR at the start of July. It’s all a very similar situation to a year ago. Insurance ManyPets […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 19 – Four]]></title>
         <id>http://blog.thestateofme.com/?p=6269</id>
         <link href="https://blog.thestateofme.com/2025/05/12/milo-cancer-diary-part-19-four/"/>
         <updated>2025-05-12T11:55:53.000Z</updated>
@@ -554,16 +574,6 @@
         <summary type="html"><![CDATA[In this post, we show how to create an application using Amazon Q Business with Jira integration that used a dataset containing a Trusted Advisor detailed report. This solution demonstrates how to use new generative AI services like Amazon Q Business to get data insights faster and make them actionable.]]></summary>
         <author>
             <name>Satish Bhonsle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices for Meta Llama 3.2 multimodal fine-tuning on Amazon Bedrock]]></title>
-        <id>d7d5eaef99dba985314485739c892bebdc7ee128</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-meta-llama-3-2-multimodal-fine-tuning-on-amazon-bedrock/"/>
-        <updated>2025-05-01T21:08:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share comprehensive best practices and scientific insights for fine-tuning Meta Llama 3.2 multimodal models on Amazon Bedrock. By following these guidelines, you can fine-tune smaller, more cost-effective models to achieve performance that rivals or even surpasses much larger models—potentially reducing both inference costs and latency, while maintaining high accuracy for your specific use case.]]></summary>
-        <author>
-            <name>Yanyan Zhang</name>
         </author>
     </entry>
 </feed>

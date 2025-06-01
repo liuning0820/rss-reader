@@ -585,26 +585,6 @@
           "wordCount": 4970,
           "title": "Build a gen AI–powered financial assistant with Amazon Bedrock multi-agent collaboration",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/16/image001-1-1047x630.jpg"
-        },
-        {
-          "id": "5f4d2fb57148ca4849a3f3cf7f00211c894e199f",
-          "author": "Kori Ramijoo, Scott Harding, Sonia Brownsett, David Copland",
-          "description": "In this post, we showcase how Dr. Kori Ramajoo, Dr. Sonia Brownsett, Prof. David Copland, from QARC, and Scott Harding, a person living with aphasia, used AWS services to develop WordFinder, a mobile, cloud-based solution that helps individuals with aphasia increase their independence through the use of AWS generative AI technology.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/wordfinder-app-harnessing-generative-ai-on-aws-for-aphasia-communication/",
-          "publishedOn": "2025-05-02T16:16:16.000Z",
-          "wordCount": 3348,
-          "title": "WordFinder app: Harnessing generative AI on AWS for aphasia communication",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/04/ML-16892WordFinder-app-Architecture.png"
-        },
-        {
-          "id": "542285c21d3edb8e59de58195262f4dba32ed628",
-          "author": "Satish Bhonsle",
-          "description": "In this post, we show how to create an application using Amazon Q Business with Jira integration that used a dataset containing a Trusted Advisor detailed report. This solution demonstrates how to use new generative AI services like Amazon Q Business to get data insights faster and make them actionable.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/get-faster-and-actionable-aws-trusted-advisor-insights-to-make-data-driven-decisions-using-amazon-q-business/",
-          "publishedOn": "2025-05-02T16:11:38.000Z",
-          "wordCount": 2681,
-          "title": "Get faster and actionable AWS Trusted Advisor insights to make data-driven decisions using Amazon Q Business",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/02/SA_2-850x630.jpg"
         }
       ]
     }

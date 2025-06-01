@@ -575,16 +575,6 @@
           "wordCount": 5280,
           "title": "Use custom metrics to evaluate your generative AI application with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/06/featured-images-ML-18787-1120x630.jpg"
-        },
-        {
-          "id": "57d2f86c6988c8d1677c4125febebcac23c21901",
-          "author": "Suheel Farooq",
-          "description": "This post explores a financial assistant system that specializes in three key tasks: portfolio creation, company research, and communication. This post aims to illustrate the use of multiple specialized agents within the Amazon Bedrock multi-agent collaboration capability, with particular emphasis on their application in financial analysis.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-gen-ai-powered-financial-assistant-with-amazon-bedrock-multi-agent-collaboration/",
-          "publishedOn": "2025-05-02T17:23:07.000Z",
-          "wordCount": 4970,
-          "title": "Build a gen AI–powered financial assistant with Amazon Bedrock multi-agent collaboration",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/16/image001-1-1047x630.jpg"
         }
       ]
     }

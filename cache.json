@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6282",
+          "author": "Chris Swan",
+          "description": "Pupdate The fair weather has (mostly) continued, which allowed for some nice long walks. Milo turned four at the start of the month :) Brussels The end of the month brought the half term holiday, and Mrs S wanted to spend the first weekend away somewhere. Brussels quickly made the top of the list after […]",
+          "link": "http://blog.thestateofme.com/2025/06/02/may-2025/",
+          "publishedOn": "2025-06-02T12:22:35.000Z",
+          "wordCount": 4255,
+          "title": "May 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/05/pups_202505.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=6280",
           "author": "Chris Swan",

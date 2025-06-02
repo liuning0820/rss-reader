@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-02T01:25:39.910Z</updated>
+    <updated>2025-06-02T03:19:00.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #479]]></title>
+        <id>https://sreweekly.com/?p=1644</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-479/"/>
+        <updated>2025-06-02T02:17:31.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don’t always return you to a previous system state. They can return you to a state you’ve never tested or operated before.   Steve Fenton — Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploy Amazon SageMaker Projects with Terraform Cloud]]></title>
         <id>d7f85bb395e5d94da0c05bbf126af35c78256cb2</id>

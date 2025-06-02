@@ -157,6 +157,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "dc55c0b49c875a811a3e114c791325bab95ee403",
+          "author": "Ganesh Raam Ramadurai",
+          "description": "When a regulatory body like the US Food and Drug Administration (FDA) introduces changes to regulations, organizations are required to evaluate the changes against their internal SOPs. When necessary, they must update their SOPs to align with the regulation changes and maintain compliance. In this post, we show different approaches using Amazon Bedrock to identify relationships between regulation changes and SOPs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fast-track-sop-processing-using-amazon-bedrock/",
+          "publishedOn": "2025-06-02T16:04:37.000Z",
+          "wordCount": 5428,
+          "title": "Fast-track SOP processing using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/16/ML-17198-arch-diag-Image-003-1152x630.png"
+        },
+        {
           "id": "d7f85bb395e5d94da0c05bbf126af35c78256cb2",
           "author": "Max Copeland",
           "description": "In this post you define, deploy, and provision a SageMaker Project custom template purely in Terraform. With no dependencies on other IaC tools, you can now enable SageMaker Projects strictly within your Terraform Enterprise infrastructure.",

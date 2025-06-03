@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6317",
+          "author": "Chris Swan",
+          "description": "Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]",
+          "link": "https://blog.thestateofme.com/2025/06/03/using-a-python-venv-to-run-different-versions-of-cmake/",
+          "publishedOn": "2025-06-03T12:58:06.000Z",
+          "wordCount": 3774,
+          "title": "Using a Python venv to run different versions of CMake",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6282",
           "author": "Chris Swan",
           "description": "Pupdate The fair weather has (mostly) continued, which allowed for some nice long walks. Milo turned four at the start of the month :) Brussels The end of the month brought the half term holiday, and Mrs S wanted to spend the first weekend away somewhere. Brussels quickly made the top of the list after […]",
@@ -110,16 +120,6 @@
           "publishedOn": "2025-05-12T01:16:27.000Z",
           "wordCount": 1082,
           "title": "SRE Weekly Issue #476",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1636",
-          "author": "lex",
-          "description": "View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven’t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class.   Ivan Shubin — Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-475/",
-          "publishedOn": "2025-05-05T01:48:52.000Z",
-          "wordCount": 1073,
-          "title": "SRE Weekly Issue #475",
           "imageUrl": null
         }
       ]

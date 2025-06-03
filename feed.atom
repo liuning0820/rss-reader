@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-03T12:36:26.186Z</updated>
+    <updated>2025-06-03T14:18:12.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using a Python venv to run different versions of CMake]]></title>
+        <id>http://blog.thestateofme.com/?p=6317</id>
+        <link href="https://blog.thestateofme.com/2025/06/03/using-a-python-venv-to-run-different-versions-of-cmake/"/>
+        <updated>2025-06-03T12:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build GraphRAG applications using Amazon Bedrock Knowledge Bases]]></title>
         <id>bbda6d388effd5a44bca2d930f35ee4d1f137b85</id>
@@ -584,16 +594,6 @@
         <summary type="html"><![CDATA[Now with Amazon Bedrock, you can develop custom evaluation metrics for both model and RAG evaluations. This capability extends the LLM-as-a-judge framework that drives Amazon Bedrock Evaluations. In this post, we demonstrate how to use custom metrics in Amazon Bedrock Evaluations to measure and improve the performance of your generative AI applications according to your specific business requirements and evaluation criteria.]]></summary>
         <author>
             <name>Shreyas Subramanian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #475]]></title>
-        <id>https://sreweekly.com/?p=1636</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-475/"/>
-        <updated>2025-05-05T01:48:52.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Anomaly Detection in Time Series Using Statistical Analysis I haven’t seen this level of detail in an article on anomaly detection in quite awhile. Still, the math is very approachable even if you slept through stats class.   Ivan Shubin — Booking.com A Key Incident Response Skill That Can Reduce Resolution Time TL;DR: […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

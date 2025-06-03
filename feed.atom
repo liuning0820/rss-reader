@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-03T16:23:44.407Z</updated>
+    <updated>2025-06-03T18:25:04.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the power of Model Context Protocol (MCP) on AWS]]></title>
+        <id>13977db91c0667df2c60f5413703e78f125f9415</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/"/>
+        <updated>2025-06-03T16:53:40.000Z</updated>
+        <summary type="html"><![CDATA[We’ve witnessed remarkable advances in model capabilities as generative AI companies have invested in developing their offerings. Language models such as Anthropic’s Claude Opus 4 & Sonnet 4, Amazon Nova, and Amazon Bedrock can reason, write, and generate responses with increasing sophistication. But even as these models grow more powerful, they can only work with […]]]></summary>
+        <author>
+            <name>Aditya Addepalli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a scalable AI assistant to help refugees using AWS]]></title>
         <id>17c1ad8a3aa1ddac84328d052610f759cc45c367</id>

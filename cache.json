@@ -147,6 +147,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "17c1ad8a3aa1ddac84328d052610f759cc45c367",
+          "author": "Taras Tsarenko",
+          "description": "The Danish humanitarian organization Bevar Ukraine has developed a comprehensive virtual generative AI-powered assistant called Victor, aimed at addressing the pressing needs of Ukrainian refugees integrating into Danish society. This post details our technical implementation using AWS services to create a scalable, multilingual AI assistant system that provides automated assistance while maintaining data security and GDPR compliance.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-assistant-to-help-refugees-using-aws/",
+          "publishedOn": "2025-06-03T15:35:07.000Z",
+          "wordCount": 2549,
+          "title": "Build a scalable AI assistant to help refugees using AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/15/photo_2025-05-14_14-28-29-AG-250515-1-1091x630.jpg"
+        },
+        {
+          "id": "6c5a159320be3c2e07fe7b729cc907f5a0aa84d4",
+          "author": "Ray Wang",
+          "description": "In this post, we explore how Noodoe uses AI and Amazon Bedrock to optimize EV charging operations. By integrating LLMs, Noodoe enhances station diagnostics, enables dynamic pricing, and delivers multilingual support. These innovations reduce downtime, maximize efficiency, and improve sustainability. Read on to discover how AI is transforming EV charging management.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-diagnostics-flow-with-llm-and-amazon-bedrock-agent-integration/",
+          "publishedOn": "2025-06-03T15:25:01.000Z",
+          "wordCount": 2389,
+          "title": "Enhanced diagnostics flow with LLM and Amazon Bedrock agent integration",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/20/Noodoe-GenAI-Data-Flow.drawio-870x630.png"
+        },
+        {
           "id": "bbda6d388effd5a44bca2d930f35ee4d1f137b85",
           "author": "Ruan Roloff",
           "description": "In this post, we explore how to use Graph-based Retrieval-Augmented Generation (GraphRAG) in Amazon Bedrock Knowledge Bases to build intelligent applications. Unlike traditional vector search, which retrieves documents based on similarity scores, knowledge graphs encode relationships between entities, allowing large language models (LLMs) to retrieve information with context-aware reasoning.",

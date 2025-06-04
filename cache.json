@@ -147,6 +147,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "259f623956d3dd5819ce7d6bd0a6b9fc6ffa7876",
+          "author": "Ilan Gleiser",
+          "description": "In this post, we show how climate tech startups are developing foundation models (FMs) that use extensive environmental datasets to tackle issues such as carbon capture, carbon-negative fuels, new materials design for microplastics destruction, and ecosystem preservation. These specialized models require advanced computational capabilities to process and analyze vast amounts of data effectively.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-climate-tech-startups-are-building-foundation-models-with-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2025-06-04T16:07:46.000Z",
+          "wordCount": 3758,
+          "title": "How climate tech startups are building foundation models with Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/27/AGIClimate-image-1-1260x607.jpg"
+        },
+        {
+          "id": "90d51716ebb0bf0a6e473917ac8f73f19d948ed5",
+          "author": "Jonathan Evans",
+          "description": "In this post, we'll explore how to combine Amazon Bedrock prompt caching with Claude Code—a coding agent released by Anthropic that is now generally available. This powerful combination transforms your development workflow by delivering lightning-fast responses from reducing inference response latency, as well as lowering input token costs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-development-with-claude-code-and-amazon-bedrock-prompt-caching/",
+          "publishedOn": "2025-06-04T16:04:04.000Z",
+          "wordCount": 2952,
+          "title": "Supercharge your development with Claude Code and Amazon Bedrock prompt caching",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/04/supercharge-claude.jpg"
+        },
+        {
           "id": "13977db91c0667df2c60f5413703e78f125f9415",
           "author": "Aditya Addepalli",
           "description": "We’ve witnessed remarkable advances in model capabilities as generative AI companies have invested in developing their offerings. Language models such as Anthropic’s Claude Opus 4 & Sonnet 4, Amazon Nova, and Amazon Bedrock can reason, write, and generate responses with increasing sophistication. But even as these models grow more powerful, they can only work with […]",

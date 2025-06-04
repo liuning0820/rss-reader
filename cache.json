@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9e02f996c5e3c80f14860bee9c7951901afe8e1e",
+          "author": "Nicholas Scozzafava",
+          "description": "In this post, we share how Impel enhances the automotive dealership customer experience with fine-tuned LLMs on SageMaker.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/impel-enhances-automotive-dealership-customer-experience-with-fine-tuned-llms-on-amazon-sagemaker/",
+          "publishedOn": "2025-06-04T21:20:47.000Z",
+          "wordCount": 2432,
+          "title": "Impel enhances automotive dealership customer experience with fine-tuned LLMs on Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/27/ml-18410-arch-diag.png"
+        },
+        {
           "id": "259f623956d3dd5819ce7d6bd0a6b9fc6ffa7876",
           "author": "Ilan Gleiser",
           "description": "In this post, we show how climate tech startups are developing foundation models (FMs) that use extensive environmental datasets to tackle issues such as carbon capture, carbon-negative fuels, new materials design for microplastics destruction, and ecosystem preservation. These specialized models require advanced computational capabilities to process and analyze vast amounts of data effectively.",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-05T16:22:08.685Z</updated>
+    <updated>2025-06-05T20:15:55.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modernize and migrate on-premises fraud detection machine learning workflows to Amazon SageMaker]]></title>
+        <id>26d9ee9cb82638d9cf710c0c2633411cd20d810e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/modernize-and-migrate-on-premises-fraud-detection-machine-learning-workflows-to-amazon-sagemaker/"/>
+        <updated>2025-06-05T16:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Radial is the largest 3PL fulfillment provider, also offering integrated payment, fraud detection, and omnichannel solutions to mid-market and enterprise brands. In this post, we share how Radial optimized the cost and performance of their fraud detection machine learning (ML) applications by modernizing their ML workflow using Amazon SageMaker.]]></summary>
+        <author>
+            <name>Jake Wen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contextual retrieval in Anthropic using Amazon Bedrock Knowledge Bases]]></title>
+        <id>94e43b5f050984d07a671df4b0b5f596953d31ad</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/contextual-retrieval-in-anthropic-using-amazon-bedrock-knowledge-bases/"/>
+        <updated>2025-06-05T16:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Contextual retrieval enhances traditional RAG by adding chunk-specific explanatory context to each chunk before generating embeddings. This approach enriches the vector representation with relevant contextual information, enabling more accurate retrieval of semantically related content when responding to user queries. In this post, we demonstrate how to use contextual retrieval with Anthropic and Amazon Bedrock Knowledge Bases.]]></summary>
+        <author>
+            <name>Suheel Farooq</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI]]></title>
         <id>f1c484e234ef857fc38050d28db3464ea042d620</id>

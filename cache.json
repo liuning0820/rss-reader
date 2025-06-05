@@ -147,6 +147,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "26d9ee9cb82638d9cf710c0c2633411cd20d810e",
+          "author": "Jake Wen",
+          "description": "Radial is the largest 3PL fulfillment provider, also offering integrated payment, fraud detection, and omnichannel solutions to mid-market and enterprise brands. In this post, we share how Radial optimized the cost and performance of their fraud detection machine learning (ML) applications by modernizing their ML workflow using Amazon SageMaker.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/modernize-and-migrate-on-premises-fraud-detection-machine-learning-workflows-to-amazon-sagemaker/",
+          "publishedOn": "2025-06-05T16:40:32.000Z",
+          "wordCount": 4358,
+          "title": "Modernize and migrate on-premises fraud detection machine learning workflows to Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/22/ML-17395-1-Legacy-architecture-1-796x630.jpg"
+        },
+        {
+          "id": "94e43b5f050984d07a671df4b0b5f596953d31ad",
+          "author": "Suheel Farooq",
+          "description": "Contextual retrieval enhances traditional RAG by adding chunk-specific explanatory context to each chunk before generating embeddings. This approach enriches the vector representation with relevant contextual information, enabling more accurate retrieval of semantically related content when responding to user queries. In this post, we demonstrate how to use contextual retrieval with Anthropic and Amazon Bedrock Knowledge Bases.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/contextual-retrieval-in-anthropic-using-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2025-06-05T16:30:55.000Z",
+          "wordCount": 3293,
+          "title": "Contextual retrieval in Anthropic using Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/05/contextual-retrieval.jpg"
+        },
+        {
           "id": "f1c484e234ef857fc38050d28db3464ea042d620",
           "author": "Vincent Wang",
           "description": "In this post, we demonstrate how to deploy a small language model on SageMaker AI by extending our pre-built containers to be compatible with AWS Graviton instances. We first provide an overview of the solution, and then provide detailed implementation steps to help you get started. You can find the example notebook in the GitHub repo.",

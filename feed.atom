@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-06T03:13:46.203Z</updated>
+    <updated>2025-06-06T04:23:29.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -664,16 +664,6 @@
         <summary type="html"><![CDATA[In the media and entertainment industry, understanding and predicting the effectiveness of marketing campaigns is crucial for success. Marketing campaigns are the driving force behind successful businesses, playing a pivotal role in attracting new customers, retaining existing ones, and ultimately boosting revenue. However, launching a campaign isn’t enough; to maximize their impact and help achieve […]]]></summary>
         <author>
             <name>Namita Mathew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Deutsche Bahn redefines forecasting using Chronos models – Now available on Amazon Bedrock Marketplace]]></title>
-        <id>d3ed23edd69b6b44950ec2b5fd67ca33b7652c7e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-deutsche-bahn-redefines-forecasting-using-chronos-models-now-available-on-amazon-bedrock-marketplace/"/>
-        <updated>2025-05-07T15:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Whereas traditional forecasting methods typically rely on statistical modeling, Chronos treats time series data as a language to be modeled and uses a pre-trained FM to generate forecasts — similar to how large language models (LLMs) generate texts. Chronos helps you achieve accurate predictions faster, significantly reducing development time compared to traditional methods. In this post, we share how Deutsche Bahn is redefining forecasting using Chronos models, and provide an example use case to demonstrate how you can get started using Chronos.]]></summary>
-        <author>
-            <name>Kilian Zimmerer, Daniel Ringler</name>
         </author>
     </entry>
 </feed>

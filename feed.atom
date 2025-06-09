@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-09T10:19:28.626Z</updated>
+    <updated>2025-06-09T12:36:11.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dart binaries in Python packages]]></title>
+        <id>http://blog.thestateofme.com/?p=6339</id>
+        <link href="https://blog.thestateofme.com/2025/06/09/dart-binaries-in-python-packages/"/>
+        <updated>2025-06-09T10:20:47.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #480]]></title>
         <id>https://sreweekly.com/?p=1649</id>

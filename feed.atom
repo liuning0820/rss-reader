@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-09T01:27:11.109Z</updated>
+    <updated>2025-06-09T03:20:19.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #480]]></title>
+        <id>https://sreweekly.com/?p=1649</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-480/"/>
+        <updated>2025-06-09T02:25:12.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a serverless audio summarization solution with Amazon Bedrock and Whisper]]></title>
         <id>5a6a5e152dd1e382b4fd03a685f16a6d3400e297</id>

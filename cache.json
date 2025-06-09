@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1649",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-480/",
+          "publishedOn": "2025-06-09T02:25:12.000Z",
+          "wordCount": 1118,
+          "title": "SRE Weekly Issue #480",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1644",
           "author": "lex",
           "description": "View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don’t always return you to a previous system state. They can return you to a state you’ve never tested or operated before.   Steve Fenton — Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives […]",

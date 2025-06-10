@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-10T12:36:48.191Z</updated>
+    <updated>2025-06-10T14:17:42.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -744,16 +744,6 @@
         <summary type="html"><![CDATA[Milo is four today, another milestone worth celebrating :) Last week he had a scan, which followed 8 weeks after the end of his third (modified) CHOP protocol. The scan was clear, so we’ll be back to NDSR at the start of July. It’s all a very similar situation to a year ago. Insurance ManyPets […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #476]]></title>
-        <id>https://sreweekly.com/?p=1638</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-476/"/>
-        <updated>2025-05-12T01:16:27.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Automation and The Substitution Myth The myth is: The underlying and often unexamined assumption for the benefits of automation is the notion that computers/machines are better at some tasks, and humans are better at a different, non-overlapping set of tasks. This article lays out several pitfalls to this approach, with references.   Courtney […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

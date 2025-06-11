@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6353",
+          "author": "Chris Swan",
+          "description": "TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]",
+          "link": "https://blog.thestateofme.com/2025/06/11/failures-of-imagination-again/",
+          "publishedOn": "2025-06-11T21:07:06.000Z",
+          "wordCount": 4632,
+          "title": "Failures of Imagination (again)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6339",
           "author": "Chris Swan",
           "description": "TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]",

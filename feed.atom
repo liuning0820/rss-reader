@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-10T22:16:45.296Z</updated>
+    <updated>2025-06-11T01:24:07.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -764,26 +764,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how your organization can reduce the end-to-end burden of resolving regular challenges experienced by your IT support teams—from understanding errors and reviewing diagnoses, remediation steps, and relevant documentation, to opening external support tickets using common third-party services such as Jira.]]></summary>
         <author>
             <name>Dylan Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo cancer diary part 19 – Four]]></title>
-        <id>https://blog.thestateofme.com/?p=6269</id>
-        <link href="http://blog.thestateofme.com/2025/05/12/milo-cancer-diary-part-19-four/"/>
-        <updated>2025-05-12T11:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Milo is four today, another milestone worth celebrating :) Last week he had a scan, which followed 8 weeks after the end of his third (modified) CHOP protocol. The scan was clear, so we’ll be back to NDSR at the start of July. It’s all a very similar situation to a year ago. Insurance ManyPets […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo cancer diary part 19 – Four]]></title>
-        <id>http://blog.thestateofme.com/?p=6269</id>
-        <link href="https://blog.thestateofme.com/2025/05/12/milo-cancer-diary-part-19-four/"/>
-        <updated>2025-05-12T11:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Milo is four today, another milestone worth celebrating :) Last week he had a scan, which followed 8 weeks after the end of his third (modified) CHOP protocol. The scan was clear, so we’ll be back to NDSR at the start of July. It’s all a very similar situation to a year ago. Insurance ManyPets […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

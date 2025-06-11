@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "2d1e0b43624b483236e6e151a1c37c27794b41f7",
+          "author": "Niithiyn Vijeaswaran",
+          "description": "The Llama 3.3 Nemotron Super 49B V1 and Llama 3.1 Nemotron Nano 8B V1 are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, you can now deploy NVIDIA’s newest reasoning models to build, experiment, and responsibly scale your generative AI ideas on AWS.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-super-49b-and-nano-8b-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2025-06-11T12:00:51.000Z",
+          "wordCount": 4589,
+          "title": "NVIDIA Nemotron Super 49B and Nano 8B reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/11/featured-images-ML-19048-1120x630.jpg"
+        },
+        {
           "id": "7aa8f1971489eeaa2440e0577f91271167b77972",
           "author": "Deepesh Dhapola",
           "description": "In this post, we demonstrate how to use Amazon Bedrock and LangGraph to build a personalized customer support experience for an ecommerce retailer. By integrating the Mistral Large 2 and Pixtral Large models, we guide you through automating key customer support workflows such as ticket categorization, order details extraction, damage assessment, and generating contextual responses.",

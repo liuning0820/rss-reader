@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-11T10:19:00.146Z</updated>
+    <updated>2025-06-11T12:36:33.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Nemotron Super 49B and Nano 8B reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart]]></title>
+        <id>2d1e0b43624b483236e6e151a1c37c27794b41f7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-super-49b-and-nano-8b-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"/>
+        <updated>2025-06-11T12:00:51.000Z</updated>
+        <summary type="html"><![CDATA[The Llama 3.3 Nemotron Super 49B V1 and Llama 3.1 Nemotron Nano 8B V1 are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, you can now deploy NVIDIA’s newest reasoning models to build, experiment, and responsibly scale your generative AI ideas on AWS.]]></summary>
+        <author>
+            <name>Niithiyn Vijeaswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate customer support with Amazon Bedrock, LangGraph, and Mistral models]]></title>
         <id>7aa8f1971489eeaa2440e0577f91271167b77972</id>

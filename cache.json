@@ -790,16 +790,6 @@
           "wordCount": 3790,
           "title": "How Hexagon built an AI assistant using AWS generative AI services",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/21/LLMEvaluation-978x630.png"
-        },
-        {
-          "id": "363b3c61905d9d7bad69e82c87e5221adba9bd80",
-          "author": "Dylan Martin",
-          "description": "In this post, we demonstrate how your organization can reduce the end-to-end burden of resolving regular challenges experienced by your IT support teams—from understanding errors and reviewing diagnoses, remediation steps, and relevant documentation, to opening external support tickets using common third-party services such as Jira.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-community-agent-to-revolutionize-it-support-with-amazon-q-business/",
-          "publishedOn": "2025-05-12T17:34:46.000Z",
-          "wordCount": 3199,
-          "title": "Build an intelligent community agent to revolutionize IT support with Amazon Q Business",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/28/image001-3.jpg"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-11T04:26:22.743Z</updated>
+    <updated>2025-06-11T06:25:57.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -754,16 +754,6 @@
         <summary type="html"><![CDATA[Recognizing the transformative benefits of generative AI for enterprises, we at Hexagon’s Asset Lifecycle Intelligence division sought to enhance how users interact with our Enterprise Asset Management (EAM) products. Understanding these advantages, we partnered with AWS to embark on a journey to develop HxGN Alix, an AI-powered digital worker using AWS generative AI services. This blog post explores the strategy, development, and implementation of HxGN Alix, demonstrating how a tailored AI solution can drive efficiency and enhance user satisfaction.]]></summary>
         <author>
             <name>Julio P. Roque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an intelligent community agent to revolutionize IT support with Amazon Q Business]]></title>
-        <id>363b3c61905d9d7bad69e82c87e5221adba9bd80</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-community-agent-to-revolutionize-it-support-with-amazon-q-business/"/>
-        <updated>2025-05-12T17:34:46.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how your organization can reduce the end-to-end burden of resolving regular challenges experienced by your IT support teams—from understanding errors and reviewing diagnoses, remediation steps, and relevant documentation, to opening external support tickets using common third-party services such as Jira.]]></summary>
-        <author>
-            <name>Dylan Martin</name>
         </author>
     </entry>
 </feed>

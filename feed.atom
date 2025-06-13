@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-13T14:17:19.535Z</updated>
+    <updated>2025-06-13T16:21:49.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build generative AI solutions with Amazon Bedrock]]></title>
+        <id>7025d99e2b4da209dae1b73efecb58c2b9052605</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-generative-ai-solutions-with-amazon-bedrock/"/>
+        <updated>2025-06-13T16:06:41.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how to build generative AI applications on Amazon Web Services (AWS) using the capabilities of Amazon Bedrock, highlighting how Amazon Bedrock can be used at each step of your generative AI journey. This guide is valuable for both experienced AI engineers and newcomers to the generative AI space, helping you use Amazon Bedrock to its fullest potential.]]></summary>
+        <author>
+            <name>Sajjan AVS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Netsertive built a scalable AI assistant to extract meaningful insights from real-time data using Amazon Bedrock and Amazon Nova]]></title>
+        <id>15de2e8168d76b5ec64a123c704e2f042ca76e21</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-netsertive-built-a-scalable-ai-assistant-to-extract-meaningful-insights-from-real-time-data-using-amazon-bedrock-and-amazon-nova/"/>
+        <updated>2025-06-13T16:03:48.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how Netsertive introduced a generative AI-powered assistant into MLX, using Amazon Bedrock and Amazon Nova, to bring their next generation of the platform to life.]]></summary>
+        <author>
+            <name>Nicholas Switzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make videos accessible with automated audio descriptions using Amazon Nova]]></title>
+        <id>54416643422ef294dd1450aed6d2cb2e547588c3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/make-videos-accessible-with-automated-audio-descriptions-using-amazon-nova/"/>
+        <updated>2025-06-13T16:01:22.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how you can use services like Amazon Nova, Amazon Rekognition, and Amazon Polly to automate the creation of accessible audio descriptions for video content. This approach can significantly reduce the time and cost required to make videos accessible for visually impaired audiences.]]></summary>
+        <author>
+            <name>Dylan Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training Llama 3.3 Swallow: A Japanese sovereign LLM on Amazon SageMaker HyperPod]]></title>
+        <id>35c33f201c2eaf00cbd1e8eaafecd857c1c31b6a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/training-llama-3-3-swallow-a-japanese-sovereign-llm-on-amazon-sagemaker-hyperpod/"/>
+        <updated>2025-06-13T15:54:25.000Z</updated>
+        <summary type="html"><![CDATA[The Institute of Science Tokyo has successfully trained Llama 3.3 Swallow, a 70-billion-parameter large language model (LLM) with enhanced Japanese capabilities, using Amazon SageMaker HyperPod. The model demonstrates superior performance in Japanese language tasks, outperforming GPT-4o-mini and other leading models. This technical report details the training infrastructure, optimizations, and best practices developed during the project.]]></summary>
+        <author>
+            <name>Kazuki Fujii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating Articul8’s domain-specific model development with Amazon SageMaker HyperPod]]></title>
         <id>7db70e68de0fc77d098fb1e60a130172be8697ca</id>

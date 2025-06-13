@@ -157,6 +157,51 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "7025d99e2b4da209dae1b73efecb58c2b9052605",
+          "author": "Sajjan AVS",
+          "description": "In this post, we show you how to build generative AI applications on Amazon Web Services (AWS) using the capabilities of Amazon Bedrock, highlighting how Amazon Bedrock can be used at each step of your generative AI journey. This guide is valuable for both experienced AI engineers and newcomers to the generative AI space, helping you use Amazon Bedrock to its fullest potential.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-solutions-with-amazon-bedrock/",
+          "publishedOn": "2025-06-13T16:06:41.000Z",
+          "wordCount": 5102,
+          "title": "Build generative AI solutions with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/13/build-genai-bedrock.jpg"
+        },
+        {
+          "id": "15de2e8168d76b5ec64a123c704e2f042ca76e21",
+          "author": "Nicholas Switzer",
+          "description": "In this post, we show how Netsertive introduced a generative AI-powered assistant into MLX, using Amazon Bedrock and Amazon Nova, to bring their next generation of the platform to life.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-netsertive-built-a-scalable-ai-assistant-to-extract-meaningful-insights-from-real-time-data-using-amazon-bedrock-and-amazon-nova/",
+          "publishedOn": "2025-06-13T16:03:48.000Z",
+          "wordCount": 2094,
+          "title": "How Netsertive built a scalable AI assistant to extract meaningful insights from real-time data using Amazon Bedrock and Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/05/ml-18574-Arch-1096x630.jpeg"
+        },
+        {
+          "id": "54416643422ef294dd1450aed6d2cb2e547588c3",
+          "author": "Dylan Martin",
+          "description": "In this post, we demonstrate how you can use services like Amazon Nova, Amazon Rekognition, and Amazon Polly to automate the creation of accessible audio descriptions for video content. This approach can significantly reduce the time and cost required to make videos accessible for visually impaired audiences.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/make-videos-accessible-with-automated-audio-descriptions-using-amazon-nova/",
+          "publishedOn": "2025-06-13T16:01:22.000Z",
+          "wordCount": 3248,
+          "title": "Make videos accessible with automated audio descriptions using Amazon Nova",
+          "enclosure": {
+            "length": "381789",
+            "type": "audio/mpeg",
+            "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/05/pollyNarrationSampleNOVA.mp3"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/02/image-1-1179x630.jpeg"
+        },
+        {
+          "id": "35c33f201c2eaf00cbd1e8eaafecd857c1c31b6a",
+          "author": "Kazuki Fujii",
+          "description": "The Institute of Science Tokyo has successfully trained Llama 3.3 Swallow, a 70-billion-parameter large language model (LLM) with enhanced Japanese capabilities, using Amazon SageMaker HyperPod. The model demonstrates superior performance in Japanese language tasks, outperforming GPT-4o-mini and other leading models. This technical report details the training infrastructure, optimizations, and best practices developed during the project.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/training-llama-3-3-swallow-a-japanese-sovereign-llm-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2025-06-13T15:54:25.000Z",
+          "wordCount": 3244,
+          "title": "Training Llama 3.3 Swallow: A Japanese sovereign LLM on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/28/HyperPod-deepdive-2025.png"
+        },
+        {
           "id": "7db70e68de0fc77d098fb1e60a130172be8697ca",
           "author": "Yashesh Shroff",
           "description": "Learn how Articul8 is redefining enterprise generative AI with domain-specific models that outperform general-purpose LLMs in real-world applications. In our latest blog post, we dive into how Amazon SageMaker HyperPod accelerated the development of Articul8’s industry-leading semiconductor model—achieving 2X higher accuracy that top open source models while slashing deployment time by 4X.",

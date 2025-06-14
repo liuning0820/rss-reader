@@ -815,36 +815,6 @@
             "url": "https://aws-blogs-artifacts-public.s3.us-east-1.amazonaws.com/ML-17559/sagemaker.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/16/Image-1-ML17559-1117x630.png"
-        },
-        {
-          "id": "5c7e1d518e2b6b677f282e747c9ec8ba35cdae0a",
-          "author": "Tony Wong",
-          "description": "Building on this foundation of specialized information extraction solutions and using the capabilities of SageMaker HyperPod, we collaborate with APOIDEA Group to explore the use of large vision language models (LVLMs) to further improve table structure recognition performance on banking and financial documents. In this post, we present our work and step-by-step code on fine-tuning the Qwen2-VL-7B-Instruct model using LLaMA-Factory on SageMaker HyperPod.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-apoidea-group-enhances-visual-information-extraction-from-banking-documents-with-multimodal-models-using-llama-factory-on-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-05-15T19:56:09.000Z",
-          "wordCount": 4372,
-          "title": "How Apoidea Group enhances visual information extraction from banking documents with multimodal models using LLaMA-Factory on Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/06/ML-18175-001_vlm_architecture-1260x575.png"
-        },
-        {
-          "id": "5a1d027034926735963684b5c8857b2a60e07cba",
-          "author": "Jay Kshirsagar, Ronald Quan",
-          "description": "In this post, we share how Qualtrics built an AI platform powered by Amazon SageMaker and Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-qualtrics-built-socrates-an-ai-platform-powered-by-amazon-sagemaker-and-amazon-bedrock/",
-          "publishedOn": "2025-05-15T19:53:51.000Z",
-          "wordCount": 3609,
-          "title": "How Qualtrics built Socrates: An AI platform powered by Amazon SageMaker and Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/11/ML-17136-image005-1260x588.png"
-        },
-        {
-          "id": "c2f492c5ef4f95750e6250075eabe260c89c5735",
-          "author": "Deepika Kumar",
-          "description": "AWS partnered with Vxceed to support their AI strategy, resulting in the development of LimoConnect Q, an innovative ground transportation management solution. Using AWS services including Amazon Bedrock and Lambda, Vxceed successfully built a secure, AI-powered solution that streamlines trip booking and document processing.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/vxceed-secures-transport-operations-with-amazon-bedrock/",
-          "publishedOn": "2025-05-15T19:45:29.000Z",
-          "wordCount": 2665,
-          "title": "Vxceed secures transport operations with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/06/Vxceeds-LimoConnect-Q-architecture.png"
         }
       ]
     }

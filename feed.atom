@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-16T16:22:37.895Z</updated>
+    <updated>2025-06-16T18:25:09.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Apollo Tyres is unlocking machine insights using agentic AI-powered Manufacturing Reasoner]]></title>
+        <id>530dc9578cef6d53be4046ad41465c6c9d565241</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/"/>
+        <updated>2025-06-16T17:22:05.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how Apollo Tyres used generative AI with Amazon Bedrock to harness the insights from their machine data in a natural language interaction mode to gain a comprehensive view of its manufacturing processes, enabling data-driven decision-making and optimizing operational efficiency.]]></summary>
+        <author>
+            <name>Harsh Vardhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend your Amazon Q Business with PagerDuty Advance data accessor]]></title>
+        <id>5b6f3853c156f0581388515680de9a6d5ddef8a2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/extend-your-amazon-q-business-with-pagerduty-advance-data-accessor/"/>
+        <updated>2025-06-16T17:15:54.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how organizations can enhance their incident management capabilities by integrating PagerDuty Advance, an innovative set of agentic and generative AI capabilities that automate response workflows and provide real-time insights into operational health, with Amazon Q Business. We show how to configure PagerDuty Advance as a data accessor for Amazon Q indexes, so you can search and access enterprise knowledge across multiple systems during incident response.]]></summary>
+        <author>
+            <name>Jacky Leybman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovate business logic by implementing return of control in Amazon Bedrock Agents]]></title>
+        <id>ff1f88e8aea1604a62f8523ab1dfa61b2df9906a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/innovate-business-logic-by-implementing-return-of-control-in-amazon-bedrock-agents/"/>
+        <updated>2025-06-16T17:11:19.000Z</updated>
+        <summary type="html"><![CDATA[In the context of distributed systems and microservices architecture, orchestrating communication between diverse components presents significant challenges. However, with the launch of Amazon Bedrock Agents, the landscape is evolving, offering a simplified approach to agent creation and seamless integration of the return of control capability. In this post, we explore how Amazon Bedrock Agents revolutionizes agent creation and demonstrates the efficacy of the return of control capability in orchestrating complex interactions between multiple systems.]]></summary>
+        <author>
+            <name>Mohammed Asadulla Baig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #481]]></title>
         <id>https://sreweekly.com/?p=1651</id>

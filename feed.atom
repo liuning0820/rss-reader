@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-15T22:15:46.201Z</updated>
+    <updated>2025-06-16T01:26:17.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #481]]></title>
+        <id>https://sreweekly.com/?p=1651</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-481/"/>
+        <updated>2025-06-16T01:22:03.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploy Qwen models with Amazon Bedrock Custom Model Import]]></title>
         <id>cb5545a1b55d7445cbf71e420df3c3a1372acad5</id>

@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1651",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-481/",
+          "publishedOn": "2025-06-16T01:22:03.000Z",
+          "wordCount": 1120,
+          "title": "SRE Weekly Issue #481",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1649",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your […]",

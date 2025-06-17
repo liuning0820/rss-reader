@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-17T12:36:55.426Z</updated>
+    <updated>2025-06-17T14:17:40.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -764,16 +764,6 @@
         <summary type="html"><![CDATA[HERE collaborated with the GenAIIC. Our joint mission was to create an intelligent AI coding assistant that could provide explanations and executable code solutions in response to users’ natural language queries. The requirement was to build a scalable system that could translate natural language questions into HTML code with embedded JavaScript, ready for immediate rendering as an interactive map that users can see on screen.]]></summary>
         <author>
             <name>Gan Luan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #477]]></title>
-        <id>https://sreweekly.com/?p=1640</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-477/"/>
-        <updated>2025-05-19T01:33:16.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Human Error Strikes Again… or Does It? Why don’t we look for the root cause of a successful outcome?   Hamed Silatani — Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

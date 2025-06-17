@@ -131,16 +131,6 @@
           "wordCount": 1074,
           "title": "SRE Weekly Issue #478",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1640",
-          "author": "lex",
-          "description": "View on sreweekly.com Human Error Strikes Again… or Does It? Why don’t we look for the root cause of a successful outcome?   Hamed Silatani — Uptime Labs How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems They took a great deal of care to avoid the potential pitfalls of using […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-477/",
-          "publishedOn": "2025-05-19T01:33:16.000Z",
-          "wordCount": 1171,
-          "title": "SRE Weekly Issue #477",
-          "imageUrl": null
         }
       ]
     },

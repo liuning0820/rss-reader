@@ -157,6 +157,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a8455536d076e604df78456037ecadc1bf405da1",
+          "author": "Vicky Andonova, Jonathan Karon",
+          "description": "In this post, we explore how you can use Anomalo with Amazon Web Services (AWS) AI and machine learning (AI/ML) to profile, validate, and cleanse unstructured data collections to transform your data lake into a trusted source for production ready AI initiatives.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-anomalo-solves-unstructured-data-quality-issues-to-deliver-trusted-assets-for-ai-with-aws/",
+          "publishedOn": "2025-06-17T15:02:07.000Z",
+          "wordCount": 27836,
+          "title": "How Anomalo solves unstructured data quality issues to deliver trusted assets for AI with AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/11/Anomalo-AWS-ML-Blog-Figure-1-1260x547.png"
+        },
+        {
+          "id": "284fa695e4216c58599cb8b346e2d5fca604b716",
+          "author": "Renyu Chen, Dev Tagare",
+          "description": "In this post, we share how Robinhood delivers democratized finance and real-time market insights using generative AI and Amazon Nova.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/an-innovative-financial-services-leader-finds-the-right-ai-solution-robinhood-and-amazon-nova/",
+          "publishedOn": "2025-06-17T14:58:21.000Z",
+          "wordCount": 27280,
+          "title": "An innovative financial services leader finds the right AI solution: Robinhood and Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/17/robinhood-nova.jpg"
+        },
+        {
+          "id": "9334b67e27da30f06b3b3467c068b42da1b39daf",
+          "author": "George Belsian",
+          "description": "This post provides instructions to configure a structured data retrieval solution, with practical code examples and templates. It covers implementation samples and additional considerations, empowering you to quickly build and scale your conversational data interfaces.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-conversational-interfaces-for-structured-data-using-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2025-06-17T14:52:46.000Z",
+          "wordCount": 27868,
+          "title": "Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/17/build-conversational-interfaces.jpg"
+        },
+        {
           "id": "530dc9578cef6d53be4046ad41465c6c9d565241",
           "author": "Harsh Vardhan",
           "description": "In this post, we share how Apollo Tyres used generative AI with Amazon Bedrock to harness the insights from their machine data in a natural language interaction mode to gain a comprehensive view of its manufacturing processes, enabling data-driven decision-making and optimizing operational efficiency.",

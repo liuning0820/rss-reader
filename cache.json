@@ -157,6 +157,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "532d18b968f9fc9b62e3a78ab5c765ff00f8c111",
+          "author": "Nick Biso",
+          "description": "In recent years, the rapid advancement of artificial intelligence and machine learning (AI/ML) technologies has revolutionized various aspects of digital content creation. One particularly exciting development is the emergence of video generation capabilities, which offer unprecedented opportunities for companies across diverse industries. This technology allows for the creation of short video clips that can be […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/",
+          "publishedOn": "2025-06-19T19:47:41.000Z",
+          "wordCount": 27996,
+          "title": "Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/10/ML-17715-video-3-1749587457635.gif"
+        },
+        {
+          "id": "fd0ce0a6b2728499b9ce1303b9a088ddfb5375da",
+          "author": "Sara Duffer",
+          "description": "The EU AI Act establishes comprehensive regulations for AI development and deployment within the EU. AWS is committed to building trust in AI through various initiatives including being among the first signatories of the EU's AI Pact, providing AI Service Cards and guardrails, and offering educational resources while helping customers understand their responsibilities under the new regulatory framework.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-the-aws-approach-to-the-eu-ai-act/",
+          "publishedOn": "2025-06-19T19:41:11.000Z",
+          "wordCount": 27424,
+          "title": "Building trust in AI: The AWS approach to the EU AI Act",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/19/trust.png"
+        },
+        {
+          "id": "5fdb3206727328d4ef3f0c9af446321f92a64175",
+          "author": "Jayadev Kalla",
+          "description": "Starting July 14, 2025, the AWS DeepRacer Student Portal will enter a maintenance phase where new registrations will be disabled. Until September 15, 2025, existing users will retain full access to their content and training materials, with updates limited to critical security fixes, after which the portal will no longer be available.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/update-on-the-aws-deepracer-student-portal/",
+          "publishedOn": "2025-06-19T19:29:01.000Z",
+          "wordCount": 26511,
+          "title": "Update on the AWS DeepRacer Student Portal",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/13/featured-images-ML-19120-1120x630.jpg"
+        },
+        {
+          "id": "48e446c3aebb4eff0674b8ccb2856acfa787144e",
+          "author": "Bruno Pistone",
+          "description": "In this post, we discuss how SageMaker HyperPod and SageMaker Studio can improve and speed up the development experience of data scientists by using IDEs and tooling of SageMaker Studio and the scalability and resiliency of SageMaker HyperPod with Amazon EKS. The solution simplifies the setup for the system administrator of the centralized system by using the governance and security capabilities offered by the AWS services.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-foundation-model-training-and-inference-with-amazon-sagemaker-hyperpod-and-amazon-sagemaker-studio/",
+          "publishedOn": "2025-06-19T19:26:44.000Z",
+          "wordCount": 30073,
+          "title": "Accelerate foundation model training and inference with Amazon SageMaker HyperPod and Amazon SageMaker Studio",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/11/ML-18718-archdiag-1122x630.png"
+        },
+        {
           "id": "e676fa172b3b1119f585f0a3069b6a92037da4a1",
           "author": "Baishali Chaudhury",
           "description": "In this post, we present a benchmark of different understanding models from the Amazon Nova family available on Amazon Bedrock, to provide insights on how you can choose the best model for a meeting summarization task.",

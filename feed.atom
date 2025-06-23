@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-23T16:22:45.590Z</updated>
+    <updated>2025-06-23T18:25:18.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No-code data preparation for time series forecasting using Amazon SageMaker Canvas]]></title>
+        <id>89f277f6c14655dced1b55ebe2ca2f37dcb755cb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/no-code-data-preparation-for-time-series-forecasting-using-amazon-sagemaker-canvas/"/>
+        <updated>2025-06-23T17:38:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Canvas offers no-code solutions that simplify data wrangling, making time series forecasting accessible to all users regardless of their technical background. In this post, we explore how SageMaker Canvas and SageMaker Data Wrangler provide no-code data preparation techniques that empower users of all backgrounds to prepare data and build time series forecasting models in a single interface with confidence.]]></summary>
+        <author>
+            <name>Muni T. Bondu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation]]></title>
+        <id>7a1bd2389bffaf30cf8b77418cbb7d16bce40a61</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-agentic-multimodal-ai-assistant-with-amazon-nova-and-amazon-bedrock-data-automation/"/>
+        <updated>2025-06-23T17:36:31.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how agentic workflow patterns such as Retrieval Augmented Generation (RAG), multi-tool orchestration, and conditional routing with LangGraph enable end-to-end solutions that artificial intelligence and machine learning (AI/ML) developers and enterprise architects can adopt and extend. We walk through an example of a financial management AI assistant that can provide quantitative research and grounded financial advice by analyzing both the earnings call (audio) and the presentation slides (images), along with relevant financial data feeds.]]></summary>
+        <author>
+            <name>Julia Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #482]]></title>
         <id>https://sreweekly.com/?p=1656</id>

@@ -156,6 +156,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "89f277f6c14655dced1b55ebe2ca2f37dcb755cb",
+          "author": "Muni T. Bondu",
+          "description": "Amazon SageMaker Canvas offers no-code solutions that simplify data wrangling, making time series forecasting accessible to all users regardless of their technical background. In this post, we explore how SageMaker Canvas and SageMaker Data Wrangler provide no-code data preparation techniques that empower users of all backgrounds to prepare data and build time series forecasting models in a single interface with confidence.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/no-code-data-preparation-for-time-series-forecasting-using-amazon-sagemaker-canvas/",
+          "publishedOn": "2025-06-23T17:38:55.000Z",
+          "wordCount": 27745,
+          "title": "No-code data preparation for time series forecasting using Amazon SageMaker Canvas",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/06/chatfordataprep-1166x630.png"
+        },
+        {
+          "id": "7a1bd2389bffaf30cf8b77418cbb7d16bce40a61",
+          "author": "Julia Hu",
+          "description": "In this post, we demonstrate how agentic workflow patterns such as Retrieval Augmented Generation (RAG), multi-tool orchestration, and conditional routing with LangGraph enable end-to-end solutions that artificial intelligence and machine learning (AI/ML) developers and enterprise architects can adopt and extend. We walk through an example of a financial management AI assistant that can provide quantitative research and grounded financial advice by analyzing both the earnings call (audio) and the presentation slides (images), along with relevant financial data feeds.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-multimodal-ai-assistant-with-amazon-nova-and-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-06-23T17:36:31.000Z",
+          "wordCount": 29430,
+          "title": "Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation",
+          "enclosure": {
+            "length": "62457292",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18764/demo_sound.mP4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/17/image-1-963x630.jpg"
+        },
+        {
           "id": "532d18b968f9fc9b62e3a78ab5c765ff00f8c111",
           "author": "Nick Biso",
           "description": "In recent years, the rapid advancement of artificial intelligence and machine learning (AI/ML) technologies has revolutionized various aspects of digital content creation. One particularly exciting development is the emergence of video generation capabilities, which offer unprecedented opportunities for companies across diverse industries. This technology allows for the creation of short video clips that can be […]",

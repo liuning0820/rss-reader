@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1656",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: Incidents move fast. But you’ll never get left behind with PagerDuty’s GenAI incident response assistant, available in all paid plans. Get instant business impact analysis, troubleshooting steps, and auto-drafted status updates—directly in Slack. Stop context-switching, start resolving faster. https://fnf.dev/4dZ5V36 Service Disruption on multiple Salesforce services on […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-482/",
+          "publishedOn": "2025-06-23T02:48:32.000Z",
+          "wordCount": 1080,
+          "title": "SRE Weekly Issue #482",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1651",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On […]",

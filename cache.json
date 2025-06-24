@@ -131,16 +131,6 @@
           "wordCount": 1042,
           "title": "SRE Weekly Issue #479",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1642",
-          "author": "lex",
-          "description": "View on sreweekly.com Security and SRE: How Datadog’s combined approach aims to tackle security and reliability challenges Datadog has fully merged their SRE and Security teams. In this post, we’ll look at essential elements of SRE and security, the benefits we’ve realized by combining the two disciplines, and what that approach looks like for us. […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-478/",
-          "publishedOn": "2025-05-26T02:04:54.000Z",
-          "wordCount": 1074,
-          "title": "SRE Weekly Issue #478",
-          "imageUrl": null
         }
       ]
     },

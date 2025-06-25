@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-25T16:23:01.456Z</updated>
+    <updated>2025-06-25T18:25:29.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build an intelligent multi-agent business expert using Amazon Bedrock]]></title>
+        <id>ef536dd9c44d93fccd7861b178211a4a5642578c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-multi-agent-business-expert-using-amazon-bedrock/"/>
+        <updated>2025-06-25T16:53:54.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build a multi-agent system using multi-agent collaboration in Amazon Bedrock Agents to solve complex business questions in the biopharmaceutical industry. We show how specialized agents in research and development (R&D), legal, and finance domains can work together to provide comprehensive business insights by analyzing data from multiple sources.]]></summary>
+        <author>
+            <name>Justin Ossai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving cost-efficiency and speed in claims data processing with Amazon Nova Micro and Amazon Nova Lite]]></title>
+        <id>dc5782f5c440ee1a67b72c8b98d7cdc484f72b01</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/driving-cost-efficiency-and-speed-in-claims-data-processing-with-amazon-nova-micro-and-amazon-nova-lite/"/>
+        <updated>2025-06-25T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we shared how an internal technology team at Amazon evaluated Amazon Nova models, resulting in notable improvements in inference speed and cost-efficiency.]]></summary>
+        <author>
+            <name>Aitzaz Ahmad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools]]></title>
         <id>e6696f91fc2548786df67293ddde369a85a496a8</id>

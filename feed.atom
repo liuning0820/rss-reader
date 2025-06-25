@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-24T22:16:46.692Z</updated>
+    <updated>2025-06-25T01:24:56.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools]]></title>
+        <id>e6696f91fc2548786df67293ddde369a85a496a8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/power-your-llm-training-and-evaluation-with-the-new-sagemaker-ai-generative-ai-tools/"/>
+        <updated>2025-06-24T23:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Today we are excited to introduce the Text Ranking and Question and Answer UI templates to SageMaker AI customers. In this blog post, we’ll walk you through how to set up these templates in SageMaker to create high-quality datasets for training your large language models.]]></summary>
+        <author>
+            <name>Sundar Raghavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock Agents observability using Arize AI]]></title>
+        <id>e1237a68f02382bc65316d4a7963871a3dc4be4b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agents-observability-using-arize-ai/"/>
+        <updated>2025-06-24T22:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce a new integration between Arize AI and Amazon Bedrock Agents that addresses one of the most significant challenges in AI development: observability. In this post, we demonstrate the Arize Phoenix system for tracing and evaluation.]]></summary>
+        <author>
+            <name>Ishan Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How SkillShow automates youth sports video processing using Amazon Transcribe]]></title>
         <id>a9a5151f861b5e561019bd8cde0ac61c60774255</id>

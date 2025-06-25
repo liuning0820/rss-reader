@@ -146,6 +146,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "e6696f91fc2548786df67293ddde369a85a496a8",
+          "author": "Sundar Raghavan",
+          "description": "Today we are excited to introduce the Text Ranking and Question and Answer UI templates to SageMaker AI customers. In this blog post, we’ll walk you through how to set up these templates in SageMaker to create high-quality datasets for training your large language models.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/power-your-llm-training-and-evaluation-with-the-new-sagemaker-ai-generative-ai-tools/",
+          "publishedOn": "2025-06-24T23:44:24.000Z",
+          "wordCount": 28413,
+          "title": "Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/24/feature-image-ML-17584-1120x630.jpg"
+        },
+        {
+          "id": "e1237a68f02382bc65316d4a7963871a3dc4be4b",
+          "author": "Ishan Singh",
+          "description": "Today, we’re excited to announce a new integration between Arize AI and Amazon Bedrock Agents that addresses one of the most significant challenges in AI development: observability. In this post, we demonstrate the Arize Phoenix system for tracing and evaluation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agents-observability-using-arize-ai/",
+          "publishedOn": "2025-06-24T22:31:01.000Z",
+          "wordCount": 30001,
+          "title": "Amazon Bedrock Agents observability using Arize AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/23/ML-18823-image-1-1260x570.png"
+        },
+        {
           "id": "a9a5151f861b5e561019bd8cde0ac61c60774255",
           "author": "Ragib Ahsan",
           "description": "SkillShow, a leader in youth sports video production, films over 300 events yearly in the youth sports industry, creating content for over 20,000 young athletes annually. This post describes how SkillShow used Amazon Transcribe and other Amazon Web Services (AWS) machine learning (ML) services to automate their video processing workflow, reducing editing time and costs while scaling their operations.",

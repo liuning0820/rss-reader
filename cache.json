@@ -146,6 +146,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6b9ffd16ee65772d5702156adb102bea755928bd",
+          "author": "Adam Nemeth",
+          "description": "We demonstrate two methods for generating structured responses with Amazon Bedrock: Prompt Engineering and Tool Use with the Converse API. Prompt Engineering is flexible, works with Bedrock models (including those without Tool Use support), and handles various schema types (e.g., Open API schemas), making it a great starting point. Tool Use offers greater reliability, consistent results, seamless API integration, and runtime validation of JSON schema for enhanced control.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/structured-data-response-with-amazon-bedrock-prompt-engineering-and-tool-use/",
+          "publishedOn": "2025-06-26T15:46:20.000Z",
+          "wordCount": 28389,
+          "title": "Structured data response with Amazon Bedrock: Prompt Engineering and Tool Use",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/12/ML-17009-image-8-1153x630.jpg"
+        },
+        {
+          "id": "692e307da12573bce51c0f803dcfc6bbb1c2fa31",
+          "author": "Ian Lunsford",
+          "description": "In this post, we demonstrate how to use SageMaker AI to apply the Random Cut Forest (RCF) algorithm to detect anomalies in spacecraft position, velocity, and quaternion orientation data from NASA and Blue Origin’s demonstration of lunar Deorbit, Descent, and Landing Sensors (BODDL-TP).",
+          "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-ai-random-cut-forest-for-nasas-blue-origin-spacecraft-sensor-data/",
+          "publishedOn": "2025-06-26T15:41:46.000Z",
+          "wordCount": 29589,
+          "title": "Using Amazon SageMaker AI Random Cut Forest for NASA’s Blue Origin spacecraft sensor data",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/20/ML-18124-velocities-1136x630.jpeg"
+        },
+        {
           "id": "ef536dd9c44d93fccd7861b178211a4a5642578c",
           "author": "Justin Ossai",
           "description": "In this post, we demonstrate how to build a multi-agent system using multi-agent collaboration in Amazon Bedrock Agents to solve complex business questions in the biopharmaceutical industry. We show how specialized agents in research and development (R&D), legal, and finance domains can work together to provide comprehensive business insights by analyzing data from multiple sources.",

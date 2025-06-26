@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-26T06:27:03.092Z</updated>
+    <updated>2025-06-26T08:24:00.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -834,16 +834,6 @@
         <summary type="html"><![CDATA[Rufus, an AI-powered shopping assistant, relies on many components to deliver its customer experience including a foundation LLM (for response generation) and a query planner (QP) model for query classification and retrieval enhancement. This post focuses on how the QP model used draft centric speculative decoding (SD)—also called parallel decoding—with AWS AI chips to meet the demands of Prime Day. By combining parallel decoding with AWS Trainium and Inferentia chips, Rufus achieved two times faster response times, a 50% reduction in inference costs, and seamless scalability during peak traffic.]]></summary>
         <author>
             <name>Shruti Dubey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Amazon Bedrock Data Automation capabilities streamline video and audio analysis]]></title>
-        <id>199eef1e439f0bd41b70ead937e65266f9998de3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/"/>
-        <updated>2025-05-27T20:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock Data Automation helps organizations streamline development and boost efficiency through customizable, multimodal analytics. It eliminates the heavy lifting of unstructured content processing at scale, whether for video or audio. The new capabilities make it faster to extract tailored, generative AI-powered insights like scene summaries, key topics, and customer intents from video and audio. This unlocks the value of unstructured content for use cases such as improving sales productivity and enhancing customer experience.]]></summary>
-        <author>
-            <name>Ashish Lal</name>
         </author>
     </entry>
 </feed>

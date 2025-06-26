@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-26T04:26:39.540Z</updated>
+    <updated>2025-06-26T06:27:03.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock Data Automation helps organizations streamline development and boost efficiency through customizable, multimodal analytics. It eliminates the heavy lifting of unstructured content processing at scale, whether for video or audio. The new capabilities make it faster to extract tailored, generative AI-powered insights like scene summaries, key topics, and customer intents from video and audio. This unlocks the value of unstructured content for use cases such as improving sales productivity and enhancing customer experience.]]></summary>
         <author>
             <name>Ashish Lal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GuardianGamer scales family-safe cloud gaming with AWS]]></title>
-        <id>7be52456e9b72716d754a63c027f22d516211526</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/guardiangamer-scales-family-safe-cloud-gaming-with-aws/"/>
-        <updated>2025-05-27T16:58:47.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how GuardianGamer uses AWS services including Amazon Nova and Amazon Bedrock to deliver a scalable and efficient supervision platform. The team uses Amazon Nova for intelligent narrative generation to provide parents with meaningful insights into their children’s gaming activities and social interactions, while maintaining a non-intrusive approach to monitoring.]]></summary>
-        <author>
-            <name>Heidi Vogel Brockmann, Ronald Brockmann</name>
         </author>
     </entry>
 </feed>

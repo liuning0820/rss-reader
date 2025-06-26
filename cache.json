@@ -884,16 +884,6 @@
           "wordCount": 1896,
           "title": "New Amazon Bedrock Data Automation capabilities streamline video and audio analysis",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/27/featured-images-ML-18353-1120x630.jpg"
-        },
-        {
-          "id": "7be52456e9b72716d754a63c027f22d516211526",
-          "author": "Heidi Vogel Brockmann, Ronald Brockmann",
-          "description": "In this post, we share how GuardianGamer uses AWS services including Amazon Nova and Amazon Bedrock to deliver a scalable and efficient supervision platform. The team uses Amazon Nova for intelligent narrative generation to provide parents with meaningful insights into their children’s gaming activities and social interactions, while maintaining a non-intrusive approach to monitoring.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/guardiangamer-scales-family-safe-cloud-gaming-with-aws/",
-          "publishedOn": "2025-05-27T16:58:47.000Z",
-          "wordCount": 2160,
-          "title": "GuardianGamer scales family-safe cloud gaming with AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/23/featured-images-ml-18855-1120x630.jpg"
         }
       ]
     }

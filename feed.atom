@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-27T16:21:57.547Z</updated>
+    <updated>2025-06-27T18:24:22.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP]]></title>
+        <id>cd8136b2c81b2175a22483ec1cc2688eab673c13</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-costs-estimation-using-amazon-q-cli-and-aws-cost-analysis-mcp/"/>
+        <updated>2025-06-27T16:34:01.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to use Amazon Q CLI with the AWS Cost Analysis MCP server to perform sophisticated cost analysis that follows AWS best practices. We discuss basic setup and advanced techniques, with detailed examples and step-by-step instructions.]]></summary>
+        <author>
+            <name>Joel Asante</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails]]></title>
         <id>393f2e315f5a320bd5bf91e9f752f2412d11285e</id>

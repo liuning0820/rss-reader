@@ -819,36 +819,6 @@
           "wordCount": 4922,
           "title": "Revolutionizing earth observation with geospatial foundation models on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/featured-images-ML-18209-1120x630.jpg"
-        },
-        {
-          "id": "227913960e800aac958438d8c82982a0a8e17870",
-          "author": "Ying Hou",
-          "description": "In this post, we demonstrate an example of building an agentic RAG application using the LlamaIndex framework. LlamaIndex is a framework that connects FMs with external data sources. It helps ingest, structure, and retrieve information from databases, APIs, PDFs, and more, enabling the agent and RAG for AI applications. This application serves as a research tool, using the Mistral Large 2 FM on Amazon Bedrock generate responses for the agent flow.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/create-an-agentic-rag-application-for-advanced-knowledge-discovery-with-llamaindex-and-mistral-in-amazon-bedrock/",
-          "publishedOn": "2025-05-29T20:10:51.000Z",
-          "wordCount": 3882,
-          "title": "Create an agentic RAG application for advanced knowledge discovery with LlamaIndex, and Mistral in Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/featured-images-ML-17742-1120x630.jpg"
-        },
-        {
-          "id": "e12f6c346e449dcd74e7d65f0f4348aea5599fd8",
-          "author": "Arjun Singh",
-          "description": "In this post, we focus on the Amazon Nova Canvas image generation model. We then provide an overview of the image generation process (diffusion) and dive deep into the input parameters for text-to-image generation with Amazon Nova Canvas.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/text-to-image-basics-with-amazon-nova-canvas/",
-          "publishedOn": "2025-05-29T19:29:49.000Z",
-          "wordCount": 2815,
-          "title": "Text-to-image basics with Amazon Nova Canvas",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/basicstti-1120x630.png"
-        },
-        {
-          "id": "f4ad59727833b77a21e74fb047eedefddd145e94",
-          "author": "Arjun Singh",
-          "description": "In this post, we explore how Amazon Nova Canvas can solve real-world business challenges through advanced image generation techniques. We focus on two specific use cases that demonstrate the power and flexibility of this technology: interior design and product photography.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/real-world-applications-of-amazon-nova-canvas-for-interior-design-and-product-photography/",
-          "publishedOn": "2025-05-29T19:26:14.000Z",
-          "wordCount": 2630,
-          "title": "Real-world applications of Amazon Nova Canvas for interior design and product photography",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/canvasph-1120x630.png"
         }
       ]
     }

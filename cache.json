@@ -809,16 +809,6 @@
           "wordCount": 3035,
           "title": "Bridging the gap between development and production: Seamless model lifecycle management with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/03/20/ML-17607-2-1260x439.png"
-        },
-        {
-          "id": "3bb4bbe5b235420c492617a3d2121b3ebb163040",
-          "author": "Karsten Schroer",
-          "description": "In this post, we explore how a leading GeoFM (Clay Foundation’s Clay foundation model available on Hugging Face) can be deployed for large-scale inference and fine-tuning on Amazon SageMaker.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-earth-observation-with-geospatial-foundation-models-on-aws/",
-          "publishedOn": "2025-05-29T21:16:44.000Z",
-          "wordCount": 4922,
-          "title": "Revolutionizing earth observation with geospatial foundation models on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/featured-images-ML-18209-1120x630.jpg"
         }
       ]
     }

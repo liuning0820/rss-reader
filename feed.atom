@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-30T20:18:46.975Z</updated>
+    <updated>2025-06-30T22:16:57.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK]]></title>
+        <id>67a012ba777215649f71386fff3cf1a5dcf07df3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/"/>
+        <updated>2025-06-30T21:51:09.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we provide an overview of the user experience, detailing how to set up and deploy these workflows with multiple models using the SageMaker Python SDK. We walk through examples of building complex inference workflows, deploying them to SageMaker endpoints, and invoking them for real-time inference.]]></summary>
+        <author>
+            <name>Melanie Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Context extraction from image files in Amazon Q Business using LLMs]]></title>
         <id>45c47e5ef40dc0084bb4208c06e2a04a8df0be0b</id>

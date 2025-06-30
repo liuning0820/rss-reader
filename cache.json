@@ -73,6 +73,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1658",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty’s reliability apart. The same […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-483/",
+          "publishedOn": "2025-06-30T02:33:04.000Z",
+          "wordCount": 1137,
+          "title": "SRE Weekly Issue #483",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1656",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, PagerDuty: Incidents move fast. But you’ll never get left behind with PagerDuty’s GenAI incident response assistant, available in all paid plans. Get instant business impact analysis, troubleshooting steps, and auto-drafted status updates—directly in Slack. Stop context-switching, start resolving faster. https://fnf.dev/4dZ5V36 Service Disruption on multiple Salesforce services on […]",

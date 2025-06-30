@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-30T01:37:44.255Z</updated>
+    <updated>2025-06-30T03:23:00.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #483]]></title>
+        <id>https://sreweekly.com/?p=1658</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-483/"/>
+        <updated>2025-06-30T02:33:04.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty’s reliability apart. The same […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP]]></title>
         <id>cd8136b2c81b2175a22483ec1cc2688eab673c13</id>

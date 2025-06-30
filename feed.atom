@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-06-30T12:36:21.760Z</updated>
+    <updated>2025-06-30T14:17:29.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Context extraction from image files in Amazon Q Business using LLMs]]></title>
+        <id>45c47e5ef40dc0084bb4208c06e2a04a8df0be0b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/context-extraction-from-image-files-in-amazon-q-business-using-llms/"/>
+        <updated>2025-06-30T14:03:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we look at a step-by-step implementation for using the custom document enrichment (CDE) feature within an Amazon Q Business application to process standalone image files. We walk you through an AWS Lambda function configured within CDE to process various image file types, and showcase an example scenario of how this integration enhances Amazon Q Business's ability to provide comprehensive insights.]]></summary>
+        <author>
+            <name>Nikhil Jha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build AWS architecture diagrams using Amazon Q CLI and MCP]]></title>
+        <id>7a26d1e283e9cd00b8df531415b7adfb8ed4f799</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-aws-architecture-diagrams-using-amazon-q-cli-and-mcp/"/>
+        <updated>2025-06-30T13:53:34.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to use Amazon Q Developer CLI with the AWS Diagram MCP and the AWS Documentation MCP servers to create sophisticated architecture diagrams that follow AWS best practices. We discuss techniques for basic diagrams and real-world diagrams, with detailed examples and step-by-step instructions.]]></summary>
+        <author>
+            <name>Joel Asante</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #483]]></title>
         <id>https://sreweekly.com/?p=1658</id>

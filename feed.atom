@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-01T20:19:13.317Z</updated>
+    <updated>2025-07-01T22:16:38.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Amazon SageMaker Unified Studio to build complex AI workflows using Amazon Bedrock Flows]]></title>
+        <id>eb0f20964bd26115c04513adc2abea973e55a43d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-unified-studio-to-build-complex-ai-workflows-using-amazon-bedrock-flows/"/>
+        <updated>2025-07-01T20:42:28.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how you can use SageMaker Unified Studio to create complex AI workflows using Amazon Bedrock Flows.]]></summary>
+        <author>
+            <name>Sumeet Tripathi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating AI innovation: Scale MCP servers for enterprise workloads with Amazon Bedrock]]></title>
         <id>5e3957ba5c8e1a3b6664196b58b9b27f1912932b</id>

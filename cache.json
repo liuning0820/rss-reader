@@ -146,6 +146,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "eb0f20964bd26115c04513adc2abea973e55a43d",
+          "author": "Sumeet Tripathi",
+          "description": "In this post, we demonstrate how you can use SageMaker Unified Studio to create complex AI workflows using Amazon Bedrock Flows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-unified-studio-to-build-complex-ai-workflows-using-amazon-bedrock-flows/",
+          "publishedOn": "2025-07-01T20:42:28.000Z",
+          "wordCount": 9377,
+          "title": "Use Amazon SageMaker Unified Studio to build complex AI workflows using Amazon Bedrock Flows",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/01/feature-image-ML-18869-1120x630.jpg"
+        },
+        {
           "id": "5e3957ba5c8e1a3b6664196b58b9b27f1912932b",
           "author": "Xan Huang",
           "description": "In this post, we present a centralized Model Context Protocol (MCP) server implementation using Amazon Bedrock that provides shared access to tools and resources for enterprise AI workloads. The solution enables organizations to accelerate AI innovation by standardizing access to resources and tools through MCP, while maintaining security and governance through a centralized approach.",

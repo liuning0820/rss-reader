@@ -6,6 +6,26 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6399",
+          "author": "Chris Swan",
+          "description": "Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]",
+          "link": "https://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/",
+          "publishedOn": "2025-07-01T15:55:55.000Z",
+          "wordCount": 3684,
+          "title": "Milo cancer diary part 20 – extended remission",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/milo_raspberries.jpeg"
+        },
+        {
+          "id": "http://blog.thestateofme.com/?p=6315",
+          "author": "Chris Swan",
+          "description": "Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]",
+          "link": "https://blog.thestateofme.com/2025/07/01/june-2025/",
+          "publishedOn": "2025-07-01T15:44:08.000Z",
+          "wordCount": 4393,
+          "title": "June 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/06/pups_202506.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6353",
           "author": "Chris Swan",
           "description": "TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]",
@@ -110,16 +130,6 @@
           "publishedOn": "2025-06-09T02:25:12.000Z",
           "wordCount": 1118,
           "title": "SRE Weekly Issue #480",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1644",
-          "author": "lex",
-          "description": "View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don’t always return you to a previous system state. They can return you to a state you’ve never tested or operated before.   Steve Fenton — Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-479/",
-          "publishedOn": "2025-06-02T02:17:31.000Z",
-          "wordCount": 1042,
-          "title": "SRE Weekly Issue #479",
           "imageUrl": null
         }
       ]

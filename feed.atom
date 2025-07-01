@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-01T14:17:15.696Z</updated>
+    <updated>2025-07-01T16:22:43.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 20 – extended remission]]></title>
+        <id>http://blog.thestateofme.com/?p=6399</id>
+        <link href="https://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/"/>
+        <updated>2025-07-01T15:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2025]]></title>
+        <id>http://blog.thestateofme.com/?p=6315</id>
+        <link href="https://blog.thestateofme.com/2025/07/01/june-2025/"/>
+        <updated>2025-07-01T15:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK]]></title>
         <id>67a012ba777215649f71386fff3cf1a5dcf07df3</id>
@@ -724,16 +744,6 @@
         <summary type="html"><![CDATA[Pupdate The fair weather has (mostly) continued, which allowed for some nice long walks. Milo turned four at the start of the month :) Brussels The end of the month brought the half term holiday, and Mrs S wanted to spend the first weekend away somewhere. Brussels quickly made the top of the list after […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #479]]></title>
-        <id>https://sreweekly.com/?p=1644</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-479/"/>
-        <updated>2025-06-02T02:17:31.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Automatic rollbacks are a last resort Rollbacks don’t always return you to a previous system state. They can return you to a state you’ve never tested or operated before.   Steve Fenton — Octopus Deploy Burn rate is a better error rate This article explains the math of burn rate alerting and gives […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

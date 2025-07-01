@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-01T16:22:43.495Z</updated>
+    <updated>2025-07-01T18:24:36.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerating AI innovation: Scale MCP servers for enterprise workloads with Amazon Bedrock]]></title>
+        <id>5e3957ba5c8e1a3b6664196b58b9b27f1912932b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-ai-innovation-scale-mcp-servers-for-enterprise-workloads-with-amazon-bedrock/"/>
+        <updated>2025-07-01T18:16:51.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we present a centralized Model Context Protocol (MCP) server implementation using Amazon Bedrock that provides shared access to tools and resources for enterprise AI workloads. The solution enables organizations to accelerate AI innovation by standardizing access to resources and tools through MCP, while maintaining security and governance through a centralized approach.]]></summary>
+        <author>
+            <name>Xan Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the right approach for generative AI-powered structured data retrieval]]></title>
+        <id>5bd9302e7478c4c1145f061ec277d3d079c8f670</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/"/>
+        <updated>2025-07-01T18:11:19.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore five different patterns for implementing LLM-powered structured data query capabilities in AWS, including direct conversational interfaces, BI tool enhancements, and custom text-to-SQL solutions.]]></summary>
+        <author>
+            <name>Akshara Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing drug data analysis using Amazon Bedrock multimodal RAG capabilities]]></title>
+        <id>3e020a2fcdee7aaf4e069ad5230003683ba56c48</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/revolutionizing-drug-data-analysis-using-amazon-bedrock-multimodal-rag-capabilities/"/>
+        <updated>2025-07-01T18:05:10.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Amazon Bedrock's multimodal RAG capabilities revolutionize drug data analysis by efficiently processing complex medical documentation containing text, images, graphs, and tables.]]></summary>
+        <author>
+            <name>Vivek Mittal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Milo cancer diary part 20 – extended remission]]></title>
         <id>http://blog.thestateofme.com/?p=6399</id>

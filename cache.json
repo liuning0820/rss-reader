@@ -146,6 +146,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5e3957ba5c8e1a3b6664196b58b9b27f1912932b",
+          "author": "Xan Huang",
+          "description": "In this post, we present a centralized Model Context Protocol (MCP) server implementation using Amazon Bedrock that provides shared access to tools and resources for enterprise AI workloads. The solution enables organizations to accelerate AI innovation by standardizing access to resources and tools through MCP, while maintaining security and governance through a centralized approach.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-innovation-scale-mcp-servers-for-enterprise-workloads-with-amazon-bedrock/",
+          "publishedOn": "2025-07-01T18:16:51.000Z",
+          "wordCount": 9589,
+          "title": "Accelerating AI innovation: Scale MCP servers for enterprise workloads with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/01/scalemcp.png"
+        },
+        {
+          "id": "5bd9302e7478c4c1145f061ec277d3d079c8f670",
+          "author": "Akshara Shah",
+          "description": "In this post, we explore five different patterns for implementing LLM-powered structured data query capabilities in AWS, including direct conversational interfaces, BI tool enhancements, and custom text-to-SQL solutions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/",
+          "publishedOn": "2025-07-01T18:11:19.000Z",
+          "wordCount": 9605,
+          "title": "Choosing the right approach for generative AI-powered structured data retrieval",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/17/image-7-6-1140x630.png"
+        },
+        {
+          "id": "3e020a2fcdee7aaf4e069ad5230003683ba56c48",
+          "author": "Vivek Mittal",
+          "description": "In this post, we explore how Amazon Bedrock's multimodal RAG capabilities revolutionize drug data analysis by efficiently processing complex medical documentation containing text, images, graphs, and tables.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-drug-data-analysis-using-amazon-bedrock-multimodal-rag-capabilities/",
+          "publishedOn": "2025-07-01T18:05:10.000Z",
+          "wordCount": 9468,
+          "title": "Revolutionizing drug data analysis using Amazon Bedrock multimodal RAG capabilities",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/01/drugdataanalysis.png"
+        },
+        {
           "id": "67a012ba777215649f71386fff3cf1a5dcf07df3",
           "author": "Melanie Li",
           "description": "In this post, we provide an overview of the user experience, detailing how to set up and deploy these workflows with multiple models using the SageMaker Python SDK. We walk through examples of building complex inference workflows, deploying them to SageMaker endpoints, and invoking them for real-time inference.",

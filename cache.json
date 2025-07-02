@@ -186,6 +186,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "28b941e13e36b3fdad12789a9bef8df1ff2f4587",
+          "author": "Vivek Gangasani",
+          "description": "In this post, we show how to use Amazon OpenSearch Service as a vector store to build an efficient RAG application.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimize-rag-in-production-environments-using-amazon-sagemaker-jumpstart-and-amazon-opensearch-service/",
+          "publishedOn": "2025-07-02T20:55:51.000Z",
+          "wordCount": 10084,
+          "title": "Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/02/feature-image-ML-18052-1120x630.jpg"
+        },
+        {
           "id": "97fd357f8f6ce597a772d1ed354bff38e0a1b55e",
           "author": "Deepak Chandrasekar, Sandeep Singh",
           "description": "In this post, we share how Boomi partnered with AWS to help enterprises accelerate and scale AI adoption with confidence using Agent Control Tower.",

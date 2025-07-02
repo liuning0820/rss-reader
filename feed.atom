@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-01T22:16:38.544Z</updated>
+    <updated>2025-07-02T01:24:30.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -764,26 +764,6 @@
         <summary type="html"><![CDATA[When a regulatory body like the US Food and Drug Administration (FDA) introduces changes to regulations, organizations are required to evaluate the changes against their internal SOPs. When necessary, they must update their SOPs to align with the regulation changes and maintain compliance. In this post, we show different approaches using Amazon Bedrock to identify relationships between regulation changes and SOPs.]]></summary>
         <author>
             <name>Ganesh Raam Ramadurai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 2025]]></title>
-        <id>http://blog.thestateofme.com/?p=6282</id>
-        <link href="https://blog.thestateofme.com/2025/06/02/may-2025/"/>
-        <updated>2025-06-02T12:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The fair weather has (mostly) continued, which allowed for some nice long walks. Milo turned four at the start of the month :) Brussels The end of the month brought the half term holiday, and Mrs S wanted to spend the first weekend away somewhere. Brussels quickly made the top of the list after […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 2025]]></title>
-        <id>https://blog.thestateofme.com/?p=6282</id>
-        <link href="http://blog.thestateofme.com/2025/06/02/may-2025/"/>
-        <updated>2025-06-02T12:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The fair weather has (mostly) continued, which allowed for some nice long walks. Milo turned four at the start of the month :) Brussels The end of the month brought the half term holiday, and Mrs S wanted to spend the first weekend away somewhere. Brussels quickly made the top of the list after […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

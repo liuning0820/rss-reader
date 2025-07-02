@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6399",
+          "author": "Chris Swan",
+          "description": "Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]",
+          "link": "http://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/",
+          "publishedOn": "2025-07-01T15:55:55.000Z",
+          "wordCount": 3686,
+          "title": "Milo cancer diary part 20 – extended remission",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/milo_raspberries.jpeg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6399",
           "author": "Chris Swan",
@@ -14,6 +24,16 @@
           "wordCount": 3684,
           "title": "Milo cancer diary part 20 – extended remission",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/milo_raspberries.jpeg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6315",
+          "author": "Chris Swan",
+          "description": "Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]",
+          "link": "http://blog.thestateofme.com/2025/07/01/june-2025/",
+          "publishedOn": "2025-07-01T15:44:08.000Z",
+          "wordCount": 4402,
+          "title": "June 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/06/pups_202506.jpg"
         },
         {
           "id": "http://blog.thestateofme.com/?p=6315",
@@ -26,6 +46,16 @@
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/06/pups_202506.jpg"
         },
         {
+          "id": "https://blog.thestateofme.com/?p=6353",
+          "author": "Chris Swan",
+          "description": "TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]",
+          "link": "http://blog.thestateofme.com/2025/06/11/failures-of-imagination-again/",
+          "publishedOn": "2025-06-11T21:07:06.000Z",
+          "wordCount": 4643,
+          "title": "Failures of Imagination (again)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6353",
           "author": "Chris Swan",
           "description": "TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]",
@@ -33,6 +63,16 @@
           "publishedOn": "2025-06-11T21:07:06.000Z",
           "wordCount": 4632,
           "title": "Failures of Imagination (again)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6339",
+          "author": "Chris Swan",
+          "description": "TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]",
+          "link": "http://blog.thestateofme.com/2025/06/09/dart-binaries-in-python-packages/",
+          "publishedOn": "2025-06-09T10:20:47.000Z",
+          "wordCount": 4094,
+          "title": "Dart binaries in Python packages",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
@@ -46,6 +86,16 @@
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
+          "id": "https://blog.thestateofme.com/?p=6328",
+          "author": "Chris Swan",
+          "description": "TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]",
+          "link": "http://blog.thestateofme.com/2025/06/06/dealing-with-policy-debt/",
+          "publishedOn": "2025-06-06T10:42:25.000Z",
+          "wordCount": 4109,
+          "title": "Dealing with Policy Debt",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6328",
           "author": "Chris Swan",
           "description": "TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]",
@@ -53,6 +103,16 @@
           "publishedOn": "2025-06-06T10:42:25.000Z",
           "wordCount": 4209,
           "title": "Dealing with Policy Debt",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6317",
+          "author": "Chris Swan",
+          "description": "Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]",
+          "link": "http://blog.thestateofme.com/2025/06/03/using-a-python-venv-to-run-different-versions-of-cmake/",
+          "publishedOn": "2025-06-03T12:58:06.000Z",
+          "wordCount": 3694,
+          "title": "Using a Python venv to run different versions of CMake",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {

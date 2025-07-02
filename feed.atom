@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-02T01:24:30.522Z</updated>
+    <updated>2025-07-02T03:16:54.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -48,10 +48,30 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Milo cancer diary part 20 – extended remission]]></title>
+        <id>https://blog.thestateofme.com/?p=6399</id>
+        <link href="http://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/"/>
+        <updated>2025-07-01T15:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 20 – extended remission]]></title>
         <id>http://blog.thestateofme.com/?p=6399</id>
         <link href="https://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/"/>
         <updated>2025-07-01T15:55:55.000Z</updated>
         <summary type="html"><![CDATA[Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2025]]></title>
+        <id>https://blog.thestateofme.com/?p=6315</id>
+        <link href="http://blog.thestateofme.com/2025/07/01/june-2025/"/>
+        <updated>2025-07-01T15:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]]]></summary>
         <author>
             <name>Chris Swan</name>
         </author>
@@ -448,6 +468,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Failures of Imagination (again)]]></title>
+        <id>https://blog.thestateofme.com/?p=6353</id>
+        <link href="http://blog.thestateofme.com/2025/06/11/failures-of-imagination-again/"/>
+        <updated>2025-06-11T21:07:06.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failures of Imagination (again)]]></title>
         <id>http://blog.thestateofme.com/?p=6353</id>
         <link href="https://blog.thestateofme.com/2025/06/11/failures-of-imagination-again/"/>
         <updated>2025-06-11T21:07:06.000Z</updated>
@@ -568,6 +598,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Dart binaries in Python packages]]></title>
+        <id>https://blog.thestateofme.com/?p=6339</id>
+        <link href="http://blog.thestateofme.com/2025/06/09/dart-binaries-in-python-packages/"/>
+        <updated>2025-06-09T10:20:47.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dart binaries in Python packages]]></title>
         <id>http://blog.thestateofme.com/?p=6339</id>
         <link href="https://blog.thestateofme.com/2025/06/09/dart-binaries-in-python-packages/"/>
         <updated>2025-06-09T10:20:47.000Z</updated>
@@ -624,6 +664,16 @@
         <summary type="html"><![CDATA[This post evaluates the key options for querying data using generative AI, discusses their strengths and limitations, and demonstrates why Text-to-SQL is the best choice for deterministic, schema-specific tasks. We show how to effectively use Text-to-SQL using Amazon Nova, a foundation model (FM) available in Amazon Bedrock, to derive precise and reliable answers from your data.]]></summary>
         <author>
             <name>Mansi Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dealing with Policy Debt]]></title>
+        <id>https://blog.thestateofme.com/?p=6328</id>
+        <link href="http://blog.thestateofme.com/2025/06/06/dealing-with-policy-debt/"/>
+        <updated>2025-06-06T10:42:25.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>
@@ -724,6 +774,16 @@
         <summary type="html"><![CDATA[In this post, we explore how Noodoe uses AI and Amazon Bedrock to optimize EV charging operations. By integrating LLMs, Noodoe enhances station diagnostics, enables dynamic pricing, and delivers multilingual support. These innovations reduce downtime, maximize efficiency, and improve sustainability. Read on to discover how AI is transforming EV charging management.]]></summary>
         <author>
             <name>Ray Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Python venv to run different versions of CMake]]></title>
+        <id>https://blog.thestateofme.com/?p=6317</id>
+        <link href="http://blog.thestateofme.com/2025/06/03/using-a-python-venv-to-run-different-versions-of-cmake/"/>
+        <updated>2025-06-03T12:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

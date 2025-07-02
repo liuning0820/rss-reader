@@ -829,26 +829,6 @@
           "wordCount": 2389,
           "title": "Enhanced diagnostics flow with LLM and Amazon Bedrock agent integration",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/20/Noodoe-GenAI-Data-Flow.drawio-870x630.png"
-        },
-        {
-          "id": "bbda6d388effd5a44bca2d930f35ee4d1f137b85",
-          "author": "Ruan Roloff",
-          "description": "In this post, we explore how to use Graph-based Retrieval-Augmented Generation (GraphRAG) in Amazon Bedrock Knowledge Bases to build intelligent applications. Unlike traditional vector search, which retrieves documents based on similarity scores, knowledge graphs encode relationships between entities, allowing large language models (LLMs) to retrieve information with context-aware reasoning.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-graphrag-applications-using-amazon-bedrock-knowledge-bases/",
-          "publishedOn": "2025-06-02T17:39:51.000Z",
-          "wordCount": 3329,
-          "title": "Build GraphRAG applications using Amazon Bedrock Knowledge Bases",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/19/ML-18340_002_architecture.png"
-        },
-        {
-          "id": "ddce93902a4813aa526a5a42e972c4eebe188fa0",
-          "author": "Reagan Rosario",
-          "description": "This blog post presents an MLOps solution that uses AWS Cloud Development Kit (AWS CDK) and services like AWS Step Functions, Amazon EventBridge and Amazon Personalize to automate provisioning resources for data preparation, model training, deployment, and monitoring for Amazon Personalize.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-personalization-development-how-automated-ml-workflows-accelerate-amazon-personalize-implementation/",
-          "publishedOn": "2025-06-02T17:34:51.000Z",
-          "wordCount": 4184,
-          "title": "Streamline personalization development: How automated ML workflows accelerate Amazon Personalize implementation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/03/ML-17195-Picture1-1260x587.png"
         }
       ]
     }

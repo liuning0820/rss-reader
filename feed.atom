@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-02T04:27:41.505Z</updated>
+    <updated>2025-07-02T06:26:57.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -794,26 +794,6 @@
         <summary type="html"><![CDATA[Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build GraphRAG applications using Amazon Bedrock Knowledge Bases]]></title>
-        <id>bbda6d388effd5a44bca2d930f35ee4d1f137b85</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-graphrag-applications-using-amazon-bedrock-knowledge-bases/"/>
-        <updated>2025-06-02T17:39:51.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to use Graph-based Retrieval-Augmented Generation (GraphRAG) in Amazon Bedrock Knowledge Bases to build intelligent applications. Unlike traditional vector search, which retrieves documents based on similarity scores, knowledge graphs encode relationships between entities, allowing large language models (LLMs) to retrieve information with context-aware reasoning.]]></summary>
-        <author>
-            <name>Ruan Roloff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline personalization development: How automated ML workflows accelerate Amazon Personalize implementation]]></title>
-        <id>ddce93902a4813aa526a5a42e972c4eebe188fa0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/streamline-personalization-development-how-automated-ml-workflows-accelerate-amazon-personalize-implementation/"/>
-        <updated>2025-06-02T17:34:51.000Z</updated>
-        <summary type="html"><![CDATA[This blog post presents an MLOps solution that uses AWS Cloud Development Kit (AWS CDK) and services like AWS Step Functions, Amazon EventBridge and Amazon Personalize to automate provisioning resources for data preparation, model training, deployment, and monitoring for Amazon Personalize.]]></summary>
-        <author>
-            <name>Reagan Rosario</name>
         </author>
     </entry>
 </feed>

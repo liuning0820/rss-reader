@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-02T03:16:54.679Z</updated>
+    <updated>2025-07-02T04:27:41.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -814,16 +814,6 @@
         <summary type="html"><![CDATA[This blog post presents an MLOps solution that uses AWS Cloud Development Kit (AWS CDK) and services like AWS Step Functions, Amazon EventBridge and Amazon Personalize to automate provisioning resources for data preparation, model training, deployment, and monitoring for Amazon Personalize.]]></summary>
         <author>
             <name>Reagan Rosario</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast-track SOP processing using Amazon Bedrock]]></title>
-        <id>dc55c0b49c875a811a3e114c791325bab95ee403</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/fast-track-sop-processing-using-amazon-bedrock/"/>
-        <updated>2025-06-02T16:04:37.000Z</updated>
-        <summary type="html"><![CDATA[When a regulatory body like the US Food and Drug Administration (FDA) introduces changes to regulations, organizations are required to evaluate the changes against their internal SOPs. When necessary, they must update their SOPs to align with the regulation changes and maintain compliance. In this post, we show different approaches using Amazon Bedrock to identify relationships between regulation changes and SOPs.]]></summary>
-        <author>
-            <name>Ganesh Raam Ramadurai</name>
         </author>
     </entry>
 </feed>

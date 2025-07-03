@@ -799,16 +799,6 @@
           "wordCount": 2952,
           "title": "Supercharge your development with Claude Code and Amazon Bedrock prompt caching",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/04/supercharge-claude.jpg"
-        },
-        {
-          "id": "13977db91c0667df2c60f5413703e78f125f9415",
-          "author": "Aditya Addepalli",
-          "description": "We’ve witnessed remarkable advances in model capabilities as generative AI companies have invested in developing their offerings. Language models such as Anthropic’s Claude Opus 4 & Sonnet 4, Amazon Nova, and Amazon Bedrock can reason, write, and generate responses with increasing sophistication. But even as these models grow more powerful, they can only work with […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/",
-          "publishedOn": "2025-06-03T16:53:40.000Z",
-          "wordCount": 4875,
-          "title": "Unlocking the power of Model Context Protocol (MCP) on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/23/ML-18605-bedrock-kb-architecture-884x630.png"
         }
       ]
     }

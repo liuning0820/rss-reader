@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-03T12:36:32.916Z</updated>
+    <updated>2025-07-03T14:17:12.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock]]></title>
+        <id>bc7ad85bd9531c15d4c83702542cf8b4169bd458</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/transforming-network-operations-with-ai-how-swisscom-built-a-network-assistant-using-amazon-bedrock/"/>
+        <updated>2025-07-03T14:07:44.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Swisscom developed their Network Assistant. We discuss the initial challenges and how they implemented a solution that delivers measurable benefits. We examine the technical architecture, discuss key learnings, and look at future enhancements that can further transform network operations.]]></summary>
+        <author>
+            <name>Pablo García Benedicto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End-to-End model training and deployment with Amazon SageMaker Unified Studio]]></title>
+        <id>80109ceea3e3b1433b767eac2fb6eb7e8f32ca7c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/"/>
+        <updated>2025-07-03T14:04:43.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we guide you through the stages of customizing large language models (LLMs) with SageMaker Unified Studio and SageMaker AI, covering the end-to-end process starting from data discovery to fine-tuning FMs with SageMaker AI distributed training, tracking metrics using MLflow, and then deploying models using SageMaker AI inference for real-time inference. We also discuss best practices to choose the right instance size and share some debugging best practices while working with JupyterLab notebooks in SageMaker Unified Studio.]]></summary>
+        <author>
+            <name>Mona Mona</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service]]></title>
         <id>28b941e13e36b3fdad12789a9bef8df1ff2f4587</id>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6399",
@@ -103,26 +103,6 @@
           "publishedOn": "2025-06-06T10:42:25.000Z",
           "wordCount": 4209,
           "title": "Dealing with Policy Debt",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6317",
-          "author": "Chris Swan",
-          "description": "Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]",
-          "link": "http://blog.thestateofme.com/2025/06/03/using-a-python-venv-to-run-different-versions-of-cmake/",
-          "publishedOn": "2025-06-03T12:58:06.000Z",
-          "wordCount": 3694,
-          "title": "Using a Python venv to run different versions of CMake",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6317",
-          "author": "Chris Swan",
-          "description": "Sometimes I need an older or newer version of CMake to the one installed by the system package manager on whatever I’m using, and I’ve found using a Python venv provides an easy way to do that. It’s all facilitated by the fact that CMake is a PyPI package [1]. For example, my Kubuntu desktop […]",
-          "link": "https://blog.thestateofme.com/2025/06/03/using-a-python-venv-to-run-different-versions-of-cmake/",
-          "publishedOn": "2025-06-03T12:58:06.000Z",
-          "wordCount": 3774,
-          "title": "Using a Python venv to run different versions of CMake",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]

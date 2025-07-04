@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-04T08:23:56.008Z</updated>
+    <updated>2025-07-04T10:18:54.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -754,16 +754,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to deploy a small language model on SageMaker AI by extending our pre-built containers to be compatible with AWS Graviton instances. We first provide an overview of the solution, and then provide detailed implementation steps to help you get started. You can find the example notebook in the GitHub repo.]]></summary>
         <author>
             <name>Vincent Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impel enhances automotive dealership customer experience with fine-tuned LLMs on Amazon SageMaker]]></title>
-        <id>9e02f996c5e3c80f14860bee9c7951901afe8e1e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/impel-enhances-automotive-dealership-customer-experience-with-fine-tuned-llms-on-amazon-sagemaker/"/>
-        <updated>2025-06-04T21:20:47.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how Impel enhances the automotive dealership customer experience with fine-tuned LLMs on SageMaker.]]></summary>
-        <author>
-            <name>Nicholas Scozzafava</name>
         </author>
     </entry>
 </feed>

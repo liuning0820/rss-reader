@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-04T03:16:21.270Z</updated>
+    <updated>2025-07-04T04:27:57.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -764,26 +764,6 @@
         <summary type="html"><![CDATA[In this post, we share how Impel enhances the automotive dealership customer experience with fine-tuned LLMs on SageMaker.]]></summary>
         <author>
             <name>Nicholas Scozzafava</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How climate tech startups are building foundation models with Amazon SageMaker HyperPod]]></title>
-        <id>259f623956d3dd5819ce7d6bd0a6b9fc6ffa7876</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-climate-tech-startups-are-building-foundation-models-with-amazon-sagemaker-hyperpod/"/>
-        <updated>2025-06-04T16:07:46.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how climate tech startups are developing foundation models (FMs) that use extensive environmental datasets to tackle issues such as carbon capture, carbon-negative fuels, new materials design for microplastics destruction, and ecosystem preservation. These specialized models require advanced computational capabilities to process and analyze vast amounts of data effectively.]]></summary>
-        <author>
-            <name>Ilan Gleiser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharge your development with Claude Code and Amazon Bedrock prompt caching]]></title>
-        <id>90d51716ebb0bf0a6e473917ac8f73f19d948ed5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/supercharge-your-development-with-claude-code-and-amazon-bedrock-prompt-caching/"/>
-        <updated>2025-06-04T16:04:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll explore how to combine Amazon Bedrock prompt caching with Claude Code—a coding agent released by Anthropic that is now generally available. This powerful combination transforms your development workflow by delivering lightning-fast responses from reducing inference response latency, as well as lowering input token costs.]]></summary>
-        <author>
-            <name>Jonathan Evans</name>
         </author>
     </entry>
 </feed>

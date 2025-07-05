@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-05T04:22:27.098Z</updated>
+    <updated>2025-07-05T06:23:49.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public Ollama Models]]></title>
+        <id>https://liuning0820.github.io/2025/07/05/public-ollama-models.html</id>
+        <link href="https://liuning0820.github.io/2025/07/05/public-ollama-models.html"/>
+        <updated>2025-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Public Ollama Models 2025-07-05 How to chat with Ollama models Select an IP and model from the table below, then use them in this command: # Start a conversation with a model # Replace &lt;IP&gt; with an IP from the table below # Replace &lt;MODEL&gt; with one of the models listed for that IP curl -X POST http://&lt;IP&gt;:11434/api/chat -d '{ "model": "&lt;MODEL&gt;", "messages": [{ "role": "user", "content": "Hello, how are you?" }] }' Available Models IP Models 222.70.88.44 qwen3:8bdeepseek-r1:8bdeepseek-r1:7bqwen3:30b-a3bnomic-embed-text:latestbge-m3:latest 117.50.179.196 smollm2:135mhf.co/IlyaGusev/saiga_nemo_12b_gguf:Q5_K_M 117.50.197.100 qwen2.5:7bbge-m3:567mqwen2.5vl:7b 117.50.164.136 qwen3:1.7bnomic-embed-text:v1.5qwen3:4bllama3.2:3b-instruct-q5_K_M 106.14.202.11 mxbai-embed-large:latest 163.228.156.198 qwen3:8b-nothinkqwen3:8bdeepseek-r1:8bqwen2.5:32bqwen2.5-coder:7bQwen2.5-7B-Instruct-Distill-ds-r1-110k:latestQwen2.5-7B-Instruct:7bQwen2.5-7B-Distill-ds-r1-110k:7bqwq:latestsmollm2:135mqwen2.5:3B-Traineddeepseek-r1:32bdeepseek-r1:14bllava:latestnomic-embed-text:latestqwen2.5:latestdeepseek-r1:7b 218.1.151.175 smollm2:135mnomic-embed-text:latestqwen2.5:latest 218.78.108.171 deepseek-r1:14bdeepseek-r1:7bdeepseek-r1:1.5b 117.50.245.70 smollm2:135mqwen2.5:32bqwen2.5:7bgemma2:27bgemma2:2bqwen2.5:14bdeepseek-r1:14bdeepseek-r1:7bgemma3:4bnomic-embed-text:latestdeepseek-r1:1.5bgemma3:12bgemma3:27bqwen2.5-coder:latestunsloth.F16.gguf:latestunsloth.Q8_0.gguf:latest 117.50.194.3 dengcao/Qwen3-Embedding-8B:Q5_K_Mdengcao/Qwen3-Embedding-4B:Q5_K_M 61.165.183.106 huihui_ai/deepseek-r1-abliterated:70b-llama-distill-q8_0 124.71.154.35 llama3.2:3b-instruct-q5_K_Mdeepseek-r1:1.5bnomic-embed-text:latest 117.50.174.178 smollm2:135mqwen2.5:7bdeepseek-r1:8b 117.50.175.121 changji_medical_deepseek_r1:14bchangji_medical_deepseek_r1:32b 101.132.102.117 smollm2:135mbge-m3:567mdeepseek-r1:1.5b 117.50.250.245 qwen3:8b_nothinkqwen3:8b 143.64.160.92 llama3.2:3b-instruct-q5_K_MMartinRizzo/Ayla-Light-v2:12b-q4_K_M 58.246.1.174 llama3.2:3b-instruct-q5_K_Mqwen2.5:32b 61.172.167.153 deepseek-r1:7b 61.172.167.211 deepseek-r1:7b 61.169.115.204 nomic-embed-text:latestdeepseek-r1:32b 47.116.202.9 qwen3-no-think:latestqwen3:latestqwen3:8bqwen:7bllava:latestmistral:7b-instructnomic-embed-text:latestqllama/bge-reranker-v2-m3:latestbge-large:latestdeepseek-r1:7bbge-m3:latestdeepseek-r1:latestdeepseek-r1:1.5bqwen2:latest 223.166.95.229 deepseek-r1:7bdeepseek-r1:14bdeepseek-r1:8bqwen3:latestqwen3:14bqwen2.5vl:32bqwen2.5vl:latestqwen3:8bgemma3:12bgemma3:27bllava:34bllava:13bmxbai-embed-large:latestnomic-embed-text:latestqwq:latestcodellama:13bllama3.2-vision:latestqwen2.5-coder:latestqwen2.5-coder:14bphi4:latestphi3:14bmistral:latestllama3.3:latestllama3.2:latestllama3.1:latestllama3:latestllama3:70bgemma2:latestgemma2:27b 180.158.174.61 qwq:32b-q8_0qwq:32b-16384contextqwq:32bnomic-embed-text:latestdeepseek-r1:32bdeepseek-r1:14bllama3.2-vision:11bqwen2.5:32bllama3.2:latest Disclaimer These Ollama model endpoints are publicly exposed interfaces found on the internet. They are listed here for informational purposes only. Please be aware that: These endpoints are not maintained or controlled by us The availability and stability of these services cannot be guaranteed Use these services at your own risk We take no responsibility for any issues or damages that may arise from using these endpoints 免责声明 本文列出的 Ollama 模型接口均来自互联网上公开暴露的端点。请注意： 这些端点并非由我们维护或控制 无法保证这些服务的可用性和稳定性 使用这些服务需自行承担风险 对于使用这些端点可能产生的任何问题或损失，我们不承担任何责任]]></summary>
+        <author>
+            <name>Toby Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock]]></title>
         <id>bc7ad85bd9531c15d4c83702542cf8b4169bd458</id>
@@ -724,26 +734,6 @@
         <summary type="html"><![CDATA[TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modernize and migrate on-premises fraud detection machine learning workflows to Amazon SageMaker]]></title>
-        <id>26d9ee9cb82638d9cf710c0c2633411cd20d810e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/modernize-and-migrate-on-premises-fraud-detection-machine-learning-workflows-to-amazon-sagemaker/"/>
-        <updated>2025-06-05T16:40:32.000Z</updated>
-        <summary type="html"><![CDATA[Radial is the largest 3PL fulfillment provider, also offering integrated payment, fraud detection, and omnichannel solutions to mid-market and enterprise brands. In this post, we share how Radial optimized the cost and performance of their fraud detection machine learning (ML) applications by modernizing their ML workflow using Amazon SageMaker.]]></summary>
-        <author>
-            <name>Jake Wen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual retrieval in Anthropic using Amazon Bedrock Knowledge Bases]]></title>
-        <id>94e43b5f050984d07a671df4b0b5f596953d31ad</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/contextual-retrieval-in-anthropic-using-amazon-bedrock-knowledge-bases/"/>
-        <updated>2025-06-05T16:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Contextual retrieval enhances traditional RAG by adding chunk-specific explanatory context to each chunk before generating embeddings. This approach enriches the vector representation with relevant contextual information, enabling more accurate retrieval of semantically related content when responding to user queries. In this post, we demonstrate how to use contextual retrieval with Anthropic and Amazon Bedrock Knowledge Bases.]]></summary>
-        <author>
-            <name>Suheel Farooq</name>
         </author>
     </entry>
 </feed>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6399",
@@ -779,16 +779,6 @@
           "wordCount": 3293,
           "title": "Contextual retrieval in Anthropic using Amazon Bedrock Knowledge Bases",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/05/contextual-retrieval.jpg"
-        },
-        {
-          "id": "f1c484e234ef857fc38050d28db3464ea042d620",
-          "author": "Vincent Wang",
-          "description": "In this post, we demonstrate how to deploy a small language model on SageMaker AI by extending our pre-built containers to be compatible with AWS Graviton instances. We first provide an overview of the solution, and then provide detailed implementation steps to help you get started. You can find the example notebook in the GitHub repo.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/",
-          "publishedOn": "2025-06-05T16:16:20.000Z",
-          "wordCount": 3262,
-          "title": "Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/23/ML-18152-torch-diag.png-1120x630.jpg"
         }
       ]
     }

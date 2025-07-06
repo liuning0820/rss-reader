@@ -710,46 +710,6 @@
           "wordCount": 2241,
           "title": "How Kepler democratized AI access and enhanced client services with Amazon Q Business",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/03/ML-18968-image-1.png"
-        },
-        {
-          "id": "5a6a5e152dd1e382b4fd03a685f16a6d3400e297",
-          "author": "Kaiyin Hu",
-          "description": "In this post, we demonstrate how to use the Open AI Whisper foundation model (FM) Whisper Large V3 Turbo, available in Amazon Bedrock Marketplace, which offers access to over 140 models through a dedicated offering, to produce near real-time transcription. These transcriptions are then processed by Amazon Bedrock for summarization and redaction of sensitive information.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-audio-summarization-solution-with-amazon-bedrock-and-whisper/",
-          "publishedOn": "2025-06-06T17:34:31.000Z",
-          "wordCount": 2788,
-          "title": "Build a serverless audio summarization solution with Amazon Bedrock and Whisper",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/19/Picture2-4-crop.png"
-        },
-        {
-          "id": "ecc7ca1bb5896b73806a97065e5af80edbfea514",
-          "author": "Alexander Arzhanov",
-          "description": "In this post, we demonstrate how to use large vision models (LVMs) for semantic video search using natural language and image queries. We introduce some use case-specific methods, such as temporal frame smoothing and clustering, to enhance the video search performance. Furthermore, we demonstrate the end-to-end functionality of this approach by using both asynchronous and real-time hosting options on Amazon SageMaker AI to perform video, image, and text processing using publicly available LVMs on the Hugging Face Model Hub. Finally, we use Amazon OpenSearch Serverless with its vector engine for low-latency semantic video search.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/implement-semantic-video-search-using-open-source-large-vision-models-on-amazon-sagemaker-and-amazon-opensearch-serverless/",
-          "publishedOn": "2025-06-06T17:13:27.000Z",
-          "wordCount": 4075,
-          "title": "Implement semantic video search using open source large vision models on Amazon SageMaker and Amazon OpenSearch Serverless",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/07/fig1-1.png"
-        },
-        {
-          "id": "e917b802ba8b25de8e0d3191f459fab8b48c3e35",
-          "author": "Nisha Nadkarni",
-          "description": "In this post, we discuss how an enterprise with multiple accounts can access a shared Amazon SageMaker HyperPod cluster for running their heterogenous workloads. We use SageMaker HyperPod task governance to enable this feature.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/multi-account-support-for-amazon-sagemaker-hyperpod-task-governance/",
-          "publishedOn": "2025-06-06T16:55:56.000Z",
-          "wordCount": 2630,
-          "title": "Multi-account support for Amazon SageMaker HyperPod task governance",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/28/access-points-jpmc.drawio-2-701x630.png"
-        },
-        {
-          "id": "6074fa33042c619e87fded8a1e64a99e6ec76126",
-          "author": "Mansi Sharma",
-          "description": "This post evaluates the key options for querying data using generative AI, discusses their strengths and limitations, and demonstrates why Text-to-SQL is the best choice for deterministic, schema-specific tasks. We show how to effectively use Text-to-SQL using Amazon Nova, a foundation model (FM) available in Amazon Bedrock, to derive precise and reliable answers from your data.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-text-to-sql-solution-for-data-consistency-in-generative-ai-using-amazon-nova/",
-          "publishedOn": "2025-06-06T16:53:35.000Z",
-          "wordCount": 3116,
-          "title": "Build a Text-to-SQL solution for data consistency in generative AI using Amazon Nova",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/23/ML-17543-arch-diag.jpg"
         }
       ]
     }

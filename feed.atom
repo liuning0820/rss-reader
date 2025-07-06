@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-05T22:15:22.539Z</updated>
+    <updated>2025-07-06T01:40:02.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,26 +714,6 @@
         <summary type="html"><![CDATA[This post evaluates the key options for querying data using generative AI, discusses their strengths and limitations, and demonstrates why Text-to-SQL is the best choice for deterministic, schema-specific tasks. We show how to effectively use Text-to-SQL using Amazon Nova, a foundation model (FM) available in Amazon Bedrock, to derive precise and reliable answers from your data.]]></summary>
         <author>
             <name>Mansi Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dealing with Policy Debt]]></title>
-        <id>https://blog.thestateofme.com/?p=6328</id>
-        <link href="http://blog.thestateofme.com/2025/06/06/dealing-with-policy-debt/"/>
-        <updated>2025-06-06T10:42:25.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dealing with Policy Debt]]></title>
-        <id>http://blog.thestateofme.com/?p=6328</id>
-        <link href="https://blog.thestateofme.com/2025/06/06/dealing-with-policy-debt/"/>
-        <updated>2025-06-06T10:42:25.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

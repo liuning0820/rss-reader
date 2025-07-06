@@ -84,26 +84,6 @@
           "wordCount": 4247,
           "title": "Dart binaries in Python packages",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6328",
-          "author": "Chris Swan",
-          "description": "TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]",
-          "link": "http://blog.thestateofme.com/2025/06/06/dealing-with-policy-debt/",
-          "publishedOn": "2025-06-06T10:42:25.000Z",
-          "wordCount": 4109,
-          "title": "Dealing with Policy Debt",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6328",
-          "author": "Chris Swan",
-          "description": "TL;DR Start writing down why decisions are made. Future you may thank you. Future other person who’s wondering what you were thinking may also thank you. Then keep a dependency graph of the things impacted by the decision. It will help unravel what gets woven around it. Background I was at an excellent AFCEA event […]",
-          "link": "https://blog.thestateofme.com/2025/06/06/dealing-with-policy-debt/",
-          "publishedOn": "2025-06-06T10:42:25.000Z",
-          "wordCount": 4209,
-          "title": "Dealing with Policy Debt",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6399",
@@ -166,6 +166,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0f4b683fa29b2a45811f7aad59b14d2a9166c977",
+          "author": "Niithiyn Vijeaswaran",
+          "description": "Today, we are excited to announce that Qwen3, the latest generation of large language models (LLMs) in the Qwen family, is available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, you can deploy the Qwen3 models—available in 0.6B, 4B, 8B, and 32B parameter sizes—to build, experiment, and responsibly scale your generative AI applications on AWS. In this post, we demonstrate how to get started with Qwen3 on Amazon Bedrock Marketplace and SageMaker JumpStart.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/qwen3-family-of-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2025-07-07T19:58:06.000Z",
+          "wordCount": 10210,
+          "title": "Qwen3 family of reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/03/Screenshot-2025-07-03-at-1.48.42 PM-1119x630.png"
+        },
+        {
+          "id": "1e51c0703ef73b084f5093101bc0ea6620924e8e",
+          "author": "Steven Warwick",
+          "description": "Traditional Retrieval Augmented Generation (RAG) systems consume valuable resources by ingesting and maintaining embeddings for documents that might never be queried, resulting in unnecessary storage costs and reduced system efficiency. This post presents a just-in-time knowledge base solution that reduces unused consumption through intelligent document processing. The solution processes documents only when needed and automatically removes unused resources, so organizations can scale their document repositories without proportionally increasing infrastructure costs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-just-in-time-knowledge-base-with-amazon-bedrock/",
+          "publishedOn": "2025-07-07T19:56:01.000Z",
+          "wordCount": 9226,
+          "title": "Build a just-in-time knowledge base with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/18/ML-18649-architecture-697x630.jpg"
+        },
+        {
+          "id": "30c156798ccfba185ff4d7bf60bfc7c24f2bc9bf",
+          "author": "Kiowa Jackson",
+          "description": "In this post, we show how to build a fully deployable solution that processes video streams using OpenCV, Amazon Bedrock for contextual scene understanding and automated responses through Amazon Bedrock Agents. This solution extends the capabilities demonstrated in Automate chatbot for document and data retrieval using Amazon Bedrock Agents and Knowledge Bases, which discussed using Amazon Bedrock Agents for document and data retrieval. In this post, we apply Amazon Bedrock Agents to real-time video analysis and event monitoring.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agents-as-escalators-real-time-ai-video-monitoring-with-amazon-bedrock-agents-and-video-streams/",
+          "publishedOn": "2025-07-07T19:52:55.000Z",
+          "wordCount": 11152,
+          "title": "Agents as escalators: Real-time AI video monitoring with Amazon Bedrock Agents and video streams",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/12/image-3-12-798x630.png"
+        },
         {
           "id": "bc7ad85bd9531c15d4c83702542cf8b4169bd458",
           "author": "Pablo García Benedicto",

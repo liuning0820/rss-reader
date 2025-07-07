@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-06T22:17:16.156Z</updated>
+    <updated>2025-07-07T01:38:01.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #484]]></title>
+        <id>https://sreweekly.com/?p=1660</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-484/"/>
+        <updated>2025-07-07T01:34:58.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Exact Code Search: Find code faster across repositories This is really neat! They’ve developed a new approach to search that uses 3-letter “trigrams” rather than tokenizing words, making it especially well-suited to code search. It converts regular expressions to trigram searches behind the scenes.   Dmitry Gruzd — GitLab Pattern machines that we […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public Ollama Models]]></title>
         <id>https://liuning0820.github.io/2025/07/05/public-ollama-models.html</id>

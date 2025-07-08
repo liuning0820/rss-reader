@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-08T18:25:33.902Z</updated>
+    <updated>2025-07-08T20:19:54.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerate AI development with Amazon Bedrock API keys]]></title>
+        <id>a3096eda573d985bf00a40d051bfa466b0637e1b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/"/>
+        <updated>2025-07-08T20:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce a significant improvement to the developer experience of Amazon Bedrock: API keys. API keys provide quick access to the Amazon Bedrock APIs, streamlining the authentication process so that developers can focus on building rather than configuration.]]></summary>
+        <author>
+            <name>Sofian Hamiti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating data science innovation: How Bayer Crop Science used AWS AI/ML services to build their next-generation MLOps service]]></title>
         <id>f35c9887d208a5fb54c9897d9ef301096e3fa89a</id>

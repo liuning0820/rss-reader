@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6399",
@@ -156,6 +156,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "a3096eda573d985bf00a40d051bfa466b0637e1b",
+          "author": "Sofian Hamiti",
+          "description": "Today, we’re excited to announce a significant improvement to the developer experience of Amazon Bedrock: API keys. API keys provide quick access to the Amazon Bedrock APIs, streamlining the authentication process so that developers can focus on building rather than configuration.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/",
+          "publishedOn": "2025-07-08T20:04:11.000Z",
+          "wordCount": 8358,
+          "title": "Accelerate AI development with Amazon Bedrock API keys",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/apikeys.png"
+        },
         {
           "id": "f35c9887d208a5fb54c9897d9ef301096e3fa89a",
           "author": "Lance Smith",

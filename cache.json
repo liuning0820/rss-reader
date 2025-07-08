@@ -131,16 +131,6 @@
           "wordCount": 1120,
           "title": "SRE Weekly Issue #481",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1649",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-480/",
-          "publishedOn": "2025-06-09T02:25:12.000Z",
-          "wordCount": 1118,
-          "title": "SRE Weekly Issue #480",
-          "imageUrl": null
         }
       ]
     },
@@ -166,6 +156,56 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "f35c9887d208a5fb54c9897d9ef301096e3fa89a",
+          "author": "Lance Smith",
+          "description": "In this post, we show how Bayer Crop Science manages large-scale data science operations by training models for their data analytics needs and maintaining high-quality code documentation to support developers. Through these solutions, Bayer Crop Science projects up to a 70% reduction in developer onboarding time and up to a 30% improvement in developer productivity.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-data-science-innovation-how-bayer-crop-science-used-aws-ai-ml-services-to-build-their-next-generation-mlops-service/",
+          "publishedOn": "2025-07-08T16:12:54.000Z",
+          "wordCount": 8875,
+          "title": "Accelerating data science innovation: How Bayer Crop Science used AWS AI/ML services to build their next-generation MLOps service",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/04/Agriculture-stock-image-1119x630.jpg"
+        },
+        {
+          "id": "dd783068e048915082ca0b93b2eac8371a1c4997",
+          "author": "Senaka Ariyasinghe",
+          "description": "In this post, we show how to use Amazon Bedrock Knowledge Bases GraphRAG with Amazon Neptune Analytics to build a financial fraud detection solution.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/combat-financial-fraud-with-graphrag-on-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2025-07-08T16:10:13.000Z",
+          "wordCount": 9217,
+          "title": "Combat financial fraud with GraphRAG on Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/01/ML-18896-image-7-1260x562.png"
+        },
+        {
+          "id": "f0af6bb14e0ac1b756d9cd479511f78ab75691ec",
+          "author": "Nika Mishurina",
+          "description": "In this post, we demonstrate how to build an end-to-end solution for text classification using the Amazon Bedrock batch inference capability with the Anthropic’s Claude Haiku model. We walk through classifying travel agency call center conversations into categories, showcasing how to generate synthetic training data, process large volumes of text data, and automate the entire workflow using AWS services.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/classify-call-center-conversations-with-amazon-bedrock-batch-inference/",
+          "publishedOn": "2025-07-08T16:05:33.000Z",
+          "wordCount": 10105,
+          "title": "Classify call center conversations with Amazon Bedrock batch inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/27/excel_sample-1246x630.jpg"
+        },
+        {
+          "id": "942711a2fd84cc038e5b1f9152a733fd2f493ceb",
+          "author": "Riza Saputra",
+          "description": "In this post, we demonstrate how to use the evaluation features of Amazon Bedrock to deliver reliable results across language barriers without the need for localized prompts or custom infrastructure. Through comprehensive testing and analysis, we share practical strategies to help reduce the cost and complexity of multilingual evaluation while maintaining high standards across global large language model (LLM) deployments.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/effective-cross-lingual-llm-evaluation-with-amazon-bedrock/",
+          "publishedOn": "2025-07-08T15:46:49.000Z",
+          "wordCount": 9797,
+          "title": "Effective cross-lingual LLM evaluation with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/25/ml-18669-human-eval-1-1229x630.png"
+        },
+        {
+          "id": "157186e6af7d5b5f5741b85e5d87cfecfb7f732b",
+          "author": "James Yi",
+          "description": "The Cohere Embed 4 multimodal embeddings model is now generally available on Amazon SageMaker JumpStart. The Embed 4 model is built for multimodal business documents, has leading multilingual capabilities, and offers notable improvement over Embed 3 across key benchmarks. In this post, we discuss the benefits and capabilities of this new model. We also walk you through how to deploy and use the Embed 4 model using SageMaker JumpStart.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/cohere-embed-4-multimodal-embeddings-model-is-now-available-on-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2025-07-08T15:43:15.000Z",
+          "wordCount": 9237,
+          "title": "Cohere Embed 4 multimodal embeddings model is now available on Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/02/ML-18864-image-1-1039x630.png"
+        },
         {
           "id": "161c14f09381ba8e40c4329e7d164533be3eac36",
           "author": "Arunsingh Jeyasingh Jacob",

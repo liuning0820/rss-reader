@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-08T14:16:55.859Z</updated>
+    <updated>2025-07-08T16:22:55.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerating data science innovation: How Bayer Crop Science used AWS AI/ML services to build their next-generation MLOps service]]></title>
+        <id>f35c9887d208a5fb54c9897d9ef301096e3fa89a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-data-science-innovation-how-bayer-crop-science-used-aws-ai-ml-services-to-build-their-next-generation-mlops-service/"/>
+        <updated>2025-07-08T16:12:54.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how Bayer Crop Science manages large-scale data science operations by training models for their data analytics needs and maintaining high-quality code documentation to support developers. Through these solutions, Bayer Crop Science projects up to a 70% reduction in developer onboarding time and up to a 30% improvement in developer productivity.]]></summary>
+        <author>
+            <name>Lance Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combat financial fraud with GraphRAG on Amazon Bedrock Knowledge Bases]]></title>
+        <id>dd783068e048915082ca0b93b2eac8371a1c4997</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/combat-financial-fraud-with-graphrag-on-amazon-bedrock-knowledge-bases/"/>
+        <updated>2025-07-08T16:10:13.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to use Amazon Bedrock Knowledge Bases GraphRAG with Amazon Neptune Analytics to build a financial fraud detection solution.]]></summary>
+        <author>
+            <name>Senaka Ariyasinghe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classify call center conversations with Amazon Bedrock batch inference]]></title>
+        <id>f0af6bb14e0ac1b756d9cd479511f78ab75691ec</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/classify-call-center-conversations-with-amazon-bedrock-batch-inference/"/>
+        <updated>2025-07-08T16:05:33.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build an end-to-end solution for text classification using the Amazon Bedrock batch inference capability with the Anthropic’s Claude Haiku model. We walk through classifying travel agency call center conversations into categories, showcasing how to generate synthetic training data, process large volumes of text data, and automate the entire workflow using AWS services.]]></summary>
+        <author>
+            <name>Nika Mishurina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective cross-lingual LLM evaluation with Amazon Bedrock]]></title>
+        <id>942711a2fd84cc038e5b1f9152a733fd2f493ceb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/effective-cross-lingual-llm-evaluation-with-amazon-bedrock/"/>
+        <updated>2025-07-08T15:46:49.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to use the evaluation features of Amazon Bedrock to deliver reliable results across language barriers without the need for localized prompts or custom infrastructure. Through comprehensive testing and analysis, we share practical strategies to help reduce the cost and complexity of multilingual evaluation while maintaining high standards across global large language model (LLM) deployments.]]></summary>
+        <author>
+            <name>Riza Saputra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cohere Embed 4 multimodal embeddings model is now available on Amazon SageMaker JumpStart]]></title>
+        <id>157186e6af7d5b5f5741b85e5d87cfecfb7f732b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/cohere-embed-4-multimodal-embeddings-model-is-now-available-on-amazon-sagemaker-jumpstart/"/>
+        <updated>2025-07-08T15:43:15.000Z</updated>
+        <summary type="html"><![CDATA[The Cohere Embed 4 multimodal embeddings model is now generally available on Amazon SageMaker JumpStart. The Embed 4 model is built for multimodal business documents, has leading multilingual capabilities, and offers notable improvement over Embed 3 across key benchmarks. In this post, we discuss the benefits and capabilities of this new model. We also walk you through how to deploy and use the Embed 4 model using SageMaker JumpStart.]]></summary>
+        <author>
+            <name>James Yi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How INRIX accelerates transportation planning with Amazon Bedrock]]></title>
         <id>161c14f09381ba8e40c4329e7d164533be3eac36</id>
@@ -714,16 +764,6 @@
         <summary type="html"><![CDATA[TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #480]]></title>
-        <id>https://sreweekly.com/?p=1649</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-480/"/>
-        <updated>2025-06-09T02:25:12.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: 🔍 Notable PagerDuty shift: Full incident management now spans all paid tiers. The upgraded Slack-first and Teams-first experience means fewer tools to juggle during incidents. Only leveraging PagerDuty for basic alerting? Time to check out what’s newly available in your plan! https://fnf.dev/4dZ5V36 You can’t prevent your […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

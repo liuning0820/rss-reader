@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-09T03:20:17.022Z</updated>
+    <updated>2025-07-09T04:31:58.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,36 +724,6 @@
         <summary type="html"><![CDATA[E.ON’s story highlights how a creative application of Amazon Textract, combined with custom image analysis and pulse counting, can solve a real-world challenge at scale. By diagnosing smart meter errors through brief smartphone videos, E.ON aims to lower costs, improve customer satisfaction, and enhance overall energy service reliability. In this post, we dive into how this solution works and the impact it’s making.]]></summary>
         <author>
             <name>Sam Charlton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 1]]></title>
-        <id>e097c4af840d23d119a36dedaf3df20f8118cf0f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/"/>
-        <updated>2025-06-09T15:50:24.000Z</updated>
-        <summary type="html"><![CDATA[In this series of posts, you will learn how to build intelligent AI voice agents using Pipecat, an open-source framework for voice and multimodal conversational AI agents, with foundation models on Amazon Bedrock. It includes high-level reference architectures, best practices and code samples to guide your implementation.]]></summary>
-        <author>
-            <name>Adithya Suresh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stream multi-channel audio to Amazon Transcribe using the Web Audio API]]></title>
-        <id>5ba9900fe962810f04b60366ba90d3a8a4753c61</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/stream-multi-channel-audio-to-amazon-transcribe-using-the-web-audio-api/"/>
-        <updated>2025-06-09T15:47:17.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore the implementation details of a web application that uses the browser’s Web Audio API and Amazon Transcribe streaming to enable real-time dual-channel transcription. By using the combination of AudioContext, ChannelMergerNode, and AudioWorklet, we were able to seamlessly process and encode the audio data from two microphones before sending it to Amazon Transcribe for transcription.]]></summary>
-        <author>
-            <name>Jorge Lanzarotti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Kepler democratized AI access and enhanced client services with Amazon Q Business]]></title>
-        <id>db12f9abc38a429c3b44d3b3b6e2c6d4f43aa4aa</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-kepler-democratized-ai-access-and-enhanced-client-services-with-amazon-q-business/"/>
-        <updated>2025-06-09T15:39:42.000Z</updated>
-        <summary type="html"><![CDATA[At Kepler, a global full-service digital marketing agency serving Fortune 500 brands, we understand the delicate balance between creative marketing strategies and data-driven precision. In this post, we share how implementing Amazon Q Business transformed our operations by democratizing AI access across our organization while maintaining stringent security standards, resulting in an average savings of 2.7 hours per week per employee in manual work and improved client service delivery.]]></summary>
-        <author>
-            <name>Evan Miller, Noah Kershaw, and Valerie Renda</name>
         </author>
     </entry>
 </feed>

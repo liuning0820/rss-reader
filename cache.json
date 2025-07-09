@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6399",
@@ -760,36 +760,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18474/ML-18474-DEMO.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/30/ML-18474-image-4-1232x630.jpeg"
-        },
-        {
-          "id": "e097c4af840d23d119a36dedaf3df20f8118cf0f",
-          "author": "Adithya Suresh",
-          "description": "In this series of posts, you will learn how to build intelligent AI voice agents using Pipecat, an open-source framework for voice and multimodal conversational AI agents, with foundation models on Amazon Bedrock. It includes high-level reference architectures, best practices and code samples to guide your implementation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/",
-          "publishedOn": "2025-06-09T15:50:24.000Z",
-          "wordCount": 2271,
-          "title": "Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 1",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/10/Cover-Voice-AI-agents-1120x630.png"
-        },
-        {
-          "id": "5ba9900fe962810f04b60366ba90d3a8a4753c61",
-          "author": "Jorge Lanzarotti",
-          "description": "In this post, we explore the implementation details of a web application that uses the browser’s Web Audio API and Amazon Transcribe streaming to enable real-time dual-channel transcription. By using the combination of AudioContext, ChannelMergerNode, and AudioWorklet, we were able to seamlessly process and encode the audio data from two microphones before sending it to Amazon Transcribe for transcription.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/stream-multi-channel-audio-to-amazon-transcribe-using-the-web-audio-api/",
-          "publishedOn": "2025-06-09T15:47:17.000Z",
-          "wordCount": 2501,
-          "title": "Stream multi-channel audio to Amazon Transcribe using the Web Audio API",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/01/Picture1-17.png"
-        },
-        {
-          "id": "db12f9abc38a429c3b44d3b3b6e2c6d4f43aa4aa",
-          "author": "Evan Miller, Noah Kershaw, and Valerie Renda",
-          "description": "At Kepler, a global full-service digital marketing agency serving Fortune 500 brands, we understand the delicate balance between creative marketing strategies and data-driven precision. In this post, we share how implementing Amazon Q Business transformed our operations by democratizing AI access across our organization while maintaining stringent security standards, resulting in an average savings of 2.7 hours per week per employee in manual work and improved client service delivery.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-kepler-democratized-ai-access-and-enhanced-client-services-with-amazon-q-business/",
-          "publishedOn": "2025-06-09T15:39:42.000Z",
-          "wordCount": 2241,
-          "title": "How Kepler democratized AI access and enhanced client services with Amazon Q Business",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/03/ML-18968-image-1.png"
         }
       ]
     }

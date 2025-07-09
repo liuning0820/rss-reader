@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6399",
@@ -136,6 +136,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0cec86574db04fac7d6af46ff916765a68ee60d0",
+          "author": "David Brown",
+          "description": "In this post, we announce general availability of Amazon EC2 P6e-GB200 UltraServers and P6-B200 instances, powered by NVIDIA Blackwell GPUs, designed for training and deploying the largest, most sophisticated AI models.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-infrastructure-with-nvidia-blackwell-two-powerful-compute-solutions-for-the-next-frontier-of-ai/",
+          "publishedOn": "2025-07-09T21:01:52.000Z",
+          "wordCount": 8882,
+          "title": "AWS AI infrastructure with NVIDIA Blackwell: Two powerful compute solutions for the next frontier of AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/blackwell.png"
+        },
         {
           "id": "b6db8e7820203308b2b007f461b2f8712657cb95",
           "author": "Suprakash Dutta",

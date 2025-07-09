@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-09T20:19:45.183Z</updated>
+    <updated>2025-07-09T22:17:14.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS AI infrastructure with NVIDIA Blackwell: Two powerful compute solutions for the next frontier of AI]]></title>
+        <id>0cec86574db04fac7d6af46ff916765a68ee60d0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-ai-infrastructure-with-nvidia-blackwell-two-powerful-compute-solutions-for-the-next-frontier-of-ai/"/>
+        <updated>2025-07-09T21:01:52.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we announce general availability of Amazon EC2 P6e-GB200 UltraServers and P6-B200 instances, powered by NVIDIA Blackwell GPUs, designed for training and deploying the largest, most sophisticated AI models.]]></summary>
+        <author>
+            <name>David Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock retail intelligence by transforming data into actionable insights using generative AI with Amazon Q Business]]></title>
         <id>b6db8e7820203308b2b007f461b2f8712657cb95</id>

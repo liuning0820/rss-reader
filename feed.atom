@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-09T16:20:47.397Z</updated>
+    <updated>2025-07-09T18:25:58.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Democratize data for timely decisions with text-to-SQL at Parcel Perform]]></title>
+        <id>bf2de285d2a43781c9492fae032a4837decb72b0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/democratize-data-for-timely-decisions-with-text-to-sql-at-parcel-perform/"/>
+        <updated>2025-07-09T16:51:35.000Z</updated>
+        <summary type="html"><![CDATA[The business team in Parcel Perform often needs access to data to answer questions related to merchants’ parcel deliveries, such as “Did we see a spike in delivery delays last week? If so, in which transit facilities were this observed, and what was the primary cause of the issue?” Previously, the data team had to manually form the query and run it to fetch the data. With the new generative AI-powered text-to-SQL capability in Parcel Perform, the business team can self-serve their data needs by using an AI assistant interface. In this post, we discuss how Parcel Perform incorporated generative AI, data storage, and data access through AWS services to make timely decisions.]]></summary>
+        <author>
+            <name>Yudho Ahmad Diponegoro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query Amazon Aurora PostgreSQL using Amazon Bedrock Knowledge Bases structured data]]></title>
+        <id>08277c106aba67e0a240570ab9cbd2c2fc846002</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/query-amazon-aurora-postgresql-using-amazon-bedrock-knowledge-bases-structured-data/"/>
+        <updated>2025-07-09T16:48:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we discuss how to make your Amazon Aurora PostgreSQL-Compatible Edition data available for natural language querying through Amazon Bedrock Knowledge Bases while maintaining data freshness.]]></summary>
+        <author>
+            <name>Girish B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure fine-grained access to Amazon Bedrock models using Amazon SageMaker Unified Studio]]></title>
+        <id>0ca630f1267ff81978a0437eb3354815207ec08b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/configure-fine-grained-access-to-amazon-bedrock-models-using-amazon-sagemaker-unified-studio/"/>
+        <updated>2025-07-09T16:45:56.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to use SageMaker Unified Studio and AWS Identity and Access Management (IAM) to establish a robust permission framework for Amazon Bedrock models. We show how administrators can precisely manage which users and teams have access to specific models within a secure, collaborative environment. We guide you through creating granular permissions to control model access, with code examples for common enterprise governance scenarios.]]></summary>
+        <author>
+            <name>Varun Jasti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve conversational AI response times for enterprise applications with the Amazon Bedrock streaming API and AWS AppSync]]></title>
+        <id>0ea795ad0403b7e919108b10ecaaf02e91e29e62</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improve-conversational-ai-response-times-for-enterprise-applications-with-the-amazon-bedrock-streaming-api-and-aws-appsync/"/>
+        <updated>2025-07-09T16:31:33.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how integrating an Amazon Bedrock streaming API with AWS AppSync subscriptions significantly enhances AI assistant responsiveness and user satisfaction. By implementing this streaming approach, the global financial services organization reduced initial response times for complex queries by approximately 75%—from 10 seconds to just 2–3 seconds—empowering users to view responses as they’re generated rather than waiting for complete answers.]]></summary>
+        <author>
+            <name>Salman Moghal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale generative AI use cases, Part 1: Multi-tenant hub and spoke architecture using AWS Transit Gateway]]></title>
+        <id>27f2aaffc688afc9cd9002c84690dde765cf7de5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scale-generative-ai-use-cases-part-1-multi-tenant-hub-and-spoke-architecture-using-aws-transit-gateway/"/>
+        <updated>2025-07-09T16:29:11.000Z</updated>
+        <summary type="html"><![CDATA[n this two-part series, we discuss a hub and spoke architecture pattern for building a multi-tenant and multi-account architecture. This pattern supports abstractions for shared services across use cases and teams, helping create secure, scalable, and reliable generative AI systems. In Part 1, we present a centralized hub for generative AI service abstractions and tenant-specific spokes, using AWS Transit Gateway for cross-account interoperability.]]></summary>
+        <author>
+            <name>Nikhil Penmetsa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerate AI development with Amazon Bedrock API keys]]></title>
         <id>a3096eda573d985bf00a40d051bfa466b0637e1b</id>

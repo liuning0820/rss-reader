@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-09T18:25:58.212Z</updated>
+    <updated>2025-07-09T20:19:45.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlock retail intelligence by transforming data into actionable insights using generative AI with Amazon Q Business]]></title>
+        <id>b6db8e7820203308b2b007f461b2f8712657cb95</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/unlock-retail-intelligence-by-transforming-data-into-actionable-insights-using-generative-ai-with-amazon-q-business/"/>
+        <updated>2025-07-09T20:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Business for Retail Intelligence is an AI-powered assistant designed to help retail businesses streamline operations, improve customer service, and enhance decision-making processes. This solution is specifically engineered to be scalable and adaptable to businesses of various sizes, helping them compete more effectively. In this post, we show how you can use Amazon Q Business for Retail Intelligence to transform your data into actionable insights.]]></summary>
+        <author>
+            <name>Suprakash Dutta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Democratize data for timely decisions with text-to-SQL at Parcel Perform]]></title>
         <id>bf2de285d2a43781c9492fae032a4837decb72b0</id>

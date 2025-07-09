@@ -64,26 +64,6 @@
           "wordCount": 4632,
           "title": "Failures of Imagination (again)",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6339",
-          "author": "Chris Swan",
-          "description": "TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]",
-          "link": "http://blog.thestateofme.com/2025/06/09/dart-binaries-in-python-packages/",
-          "publishedOn": "2025-06-09T10:20:47.000Z",
-          "wordCount": 4094,
-          "title": "Dart binaries in Python packages",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6339",
-          "author": "Chris Swan",
-          "description": "TL;DR PyPI provides a neat way of distributing binaries from other languages, and Python venvs make it easy to run different versions side by side. This post takes a look at how to do that with Dart, and the next steps necessary to do a proper job of it. Background A few days ago I […]",
-          "link": "https://blog.thestateofme.com/2025/06/09/dart-binaries-in-python-packages/",
-          "publishedOn": "2025-06-09T10:20:47.000Z",
-          "wordCount": 4247,
-          "title": "Dart binaries in Python packages",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },

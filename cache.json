@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6404",
+          "author": "Chris Swan",
+          "description": "Last week my former colleague Doug Todd asked a question about recording decisions on BlueSky: Of course I replied suggesting Architecture Decision Records (ADRs), with a pointer to the at_protocol GitHub repo where we use them. A few days back Doug demoed how he’s using ADRs with his coding assistant (Claude and Claude Code), and […]",
+          "link": "https://blog.thestateofme.com/2025/07/10/using-architecture-decision-records-adrs-with-ai-coding-assistants/",
+          "publishedOn": "2025-07-10T15:32:24.000Z",
+          "wordCount": 3781,
+          "title": "Using Architecture Decision Records (ADRs) with AI coding assistants",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/doug_adrs.jpg"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6399",
           "author": "Chris Swan",
           "description": "Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]",
@@ -136,6 +146,51 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "4f61bc00f2d7a850e07a235b937507ba4efcf977",
+          "author": "Angela Wang",
+          "description": "This post demonstrates the best practices to run K8sGPT in AWS with Amazon Bedrock in two modes: K8sGPT CLI and K8sGPT Operator. It showcases how the solution can help SREs simplify Kubernetes cluster management through continuous monitoring and operational intelligence.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/use-k8sgpt-and-amazon-bedrock-for-simplified-kubernetes-cluster-maintenance/",
+          "publishedOn": "2025-07-10T15:26:22.000Z",
+          "wordCount": 10178,
+          "title": "Use K8sGPT and Amazon Bedrock for simplified Kubernetes cluster maintenance",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/ML-17546-image-5-1-1260x588.jpg"
+        },
+        {
+          "id": "7c4dd64a29aa9690e455ba0508ebde6f74b98ceb",
+          "author": "Manali Sapre, Seshidhar Raghupathi",
+          "description": "Rocket AI Agent is more than a digital assistant. It’s a reimagined approach to client engagement, powered by agentic AI. By combining Amazon Bedrock Agents with Rocket’s proprietary data and backend systems, Rocket has created a smarter, more scalable, and more human experience available 24/7, without the wait. This post explores how Rocket brought that vision to life using Amazon Bedrock Agents, powering a new era of AI-driven support that is consistently available, deeply personalized, and built to take action.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-rocket-streamlines-the-home-buying-experience-with-amazon-bedrock-agents/",
+          "publishedOn": "2025-07-10T15:23:39.000Z",
+          "wordCount": 9709,
+          "title": "How Rocket streamlines the home buying experience with Amazon Bedrock Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/03/RocketAgents-759x630.jpg"
+        },
+        {
+          "id": "688c1438c31620328dbafdc9c9315eb397595f21",
+          "author": "Ying Hou",
+          "description": "This post demonstrates building an intelligent AI assistant using Mistral AI models on AWS and MCP, integrating real-time location services, time data, and contextual memory to handle complex multimodal queries. This use case, restaurant recommendations, serves as an example, but this extensible framework can be adapted for enterprise use cases by modifying MCP server configurations to connect with your specific data sources and business systems.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-mcp-application-with-mistral-models-on-aws/",
+          "publishedOn": "2025-07-10T15:20:00.000Z",
+          "wordCount": 10975,
+          "title": "Build an MCP application with Mistral models on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/30/ML-18862-image-1-1151x630.png"
+        },
+        {
+          "id": "934bba4fd8cf53cd9a63c7cb3d4d072145373d2b",
+          "author": "Glen Ko",
+          "description": "mazon Nova Sonic is now integrated with LiveKit’s WebRTC framework, a widely used platform that enables developers to build real-time audio, video, and data communication applications. This integration makes it possible for developers to build conversational voice interfaces without needing to manage complex audio pipelines or signaling protocols. In this post, we explain how this integration works, how it addresses the historical challenges of voice-first applications, and some initial steps to start using this solution.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-conversational-ai-experiences-using-amazon-nova-sonic-and-livekit/",
+          "publishedOn": "2025-07-10T15:09:42.000Z",
+          "wordCount": 8549,
+          "title": "Build real-time conversational AI experiences using Amazon Nova Sonic and LiveKit",
+          "enclosure": {
+            "length": "98634957",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-19251/ml-19251.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/ml-19251-943x630.png"
+        },
         {
           "id": "0cec86574db04fac7d6af46ff916765a68ee60d0",
           "author": "David Brown",

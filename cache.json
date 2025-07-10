@@ -790,51 +790,6 @@
           "wordCount": 4589,
           "title": "NVIDIA Nemotron Super 49B and Nano 8B reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/11/featured-images-ML-19048-1120x630.jpg"
-        },
-        {
-          "id": "7aa8f1971489eeaa2440e0577f91271167b77972",
-          "author": "Deepesh Dhapola",
-          "description": "In this post, we demonstrate how to use Amazon Bedrock and LangGraph to build a personalized customer support experience for an ecommerce retailer. By integrating the Mistral Large 2 and Pixtral Large models, we guide you through automating key customer support workflows such as ticket categorization, order details extraction, damage assessment, and generating contextual responses.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automate-customer-support-with-amazon-bedrock-langgraph-and-mistral-models/",
-          "publishedOn": "2025-06-10T16:19:09.000Z",
-          "wordCount": 3642,
-          "title": "Automate customer support with Amazon Bedrock, LangGraph, and Mistral models",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/02/ML-18686-solution-arch-2-1260x523.png"
-        },
-        {
-          "id": "736dc7391f88397fb4c116138cdadb6cda3c4c00",
-          "author": "Divya Muralidharan",
-          "description": "In this post, we demonstrate how Amazon Bedrock Guardrails helps block harmful and undesirable multimodal content. Using a healthcare insurance call center scenario, we walk through the process of configuring and testing various guardrails.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-responsible-ai-applications-with-amazon-bedrock-guardrails/",
-          "publishedOn": "2025-06-10T16:16:32.000Z",
-          "wordCount": 3123,
-          "title": "Build responsible AI applications with Amazon Bedrock Guardrails",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/29/ML17857-arch-diag-1260x534.png"
-        },
-        {
-          "id": "fdcdf16b55cfb6df4b93f170ad0994b0c12473b9",
-          "author": "Biswanath Mukherjee",
-          "description": "With the increasing adoption of Amazon Bedrock, optimizing costs is a must to help keep the expenses associated with deploying and running generative AI applications manageable and aligned with your organization’s budget. In this post, you’ll learn about strategic cost optimization techniques while using Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/effective-cost-optimization-strategies-for-amazon-bedrock/",
-          "publishedOn": "2025-06-10T16:13:36.000Z",
-          "wordCount": 4366,
-          "title": "Effective cost optimization strategies for Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/31/ML-18577-approach-decision-maker-1260x566.png"
-        },
-        {
-          "id": "8af0789a0c380421a5317fd8ea95a64ec86a7465",
-          "author": "Sam Charlton",
-          "description": "E.ON’s story highlights how a creative application of Amazon Textract, combined with custom image analysis and pulse counting, can solve a real-world challenge at scale. By diagnosing smart meter errors through brief smartphone videos, E.ON aims to lower costs, improve customer satisfaction, and enhance overall energy service reliability. In this post, we dive into how this solution works and the impact it’s making.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-e-on-saves-10-million-annually-with-ai-diagnostics-for-smart-meters-powered-by-amazon-textract/",
-          "publishedOn": "2025-06-10T16:11:23.000Z",
-          "wordCount": 3004,
-          "title": "How E.ON saves £10 million annually with AI diagnostics for smart meters powered by Amazon Textract",
-          "enclosure": {
-            "length": "53360037",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18474/ML-18474-DEMO.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/30/ML-18474-image-4-1232x630.jpeg"
         }
       ]
     }

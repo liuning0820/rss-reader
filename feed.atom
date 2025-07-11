@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-10T22:16:54.192Z</updated>
+    <updated>2025-07-11T01:26:57.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[Gardenia Technologies, a data analytics company, partnered with the AWS Prototyping and Cloud Engineering (PACE) team to develop Report GenAI, a fully automated ESG reporting solution powered by the latest generative AI models on Amazon Bedrock. This post dives deep into the technology behind an agentic search solution using tooling with Retrieval Augmented Generation (RAG) and text-to-SQL capabilities to help customers reduce ESG reporting time by up to 75%. We demonstrate how AWS serverless technology, combined with agents in Amazon Bedrock, are used to build scalable and highly flexible agent-based document assistant applications.]]></summary>
         <author>
             <name>Federico Thibaud, Neil Holloway, Fraser Price,  Christian Dunn and Frederica Schrager</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Nemotron Super 49B and Nano 8B reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart]]></title>
-        <id>2d1e0b43624b483236e6e151a1c37c27794b41f7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-super-49b-and-nano-8b-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"/>
-        <updated>2025-06-11T12:00:51.000Z</updated>
-        <summary type="html"><![CDATA[The Llama 3.3 Nemotron Super 49B V1 and Llama 3.1 Nemotron Nano 8B V1 are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, you can now deploy NVIDIA’s newest reasoning models to build, experiment, and responsibly scale your generative AI ideas on AWS.]]></summary>
-        <author>
-            <name>Niithiyn Vijeaswaran</name>
         </author>
     </entry>
 </feed>

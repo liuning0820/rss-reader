@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-11T08:24:16.389Z</updated>
+    <updated>2025-07-11T10:19:21.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -794,26 +794,6 @@
         <summary type="html"><![CDATA[In this post, we illustrate how VideoAmp, a media measurement company, worked with the AWS Generative AI Innovation Center (GenAIIC) team to develop a prototype of the VideoAmp Natural Language (NL) Analytics Chatbot to uncover meaningful insights at scale within media analytics data using Amazon Bedrock.]]></summary>
         <author>
             <name>Suzanne Willard, Makoto Uchida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failures of Imagination (again)]]></title>
-        <id>https://blog.thestateofme.com/?p=6353</id>
-        <link href="http://blog.thestateofme.com/2025/06/11/failures-of-imagination-again/"/>
-        <updated>2025-06-11T21:07:06.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failures of Imagination (again)]]></title>
-        <id>http://blog.thestateofme.com/?p=6353</id>
-        <link href="https://blog.thestateofme.com/2025/06/11/failures-of-imagination-again/"/>
-        <updated>2025-06-11T21:07:06.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

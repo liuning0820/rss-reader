@@ -127,6 +127,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5276be178de4105b7347e6db4e39215a125556b9",
+          "author": "Ilan Gleiser",
+          "description": "When fine-tuning ML models on AWS, you can choose the right tool for your specific needs. AWS provides a comprehensive suite of tools for data scientists, ML engineers, and business users to achieve their ML goals. AWS has built solutions to support various levels of ML sophistication, from simple SageMaker training jobs for FM fine-tuning to the power of SageMaker HyperPod for cutting-edge research. We invite you to explore these options, starting with what suits your current needs, and evolve your approach as those needs change.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-methods-on-amazon-sagemaker-ai/",
+          "publishedOn": "2025-07-11T17:26:08.000Z",
+          "wordCount": 10533,
+          "title": "Advanced fine-tuning methods on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/11/advancedfinetuning.png"
+        },
+        {
+          "id": "1d3eb57fbeff508effb51cbf963f19b99f9061b2",
+          "author": "Roy Allela",
+          "description": "This post is co-written with Zhanghao Wu, co-creator of SkyPilot. The rapid advancement of generative AI and foundation models (FMs) has significantly increased computational resource requirements for machine learning (ML) workloads. Modern ML pipelines require efficient systems for distributing workloads across accelerated compute resources, while making sure developer productivity remains high. Organizations need infrastructure solutions […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-machine-learning-workflows-with-skypilot-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2025-07-11T17:22:23.000Z",
+          "wordCount": 9428,
+          "title": "Streamline machine learning workflows with SkyPilot on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/11/skypilot-sagemaker-hyperpod.jpg"
+        },
+        {
+          "id": "5c75628151b3d0f87665085a72ae3c2132788427",
+          "author": "Nikita Kozodoi",
+          "description": "This post presents an end-to-end IDP application powered by Amazon Bedrock Data Automation and other AWS services. It provides a reusable AWS infrastructure as code (IaC) that deploys an IDP pipeline and provides an intuitive UI for transforming documents into structured tables at scale. The application only requires the user to provide the input documents (such as contracts or emails) and a list of attributes to be extracted. It then performs IDP with generative AI.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-07-11T16:49:04.000Z",
+          "wordCount": 10460,
+          "title": "Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/15/diagram-1260x552.png"
+        },
+        {
+          "id": "bd565f169e6673b6311a260d4dd54b0187e9b0c5",
+          "author": "Dheer Toprani",
+          "description": "In this post, we dive into how we integrated Amazon Q in QuickSight to transform natural language requests like “Show me how many items were returned in the US over the past 6 months” into meaningful data visualizations. We demonstrate how combining Amazon Bedrock Agents with Amazon Q in QuickSight creates a comprehensive data assistant that delivers both SQL code and visual insights through a single, intuitive conversational interface—democratizing data access across the enterprise.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-2-embedding-generative-business-intelligence-with-amazon-q-in-quicksight/",
+          "publishedOn": "2025-07-11T16:33:51.000Z",
+          "wordCount": 10259,
+          "title": "Build a conversational data assistant, Part 2 – Embedding generative business intelligence with Amazon Q in QuickSight",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/12/ml-18672-q-window-858x630.jpg"
+        },
+        {
+          "id": "ab1d6edec05f902da93f2636bc0554eaa894731c",
+          "author": "Dheer Toprani",
+          "description": "In this post, we focus on building a Text-to-SQL solution with Amazon Bedrock, a managed service for building generative AI applications. Specifically, we demonstrate the capabilities of Amazon Bedrock Agents. Part 2 explains how we extended the solution to provide business insights using Amazon Q in QuickSight, a business intelligence assistant that answers questions with auto-generated visualizations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-1-text-to-sql-with-amazon-bedrock-agents/",
+          "publishedOn": "2025-07-11T16:32:44.000Z",
+          "wordCount": 10081,
+          "title": "Build a conversational data assistant, Part 1: Text-to-SQL with Amazon Bedrock Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/02/ML-18493-arch-diag-1260x504.png"
+        },
+        {
           "id": "aeac506a770ce5d5bad39429a9ec5787b83a5e7c",
           "author": "Durga Sury",
           "description": "In this post, we discuss permission management strategies, focusing on attribute-based access control (ABAC) patterns that enable granular user access control while minimizing the proliferation of AWS Identity and Access Management (IAM) roles. We also share proven best practices that help organizations maintain security and compliance without sacrificing operational efficiency in their ML workflows.",

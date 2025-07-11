@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-11T04:35:04.934Z</updated>
+    <updated>2025-07-11T06:27:29.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -814,16 +814,6 @@
         <summary type="html"><![CDATA[TL;DR I’m once again hearing “who could have imagined?” for things that are very easy to imagine. If you actually stop for a moment and do some imagination, and maybe prep your mind with some science fiction, and perhaps also listen to early career voices. Again? I’ve written on this topic before. Though last time […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe enhances developer productivity using Amazon Bedrock Knowledge Bases]]></title>
-        <id>d241f085e1fc7119e970a07ea8d64497034dcee4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/adobe-enhances-developer-productivity-using-amazon-bedrock-knowledge-bases/"/>
-        <updated>2025-06-11T16:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Adobe partnered with the AWS Generative AI Innovation Center, using Amazon Bedrock Knowledge Bases and the Vector Engine for Amazon OpenSearch Serverless. This solution dramatically improved their developer support system, resulting in a 20% increase in retrieval accuracy. In this post, we discuss the details of this solution and how Adobe enhances their developer productivity.]]></summary>
-        <author>
-            <name>Kamran Razi</name>
         </author>
     </entry>
 </feed>

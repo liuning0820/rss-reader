@@ -855,16 +855,6 @@
           "wordCount": 3328,
           "title": "How VideoAmp uses Amazon Bedrock to power their media analytics interface",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/14/VideoAmp-Architecture-copy.png"
-        },
-        {
-          "id": "d241f085e1fc7119e970a07ea8d64497034dcee4",
-          "author": "Kamran Razi",
-          "description": "Adobe partnered with the AWS Generative AI Innovation Center, using Amazon Bedrock Knowledge Bases and the Vector Engine for Amazon OpenSearch Serverless. This solution dramatically improved their developer support system, resulting in a 20% increase in retrieval accuracy. In this post, we discuss the details of this solution and how Adobe enhances their developer productivity.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/adobe-enhances-developer-productivity-using-amazon-bedrock-knowledge-bases/",
-          "publishedOn": "2025-06-11T16:44:16.000Z",
-          "wordCount": 3142,
-          "title": "Adobe enhances developer productivity using Amazon Bedrock Knowledge Bases",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/02/ml-17793-image-1-1018x630.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-11T03:25:33.301Z</updated>
+    <updated>2025-07-11T04:35:04.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -824,26 +824,6 @@
         <summary type="html"><![CDATA[Adobe partnered with the AWS Generative AI Innovation Center, using Amazon Bedrock Knowledge Bases and the Vector Engine for Amazon OpenSearch Serverless. This solution dramatically improved their developer support system, resulting in a 20% increase in retrieval accuracy. In this post, we discuss the details of this solution and how Adobe enhances their developer productivity.]]></summary>
         <author>
             <name>Kamran Razi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Nova Lite enables Bito to offer a free tier option for its AI-powered code reviews]]></title>
-        <id>57f64f0595efe9b823d2f02481ee1d1b2b883b0c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-nova-lite-enables-bito-to-offer-a-free-tier-option-for-its-ai-powered-code-reviews/"/>
-        <updated>2025-06-11T16:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Bito is an innovative startup that creates AI agents for a broad range of software developers. In this post, we share how Bito is able to offer a free tier option for its AI-powered code reviews using Amazon Nova.]]></summary>
-        <author>
-            <name>Eshan Bhatnagar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Gardenia Technologies helps customers create ESG disclosure reports 75% faster using agentic generative AI on Amazon Bedrock]]></title>
-        <id>b5389e810ef08b3bc87e1eef6d65e8e06aafe1f8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-gardenia-technologies-helps-customers-create-esg-disclosure-reports-75-faster-using-agentic-generative-ai-on-amazon-bedrock/"/>
-        <updated>2025-06-11T16:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Gardenia Technologies, a data analytics company, partnered with the AWS Prototyping and Cloud Engineering (PACE) team to develop Report GenAI, a fully automated ESG reporting solution powered by the latest generative AI models on Amazon Bedrock. This post dives deep into the technology behind an agentic search solution using tooling with Retrieval Augmented Generation (RAG) and text-to-SQL capabilities to help customers reduce ESG reporting time by up to 75%. We demonstrate how AWS serverless technology, combined with agents in Amazon Bedrock, are used to build scalable and highly flexible agent-based document assistant applications.]]></summary>
-        <author>
-            <name>Federico Thibaud, Neil Holloway, Fraser Price,  Christian Dunn and Frederica Schrager</name>
         </author>
     </entry>
 </feed>

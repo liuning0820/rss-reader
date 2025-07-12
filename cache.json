@@ -920,26 +920,6 @@
           "wordCount": 3244,
           "title": "Training Llama 3.3 Swallow: A Japanese sovereign LLM on Amazon SageMaker HyperPod",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/28/HyperPod-deepdive-2025.png"
-        },
-        {
-          "id": "7db70e68de0fc77d098fb1e60a130172be8697ca",
-          "author": "Yashesh Shroff",
-          "description": "Learn how Articul8 is redefining enterprise generative AI with domain-specific models that outperform general-purpose LLMs in real-world applications. In our latest blog post, we dive into how Amazon SageMaker HyperPod accelerated the development of Articul8’s industry-leading semiconductor model—achieving 2X higher accuracy that top open source models while slashing deployment time by 4X.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-articul8s-domain-specific-model-development-with-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-06-12T17:48:44.000Z",
-          "wordCount": 2960,
-          "title": "Accelerating Articul8’s domain-specific model development with Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/26/ml-17638-arch-1-1135x630.png"
-        },
-        {
-          "id": "2eab9613583f33b9a7d1a59682ca32e290ca074d",
-          "author": "Suzanne Willard, Makoto Uchida",
-          "description": "In this post, we illustrate how VideoAmp, a media measurement company, worked with the AWS Generative AI Innovation Center (GenAIIC) team to develop a prototype of the VideoAmp Natural Language (NL) Analytics Chatbot to uncover meaningful insights at scale within media analytics data using Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-videoamp-uses-amazon-bedrock-to-power-their-media-analytics-interface/",
-          "publishedOn": "2025-06-12T17:46:43.000Z",
-          "wordCount": 3328,
-          "title": "How VideoAmp uses Amazon Bedrock to power their media analytics interface",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/14/VideoAmp-Architecture-copy.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-12T04:29:12.347Z</updated>
+    <updated>2025-07-12T06:25:01.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -874,26 +874,6 @@
         <summary type="html"><![CDATA[The Institute of Science Tokyo has successfully trained Llama 3.3 Swallow, a 70-billion-parameter large language model (LLM) with enhanced Japanese capabilities, using Amazon SageMaker HyperPod. The model demonstrates superior performance in Japanese language tasks, outperforming GPT-4o-mini and other leading models. This technical report details the training infrastructure, optimizations, and best practices developed during the project.]]></summary>
         <author>
             <name>Kazuki Fujii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating Articul8’s domain-specific model development with Amazon SageMaker HyperPod]]></title>
-        <id>7db70e68de0fc77d098fb1e60a130172be8697ca</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-articul8s-domain-specific-model-development-with-amazon-sagemaker-hyperpod/"/>
-        <updated>2025-06-12T17:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Articul8 is redefining enterprise generative AI with domain-specific models that outperform general-purpose LLMs in real-world applications. In our latest blog post, we dive into how Amazon SageMaker HyperPod accelerated the development of Articul8’s industry-leading semiconductor model—achieving 2X higher accuracy that top open source models while slashing deployment time by 4X.]]></summary>
-        <author>
-            <name>Yashesh Shroff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How VideoAmp uses Amazon Bedrock to power their media analytics interface]]></title>
-        <id>2eab9613583f33b9a7d1a59682ca32e290ca074d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-videoamp-uses-amazon-bedrock-to-power-their-media-analytics-interface/"/>
-        <updated>2025-06-12T17:46:43.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we illustrate how VideoAmp, a media measurement company, worked with the AWS Generative AI Innovation Center (GenAIIC) team to develop a prototype of the VideoAmp Natural Language (NL) Analytics Chatbot to uncover meaningful insights at scale within media analytics data using Amazon Bedrock.]]></summary>
-        <author>
-            <name>Suzanne Willard, Makoto Uchida</name>
         </author>
     </entry>
 </feed>

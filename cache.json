@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6404",
+          "author": "Chris Swan",
+          "description": "Last week my former colleague Doug Todd asked a question about recording decisions on BlueSky: Of course I replied suggesting Architecture Decision Records (ADRs), with a pointer to the at_protocol GitHub repo where we use them. A few days back Doug demoed how he’s using ADRs with his coding assistant (Claude and Claude Code), and […]",
+          "link": "http://blog.thestateofme.com/2025/07/10/using-architecture-decision-records-adrs-with-ai-coding-assistants/",
+          "publishedOn": "2025-07-10T15:32:24.000Z",
+          "wordCount": 3826,
+          "title": "Using Architecture Decision Records (ADRs) with AI coding assistants",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/doug_adrs.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6404",
           "author": "Chris Swan",

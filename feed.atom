@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-13T08:21:16.981Z</updated>
+    <updated>2025-07-13T10:18:31.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -154,6 +154,16 @@
         <summary type="html"><![CDATA[AI developers and machine learning (ML) engineers can now use the capabilities of Amazon SageMaker Studio directly from their local Visual Studio Code (VS Code). With this capability, you can use your customized local VS Code setup, including AI-assisted development tools, custom extensions, and debugging tools while accessing compute resources and your data in SageMaker Studio. In this post, we show you how to remotely connect your local VS Code to SageMaker Studio development environments to use your customized development environment while accessing Amazon SageMaker AI compute resources.]]></summary>
         <author>
             <name>Durga Sury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Architecture Decision Records (ADRs) with AI coding assistants]]></title>
+        <id>https://blog.thestateofme.com/?p=6404</id>
+        <link href="http://blog.thestateofme.com/2025/07/10/using-architecture-decision-records-adrs-with-ai-coding-assistants/"/>
+        <updated>2025-07-10T15:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Last week my former colleague Doug Todd asked a question about recording decisions on BlueSky: Of course I replied suggesting Architecture Decision Records (ADRs), with a pointer to the at_protocol GitHub repo where we use them. A few days back Doug demoed how he’s using ADRs with his coding assistant (Claude and Claude Code), and […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

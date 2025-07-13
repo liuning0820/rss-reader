@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-13T04:35:01.534Z</updated>
+    <updated>2025-07-13T06:25:52.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -824,16 +824,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy Qwen models with Amazon Bedrock Custom Model Import]]></title>
-        <id>cb5545a1b55d7445cbf71e420df3c3a1372acad5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/"/>
-        <updated>2025-06-13T17:17:22.000Z</updated>
-        <summary type="html"><![CDATA[You can now import custom weights for Qwen2, Qwen2_VL, and Qwen2_5_VL architectures, including models like Qwen 2, 2.5 Coder, Qwen 2.5 VL, and QwQ 32B. In this post, we cover how to deploy Qwen 2.5 models with Amazon Bedrock Custom Model Import, making them accessible to organizations looking to use state-of-the-art AI capabilities within the AWS infrastructure at an effective cost.]]></summary>
-        <author>
-            <name>Ajit Mahareddy</name>
         </author>
     </entry>
 </feed>

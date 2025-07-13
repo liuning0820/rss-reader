@@ -865,16 +865,6 @@
           "wordCount": 2775,
           "title": "Innovate business logic by implementing return of control in Amazon Bedrock Agents",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/24/arch.png"
-        },
-        {
-          "id": "cb5545a1b55d7445cbf71e420df3c3a1372acad5",
-          "author": "Ajit Mahareddy",
-          "description": "You can now import custom weights for Qwen2, Qwen2_VL, and Qwen2_5_VL architectures, including models like Qwen 2, 2.5 Coder, Qwen 2.5 VL, and QwQ 32B. In this post, we cover how to deploy Qwen 2.5 models with Amazon Bedrock Custom Model Import, making them accessible to organizations looking to use state-of-the-art AI capabilities within the AWS infrastructure at an effective cost.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/",
-          "publishedOn": "2025-06-13T17:17:22.000Z",
-          "wordCount": 2779,
-          "title": "Deploy Qwen models with Amazon Bedrock Custom Model Import",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/13/ML-18505-image-10-840x630.jpeg"
         }
       ]
     }

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -72,6 +72,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1662",
+          "author": "lex",
+          "description": "View on sreweekly.com YOUR AD COULD BE HERE! SRE Weekly has openings for new sponsorships. Reply or email lex at sreweekly.com for details. Migrating the Jira Database Platform to AWS Aurora How would you migrate several million databases, with minimal impact to your users? Atlassian allocates one Postgres database per tenant customer, with a few […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-485/",
+          "publishedOn": "2025-07-14T01:43:30.000Z",
+          "wordCount": 1108,
+          "title": "SRE Weekly Issue #485",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1660",
           "author": "lex",

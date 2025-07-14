@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-14T01:40:25.513Z</updated>
+    <updated>2025-07-14T03:39:06.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #485]]></title>
+        <id>https://sreweekly.com/?p=1662</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-485/"/>
+        <updated>2025-07-14T01:43:30.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com YOUR AD COULD BE HERE! SRE Weekly has openings for new sponsorships. Reply or email lex at sreweekly.com for details. Migrating the Jira Database Platform to AWS Aurora How would you migrate several million databases, with minimal impact to your users? Atlassian allocates one Postgres database per tenant customer, with a few […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advanced fine-tuning methods on Amazon SageMaker AI]]></title>
         <id>5276be178de4105b7347e6db4e39215a125556b9</id>

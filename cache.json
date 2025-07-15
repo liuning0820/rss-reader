@@ -137,6 +137,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b926c08f19c002c223155095808c4ff9e29ee819",
+          "author": "Manoj Selvakumar",
+          "description": "Amazon Bedrock Knowledge Bases has extended its vector store options by enabling support for Amazon OpenSearch Service managed clusters, further strengthening its capabilities as a fully managed Retrieval Augmented Generation (RAG) solution. This enhancement builds on the core functionality of Amazon Bedrock Knowledge Bases , which is designed to seamlessly connect foundation models (FMs) with internal data sources. This post provides a comprehensive, step-by-step guide on integrating an Amazon Bedrock knowledge base with an OpenSearch Service managed cluster as its vector store.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-amazon-opensearch-service-managed-cluster-as-vector-store/",
+          "publishedOn": "2025-07-15T22:05:53.000Z",
+          "wordCount": 13276,
+          "title": "Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/01/ML-18695-overview-1197x630.jpeg"
+        },
+        {
+          "id": "e6ae05ad8527eed06b742e47b25bfe4da6bc0d52",
+          "author": "Jason Mimick",
+          "description": "We’re excited to announce a new integration between Datadog LLM Observability and Amazon Bedrock Agents that helps monitor agentic applications built on Amazon Bedrock. In this post, we'll explore how Datadog's LLM Observability provides the visibility and control needed to successfully monitor, operate, and debug production-grade agentic applications built on Amazon Bedrock Agents.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/monitor-agents-built-on-amazon-bedrock-with-datadog-llm-observability/",
+          "publishedOn": "2025-07-15T22:02:38.000Z",
+          "wordCount": 8555,
+          "title": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/25/ML-18768-dashboard-image-1-1121x630.png"
+        },
+        {
+          "id": "523e5858fabf4ce89ec4627fa3b28a42f8cca264",
+          "author": "Deepesh Dhapola",
+          "description": "PayU offers a full-stack digital financial services system that serves the financial needs of merchants, banks, and consumers through technology. In this post, we explain how we equipped the PayU team with an enterprise AI solution and democratized AI access using Amazon Bedrock, without compromising on data residency requirements.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-payu-built-a-secure-enterprise-ai-assistant-using-amazon-bedrock/",
+          "publishedOn": "2025-07-15T21:54:53.000Z",
+          "wordCount": 9692,
+          "title": "How PayU built a secure enterprise AI assistant using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/ml-19011-solution_architecture-1260x550.png"
+        },
+        {
           "id": "3d0a20fa2c3c4c07c5c98f80a4a340ad19cf610c",
           "author": "Vara Bonthu",
           "description": "This post is co-written with Andrew Liu, Chelsea Isaac, Zoey Zhang, and Charlie Huang from NVIDIA. DGX Cloud on Amazon Web Services (AWS) represents a significant leap forward in democratizing access to high-performance AI infrastructure. By combining NVIDIA GPU expertise with AWS scalable cloud services, organizations can accelerate their time-to-train, reduce operational complexity, and unlock […]",

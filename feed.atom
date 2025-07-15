@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-15T12:38:40.347Z</updated>
+    <updated>2025-07-15T14:17:08.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supercharge generative AI workflows with NVIDIA DGX Cloud on AWS and Amazon Bedrock Custom Model Import]]></title>
+        <id>3d0a20fa2c3c4c07c5c98f80a4a340ad19cf610c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/supercharge-generative-ai-workflows-with-nvidia-dgx-cloud-on-aws-and-amazon-bedrock-custom-model-import/"/>
+        <updated>2025-07-15T13:32:12.000Z</updated>
+        <summary type="html"><![CDATA[This post is co-written with Andrew Liu, Chelsea Isaac, Zoey Zhang, and Charlie Huang from NVIDIA. DGX Cloud on Amazon Web Services (AWS) represents a significant leap forward in democratizing access to high-performance AI infrastructure. By combining NVIDIA GPU expertise with AWS scalable cloud services, organizations can accelerate their time-to-train, reduce operational complexity, and unlock […]]]></summary>
+        <author>
+            <name>Vara Bonthu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS]]></title>
+        <id>01da8a0ec4b3aaf5618fbf68941d110dcaba2bca</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/"/>
+        <updated>2025-07-15T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[This post introduces NVIDIA Dynamo and explains how to set it up on Amazon EKS for automated scaling and streamlined Kubernetes operations. We provide a hands-on walkthrough, which uses the NVIDIA Dynamo blueprint on the AI on EKS GitHub repo by AWS Labs to provision the infrastructure, configure monitoring, and install the NVIDIA Dynamo operator.]]></summary>
+        <author>
+            <name>Baladithya Balamurugan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success]]></title>
+        <id>7e00991968147a07b0896e1d0057379b055c04f5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/"/>
+        <updated>2025-07-15T12:40:42.000Z</updated>
+        <summary type="html"><![CDATA[In this post, AWS announces a $100 million additional investment in its AWS Generative AI Innovation Center, marking two years of successful customer collaborations across industries from financial services to healthcare. The investment comes as AI evolves toward more autonomous, agentic systems, with the center already helping thousands of customers drive millions in productivity gains and transform customer experiences.]]></summary>
+        <author>
+            <name>Francessca Vasquez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build AI-driven policy creation for vehicle data collection and automation using Amazon Bedrock]]></title>
         <id>c9f7847328e43d6dfac5c640da029cec0393b0c2</id>
@@ -864,16 +894,6 @@
         <summary type="html"><![CDATA[In the context of distributed systems and microservices architecture, orchestrating communication between diverse components presents significant challenges. However, with the launch of Amazon Bedrock Agents, the landscape is evolving, offering a simplified approach to agent creation and seamless integration of the return of control capability. In this post, we explore how Amazon Bedrock Agents revolutionizes agent creation and demonstrates the efficacy of the return of control capability in orchestrating complex interactions between multiple systems.]]></summary>
         <author>
             <name>Mohammed Asadulla Baig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #481]]></title>
-        <id>https://sreweekly.com/?p=1651</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-481/"/>
-        <updated>2025-06-16T01:22:03.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: Need Slack-native E2E incident management? PagerDuty delivers! Automatic incident workflows that set up Slack channels? ✅ Incident roles and built-in commands? ✅ AI-powered chat that provides real-time customer impact? ✅ Now available on ALL paid PagerDuty plans. https://fnf.dev/4dZ5V36 Google Cloud Platform Incident, June 12, 2025 On […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

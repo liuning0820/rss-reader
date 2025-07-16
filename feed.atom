@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-16T18:26:38.414Z</updated>
+    <updated>2025-07-16T20:20:18.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy conversational agents with Vonage and Amazon Nova Sonic]]></title>
+        <id>d459b181b5ff36f14894b2417d772f77e15fefda</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-conversational-agents-with-vonage-and-amazon-nova-sonic/"/>
+        <updated>2025-07-16T18:29:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how developers can integrate Amazon Nova Sonic with the Vonage communications service to build responsive, natural-sounding voice experiences in real time. By combining the Vonage Voice API with the low-latency and expressive speech capabilities of Amazon Nova Sonic, businesses can deploy AI voice agents that deliver more human-like interactions than traditional voice interfaces. These agents can be used as customer support, virtual assistants, and more.]]></summary>
+        <author>
+            <name>Divyesha Malhotra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enabling customers to deliver production-ready AI agents at scale]]></title>
         <id>88fe713fb98339ad011bc8c72d42c9333eb969a0</id>

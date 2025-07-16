@@ -137,6 +137,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d459b181b5ff36f14894b2417d772f77e15fefda",
+          "author": "Divyesha Malhotra",
+          "description": "In this post, we explore how developers can integrate Amazon Nova Sonic with the Vonage communications service to build responsive, natural-sounding voice experiences in real time. By combining the Vonage Voice API with the low-latency and expressive speech capabilities of Amazon Nova Sonic, businesses can deploy AI voice agents that deliver more human-like interactions than traditional voice interfaces. These agents can be used as customer support, virtual assistants, and more.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-conversational-agents-with-vonage-and-amazon-nova-sonic/",
+          "publishedOn": "2025-07-16T18:29:11.000Z",
+          "wordCount": 8717,
+          "title": "Deploy conversational agents with Vonage and Amazon Nova Sonic",
+          "enclosure": {
+            "length": "269192660",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19208/ML-19208-video1.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/14/ML-19208_FeaturedImg.png"
+        },
+        {
           "id": "88fe713fb98339ad011bc8c72d42c9333eb969a0",
           "author": "Swami Sivasubramanian",
           "description": "Today, I’m excited to share how we’re bringing this vision to life with new capabilities that address the fundamental aspects of building and deploying agents at scale. These innovations will help you move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes.",

@@ -935,36 +935,6 @@
           "wordCount": 27868,
           "title": "Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/17/build-conversational-interfaces.jpg"
-        },
-        {
-          "id": "530dc9578cef6d53be4046ad41465c6c9d565241",
-          "author": "Harsh Vardhan",
-          "description": "In this post, we share how Apollo Tyres used generative AI with Amazon Bedrock to harness the insights from their machine data in a natural language interaction mode to gain a comprehensive view of its manufacturing processes, enabling data-driven decision-making and optimizing operational efficiency.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/",
-          "publishedOn": "2025-06-16T17:22:05.000Z",
-          "wordCount": 2939,
-          "title": "How Apollo Tyres is unlocking machine insights using agentic AI-powered Manufacturing Reasoner",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/05/ml17028-image-2-1185x630.png"
-        },
-        {
-          "id": "5b6f3853c156f0581388515680de9a6d5ddef8a2",
-          "author": "Jacky Leybman",
-          "description": "In this post, we demonstrate how organizations can enhance their incident management capabilities by integrating PagerDuty Advance, an innovative set of agentic and generative AI capabilities that automate response workflows and provide real-time insights into operational health, with Amazon Q Business. We show how to configure PagerDuty Advance as a data accessor for Amazon Q indexes, so you can search and access enterprise knowledge across multiple systems during incident response.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/extend-your-amazon-q-business-with-pagerduty-advance-data-accessor/",
-          "publishedOn": "2025-06-16T17:15:54.000Z",
-          "wordCount": 2921,
-          "title": "Extend your Amazon Q Business with PagerDuty Advance data accessor",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/28/blog-pdadvance-asset1.png"
-        },
-        {
-          "id": "ff1f88e8aea1604a62f8523ab1dfa61b2df9906a",
-          "author": "Mohammed Asadulla Baig",
-          "description": "In the context of distributed systems and microservices architecture, orchestrating communication between diverse components presents significant challenges. However, with the launch of Amazon Bedrock Agents, the landscape is evolving, offering a simplified approach to agent creation and seamless integration of the return of control capability. In this post, we explore how Amazon Bedrock Agents revolutionizes agent creation and demonstrates the efficacy of the return of control capability in orchestrating complex interactions between multiple systems.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/innovate-business-logic-by-implementing-return-of-control-in-amazon-bedrock-agents/",
-          "publishedOn": "2025-06-16T17:11:19.000Z",
-          "wordCount": 2775,
-          "title": "Innovate business logic by implementing return of control in Amazon Bedrock Agents",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/24/arch.png"
         }
       ]
     }

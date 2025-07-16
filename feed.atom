@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-16T14:17:18.317Z</updated>
+    <updated>2025-07-16T16:23:52.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enabling customers to deliver production-ready AI agents at scale]]></title>
+        <id>88fe713fb98339ad011bc8c72d42c9333eb969a0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/"/>
+        <updated>2025-07-16T15:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Today, I’m excited to share how we’re bringing this vision to life with new capabilities that address the fundamental aspects of building and deploying agents at scale. These innovations will help you move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes.]]></summary>
+        <author>
+            <name>Swami Sivasubramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store]]></title>
         <id>b926c08f19c002c223155095808c4ff9e29ee819</id>

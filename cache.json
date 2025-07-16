@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -136,6 +136,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "88fe713fb98339ad011bc8c72d42c9333eb969a0",
+          "author": "Swami Sivasubramanian",
+          "description": "Today, I’m excited to share how we’re bringing this vision to life with new capabilities that address the fundamental aspects of building and deploying agents at scale. These innovations will help you move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/",
+          "publishedOn": "2025-07-16T15:04:04.000Z",
+          "wordCount": 9662,
+          "title": "Enabling customers to deliver production-ready AI agents at scale",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/16/All-days-hero-e1752642848847-1086x630.png"
+        },
         {
           "id": "b926c08f19c002c223155095808c4ff9e29ee819",
           "author": "Manoj Selvakumar",

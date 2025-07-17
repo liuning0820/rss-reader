@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-17T18:26:51.215Z</updated>
+    <updated>2025-07-17T20:20:20.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock]]></title>
+        <id>cf0e2dcb31f11f7fc9dde529f5e03eb67f2e04e5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/implementing-on-demand-deployment-with-customized-amazon-nova-models-on-amazon-bedrock/"/>
+        <updated>2025-07-17T19:36:59.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through the custom model on-demand deployment workflow for Amazon Bedrock and provide step-by-step implementation guides using both the AWS Management Console and APIs or AWS SDKs. We also discuss best practices and considerations for deploying customized Amazon Nova models on Amazon Bedrock.]]></summary>
+        <author>
+            <name>Yanyan Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building enterprise-scale RAG applications with Amazon S3 Vectors and DeepSeek R1 on Amazon SageMaker AI]]></title>
         <id>8ff3d6ffcc42ce0c118c5ac38374d452d9d91e63</id>

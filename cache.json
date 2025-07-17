@@ -137,6 +137,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6a585c5ed36947fd8379ffe5334bb735f4a49e02",
+          "author": "Surya Kari",
+          "description": "Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios, it’s crucial to understand whether a model is producing better outputs than a baseline or an earlier iteration. This is especially important for applications such as summarization, content generation, […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/",
+          "publishedOn": "2025-07-17T22:12:26.000Z",
+          "wordCount": 11121,
+          "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/17/ML-19175_FeaturedImg.png"
+        },
+        {
+          "id": "0185793a426c8fa40d62f8573dfda8378af120f1",
+          "author": "Vaibhav Sabharwal",
+          "description": "In this post, we demonstrate how to integrate Amazon S3 Vectors with Amazon Bedrock Knowledge Bases for RAG applications. You'll learn a practical approach to scale your knowledge bases to handle millions of documents while maintaining retrieval quality and using S3 Vectors cost-effective storage.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-cost-effective-rag-applications-with-amazon-bedrock-knowledge-bases-and-amazon-s3-vectors/",
+          "publishedOn": "2025-07-17T22:09:04.000Z",
+          "wordCount": 9641,
+          "title": "Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/17/feature-image-ML-19266-1120x630.jpg"
+        },
+        {
           "id": "cf0e2dcb31f11f7fc9dde529f5e03eb67f2e04e5",
           "author": "Yanyan Zhang",
           "description": "In this post, we walk through the custom model on-demand deployment workflow for Amazon Bedrock and provide step-by-step implementation guides using both the AWS Management Console and APIs or AWS SDKs. We also discuss best practices and considerations for deploying customized Amazon Nova models on Amazon Bedrock.",

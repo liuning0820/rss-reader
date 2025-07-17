@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-17T20:20:20.578Z</updated>
+    <updated>2025-07-17T22:17:54.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI]]></title>
+        <id>6a585c5ed36947fd8379ffe5334bb735f4a49e02</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"/>
+        <updated>2025-07-17T22:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios, it’s crucial to understand whether a model is producing better outputs than a baseline or an earlier iteration. This is especially important for applications such as summarization, content generation, […]]]></summary>
+        <author>
+            <name>Surya Kari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors]]></title>
+        <id>0185793a426c8fa40d62f8573dfda8378af120f1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-cost-effective-rag-applications-with-amazon-bedrock-knowledge-bases-and-amazon-s3-vectors/"/>
+        <updated>2025-07-17T22:09:04.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to integrate Amazon S3 Vectors with Amazon Bedrock Knowledge Bases for RAG applications. You'll learn a practical approach to scale your knowledge bases to handle millions of documents while maintaining retrieval quality and using S3 Vectors cost-effective storage.]]></summary>
+        <author>
+            <name>Vaibhav Sabharwal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock]]></title>
         <id>cf0e2dcb31f11f7fc9dde529f5e03eb67f2e04e5</id>

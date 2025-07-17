@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-17T10:20:29.642Z</updated>
+    <updated>2025-07-17T12:38:13.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building enterprise-scale RAG applications with Amazon S3 Vectors and DeepSeek R1 on Amazon SageMaker AI]]></title>
+        <id>8ff3d6ffcc42ce0c118c5ac38374d452d9d91e63</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-enterprise-scale-rag-applications-with-amazon-s3-vectors-and-deepseek-r1-on-amazon-sagemaker-ai/"/>
+        <updated>2025-07-17T12:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Organizations are adopting large language models (LLMs), such as DeepSeek R1, to transform business processes, enhance customer experiences, and drive innovation at unprecedented speed. However, standalone LLMs have key limitations such as hallucinations, outdated knowledge, and no access to proprietary data. Retrieval Augmented Generation (RAG) addresses these gaps by combining semantic search with generative AI, […]]]></summary>
+        <author>
+            <name>Sandeep Raveesh-Babu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents]]></title>
         <id>2de7d3933ca4c3f592243660f743458e9a83fb3d</id>

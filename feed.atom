@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-17T01:38:03.599Z</updated>
+    <updated>2025-07-17T03:25:38.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -894,36 +894,6 @@
         <summary type="html"><![CDATA[In this post, we explore how generative AI can revolutionize threat modeling practices by automating vulnerability identification, generating comprehensive attack scenarios, and providing contextual mitigation strategies.]]></summary>
         <author>
             <name>Edvin Hallvaxhiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Anomalo solves unstructured data quality issues to deliver trusted assets for AI with AWS]]></title>
-        <id>a8455536d076e604df78456037ecadc1bf405da1</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-anomalo-solves-unstructured-data-quality-issues-to-deliver-trusted-assets-for-ai-with-aws/"/>
-        <updated>2025-06-17T15:02:07.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how you can use Anomalo with Amazon Web Services (AWS) AI and machine learning (AI/ML) to profile, validate, and cleanse unstructured data collections to transform your data lake into a trusted source for production ready AI initiatives.]]></summary>
-        <author>
-            <name>Vicky Andonova, Jonathan Karon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An innovative financial services leader finds the right AI solution: Robinhood and Amazon Nova]]></title>
-        <id>284fa695e4216c58599cb8b346e2d5fca604b716</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/an-innovative-financial-services-leader-finds-the-right-ai-solution-robinhood-and-amazon-nova/"/>
-        <updated>2025-06-17T14:58:21.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how Robinhood delivers democratized finance and real-time market insights using generative AI and Amazon Nova.]]></summary>
-        <author>
-            <name>Renyu Chen, Dev Tagare</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases]]></title>
-        <id>9334b67e27da30f06b3b3467c068b42da1b39daf</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-conversational-interfaces-for-structured-data-using-amazon-bedrock-knowledge-bases/"/>
-        <updated>2025-06-17T14:52:46.000Z</updated>
-        <summary type="html"><![CDATA[This post provides instructions to configure a structured data retrieval solution, with practical code examples and templates. It covers implementation samples and additional considerations, empowering you to quickly build and scale your conversational data interfaces.]]></summary>
-        <author>
-            <name>George Belsian</name>
         </author>
     </entry>
 </feed>

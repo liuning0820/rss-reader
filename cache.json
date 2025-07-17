@@ -137,6 +137,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "2de7d3933ca4c3f592243660f743458e9a83fb3d",
+          "author": "Ilan Geller",
+          "description": "This post was written with Ilan Geller, Kamal Mannar, Debasmita Ghosh, and Nakul Aggarwal of Accenture. Video highlights offer a powerful way to boost audience engagement and extend content value for content publishers. These short, high-impact clips capture key moments that drive viewer retention, amplify reach across social media, reinforce brand identity, and open new […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accenture-scales-video-analysis-with-amazon-nova-and-amazon-bedrock-agents/",
+          "publishedOn": "2025-07-16T22:32:42.000Z",
+          "wordCount": 9369,
+          "title": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents",
+          "enclosure": {
+            "length": "14997949",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18781/Accenture+Spotlight+Blog+Video.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/16/ML-18781_FeaturedImg.png"
+        },
+        {
           "id": "d459b181b5ff36f14894b2417d772f77e15fefda",
           "author": "Divyesha Malhotra",
           "description": "In this post, we explore how developers can integrate Amazon Nova Sonic with the Vonage communications service to build responsive, natural-sounding voice experiences in real time. By combining the Vonage Voice API with the low-latency and expressive speech capabilities of Amazon Nova Sonic, businesses can deploy AI voice agents that deliver more human-like interactions than traditional voice interfaces. These agents can be used as customer support, virtual assistants, and more.",

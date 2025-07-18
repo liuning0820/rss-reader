@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -955,36 +955,6 @@
           "wordCount": 30073,
           "title": "Accelerate foundation model training and inference with Amazon SageMaker HyperPod and Amazon SageMaker Studio",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/11/ML-18718-archdiag-1122x630.png"
-        },
-        {
-          "id": "e676fa172b3b1119f585f0a3069b6a92037da4a1",
-          "author": "Baishali Chaudhury",
-          "description": "In this post, we present a benchmark of different understanding models from the Amazon Nova family available on Amazon Bedrock, to provide insights on how you can choose the best model for a meeting summarization task.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/meeting-summarization-and-action-item-extraction-with-amazon-nova/",
-          "publishedOn": "2025-06-18T16:13:36.000Z",
-          "wordCount": 27992,
-          "title": "Meeting summarization and action item extraction with Amazon Nova",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/11/cisco-webex-summarization-1.jpg"
-        },
-        {
-          "id": "0378d56ae5b9e3012e332cb21e93a2275ce73869",
-          "author": "Pavan Kumar Vadupu Lakshman Manikya",
-          "description": "Developing robust text-to-SQL capabilities is a critical challenge in the field of natural language processing (NLP) and database management. The complexity of NLP and database management increases in this field, particularly while dealing with complex queries and database structures. In this post, we introduce a straightforward but powerful solution with accompanying code to text-to-SQL using a custom agent implementation along with Amazon Bedrock and Converse API.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-text-to-sql-agent-using-amazon-bedrock-and-converse-api/",
-          "publishedOn": "2025-06-18T16:10:16.000Z",
-          "wordCount": 27942,
-          "title": "Building a custom text-to-SQL agent using Amazon Bedrock and Converse API",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/02/ML-16627-image-1.png"
-        },
-        {
-          "id": "6433d5c86a881d13beae153926530bab132bd3a0",
-          "author": "Edvin Hallvaxhiu",
-          "description": "In this post, we explore how generative AI can revolutionize threat modeling practices by automating vulnerability identification, generating comprehensive attack scenarios, and providing contextual mitigation strategies.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-threat-modeling-with-generative-ai/",
-          "publishedOn": "2025-06-18T16:05:53.000Z",
-          "wordCount": 27908,
-          "title": "Accelerate threat modeling with generative AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/18/ML-18677-shift-left-1260x482.jpg"
         }
       ]
     }

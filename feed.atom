@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-19T06:26:00.802Z</updated>
+    <updated>2025-07-19T08:22:33.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -894,46 +894,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: Incidents move fast. But you’ll never get left behind with PagerDuty’s GenAI incident response assistant, available in all paid plans. Get instant business impact analysis, troubleshooting steps, and auto-drafted status updates—directly in Slack. Stop context-switching, start resolving faster. https://fnf.dev/4dZ5V36 Service Disruption on multiple Salesforce services on […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX]]></title>
-        <id>532d18b968f9fc9b62e3a78ab5c765ff00f8c111</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/"/>
-        <updated>2025-06-19T19:47:41.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, the rapid advancement of artificial intelligence and machine learning (AI/ML) technologies has revolutionized various aspects of digital content creation. One particularly exciting development is the emergence of video generation capabilities, which offer unprecedented opportunities for companies across diverse industries. This technology allows for the creation of short video clips that can be […]]]></summary>
-        <author>
-            <name>Nick Biso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building trust in AI: The AWS approach to the EU AI Act]]></title>
-        <id>fd0ce0a6b2728499b9ce1303b9a088ddfb5375da</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-the-aws-approach-to-the-eu-ai-act/"/>
-        <updated>2025-06-19T19:41:11.000Z</updated>
-        <summary type="html"><![CDATA[The EU AI Act establishes comprehensive regulations for AI development and deployment within the EU. AWS is committed to building trust in AI through various initiatives including being among the first signatories of the EU's AI Pact, providing AI Service Cards and guardrails, and offering educational resources while helping customers understand their responsibilities under the new regulatory framework.]]></summary>
-        <author>
-            <name>Sara Duffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update on the AWS DeepRacer Student Portal]]></title>
-        <id>5fdb3206727328d4ef3f0c9af446321f92a64175</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/update-on-the-aws-deepracer-student-portal/"/>
-        <updated>2025-06-19T19:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Starting July 14, 2025, the AWS DeepRacer Student Portal will enter a maintenance phase where new registrations will be disabled. Until September 15, 2025, existing users will retain full access to their content and training materials, with updates limited to critical security fixes, after which the portal will no longer be available.]]></summary>
-        <author>
-            <name>Jayadev Kalla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate foundation model training and inference with Amazon SageMaker HyperPod and Amazon SageMaker Studio]]></title>
-        <id>48e446c3aebb4eff0674b8ccb2856acfa787144e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-foundation-model-training-and-inference-with-amazon-sagemaker-hyperpod-and-amazon-sagemaker-studio/"/>
-        <updated>2025-06-19T19:26:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss how SageMaker HyperPod and SageMaker Studio can improve and speed up the development experience of data scientists by using IDEs and tooling of SageMaker Studio and the scalability and resiliency of SageMaker HyperPod with Amazon EKS. The solution simplifies the setup for the system administrator of the centralized system by using the governance and security capabilities offered by the AWS services.]]></summary>
-        <author>
-            <name>Bruno Pistone</name>
         </author>
     </entry>
 </feed>

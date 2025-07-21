@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-21T16:22:57.259Z</updated>
+    <updated>2025-07-21T18:27:53.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build an AI-powered automated summarization system with Amazon Bedrock and Amazon Transcribe using Terraform]]></title>
+        <id>91a13d5162821626921c0e5434c13ee09589d5cd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-automated-summarization-system-with-amazon-bedrock-and-amazon-transcribe-using-terraform/"/>
+        <updated>2025-07-21T17:34:21.000Z</updated>
+        <summary type="html"><![CDATA[This post introduces a serverless meeting summarization system that harnesses the advanced capabilities of Amazon Bedrock and Amazon Transcribe to transform audio recordings into concise, structured, and actionable summaries. By automating this process, organizations can reclaim countless hours while making sure key insights, action items, and decisions are systematically captured and made accessible to stakeholders.]]></summary>
+        <author>
+            <name>Dunieski Otano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyruus builds a generative AI provider matching solution on AWS]]></title>
+        <id>d97cb1f0e2b03b5729b50ebb6a890e7fd530fda5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/kyruus-builds-a-generative-ai-provider-matching-solution-on-aws/"/>
+        <updated>2025-07-21T17:23:36.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how Kyruus Health uses AWS services to build Guide. We show how Amazon Bedrock, a fully managed service that provides access to foundation models (FMs) from leading AI companies and Amazon through a single API, and Amazon OpenSearch Service, a managed search and analytics service, work together to understand everyday language about health concerns and connect members with the right providers.]]></summary>
+        <author>
+            <name>Zach Heath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use generative AI in Amazon Bedrock for enhanced recommendation generation in equipment maintenance]]></title>
+        <id>99397a1f76d1a9c7d7f6b016658a909c98e071c3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/use-generative-ai-in-amazon-bedrock-for-enhanced-recommendation-generation-in-equipment-maintenance/"/>
+        <updated>2025-07-21T17:10:55.000Z</updated>
+        <summary type="html"><![CDATA[In the manufacturing world, valuable insights from service reports often remain underutilized in document storage systems. This post explores how Amazon Web Services (AWS) customers can build a solution that automates the digitisation and extraction of crucial information from many reports using generative AI.]]></summary>
+        <author>
+            <name>Jyothsna Puttanna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #486]]></title>
         <id>https://sreweekly.com/?p=1665</id>

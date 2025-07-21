@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-20T22:16:57.210Z</updated>
+    <updated>2025-07-21T01:43:06.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #486]]></title>
+        <id>https://sreweekly.com/?p=1665</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-486/"/>
+        <updated>2025-07-21T01:15:34.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Spacelift: IaC Experts! IaCConf Call for Presenters – August 27, 2025 The upcoming IaCConf Spotlight dives into the security and governance challenges of managing infrastructure as code at scale. From embedding security in your pipelines to navigating the realities of open source risk, this event brings together […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build real-time travel recommendations using AI agents on Amazon Bedrock]]></title>
         <id>207a3853df8297e788fcc08326ea4767d609720e</id>

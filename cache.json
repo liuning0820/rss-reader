@@ -137,6 +137,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "1054a690f3f39e6b16bcec262bf90c0230835f4a",
+          "author": "Keita Watanabe",
+          "description": "In 2024, the Ministry of Economy, Trade and Industry (METI) launched the Generative AI Accelerator Challenge (GENIAC)—a Japanese national program to boost generative AI by providing companies with funding, mentorship, and massive compute resources for foundation model (FM) development. AWS was selected as the cloud provider for GENIAC’s second cycle (cycle 2). It provided infrastructure and technical guidance for 12 participating organizations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/beyond-accelerators-lessons-from-building-foundation-models-on-aws-with-japans-geniac-program/",
+          "publishedOn": "2025-07-22T16:42:36.000Z",
+          "wordCount": 9662,
+          "title": "Beyond accelerators: Lessons from building foundation models on AWS with Japan’s GENIAC program",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/22/image-4-1-1024x685-1-942x630.jpeg"
+        },
+        {
           "id": "592684ae16598b6258cb619340726947a8d98ca1",
           "author": "Sathya Balakrishnan",
           "description": "In this post, we explore how to use Amazon Q Developer and Model Context Protocol (MCP) servers to streamline DLC workflows to automate creation, execution, and customization of DLC containers.",

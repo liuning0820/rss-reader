@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-22T16:23:35.627Z</updated>
+    <updated>2025-07-22T18:27:29.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond accelerators: Lessons from building foundation models on AWS with Japan’s GENIAC program]]></title>
+        <id>1054a690f3f39e6b16bcec262bf90c0230835f4a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/beyond-accelerators-lessons-from-building-foundation-models-on-aws-with-japans-geniac-program/"/>
+        <updated>2025-07-22T16:42:36.000Z</updated>
+        <summary type="html"><![CDATA[In 2024, the Ministry of Economy, Trade and Industry (METI) launched the Generative AI Accelerator Challenge (GENIAC)—a Japanese national program to boost generative AI by providing companies with funding, mentorship, and massive compute resources for foundation model (FM) development. AWS was selected as the cloud provider for GENIAC’s second cycle (cycle 2). It provided infrastructure and technical guidance for 12 participating organizations.]]></summary>
+        <author>
+            <name>Keita Watanabe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamline deep learning environments with Amazon Q Developer and MCP]]></title>
         <id>592684ae16598b6258cb619340726947a8d98ca1</id>

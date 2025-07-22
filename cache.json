@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -111,16 +111,6 @@
           "wordCount": 1137,
           "title": "SRE Weekly Issue #483",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1656",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: Incidents move fast. But you’ll never get left behind with PagerDuty’s GenAI incident response assistant, available in all paid plans. Get instant business impact analysis, troubleshooting steps, and auto-drafted status updates—directly in Slack. Stop context-switching, start resolving faster. https://fnf.dev/4dZ5V36 Service Disruption on multiple Salesforce services on […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-482/",
-          "publishedOn": "2025-06-23T02:48:32.000Z",
-          "wordCount": 1080,
-          "title": "SRE Weekly Issue #482",
-          "imageUrl": null
         }
       ]
     },
@@ -146,6 +136,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "592684ae16598b6258cb619340726947a8d98ca1",
+          "author": "Sathya Balakrishnan",
+          "description": "In this post, we explore how to use Amazon Q Developer and Model Context Protocol (MCP) servers to streamline DLC workflows to automate creation, execution, and customization of DLC containers.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-deep-learning-environments-with-amazon-q-developer-and-mcp/",
+          "publishedOn": "2025-07-22T14:52:50.000Z",
+          "wordCount": 9759,
+          "title": "Streamline deep learning environments with Amazon Q Developer and MCP",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/ML-19067-image-2.png"
+        },
         {
           "id": "91a13d5162821626921c0e5434c13ee09589d5cd",
           "author": "Dunieski Otano",

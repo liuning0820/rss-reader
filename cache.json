@@ -137,6 +137,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6ab0970b600c741639be2d362042e920ca38adf7",
+          "author": "Kazuki Nagasawa",
+          "description": "In this post, we introduce a solution that uses OpenSearch Service as a vector data store in multi-tenant RAG, achieving data isolation and routing using JWT and FGAC. This solution uses a combination of JWT and FGAC to implement strict tenant data access isolation and routing, necessitating the use of OpenSearch Service.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-implementation-with-amazon-bedrock-and-amazon-opensearch-service-for-saas-using-jwt/",
+          "publishedOn": "2025-07-23T16:44:31.000Z",
+          "wordCount": 6470,
+          "title": "Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch Service for SaaS using JWT",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/23/ML-17909-1-architecture.jpg"
+        },
+        {
+          "id": "91acbd612da6e1e44b358a51519e7186214ceadd",
+          "author": "Ebbey Thomas",
+          "description": "In this post, we explore best practices and integration patterns for combining Amazon Q index and MCP, enabling enterprises to build secure, scalable, and actionable AI search-and-retrieval architectures.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-generative-ai-solutions-using-amazon-q-index-with-model-context-protocol-part-1/",
+          "publishedOn": "2025-07-23T16:40:40.000Z",
+          "wordCount": 5837,
+          "title": "Enhance generative AI solutions using Amazon Q index with Model Context Protocol – Part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/23/q-mcp-part-1.jpg"
+        },
+        {
           "id": "1054a690f3f39e6b16bcec262bf90c0230835f4a",
           "author": "Keita Watanabe",
           "description": "In 2024, the Ministry of Economy, Trade and Industry (METI) launched the Generative AI Accelerator Challenge (GENIAC)—a Japanese national program to boost generative AI by providing companies with funding, mentorship, and massive compute resources for foundation model (FM) development. AWS was selected as the cloud provider for GENIAC’s second cycle (cycle 2). It provided infrastructure and technical guidance for 12 participating organizations.",

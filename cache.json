@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -995,16 +995,6 @@
           "wordCount": 27825,
           "title": "How SkillShow automates youth sports video processing using Amazon Transcribe",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/24/skillshow.jpg"
-        },
-        {
-          "id": "66e62c5bbdf81de8ce0169f57480bd7e8b7e0f26",
-          "author": "Kaushal Goyal",
-          "description": "This post is co-written with Sergio Zavota and Amy Perring from NewDay. NewDay has a clear and defining purpose: to help people move forward with credit. NewDay provides around 4 million customers access to credit responsibly and delivers exceptional customer experiences, powered by their in-house technology system. NewDay’s contact center handles 2.5 million calls annually, […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/newday-builds-a-generative-ai-based-customer-service-agent-assist-with-over-90-accuracy/",
-          "publishedOn": "2025-06-24T15:22:50.000Z",
-          "wordCount": 28629,
-          "title": "NewDay builds A Generative AI based Customer service Agent Assist with over 90% accuracy",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/24/newday.jpg"
         }
       ]
     }

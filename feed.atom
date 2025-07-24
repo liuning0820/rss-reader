@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-24T01:38:27.164Z</updated>
+    <updated>2025-07-24T03:27:17.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -944,16 +944,6 @@
         <summary type="html"><![CDATA[SkillShow, a leader in youth sports video production, films over 300 events yearly in the youth sports industry, creating content for over 20,000 young athletes annually. This post describes how SkillShow used Amazon Transcribe and other Amazon Web Services (AWS) machine learning (ML) services to automate their video processing workflow, reducing editing time and costs while scaling their operations.]]></summary>
         <author>
             <name>Ragib Ahsan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NewDay builds A Generative AI based Customer service Agent Assist with over 90% accuracy]]></title>
-        <id>66e62c5bbdf81de8ce0169f57480bd7e8b7e0f26</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/newday-builds-a-generative-ai-based-customer-service-agent-assist-with-over-90-accuracy/"/>
-        <updated>2025-06-24T15:22:50.000Z</updated>
-        <summary type="html"><![CDATA[This post is co-written with Sergio Zavota and Amy Perring from NewDay. NewDay has a clear and defining purpose: to help people move forward with credit. NewDay provides around 4 million customers access to credit responsibly and delivers exceptional customer experiences, powered by their in-house technology system. NewDay’s contact center handles 2.5 million calls annually, […]]]></summary>
-        <author>
-            <name>Kaushal Goyal</name>
         </author>
     </entry>
 </feed>

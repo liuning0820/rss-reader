@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -985,16 +985,6 @@
           "wordCount": 30001,
           "title": "Amazon Bedrock Agents observability using Arize AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/23/ML-18823-image-1-1260x570.png"
-        },
-        {
-          "id": "a9a5151f861b5e561019bd8cde0ac61c60774255",
-          "author": "Ragib Ahsan",
-          "description": "SkillShow, a leader in youth sports video production, films over 300 events yearly in the youth sports industry, creating content for over 20,000 young athletes annually. This post describes how SkillShow used Amazon Transcribe and other Amazon Web Services (AWS) machine learning (ML) services to automate their video processing workflow, reducing editing time and costs while scaling their operations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-skillshow-automates-youth-sports-video-processing-using-amazon-transcribe/",
-          "publishedOn": "2025-06-24T15:28:59.000Z",
-          "wordCount": 27825,
-          "title": "How SkillShow automates youth sports video processing using Amazon Transcribe",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/24/skillshow.jpg"
         }
       ]
     }

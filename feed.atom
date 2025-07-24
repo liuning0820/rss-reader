@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-24T03:27:17.583Z</updated>
+    <updated>2025-07-24T04:37:33.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -934,16 +934,6 @@
         <summary type="html"><![CDATA[Today, we’re excited to announce a new integration between Arize AI and Amazon Bedrock Agents that addresses one of the most significant challenges in AI development: observability. In this post, we demonstrate the Arize Phoenix system for tracing and evaluation.]]></summary>
         <author>
             <name>Ishan Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How SkillShow automates youth sports video processing using Amazon Transcribe]]></title>
-        <id>a9a5151f861b5e561019bd8cde0ac61c60774255</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-skillshow-automates-youth-sports-video-processing-using-amazon-transcribe/"/>
-        <updated>2025-06-24T15:28:59.000Z</updated>
-        <summary type="html"><![CDATA[SkillShow, a leader in youth sports video production, films over 300 events yearly in the youth sports industry, creating content for over 20,000 young athletes annually. This post describes how SkillShow used Amazon Transcribe and other Amazon Web Services (AWS) machine learning (ML) services to automate their video processing workflow, reducing editing time and costs while scaling their operations.]]></summary>
-        <author>
-            <name>Ragib Ahsan</name>
         </author>
     </entry>
 </feed>

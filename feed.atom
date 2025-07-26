@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-26T03:24:09.628Z</updated>
+    <updated>2025-07-26T04:34:07.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -914,26 +914,6 @@
         <summary type="html"><![CDATA[In this post, we introduce the new safeguard tiers available in Amazon Bedrock Guardrails, explain their benefits and use cases, and provide guidance on how to implement and evaluate them in your AI applications.]]></summary>
         <author>
             <name>Koushik Kethamakka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structured data response with Amazon Bedrock: Prompt Engineering and Tool Use]]></title>
-        <id>6b9ffd16ee65772d5702156adb102bea755928bd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/structured-data-response-with-amazon-bedrock-prompt-engineering-and-tool-use/"/>
-        <updated>2025-06-26T15:46:20.000Z</updated>
-        <summary type="html"><![CDATA[We demonstrate two methods for generating structured responses with Amazon Bedrock: Prompt Engineering and Tool Use with the Converse API. Prompt Engineering is flexible, works with Bedrock models (including those without Tool Use support), and handles various schema types (e.g., Open API schemas), making it a great starting point. Tool Use offers greater reliability, consistent results, seamless API integration, and runtime validation of JSON schema for enhanced control.]]></summary>
-        <author>
-            <name>Adam Nemeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Amazon SageMaker AI Random Cut Forest for NASA’s Blue Origin spacecraft sensor data]]></title>
-        <id>692e307da12573bce51c0f803dcfc6bbb1c2fa31</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-ai-random-cut-forest-for-nasas-blue-origin-spacecraft-sensor-data/"/>
-        <updated>2025-06-26T15:41:46.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to use SageMaker AI to apply the Random Cut Forest (RCF) algorithm to detect anomalies in spacecraft position, velocity, and quaternion orientation data from NASA and Blue Origin’s demonstration of lunar Deorbit, Descent, and Landing Sensors (BODDL-TP).]]></summary>
-        <author>
-            <name>Ian Lunsford</name>
         </author>
     </entry>
 </feed>

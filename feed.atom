@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-27T03:45:14.522Z</updated>
+    <updated>2025-07-27T04:41:12.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -894,16 +894,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty’s reliability apart. The same […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP]]></title>
-        <id>cd8136b2c81b2175a22483ec1cc2688eab673c13</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-costs-estimation-using-amazon-q-cli-and-aws-cost-analysis-mcp/"/>
-        <updated>2025-06-27T16:34:01.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to use Amazon Q CLI with the AWS Cost Analysis MCP server to perform sophisticated cost analysis that follows AWS best practices. We discuss basic setup and advanced techniques, with detailed examples and step-by-step instructions.]]></summary>
-        <author>
-            <name>Joel Asante</name>
         </author>
     </entry>
 </feed>

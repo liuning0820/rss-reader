@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b4d9533f583770409261b602823edcf84a7c1949",
+          "author": "Brian Loyal",
+          "description": "In this post, we demonstrate how to create a powerful research assistant for drug discovery using Strands Agents and Amazon Bedrock. This AI assistant can search multiple scientific databases simultaneously using the Model Context Protocol (MCP), synthesize its findings, and generate comprehensive reports on drug targets, disease mechanisms, and therapeutic areas.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-drug-discovery-research-assistant-using-strands-agents-and-amazon-bedrock/",
+          "publishedOn": "2025-07-28T19:14:26.000Z",
+          "wordCount": 5601,
+          "title": "Build a drug discovery research assistant using Strands Agents and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/07/ML-19024-image-1-857x630.png"
+        },
+        {
           "id": "1082a09007941f859bb35bd05b679f8311009db6",
           "author": "Lori Knapp",
           "description": "In this post, we’ll walk through what makes Nova Act SDK unique, how it works, and how teams across industries are already using it to automate browser-based workflows at scale.",

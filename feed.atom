@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-28T18:28:32.047Z</updated>
+    <updated>2025-07-28T20:20:56.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a drug discovery research assistant using Strands Agents and Amazon Bedrock]]></title>
+        <id>b4d9533f583770409261b602823edcf84a7c1949</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-drug-discovery-research-assistant-using-strands-agents-and-amazon-bedrock/"/>
+        <updated>2025-07-28T19:14:26.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to create a powerful research assistant for drug discovery using Strands Agents and Amazon Bedrock. This AI assistant can search multiple scientific databases simultaneously using the Model Context Protocol (MCP), synthesize its findings, and generate comprehensive reports on drug targets, disease mechanisms, and therapeutic areas.]]></summary>
+        <author>
+            <name>Brian Loyal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Nova Act SDK (preview): Path to production for browser automation agents]]></title>
         <id>1082a09007941f859bb35bd05b679f8311009db6</id>

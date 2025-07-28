@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-28T16:24:35.824Z</updated>
+    <updated>2025-07-28T18:28:32.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Nova Act SDK (preview): Path to production for browser automation agents]]></title>
+        <id>1082a09007941f859bb35bd05b679f8311009db6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-sdk-preview-path-to-production-for-browser-automation-agents/"/>
+        <updated>2025-07-28T17:54:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll walk through what makes Nova Act SDK unique, how it works, and how teams across industries are already using it to automate browser-based workflows at scale.]]></summary>
+        <author>
+            <name>Lori Knapp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing enterprise AI assistants: How Crypto.com uses LLM reasoning and feedback for enhanced efficiency]]></title>
+        <id>de07f3353e4c98531e406145a868914e2bb98b0d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimizing-enterprise-ai-assistants-how-crypto-com-uses-llm-reasoning-and-feedback-for-enhanced-efficiency/"/>
+        <updated>2025-07-28T17:53:04.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Crypto.com used user and system feedback to continuously improve and optimize our instruction prompts. This feedback-driven approach has enabled us to create more effective prompts that adapt to various subsystems while maintaining high performance across different use cases.]]></summary>
+        <author>
+            <name>Jessie Jiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build modern serverless solutions following best practices using Amazon Q Developer CLI and MCP]]></title>
+        <id>34bf8e2d39a9ae795e1d160c42f15b99c70ad215</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-modern-serverless-solutions-following-best-practices-using-amazon-q-developer-cli-and-mcp/"/>
+        <updated>2025-07-28T17:42:38.000Z</updated>
+        <summary type="html"><![CDATA[This post explores how the AWS Serverless MCP server accelerates development throughout the serverless lifecycle, from making architectural decisions with tools like get_iac_guidance and get_lambda_guidance, to streamlining development with get_serverless_templates, sam_init, to deployment with SAM integration, webapp_deployment_help, and configure_domain. We show how this conversational AI approach transforms the entire process, from architecture design through operations, dramatically accelerating AWS serverless projects while adhering to architectural principles.]]></summary>
+        <author>
+            <name>Dunieski Otano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #487]]></title>
         <id>https://sreweekly.com/?p=1667</id>

@@ -147,6 +147,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "1082a09007941f859bb35bd05b679f8311009db6",
+          "author": "Lori Knapp",
+          "description": "In this post, we’ll walk through what makes Nova Act SDK unique, how it works, and how teams across industries are already using it to automate browser-based workflows at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-sdk-preview-path-to-production-for-browser-automation-agents/",
+          "publishedOn": "2025-07-28T17:54:35.000Z",
+          "wordCount": 6112,
+          "title": "Amazon Nova Act SDK (preview): Path to production for browser automation agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/28/Screenshot-2025-07-28-at-10.48.32 AM-1167x630.png"
+        },
+        {
+          "id": "de07f3353e4c98531e406145a868914e2bb98b0d",
+          "author": "Jessie Jiao",
+          "description": "In this post, we explore how Crypto.com used user and system feedback to continuously improve and optimize our instruction prompts. This feedback-driven approach has enabled us to create more effective prompts that adapt to various subsystems while maintaining high performance across different use cases.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-enterprise-ai-assistants-how-crypto-com-uses-llm-reasoning-and-feedback-for-enhanced-efficiency/",
+          "publishedOn": "2025-07-28T17:53:04.000Z",
+          "wordCount": 6678,
+          "title": "Optimizing enterprise AI assistants: How Crypto.com uses LLM reasoning and feedback for enhanced efficiency",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/image-1-8-1243x630.png"
+        },
+        {
+          "id": "34bf8e2d39a9ae795e1d160c42f15b99c70ad215",
+          "author": "Dunieski Otano",
+          "description": "This post explores how the AWS Serverless MCP server accelerates development throughout the serverless lifecycle, from making architectural decisions with tools like get_iac_guidance and get_lambda_guidance, to streamlining development with get_serverless_templates, sam_init, to deployment with SAM integration, webapp_deployment_help, and configure_domain. We show how this conversational AI approach transforms the entire process, from architecture design through operations, dramatically accelerating AWS serverless projects while adhering to architectural principles.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-modern-serverless-solutions-following-best-practices-using-amazon-q-developer-cli-and-mcp/",
+          "publishedOn": "2025-07-28T17:42:38.000Z",
+          "wordCount": 7399,
+          "title": "Build modern serverless solutions following best practices using Amazon Q Developer CLI and MCP",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/28/best-practices-q-cli-mcp.jpg"
+        },
+        {
           "id": "94b577b6ff9cb0dad5eabf784e7fc843478e902d",
           "author": "Puneeth Komaragiri",
           "description": "In this post, we demonstrate how to build an intelligent eDiscovery solution using Amazon Bedrock Agents for real-time document analysis. We show how to deploy specialized agents for document classification, contract analysis, email review, and legal document processing, all working together through a multi-agent architecture. We walk through the implementation details, deployment steps, and best practices to create an extensible foundation that organizations can adapt to their specific eDiscovery requirements.",

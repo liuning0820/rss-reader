@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-28T01:44:16.881Z</updated>
+    <updated>2025-07-28T03:44:03.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #487]]></title>
+        <id>https://sreweekly.com/?p=1667</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-487/"/>
+        <updated>2025-07-28T02:53:38.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Spacelift: IaC Experts! IaCConf Call for Presenters – August 27, 2025The upcoming IaCConf Spotlight dives into the security and governance challenges of managing infrastructure as code at scale. From embedding security in your pipelines to navigating the realities of open source risk, this event brings together practitioners […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build an intelligent eDiscovery solution using Amazon Bedrock Agents]]></title>
         <id>94b577b6ff9cb0dad5eabf784e7fc843478e902d</id>

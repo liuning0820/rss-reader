@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-29T18:28:54.333Z</updated>
+    <updated>2025-07-29T20:21:16.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generate suspicious transaction report drafts for financial compliance using generative AI]]></title>
+        <id>4f70f1a410d182ad41e5371460966c2cc67b9e06</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/generate-suspicious-transaction-report-drafts-for-financial-compliance-using-generative-ai/"/>
+        <updated>2025-07-29T18:57:44.000Z</updated>
+        <summary type="html"><![CDATA[A suspicious transaction report (STR) or suspicious activity report (SAR) is a type of report that a financial organization must submit to a financial regulator if they have reasonable grounds to suspect any financial transaction that has occurred or was attempted during their activities. In this post, we explore a solution that uses FMs available in Amazon Bedrock to create a draft STR.]]></summary>
+        <author>
+            <name>Divyajeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-tune and deploy Meta Llama 3.2 Vision for generative AI-powered web automation using AWS DLCs, Amazon EKS, and Amazon Bedrock]]></title>
+        <id>c33aa7ddd51653b4b5519a20d0ca9a82fce5b191</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-meta-llama-3-2-vision-for-generative-ai-powered-web-automation-using-aws-dlcs-amazon-eks-and-amazon-bedrock/"/>
+        <updated>2025-07-29T18:55:23.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we present a complete solution for fine-tuning and deploying the Llama-3.2-11B-Vision-Instruct model for web automation tasks. We demonstrate how to build a secure, scalable, and efficient infrastructure using AWS Deep Learning Containers (DLCs) on Amazon Elastic Kubernetes Service (Amazon EKS).]]></summary>
+        <author>
+            <name>Shantanu Tripathi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Nippon India Mutual Fund improved the accuracy of AI assistant responses using advanced RAG methods on Amazon Bedrock]]></title>
         <id>8b1067c162806e1b331cb9736f11a43ef2248c3e</id>

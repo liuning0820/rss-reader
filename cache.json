@@ -111,16 +111,6 @@
           "wordCount": 1182,
           "title": "SRE Weekly Issue #484",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1658",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty’s reliability apart. The same […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-483/",
-          "publishedOn": "2025-06-30T02:33:04.000Z",
-          "wordCount": 1137,
-          "title": "SRE Weekly Issue #483",
-          "imageUrl": null
         }
       ]
     },
@@ -146,6 +136,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "8b1067c162806e1b331cb9736f11a43ef2248c3e",
+          "author": "Shailesh Shivakumar",
+          "description": "In this post, we examine a solution adopted by Nippon Life India Asset Management Limited that improves the accuracy of the response over a regular (naive) RAG approach by rewriting the user queries and aggregating and reranking the responses. The proposed solution uses enhanced RAG methods such as reranking to improve the overall accuracy",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-nippon-india-mutual-fund-improved-the-accuracy-of-ai-assistant-responses-using-advanced-rag-methods-on-amazon-bedrock/",
+          "publishedOn": "2025-07-29T14:57:29.000Z",
+          "wordCount": 7071,
+          "title": "How Nippon India Mutual Fund improved the accuracy of AI assistant responses using advanced RAG methods on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/image-1-6-1260x569.png"
+        },
         {
           "id": "b4d9533f583770409261b602823edcf84a7c1949",
           "author": "Brian Loyal",

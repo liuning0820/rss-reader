@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-29T14:22:21.933Z</updated>
+    <updated>2025-07-29T16:22:58.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Nippon India Mutual Fund improved the accuracy of AI assistant responses using advanced RAG methods on Amazon Bedrock]]></title>
+        <id>8b1067c162806e1b331cb9736f11a43ef2248c3e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-nippon-india-mutual-fund-improved-the-accuracy-of-ai-assistant-responses-using-advanced-rag-methods-on-amazon-bedrock/"/>
+        <updated>2025-07-29T14:57:29.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we examine a solution adopted by Nippon Life India Asset Management Limited that improves the accuracy of the response over a regular (naive) RAG approach by rewriting the user queries and aggregating and reranking the responses. The proposed solution uses enhanced RAG methods such as reranking to improve the overall accuracy]]></summary>
+        <author>
+            <name>Shailesh Shivakumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a drug discovery research assistant using Strands Agents and Amazon Bedrock]]></title>
         <id>b4d9533f583770409261b602823edcf84a7c1949</id>
@@ -934,16 +944,6 @@
         <summary type="html"><![CDATA[In this post, we explore how to use Amazon Q Developer CLI with the AWS Diagram MCP and the AWS Documentation MCP servers to create sophisticated architecture diagrams that follow AWS best practices. We discuss techniques for basic diagrams and real-world diagrams, with detailed examples and step-by-step instructions.]]></summary>
         <author>
             <name>Joel Asante</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #483]]></title>
-        <id>https://sreweekly.com/?p=1658</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-483/"/>
-        <updated>2025-06-30T02:33:04.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, PagerDuty: When the internet faltered on June 12th, other incident management platforms may have crashed—but PagerDuty handled a 172% surge in incidents and 433% spike in notifications flawlessly. Your platform should be rock-solid during a storm, not another worry. See what sets PagerDuty’s reliability apart. The same […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

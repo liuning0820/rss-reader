@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-30T14:19:07.574Z</updated>
+    <updated>2025-07-30T16:23:47.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automate the creation of handout notes using Amazon Bedrock Data Automation]]></title>
+        <id>fdb58bbfb5cf8d820085b75e494d8794753685cb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-the-creation-of-handout-notes-using-amazon-bedrock-data-automation/"/>
+        <updated>2025-07-30T16:22:27.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how you can build an automated, serverless solution to transform webinar recordings into comprehensive handouts using Amazon Bedrock Data Automation for video analysis. We walk you through the implementation of Amazon Bedrock Data Automation to transcribe and detect slide changes, as well as the use of Amazon Bedrock foundation models (FMs) for transcription refinement, combined with custom AWS Lambda functions orchestrated by AWS Step Functions.]]></summary>
+        <author>
+            <name>Laura Verghote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline GitHub workflows with generative AI using Amazon Bedrock and MCP]]></title>
+        <id>2af805307b4cae8814344b0eaa0a80cf8a7f33f5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/streamline-github-workflows-with-generative-ai-using-amazon-bedrock-and-mcp/"/>
+        <updated>2025-07-30T16:16:30.000Z</updated>
+        <summary type="html"><![CDATA[This blog post explores how to create powerful agentic applications using the Amazon Bedrock FMs, LangGraph, and the Model Context Protocol (MCP), with a practical scenario of handling a GitHub workflow of issue analysis, code fixes, and pull request generation.]]></summary>
+        <author>
+            <name>Ajeet Tewari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mistral-Small-3.2-24B-Instruct-2506 is now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart]]></title>
         <id>22a85863de50615bedf3689226bf81a005242bf6</id>

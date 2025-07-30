@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -136,6 +136,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "fdb58bbfb5cf8d820085b75e494d8794753685cb",
+          "author": "Laura Verghote",
+          "description": "In this post, we show how you can build an automated, serverless solution to transform webinar recordings into comprehensive handouts using Amazon Bedrock Data Automation for video analysis. We walk you through the implementation of Amazon Bedrock Data Automation to transcribe and detect slide changes, as well as the use of Amazon Bedrock foundation models (FMs) for transcription refinement, combined with custom AWS Lambda functions orchestrated by AWS Step Functions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-creation-of-handout-notes-using-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-07-30T16:22:27.000Z",
+          "wordCount": 6390,
+          "title": "Automate the creation of handout notes using Amazon Bedrock Data Automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/25/ML-17948-example-slides-1260x570.png"
+        },
+        {
+          "id": "2af805307b4cae8814344b0eaa0a80cf8a7f33f5",
+          "author": "Ajeet Tewari",
+          "description": "This blog post explores how to create powerful agentic applications using the Amazon Bedrock FMs, LangGraph, and the Model Context Protocol (MCP), with a practical scenario of handling a GitHub workflow of issue analysis, code fixes, and pull request generation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-github-workflows-with-generative-ai-using-amazon-bedrock-and-mcp/",
+          "publishedOn": "2025-07-30T16:16:30.000Z",
+          "wordCount": 6185,
+          "title": "Streamline GitHub workflows with generative AI using Amazon Bedrock and MCP",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/20/ML-18714-image-1-latest-1260x622.png"
+        },
         {
           "id": "22a85863de50615bedf3689226bf81a005242bf6",
           "author": "Breanne Warner",

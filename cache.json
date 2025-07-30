@@ -1005,26 +1005,6 @@
           "wordCount": 10548,
           "title": "Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/05/02/featured-images-ML-17750-1120x630.jpg"
-        },
-        {
-          "id": "45c47e5ef40dc0084bb4208c06e2a04a8df0be0b",
-          "author": "Nikhil Jha",
-          "description": "In this post, we look at a step-by-step implementation for using the custom document enrichment (CDE) feature within an Amazon Q Business application to process standalone image files. We walk you through an AWS Lambda function configured within CDE to process various image file types, and showcase an example scenario of how this integration enhances Amazon Q Business's ability to provide comprehensive insights.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/context-extraction-from-image-files-in-amazon-q-business-using-llms/",
-          "publishedOn": "2025-06-30T14:03:35.000Z",
-          "wordCount": 30137,
-          "title": "Context extraction from image files in Amazon Q Business using LLMs",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/30/contextextraction.png"
-        },
-        {
-          "id": "7a26d1e283e9cd00b8df531415b7adfb8ed4f799",
-          "author": "Joel Asante",
-          "description": "In this post, we explore how to use Amazon Q Developer CLI with the AWS Diagram MCP and the AWS Documentation MCP servers to create sophisticated architecture diagrams that follow AWS best practices. We discuss techniques for basic diagrams and real-world diagrams, with detailed examples and step-by-step instructions.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-aws-architecture-diagrams-using-amazon-q-cli-and-mcp/",
-          "publishedOn": "2025-06-30T13:53:34.000Z",
-          "wordCount": 29541,
-          "title": "Build AWS architecture diagrams using Amazon Q CLI and MCP",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/30/qclimcparchdiag.png"
         }
       ]
     }

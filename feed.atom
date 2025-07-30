@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-29T22:18:26.476Z</updated>
+    <updated>2025-07-30T01:40:43.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mistral-Small-3.2-24B-Instruct-2506 is now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart]]></title>
+        <id>22a85863de50615bedf3689226bf81a005242bf6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/mistral-small-3-2-24b-instruct-2506-is-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"/>
+        <updated>2025-07-29T23:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce that Mistral-Small-3.2-24B-Instruct-2506—a 24-billion-parameter large language model (LLM) from Mistral AI that’s optimized for enhanced instruction following and reduced repetition errors—is available for customers through Amazon SageMaker JumpStart and Amazon Bedrock Marketplace. Amazon Bedrock Marketplace is a capability in Amazon Bedrock that developers can use to discover, test, and use over […]]]></summary>
+        <author>
+            <name>Breanne Warner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generate suspicious transaction report drafts for financial compliance using generative AI]]></title>
         <id>4f70f1a410d182ad41e5371460966c2cc67b9e06</id>

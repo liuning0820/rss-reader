@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-31T03:39:50.789Z</updated>
+    <updated>2025-07-31T04:40:04.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -924,46 +924,6 @@
         <summary type="html"><![CDATA[In this post, we explore how Amazon Bedrock's multimodal RAG capabilities revolutionize drug data analysis by efficiently processing complex medical documentation containing text, images, graphs, and tables.]]></summary>
         <author>
             <name>Vivek Mittal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo cancer diary part 20 – extended remission]]></title>
-        <id>https://blog.thestateofme.com/?p=6399</id>
-        <link href="http://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/"/>
-        <updated>2025-07-01T15:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo cancer diary part 20 – extended remission]]></title>
-        <id>http://blog.thestateofme.com/?p=6399</id>
-        <link href="https://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/"/>
-        <updated>2025-07-01T15:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2025]]></title>
-        <id>https://blog.thestateofme.com/?p=6315</id>
-        <link href="http://blog.thestateofme.com/2025/07/01/june-2025/"/>
-        <updated>2025-07-01T15:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2025]]></title>
-        <id>http://blog.thestateofme.com/?p=6315</id>
-        <link href="https://blog.thestateofme.com/2025/07/01/june-2025/"/>
-        <updated>2025-07-01T15:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

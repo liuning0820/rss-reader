@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6404",
@@ -24,46 +24,6 @@
           "wordCount": 3781,
           "title": "Using Architecture Decision Records (ADRs) with AI coding assistants",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/doug_adrs.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6399",
-          "author": "Chris Swan",
-          "description": "Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]",
-          "link": "http://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/",
-          "publishedOn": "2025-07-01T15:55:55.000Z",
-          "wordCount": 3686,
-          "title": "Milo cancer diary part 20 – extended remission",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/milo_raspberries.jpeg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6399",
-          "author": "Chris Swan",
-          "description": "Milo was back at North Downs Specialist Referrals today for his second scan since finishing his third (modified) ‘CHOP’ chemotherapy protocol. Amazingly he’s still looking clear, which means this is now the longest period of remission since he started treatment :) Our fingers will be crossed for the next scan in a couple of months […]",
-          "link": "https://blog.thestateofme.com/2025/07/01/milo-cancer-diary-part-20-extended-remission/",
-          "publishedOn": "2025-07-01T15:55:55.000Z",
-          "wordCount": 3684,
-          "title": "Milo cancer diary part 20 – extended remission",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/07/milo_raspberries.jpeg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6315",
-          "author": "Chris Swan",
-          "description": "Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]",
-          "link": "http://blog.thestateofme.com/2025/07/01/june-2025/",
-          "publishedOn": "2025-07-01T15:44:08.000Z",
-          "wordCount": 4402,
-          "title": "June 2025",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/06/pups_202506.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6315",
-          "author": "Chris Swan",
-          "description": "Pupdate There’s been a bumper crop of raspberries this year, which has kept the boys entertained.. Berlin Google’s I/O Connect event was in Berlin once again, which provided a good chance to catch up with various communities and some of the product folk. I also took the chance to grab dinner with some local ex-pat […]",
-          "link": "https://blog.thestateofme.com/2025/07/01/june-2025/",
-          "publishedOn": "2025-07-01T15:44:08.000Z",
-          "wordCount": 4393,
-          "title": "June 2025",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/06/pups_202506.jpg"
         }
       ]
     },

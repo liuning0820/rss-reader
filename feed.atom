@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-31T08:26:31.218Z</updated>
+    <updated>2025-07-31T10:20:11.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -884,16 +884,6 @@
         <summary type="html"><![CDATA[In this post, we share how Boomi partnered with AWS to help enterprises accelerate and scale AI adoption with confidence using Agent Control Tower.]]></summary>
         <author>
             <name>Deepak Chandrasekar, Sandeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Amazon SageMaker Unified Studio to build complex AI workflows using Amazon Bedrock Flows]]></title>
-        <id>eb0f20964bd26115c04513adc2abea973e55a43d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-unified-studio-to-build-complex-ai-workflows-using-amazon-bedrock-flows/"/>
-        <updated>2025-07-01T20:42:28.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how you can use SageMaker Unified Studio to create complex AI workflows using Amazon Bedrock Flows.]]></summary>
-        <author>
-            <name>Sumeet Tripathi</name>
         </author>
     </entry>
 </feed>

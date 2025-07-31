@@ -97,6 +97,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5042362720cf6d5dab260561555e0aafb3c623fc",
+          "author": "Jin Tan Ruan",
+          "description": "In this post, we first introduce the Strands Agents SDK and its core features. Then we explore how it integrates with AWS environments for secure, scalable deployments, and how it provides rich observability for production use. Finally, we discuss practical use cases, and present a step-by-step example to illustrate Strands in action.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/",
+          "publishedOn": "2025-07-31T16:22:07.000Z",
+          "wordCount": 12317,
+          "title": "Amazon Strands Agents SDK: A technical deep dive into agent architectures and observability",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/31/strands-sdk-observability.jpg"
+        },
+        {
+          "id": "9646b4cbabfe26117ee3bd4443bbbd8221a89783",
+          "author": "Akarsha Sehwag",
+          "description": "In this post, we introduce how to combine Strands Agents with Tavily’s purpose-built web intelligence API, to create powerful research agents that excel at complex information gathering tasks while maintaining the security and compliance standards required for enterprise deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-dynamic-web-research-agents-with-the-strands-agents-sdk-and-tavily/",
+          "publishedOn": "2025-07-31T14:35:10.000Z",
+          "wordCount": 6099,
+          "title": "Build dynamic web research agents with the Strands Agents SDK and Tavily",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/31/image-1-31-1221x630.png"
+        },
+        {
           "id": "fdb58bbfb5cf8d820085b75e494d8794753685cb",
           "author": "Laura Verghote",
           "description": "In this post, we show how you can build an automated, serverless solution to transform webinar recordings into comprehensive handouts using Amazon Bedrock Data Automation for video analysis. We walk you through the implementation of Amazon Bedrock Data Automation to transcribe and detect slide changes, as well as the use of Amazon Bedrock foundation models (FMs) for transcription refinement, combined with custom AWS Lambda functions orchestrated by AWS Step Functions.",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-07-31T16:23:44.834Z</updated>
+    <updated>2025-07-31T18:28:15.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing AWS Batch Support for Amazon SageMaker Training jobs]]></title>
+        <id>9b760cc2472732bf80e7b74bdccd20f63d99daf8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-aws-batch-support-for-amazon-sagemaker-training-jobs/"/>
+        <updated>2025-07-31T17:44:31.000Z</updated>
+        <summary type="html"><![CDATA[AWS Batch now seamlessly integrates with Amazon SageMaker Training jobs. In this post, we discuss the benefits of managing and prioritizing ML training jobs to use hardware efficiently for your business. We also walk you through how to get started using this new capability and share suggested best practices, including the use of SageMaker training plans.]]></summary>
+        <author>
+            <name>James Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structured outputs with Amazon Nova: A guide for builders]]></title>
+        <id>95d01692a4b93a123e18c325ab2fb6857a624297</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/structured-outputs-with-amazon-nova-a-guide-for-builders/"/>
+        <updated>2025-07-31T16:44:42.000Z</updated>
+        <summary type="html"><![CDATA[We launched constrained decoding to provide reliability when using tools for structured outputs. Now, tools can be used with Amazon Nova foundation models (FMs) to extract data based on complex schemas, reducing tool use errors by over 95%. In this post, we explore how you can use Amazon Nova FMs for structured output use cases.]]></summary>
+        <author>
+            <name>Jean Farmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI agents unifying structured and unstructured data: Transforming support analytics and beyond with Amazon Q Plugins]]></title>
+        <id>60dded2df18b87fd1b4cb6864c73180b82173615</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-agents-unifying-structured-and-unstructured-data-transforming-support-analytics-and-beyond-with-amazon-q-plugins/"/>
+        <updated>2025-07-31T16:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to enhance Amazon Q with custom plugins to combine semantic search capabilities with precise analytics for AWS Support data. This solution enables more accurate answers to analytical questions by integrating structured data querying with RAG architecture, allowing teams to transform raw support cases and health events into actionable insights. Discover how this enhanced architecture delivers exact numerical analysis while maintaining natural language interactions for improved operational decision-making.]]></summary>
+        <author>
+            <name>Chitresh Saxena</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Strands Agents SDK: A technical deep dive into agent architectures and observability]]></title>
         <id>5042362720cf6d5dab260561555e0aafb3c623fc</id>

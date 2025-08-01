@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6414",
+          "author": "Chris Swan",
+          "description": "Pupdate The boys had some fantastic long walks on our trip to the Lakes (more on that in a moment). I did a separate post about Milo’s extended remission, but it’s great that he’s been able to enjoy the summer without vet visits for chemo. Lake District We returned to Graythwaite’s Dove Cottage and this […]",
+          "link": "http://blog.thestateofme.com/2025/08/01/july-2025/",
+          "publishedOn": "2025-08-01T17:12:33.000Z",
+          "wordCount": 4319,
+          "title": "July 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/08/pups_202507.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=6404",
           "author": "Chris Swan",

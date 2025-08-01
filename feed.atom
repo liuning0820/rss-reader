@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-01T08:26:12.816Z</updated>
+    <updated>2025-08-01T10:20:21.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -914,16 +914,6 @@
         <summary type="html"><![CDATA[In this post, we guide you through the stages of customizing large language models (LLMs) with SageMaker Unified Studio and SageMaker AI, covering the end-to-end process starting from data discovery to fine-tuning FMs with SageMaker AI distributed training, tracking metrics using MLflow, and then deploying models using SageMaker AI inference for real-time inference. We also discuss best practices to choose the right instance size and share some debugging best practices while working with JupyterLab notebooks in SageMaker Unified Studio.]]></summary>
         <author>
             <name>Mona Mona</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service]]></title>
-        <id>28b941e13e36b3fdad12789a9bef8df1ff2f4587</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/optimize-rag-in-production-environments-using-amazon-sagemaker-jumpstart-and-amazon-opensearch-service/"/>
-        <updated>2025-07-02T20:55:51.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to use Amazon OpenSearch Service as a vector store to build an efficient RAG application.]]></summary>
-        <author>
-            <name>Vivek Gangasani</name>
         </author>
     </entry>
 </feed>

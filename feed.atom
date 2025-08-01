@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-01T06:30:03.518Z</updated>
+    <updated>2025-08-01T08:26:12.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -924,16 +924,6 @@
         <summary type="html"><![CDATA[In this post, we show how to use Amazon OpenSearch Service as a vector store to build an efficient RAG application.]]></summary>
         <author>
             <name>Vivek Gangasani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advancing AI agent governance with Boomi and AWS: A unified approach to observability and compliance]]></title>
-        <id>97fd357f8f6ce597a772d1ed354bff38e0a1b55e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/advancing-ai-agent-governance-with-boomi-and-aws-a-unified-approach-to-observability-and-compliance/"/>
-        <updated>2025-07-02T19:22:05.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how Boomi partnered with AWS to help enterprises accelerate and scale AI adoption with confidence using Agent Control Tower.]]></summary>
-        <author>
-            <name>Deepak Chandrasekar, Sandeep Singh</name>
         </author>
     </entry>
 </feed>

@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=6414",
+          "author": "Chris Swan",
+          "description": "Pupdate The boys had some fantastic long walks on our trip to the Lakes (more on that in a moment). I did a separate post about Milo’s extended remission, but it’s great that he’s been able to enjoy the summer without vet visits for chemo. Lake District We returned to Graythwaite’s Dove Cottage and this […]",
+          "link": "https://blog.thestateofme.com/2025/08/01/july-2025/",
+          "publishedOn": "2025-08-01T17:12:33.000Z",
+          "wordCount": 4319,
+          "title": "July 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/08/pups_202507.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=6414",
           "author": "Chris Swan",
@@ -106,6 +116,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "71ee8d69e119b10d2efd00b34e0b84a3e901b14f",
+          "author": "Veda Raman",
+          "description": "In this post, we introduce the newly announced Amazon Bedrock AgentCore Browser Tool. We explore why organizations need cloud-based browser automation and the limitations it addresses for FMs that require real-time data access. We talk about key use cases and the core capabilities of the AgentCore Browser Tool. We walk through how to get started with the tool.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-browser-tool/",
+          "publishedOn": "2025-08-01T19:23:13.000Z",
+          "wordCount": 6105,
+          "title": "Introducing Amazon Bedrock AgentCore Browser Tool",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ML-19404-1120x630.jpg"
+        },
+        {
+          "id": "4a3f131676ce3e0c3878346955b5ccefe59aa3f3",
+          "author": "Veda Raman",
+          "description": "In this post, we introduce the Amazon Bedrock AgentCore Code Interpreter, a fully managed service that enables AI agents to securely execute code in isolated sandbox environments. We discuss how the AgentCore Code Interpreter helps solve challenges around security, scalability, and infrastructure management when deploying AI agents that need computational capabilities.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-agentcore-code-interpreter/",
+          "publishedOn": "2025-08-01T19:23:05.000Z",
+          "wordCount": 6753,
+          "title": "Introducing the Amazon Bedrock AgentCore Code Interpreter",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ml-19403-1120x630.jpg"
+        },
         {
           "id": "fe38a3dccb102d2f090e99690bcdfa5f8927b74f",
           "author": "Karan Singh",

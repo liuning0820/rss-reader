@@ -97,6 +97,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fe38a3dccb102d2f090e99690bcdfa5f8927b74f",
+          "author": "Karan Singh",
+          "description": "In this post, we present how the Arize AX service can trace and evaluate AI agent tasks initiated through Strands Agents, helping validate the correctness and trustworthiness of agentic workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/observing-and-evaluating-ai-agentic-workflows-with-strands-agents-sdk-and-arize-ax/",
+          "publishedOn": "2025-08-01T16:12:46.000Z",
+          "wordCount": 6727,
+          "title": "Observing and evaluating AI agentic workflows with Strands Agents SDK and Arize AX",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ml-19281-feature-image-1120x630.jpg"
+        },
+        {
+          "id": "8516091f6be4ec3760511cf3361c86962d942255",
+          "author": "Biswanath Mukherjee",
+          "description": "In this post, we discuss how to implement a low-code no-code AIOps solution that helps organizations monitor, identify, and troubleshoot operational events while maintaining their security posture. We show how these technologies work together to automate repetitive tasks, streamline incident response, and enhance operational efficiency across your organization.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-aiops-with-amazon-q-developer-cli-and-mcp-server/",
+          "publishedOn": "2025-08-01T15:23:07.000Z",
+          "wordCount": 6325,
+          "title": "Building AIOps with Amazon Q Developer CLI and MCP Server",
+          "enclosure": {
+            "length": "3937608",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19057/ML-19057-video-1.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ML-19057-feature-image-1120x630.jpg"
+        },
+        {
+          "id": "c58732336f05bb58dd7e43d0eca38d7f7cc533c4",
+          "author": "Biswanath Mukherjee",
+          "description": "In this post, you’ll learn how you can use Amazon Q Developer command line interface (CLI) with Model Context Protocol (MCP) servers integration to modernize a legacy Java Spring Boot application running on premises and then migrate it to Amazon Web Services (AWS) by deploying it on Amazon Elastic Kubernetes Service (Amazon EKS).",
+          "link": "https://aws.amazon.com/blogs/machine-learning/containerize-legacy-spring-boot-application-using-amazon-q-developer-cli-and-mcp-server/",
+          "publishedOn": "2025-08-01T15:22:58.000Z",
+          "wordCount": 6657,
+          "title": "Containerize legacy Spring Boot application using Amazon Q Developer CLI and MCP server",
+          "enclosure": {
+            "length": "3594735",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19106/ML-19106-Mimo-demo-step1.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ML-19106-feature-image-1120x630.jpg"
+        },
+        {
           "id": "9b760cc2472732bf80e7b74bdccd20f63d99daf8",
           "author": "James Park",
           "description": "AWS Batch now seamlessly integrates with Amazon SageMaker Training jobs. In this post, we discuss the benefits of managing and prioritizing ML training jobs to use hardware efficiently for your business. We also walk you through how to get started using this new capability and share suggested best practices, including the use of SageMaker training plans.",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-01T14:19:35.739Z</updated>
+    <updated>2025-08-01T16:24:44.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Observing and evaluating AI agentic workflows with Strands Agents SDK and Arize AX]]></title>
+        <id>fe38a3dccb102d2f090e99690bcdfa5f8927b74f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/observing-and-evaluating-ai-agentic-workflows-with-strands-agents-sdk-and-arize-ax/"/>
+        <updated>2025-08-01T16:12:46.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we present how the Arize AX service can trace and evaluate AI agent tasks initiated through Strands Agents, helping validate the correctness and trustworthiness of agentic workflows.]]></summary>
+        <author>
+            <name>Karan Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AIOps with Amazon Q Developer CLI and MCP Server]]></title>
+        <id>8516091f6be4ec3760511cf3361c86962d942255</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-aiops-with-amazon-q-developer-cli-and-mcp-server/"/>
+        <updated>2025-08-01T15:23:07.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we discuss how to implement a low-code no-code AIOps solution that helps organizations monitor, identify, and troubleshoot operational events while maintaining their security posture. We show how these technologies work together to automate repetitive tasks, streamline incident response, and enhance operational efficiency across your organization.]]></summary>
+        <author>
+            <name>Biswanath Mukherjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Containerize legacy Spring Boot application using Amazon Q Developer CLI and MCP server]]></title>
+        <id>c58732336f05bb58dd7e43d0eca38d7f7cc533c4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/containerize-legacy-spring-boot-application-using-amazon-q-developer-cli-and-mcp-server/"/>
+        <updated>2025-08-01T15:22:58.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you’ll learn how you can use Amazon Q Developer command line interface (CLI) with Model Context Protocol (MCP) servers integration to modernize a legacy Java Spring Boot application running on premises and then migrate it to Amazon Web Services (AWS) by deploying it on Amazon Elastic Kubernetes Service (Amazon EKS).]]></summary>
+        <author>
+            <name>Biswanath Mukherjee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing AWS Batch Support for Amazon SageMaker Training jobs]]></title>
         <id>9b760cc2472732bf80e7b74bdccd20f63d99daf8</id>

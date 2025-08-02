@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -1025,26 +1025,6 @@
           "wordCount": 11152,
           "title": "Agents as escalators: Real-time AI video monitoring with Amazon Bedrock Agents and video streams",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/12/image-3-12-798x630.png"
-        },
-        {
-          "id": "bc7ad85bd9531c15d4c83702542cf8b4169bd458",
-          "author": "Pablo García Benedicto",
-          "description": "In this post, we explore how Swisscom developed their Network Assistant. We discuss the initial challenges and how they implemented a solution that delivers measurable benefits. We examine the technical architecture, discuss key learnings, and look at future enhancements that can further transform network operations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/transforming-network-operations-with-ai-how-swisscom-built-a-network-assistant-using-amazon-bedrock/",
-          "publishedOn": "2025-07-03T14:07:44.000Z",
-          "wordCount": 9586,
-          "title": "Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/03/feature-image-ML-18876-1120x630.jpg"
-        },
-        {
-          "id": "80109ceea3e3b1433b767eac2fb6eb7e8f32ca7c",
-          "author": "Mona Mona",
-          "description": "In this post, we guide you through the stages of customizing large language models (LLMs) with SageMaker Unified Studio and SageMaker AI, covering the end-to-end process starting from data discovery to fine-tuning FMs with SageMaker AI distributed training, tracking metrics using MLflow, and then deploying models using SageMaker AI inference for real-time inference. We also discuss best practices to choose the right instance size and share some debugging best practices while working with JupyterLab notebooks in SageMaker Unified Studio.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/",
-          "publishedOn": "2025-07-03T14:04:43.000Z",
-          "wordCount": 10999,
-          "title": "End-to-End model training and deployment with Amazon SageMaker Unified Studio",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/03/feature-image-ML-18967-1120x630.jpg"
         }
       ]
     }

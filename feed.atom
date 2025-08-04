@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-03T22:17:46.619Z</updated>
+    <updated>2025-08-04T01:47:29.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #488]]></title>
+        <id>https://sreweekly.com/?p=1671</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-488/"/>
+        <updated>2025-08-04T01:46:32.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe‘s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale – from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Amazon Bedrock AgentCore Browser Tool]]></title>
         <id>71ee8d69e119b10d2efd00b34e0b84a3e901b14f</id>

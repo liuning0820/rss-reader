@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-04T16:26:09.956Z</updated>
+    <updated>2025-08-04T18:29:02.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI judging AI: Scaling unstructured text analysis with Amazon Nova]]></title>
+        <id>f750eb9832ce1504ae1df347f6961146d5f574d7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-judging-ai-scaling-unstructured-text-analysis-with-amazon-nova/"/>
+        <updated>2025-08-04T17:51:08.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we highlight how you can deploy multiple generative AI models in Amazon Bedrock to instruct an LLM model to create thematic summaries of text responses. We then show how to use multiple LLM models as a jury to review these LLM-generated summaries and assign a rating to judge the content alignment between the summary title and summary description.]]></summary>
+        <author>
+            <name>Dr. Sreyoshi Bhaduri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI-driven course content generation system using Amazon Bedrock]]></title>
+        <id>10a0f789e553a3c1eb0c89a62ffc756c41be69e3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-an-ai-driven-course-content-generation-system-using-amazon-bedrock/"/>
+        <updated>2025-08-04T17:46:30.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore each component in detail, along with the technical implementation of the two core modules: course outline generation and course content generation.]]></summary>
+        <author>
+            <name>Dinesh Mane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Handmade.com modernizes product image and description handling with Amazon Bedrock and Amazon OpenSearch Service]]></title>
+        <id>f3f3753d4f7d557b5d1f4d2a13f68d6c2566ba1c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-handmade-com-modernizes-product-image-and-description-handling-with-amazon-bedrock-and-amazon-opensearch-service/"/>
+        <updated>2025-08-04T17:21:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Handmade.com, a leading hand-crafts marketplace, modernized their product description handling by implementing an AI-driven pipeline using Amazon Bedrock and Amazon OpenSearch Service. The solution combines Anthropic's Claude 3.7 Sonnet LLM for generating descriptions, Amazon Titan Text Embeddings V2 for vector embedding, and semantic search capabilities to automate and enhance product descriptions across their catalog of over 60,000 items.]]></summary>
+        <author>
+            <name>Obadiah Ndhaye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost tracking multi-tenant model inference on Amazon Bedrock]]></title>
+        <id>9a5a988dc9faa8116adae9f193afe3d4c948d074</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/cost-tracking-multi-tenant-model-inference-on-amazon-bedrock/"/>
+        <updated>2025-08-04T17:10:45.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to track and analyze multi-tenant model inference costs on Amazon Bedrock using the Converse API's requestMetadata parameter. The solution includes an ETL pipeline using AWS Glue and Amazon QuickSight dashboards to visualize usage patterns, token consumption, and cost allocation across different tenants and departments.]]></summary>
+        <author>
+            <name>Praveen Chamarthi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #488]]></title>
         <id>https://sreweekly.com/?p=1671</id>

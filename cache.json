@@ -91,16 +91,6 @@
           "wordCount": 1108,
           "title": "SRE Weekly Issue #485",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1660",
-          "author": "lex",
-          "description": "View on sreweekly.com Exact Code Search: Find code faster across repositories This is really neat! They’ve developed a new approach to search that uses 3-letter “trigrams” rather than tokenizing words, making it especially well-suited to code search. It converts regular expressions to trigram searches behind the scenes.   Dmitry Gruzd — GitLab Pattern machines that we […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-484/",
-          "publishedOn": "2025-07-07T01:34:58.000Z",
-          "wordCount": 1182,
-          "title": "SRE Weekly Issue #484",
-          "imageUrl": null
         }
       ]
     },

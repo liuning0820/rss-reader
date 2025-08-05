@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-05T16:20:14.274Z</updated>
+    <updated>2025-08-05T18:29:59.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Discover insights from Microsoft Exchange with the Microsoft Exchange connector for Amazon Q Business]]></title>
+        <id>4b6753c2cbb1b3c7da6983ab6bae957482d1ce33</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/discover-insights-from-microsoft-exchange-with-the-microsoft-exchange-connector-for-amazon-q-business/"/>
+        <updated>2025-08-05T17:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Q Business is a fully managed, generative AI-powered assistant that helps enterprises unlock the value of their data and knowledge. With Amazon Q Business, you can quickly find answers to questions, generate summaries and content, and complete tasks by using the information and expertise stored across your company’s various data sources and enterprise systems. […]]]></summary>
+        <author>
+            <name>Ram Konchada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI judging AI: Scaling unstructured text analysis with Amazon Nova]]></title>
         <id>f750eb9832ce1504ae1df347f6961146d5f574d7</id>

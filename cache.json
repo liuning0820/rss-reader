@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -105,6 +105,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "4b6753c2cbb1b3c7da6983ab6bae957482d1ce33",
+          "author": "Ram Konchada",
+          "description": "Amazon Q Business is a fully managed, generative AI-powered assistant that helps enterprises unlock the value of their data and knowledge. With Amazon Q Business, you can quickly find answers to questions, generate summaries and content, and complete tasks by using the information and expertise stored across your company’s various data sources and enterprise systems. […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-microsoft-exchange-with-the-microsoft-exchange-connector-for-amazon-q-business/",
+          "publishedOn": "2025-08-05T17:01:57.000Z",
+          "wordCount": 6913,
+          "title": "Discover insights from Microsoft Exchange with the Microsoft Exchange connector for Amazon Q Business",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/ML-17128-1120x630.jpg"
+        },
         {
           "id": "f750eb9832ce1504ae1df347f6961146d5f574d7",
           "author": "Dr. Sreyoshi Bhaduri",

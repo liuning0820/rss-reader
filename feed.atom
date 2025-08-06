@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-06T08:26:32.609Z</updated>
+    <updated>2025-08-06T10:20:41.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -984,16 +984,6 @@
         <summary type="html"><![CDATA[The Cohere Embed 4 multimodal embeddings model is now generally available on Amazon SageMaker JumpStart. The Embed 4 model is built for multimodal business documents, has leading multilingual capabilities, and offers notable improvement over Embed 3 across key benchmarks. In this post, we discuss the benefits and capabilities of this new model. We also walk you through how to deploy and use the Embed 4 model using SageMaker JumpStart.]]></summary>
         <author>
             <name>James Yi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How INRIX accelerates transportation planning with Amazon Bedrock]]></title>
-        <id>161c14f09381ba8e40c4329e7d164533be3eac36</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-inrix-accelerates-transportation-planning-with-amazon-bedrock/"/>
-        <updated>2025-07-07T20:40:49.000Z</updated>
-        <summary type="html"><![CDATA[INRIX pioneered the use of GPS data from connected vehicles for transportation intelligence. In this post, we partnered with Amazon Web Services (AWS) customer INRIX to demonstrate how Amazon Bedrock can be used to determine the best countermeasures for specific city locations using rich transportation data and how such countermeasures can be automatically visualized in street view images. This approach allows for significant planning acceleration compared to traditional approaches using conceptual drawings.]]></summary>
-        <author>
-            <name>Arunsingh Jeyasingh Jacob</name>
         </author>
     </entry>
 </feed>

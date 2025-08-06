@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-05T22:19:08.154Z</updated>
+    <updated>2025-08-06T01:41:14.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build an AI assistant using Amazon Q Business with Amazon S3 clickable URLs]]></title>
+        <id>0667e042a9edacb16f3fd2ac35f0a54d97b9edf4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-ai-assistant-using-amazon-q-business-with-amazon-s3-clickable-urls/"/>
+        <updated>2025-08-06T01:16:43.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build an AI assistant using Amazon Q Business that responds to user requests based on your enterprise documents stored in an S3 bucket, and how the users can use the reference URLs in the AI assistant responses to view or download the referred documents, and verify the AI responses to practice responsible AI.]]></summary>
+        <author>
+            <name>Abhinav Jawadekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT OSS models from OpenAI are now available on SageMaker JumpStart]]></title>
+        <id>f1c138118797db7ecf7f051b38c28e734139ba8a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/gpt-oss-models-from-openai-are-now-available-on-sagemaker-jumpstart/"/>
+        <updated>2025-08-05T23:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are excited to announce the availability of Open AI’s new open weight GPT OSS models, gpt-oss-120b and gpt-oss-20b, from OpenAI in Amazon SageMaker JumpStart. With this launch, you can now deploy OpenAI’s newest reasoning models to build, experiment, and responsibly scale your generative AI ideas on AWS. In this post, we demonstrate how to get started with these models on SageMaker JumpStart.]]></summary>
+        <author>
+            <name>Pradyun Ramadorai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discover insights from Microsoft Exchange with the Microsoft Exchange connector for Amazon Q Business]]></title>
         <id>4b6753c2cbb1b3c7da6983ab6bae957482d1ce33</id>

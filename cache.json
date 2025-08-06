@@ -106,6 +106,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "0667e042a9edacb16f3fd2ac35f0a54d97b9edf4",
+          "author": "Abhinav Jawadekar",
+          "description": "In this post, we demonstrate how to build an AI assistant using Amazon Q Business that responds to user requests based on your enterprise documents stored in an S3 bucket, and how the users can use the reference URLs in the AI assistant responses to view or download the referred documents, and verify the AI responses to practice responsible AI.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-assistant-using-amazon-q-business-with-amazon-s3-clickable-urls/",
+          "publishedOn": "2025-08-06T01:16:43.000Z",
+          "wordCount": 7635,
+          "title": "Build an AI assistant using Amazon Q Business with Amazon S3 clickable URLs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/ML-19045-1120x630.jpg"
+        },
+        {
+          "id": "f1c138118797db7ecf7f051b38c28e734139ba8a",
+          "author": "Pradyun Ramadorai",
+          "description": "Today, we are excited to announce the availability of Open AI’s new open weight GPT OSS models, gpt-oss-120b and gpt-oss-20b, from OpenAI in Amazon SageMaker JumpStart. With this launch, you can now deploy OpenAI’s newest reasoning models to build, experiment, and responsibly scale your generative AI ideas on AWS. In this post, we demonstrate how to get started with these models on SageMaker JumpStart.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/gpt-oss-models-from-openai-are-now-available-on-sagemaker-jumpstart/",
+          "publishedOn": "2025-08-05T23:16:48.000Z",
+          "wordCount": 5452,
+          "title": "GPT OSS models from OpenAI are now available on SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/ml-19488-1120x630.jpg"
+        },
+        {
           "id": "4b6753c2cbb1b3c7da6983ab6bae957482d1ce33",
           "author": "Ram Konchada",
           "description": "Amazon Q Business is a fully managed, generative AI-powered assistant that helps enterprises unlock the value of their data and knowledge. With Amazon Q Business, you can quickly find answers to questions, generate summaries and content, and complete tasks by using the information and expertise stored across your company’s various data sources and enterprise systems. […]",

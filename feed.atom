@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-06T20:20:40.786Z</updated>
+    <updated>2025-08-06T22:19:13.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pioneering AI workflows at scale: A deep dive into Asana AI Studio and Amazon Q index collaboration]]></title>
+        <id>f28eddbe4f7e3ea028d56443d34a4382f641d09b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pioneering-ai-workflows-at-scale-a-deep-dive-into-asana-ai-studio-and-amazon-q-index-collaboration/"/>
+        <updated>2025-08-06T21:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce the integration of Asana AI Studio with Amazon Q index, bringing generative AI directly into your daily workflows. In this post, we explore how Asana AI Studio and Amazon Q index transform enterprise efficiency through intelligent workflow automation and enhanced data accessibility.]]></summary>
+        <author>
+            <name>Spencer Herrick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsible AI for the payments industry – Part 1]]></title>
         <id>125523172d790d44ea3f4129f5c05715e8093331</id>

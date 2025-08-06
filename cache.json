@@ -106,6 +106,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "125523172d790d44ea3f4129f5c05715e8093331",
+          "author": "Neelam Koshiya",
+          "description": "This post explores the unique challenges facing the payments industry in scaling AI adoption, the regulatory considerations that shape implementation decisions, and practical approaches to applying responsible AI principles. In Part 2, we provide practical implementation strategies to operationalize responsible AI within your payment systems.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-the-payments-industry-part-1/",
+          "publishedOn": "2025-08-06T19:13:14.000Z",
+          "wordCount": 6442,
+          "title": "Responsible AI for the payments industry – Part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/06/ml-19260-P1-1120x630.jpg"
+        },
+        {
+          "id": "de70cce2816435b1083d434983e2296df059aab1",
+          "author": "Neelam Koshiya",
+          "description": "In Part 1 of our series, we explored the foundational concepts of responsible AI in the payments industry. In this post, we discuss the practical implementation of responsible AI frameworks.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-the-payments-industry-part-2/",
+          "publishedOn": "2025-08-06T19:11:28.000Z",
+          "wordCount": 5700,
+          "title": "Responsible AI for the payments industry – Part 2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/06/ML-19260-P2-1120x630.jpg"
+        },
+        {
+          "id": "4f9f6f840d00a182c62cd5c4fcbb8f0d472afc41",
+          "author": "Prashanth Ramanathan",
+          "description": "In this post, we show how to process multi-page documents with a human review loop using Amazon Bedrock Data Automation and Amazon SageMaker AI.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/process-multi-page-documents-with-human-review-using-amazon-bedrock-data-automation-and-amazon-sagemaker-ai/",
+          "publishedOn": "2025-08-06T19:04:41.000Z",
+          "wordCount": 5621,
+          "title": "Process multi-page documents with human review using Amazon Bedrock Data Automation and Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/ML-18583-1120x630.jpg"
+        },
+        {
           "id": "0667e042a9edacb16f3fd2ac35f0a54d97b9edf4",
           "author": "Abhinav Jawadekar",
           "description": "In this post, we demonstrate how to build an AI assistant using Amazon Q Business that responds to user requests based on your enterprise documents stored in an S3 bucket, and how the users can use the reference URLs in the AI assistant responses to view or download the referred documents, and verify the AI responses to practice responsible AI.",

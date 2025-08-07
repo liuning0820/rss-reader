@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-07T12:40:39.060Z</updated>
+    <updated>2025-08-07T14:21:40.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Amazon Bedrock powers next-generation account planning at AWS]]></title>
+        <id>96aaab49d4d49ea61b5420a2548be2cb6845a4a3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-powers-next-generation-account-planning-at-aws/"/>
+        <updated>2025-08-07T13:56:17.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how we built Account Plan Pulse, a generative AI tool designed to streamline and enhance the account planning process, using Amazon Bedrock. Pulse reduces review time and provides actionable account plan summaries for ease of collaboration and consumption, helping AWS sales teams better serve our customers.]]></summary>
+        <author>
+            <name>Karnika Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pioneering AI workflows at scale: A deep dive into Asana AI Studio and Amazon Q index collaboration]]></title>
         <id>f28eddbe4f7e3ea028d56443d34a4382f641d09b</id>

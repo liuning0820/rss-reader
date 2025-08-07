@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -105,6 +105,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "96aaab49d4d49ea61b5420a2548be2cb6845a4a3",
+          "author": "Karnika Sharma",
+          "description": "In this post, we share how we built Account Plan Pulse, a generative AI tool designed to streamline and enhance the account planning process, using Amazon Bedrock. Pulse reduces review time and provides actionable account plan summaries for ease of collaboration and consumption, helping AWS sales teams better serve our customers.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-powers-next-generation-account-planning-at-aws/",
+          "publishedOn": "2025-08-07T13:56:17.000Z",
+          "wordCount": 5753,
+          "title": "How Amazon Bedrock powers next-generation account planning at AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/07/ML-19090-1120x630.jpg"
+        },
         {
           "id": "f28eddbe4f7e3ea028d56443d34a4382f641d09b",
           "author": "Spencer Herrick",

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -105,6 +105,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "446f2efb9a4231100e57ec09e820f8afbac6f6a3",
+          "author": "Rishi Sareen, Arunraja Karthick, Bakrudeen K",
+          "description": "In this post, we discuss how DTDC and ShellKode used Amazon Bedrock to build DIVA 2.0, a generative AI-powered logistics agent.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/the-diva-logistics-agent-powered-by-amazon-bedrock/",
+          "publishedOn": "2025-08-07T16:44:17.000Z",
+          "wordCount": 6285,
+          "title": "The DIVA logistics agent, powered by Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/07/ml-17898-1120x630.jpg"
+        },
+        {
+          "id": "369464767b6be982151c3e65a03896ae26e3ccff",
+          "author": "Yogesh Dhimate",
+          "description": "This post explores a practical collaboration, integrating Salesforce Agentforce with Amazon Bedrock Agents and Amazon Redshift, to automate enterprise workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-enterprise-workflows-by-integrating-salesforce-agentforce-with-amazon-bedrock-agents/",
+          "publishedOn": "2025-08-07T16:40:46.000Z",
+          "wordCount": 7520,
+          "title": "Automate enterprise workflows by integrating Salesforce Agentforce with Amazon Bedrock Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/07/ML-18549-1120x630.jpg"
+        },
         {
           "id": "96aaab49d4d49ea61b5420a2548be2cb6845a4a3",
           "author": "Karnika Sharma",

@@ -1029,16 +1029,6 @@
           "wordCount": 9683,
           "title": "Scale generative AI use cases, Part 1: Multi-tenant hub and spoke architecture using AWS Transit Gateway",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/01/ML-16510-architecture-daigram-1009x630.png"
-        },
-        {
-          "id": "a3096eda573d985bf00a40d051bfa466b0637e1b",
-          "author": "Sofian Hamiti",
-          "description": "Today, we’re excited to announce a significant improvement to the developer experience of Amazon Bedrock: API keys. API keys provide quick access to the Amazon Bedrock APIs, streamlining the authentication process so that developers can focus on building rather than configuration.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/",
-          "publishedOn": "2025-07-08T20:04:11.000Z",
-          "wordCount": 8358,
-          "title": "Accelerate AI development with Amazon Bedrock API keys",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/apikeys.png"
         }
       ]
     }

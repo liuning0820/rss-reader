@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-07T06:30:03.654Z</updated>
+    <updated>2025-08-07T08:26:49.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -964,16 +964,6 @@
         <summary type="html"><![CDATA[n this two-part series, we discuss a hub and spoke architecture pattern for building a multi-tenant and multi-account architecture. This pattern supports abstractions for shared services across use cases and teams, helping create secure, scalable, and reliable generative AI systems. In Part 1, we present a centralized hub for generative AI service abstractions and tenant-specific spokes, using AWS Transit Gateway for cross-account interoperability.]]></summary>
         <author>
             <name>Nikhil Penmetsa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate AI development with Amazon Bedrock API keys]]></title>
-        <id>a3096eda573d985bf00a40d051bfa466b0637e1b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/"/>
-        <updated>2025-07-08T20:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to announce a significant improvement to the developer experience of Amazon Bedrock: API keys. API keys provide quick access to the Amazon Bedrock APIs, streamlining the authentication process so that developers can focus on building rather than configuration.]]></summary>
-        <author>
-            <name>Sofian Hamiti</name>
         </author>
     </entry>
 </feed>

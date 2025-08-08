@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-08T08:26:19.772Z</updated>
+    <updated>2025-08-08T10:19:56.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -924,16 +924,6 @@
         <summary type="html"><![CDATA[mazon Nova Sonic is now integrated with LiveKit’s WebRTC framework, a widely used platform that enables developers to build real-time audio, video, and data communication applications. This integration makes it possible for developers to build conversational voice interfaces without needing to manage complex audio pipelines or signaling protocols. In this post, we explain how this integration works, how it addresses the historical challenges of voice-first applications, and some initial steps to start using this solution.]]></summary>
         <author>
             <name>Glen Ko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AI infrastructure with NVIDIA Blackwell: Two powerful compute solutions for the next frontier of AI]]></title>
-        <id>0cec86574db04fac7d6af46ff916765a68ee60d0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-ai-infrastructure-with-nvidia-blackwell-two-powerful-compute-solutions-for-the-next-frontier-of-ai/"/>
-        <updated>2025-07-09T21:01:52.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we announce general availability of Amazon EC2 P6e-GB200 UltraServers and P6-B200 instances, powered by NVIDIA Blackwell GPUs, designed for training and deploying the largest, most sophisticated AI models.]]></summary>
-        <author>
-            <name>David Brown</name>
         </author>
     </entry>
 </feed>

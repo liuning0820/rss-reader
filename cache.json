@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -969,21 +969,6 @@
           "wordCount": 10975,
           "title": "Build an MCP application with Mistral models on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/30/ML-18862-image-1-1151x630.png"
-        },
-        {
-          "id": "934bba4fd8cf53cd9a63c7cb3d4d072145373d2b",
-          "author": "Glen Ko",
-          "description": "mazon Nova Sonic is now integrated with LiveKit’s WebRTC framework, a widely used platform that enables developers to build real-time audio, video, and data communication applications. This integration makes it possible for developers to build conversational voice interfaces without needing to manage complex audio pipelines or signaling protocols. In this post, we explain how this integration works, how it addresses the historical challenges of voice-first applications, and some initial steps to start using this solution.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-conversational-ai-experiences-using-amazon-nova-sonic-and-livekit/",
-          "publishedOn": "2025-07-10T15:09:42.000Z",
-          "wordCount": 8549,
-          "title": "Build real-time conversational AI experiences using Amazon Nova Sonic and LiveKit",
-          "enclosure": {
-            "length": "98634957",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-19251/ml-19251.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/ml-19251-943x630.png"
         }
       ]
     }

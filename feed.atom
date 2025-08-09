@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-09T03:18:06.887Z</updated>
+    <updated>2025-08-09T04:27:10.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -864,56 +864,6 @@
         <summary type="html"><![CDATA[AI developers and machine learning (ML) engineers can now use the capabilities of Amazon SageMaker Studio directly from their local Visual Studio Code (VS Code). With this capability, you can use your customized local VS Code setup, including AI-assisted development tools, custom extensions, and debugging tools while accessing compute resources and your data in SageMaker Studio. In this post, we show you how to remotely connect your local VS Code to SageMaker Studio development environments to use your customized development environment while accessing Amazon SageMaker AI compute resources.]]></summary>
         <author>
             <name>Durga Sury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Architecture Decision Records (ADRs) with AI coding assistants]]></title>
-        <id>https://blog.thestateofme.com/?p=6404</id>
-        <link href="http://blog.thestateofme.com/2025/07/10/using-architecture-decision-records-adrs-with-ai-coding-assistants/"/>
-        <updated>2025-07-10T15:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Last week my former colleague Doug Todd asked a question about recording decisions on BlueSky: Of course I replied suggesting Architecture Decision Records (ADRs), with a pointer to the at_protocol GitHub repo where we use them. A few days back Doug demoed how he’s using ADRs with his coding assistant (Claude and Claude Code), and […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Architecture Decision Records (ADRs) with AI coding assistants]]></title>
-        <id>http://blog.thestateofme.com/?p=6404</id>
-        <link href="https://blog.thestateofme.com/2025/07/10/using-architecture-decision-records-adrs-with-ai-coding-assistants/"/>
-        <updated>2025-07-10T15:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Last week my former colleague Doug Todd asked a question about recording decisions on BlueSky: Of course I replied suggesting Architecture Decision Records (ADRs), with a pointer to the at_protocol GitHub repo where we use them. A few days back Doug demoed how he’s using ADRs with his coding assistant (Claude and Claude Code), and […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use K8sGPT and Amazon Bedrock for simplified Kubernetes cluster maintenance]]></title>
-        <id>4f61bc00f2d7a850e07a235b937507ba4efcf977</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/use-k8sgpt-and-amazon-bedrock-for-simplified-kubernetes-cluster-maintenance/"/>
-        <updated>2025-07-10T15:26:22.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates the best practices to run K8sGPT in AWS with Amazon Bedrock in two modes: K8sGPT CLI and K8sGPT Operator. It showcases how the solution can help SREs simplify Kubernetes cluster management through continuous monitoring and operational intelligence.]]></summary>
-        <author>
-            <name>Angela Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Rocket streamlines the home buying experience with Amazon Bedrock Agents]]></title>
-        <id>7c4dd64a29aa9690e455ba0508ebde6f74b98ceb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-rocket-streamlines-the-home-buying-experience-with-amazon-bedrock-agents/"/>
-        <updated>2025-07-10T15:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Rocket AI Agent is more than a digital assistant. It’s a reimagined approach to client engagement, powered by agentic AI. By combining Amazon Bedrock Agents with Rocket’s proprietary data and backend systems, Rocket has created a smarter, more scalable, and more human experience available 24/7, without the wait. This post explores how Rocket brought that vision to life using Amazon Bedrock Agents, powering a new era of AI-driven support that is consistently available, deeply personalized, and built to take action.]]></summary>
-        <author>
-            <name>Manali Sapre, Seshidhar Raghupathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an MCP application with Mistral models on AWS]]></title>
-        <id>688c1438c31620328dbafdc9c9315eb397595f21</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-mcp-application-with-mistral-models-on-aws/"/>
-        <updated>2025-07-10T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates building an intelligent AI assistant using Mistral AI models on AWS and MCP, integrating real-time location services, time data, and contextual memory to handle complex multimodal queries. This use case, restaurant recommendations, serves as an example, but this extensible framework can be adapted for enterprise use cases by modifying MCP server configurations to connect with your specific data sources and business systems.]]></summary>
-        <author>
-            <name>Ying Hou</name>
         </author>
     </entry>
 </feed>

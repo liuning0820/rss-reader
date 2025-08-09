@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -869,56 +869,6 @@
           "wordCount": 9438,
           "title": "Uphold ethical standards in fashion using multimodal toxicity detection with Amazon Bedrock Guardrails",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/26/ML-18310-1.jpg"
-        },
-        {
-          "id": "5f3e423e1c02ba6e23b3090b017b6cdf56c0b18d",
-          "author": "Ankur Mehrotra",
-          "description": "In this post, we share some of the new innovations in SageMaker AI that can accelerate how you build and train AI models. These innovations include new observability capabilities in SageMaker HyperPod, the ability to deploy JumpStart models on HyperPod, remote connections to SageMaker AI from local development environments, and fully managed MLflow 3.0.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/new-capabilities-in-amazon-sagemaker-ai-continue-to-transform-how-organizations-develop-ai-models/",
-          "publishedOn": "2025-07-10T19:08:49.000Z",
-          "wordCount": 8712,
-          "title": "New capabilities in Amazon SageMaker AI continue to transform how organizations develop AI models",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/10/smaitransform.png"
-        },
-        {
-          "id": "1800436c2b0e26dc7a537aedb6894cc447563536",
-          "author": "Tomonori Shimomura",
-          "description": "With a one-click installation of the Amazon Elastic Kubernetes Service (Amazon EKS) add-on for SageMaker HyperPod observability, you can consolidate health and performance data from NVIDIA DCGM, instance-level Kubernetes node exporters, Elastic Fabric Adapter (EFA), integrated file systems, Kubernetes APIs, Kueue, and SageMaker HyperPod task operators. In this post, we walk you through installing and using the unified dashboards of the out-of-the-box observability feature in SageMaker HyperPod. We cover the one-click installation from the Amazon SageMaker AI console, navigating the dashboard and metrics it consolidates, and advanced topics such as setting up custom alerts.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-foundation-model-development-with-one-click-observability-in-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-07-10T18:37:26.000Z",
-          "wordCount": 8828,
-          "title": "Accelerate foundation model development with one-click observability in Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/smhp-observability-screenshot4-1159x630.png"
-        },
-        {
-          "id": "b4b042a28dcc3e7f10327d14087ef28553a26c50",
-          "author": "Ram Vittal",
-          "description": "In this post, we explore how Amazon SageMaker now offers fully managed support for MLflow 3.0, streamlining AI experimentation and accelerating your generative AI journey from idea to production. This release transforms managed MLflow from experiment tracking to providing end-to-end observability, reducing time-to-market for generative AI development.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-development-with-fully-managed-mlflow-3-0-on-amazon-sagemaker-ai/",
-          "publishedOn": "2025-07-10T18:35:01.000Z",
-          "wordCount": 9439,
-          "title": "Accelerating generative AI development with fully managed MLflow 3.0 on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/10/image-1-1206x630.jpg"
-        },
-        {
-          "id": "b0e289de407526fc72af2e48d1b22076232878b1",
-          "author": "Vivek Gangasani",
-          "description": "In this post, we announce Amazon SageMaker HyperPod support for deploying foundation models from SageMaker JumpStart, as well as custom or fine-tuned models from Amazon S3 or Amazon FSx. This new capability allows customers to train, fine-tune, and deploy models on the same HyperPod compute resources, maximizing resource utilization across the entire model lifecycle.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-hyperpod-launches-model-deployments-to-accelerate-the-generative-ai-model-development-lifecycle/",
-          "publishedOn": "2025-07-10T18:34:14.000Z",
-          "wordCount": 10923,
-          "title": "Amazon SageMaker HyperPod launches model deployments to accelerate the generative AI model development lifecycle",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/10/image-2-5-1150x630.jpeg"
-        },
-        {
-          "id": "36772a3aa633a43455b6531ebc2f0def08d4b8a4",
-          "author": "Durga Sury",
-          "description": "AI developers and machine learning (ML) engineers can now use the capabilities of Amazon SageMaker Studio directly from their local Visual Studio Code (VS Code). With this capability, you can use your customized local VS Code setup, including AI-assisted development tools, custom extensions, and debugging tools while accessing compute resources and your data in SageMaker Studio. In this post, we show you how to remotely connect your local VS Code to SageMaker Studio development environments to use your customized development environment while accessing Amazon SageMaker AI compute resources.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-workflows-by-connecting-to-sagemaker-studio-from-visual-studio-code/",
-          "publishedOn": "2025-07-10T18:33:58.000Z",
-          "wordCount": 9750,
-          "title": "Supercharge your AI workflows by connecting to SageMaker Studio from Visual Studio Code",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/ML-19130_FeaturedImg.png"
         }
       ]
     }

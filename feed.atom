@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-10T03:41:48.108Z</updated>
+    <updated>2025-08-10T04:38:17.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -744,76 +744,6 @@
         <summary type="html"><![CDATA[This post presents an end-to-end IDP application powered by Amazon Bedrock Data Automation and other AWS services. It provides a reusable AWS infrastructure as code (IaC) that deploys an IDP pipeline and provides an intuitive UI for transforming documents into structured tables at scale. The application only requires the user to provide the input documents (such as contracts or emails) and a list of attributes to be extracted. It then performs IDP with generative AI.]]></summary>
         <author>
             <name>Nikita Kozodoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a conversational data assistant, Part 2 – Embedding generative business intelligence with Amazon Q in QuickSight]]></title>
-        <id>bd565f169e6673b6311a260d4dd54b0187e9b0c5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-2-embedding-generative-business-intelligence-with-amazon-q-in-quicksight/"/>
-        <updated>2025-07-11T16:33:51.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we dive into how we integrated Amazon Q in QuickSight to transform natural language requests like “Show me how many items were returned in the US over the past 6 months” into meaningful data visualizations. We demonstrate how combining Amazon Bedrock Agents with Amazon Q in QuickSight creates a comprehensive data assistant that delivers both SQL code and visual insights through a single, intuitive conversational interface—democratizing data access across the enterprise.]]></summary>
-        <author>
-            <name>Dheer Toprani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a conversational data assistant, Part 1: Text-to-SQL with Amazon Bedrock Agents]]></title>
-        <id>ab1d6edec05f902da93f2636bc0554eaa894731c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-1-text-to-sql-with-amazon-bedrock-agents/"/>
-        <updated>2025-07-11T16:32:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we focus on building a Text-to-SQL solution with Amazon Bedrock, a managed service for building generative AI applications. Specifically, we demonstrate the capabilities of Amazon Bedrock Agents. Part 2 explains how we extended the solution to provide business insights using Amazon Q in QuickSight, a business intelligence assistant that answers questions with auto-generated visualizations.]]></summary>
-        <author>
-            <name>Dheer Toprani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement user-level access control for multi-tenant ML platforms on Amazon SageMaker AI]]></title>
-        <id>aeac506a770ce5d5bad39429a9ec5787b83a5e7c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/implement-user-level-access-control-for-multi-tenant-ml-platforms-on-amazon-sagemaker-ai/"/>
-        <updated>2025-07-11T16:17:51.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss permission management strategies, focusing on attribute-based access control (ABAC) patterns that enable granular user access control while minimizing the proliferation of AWS Identity and Access Management (IAM) roles. We also share proven best practices that help organizations maintain security and compliance without sacrificing operational efficiency in their ML workflows.]]></summary>
-        <author>
-            <name>Durga Sury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-running execution flows now supported in Amazon Bedrock Flows in public preview]]></title>
-        <id>ba040eed256411e99ad55783d401f94e3c6bef16</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/long-running-execution-flows-now-supported-in-amazon-bedrock-flows-in-public-preview/"/>
-        <updated>2025-07-11T16:13:11.000Z</updated>
-        <summary type="html"><![CDATA[We announce the public preview of long-running execution (asynchronous) flow support within Amazon Bedrock Flows. With Amazon Bedrock Flows, you can link foundation models (FMs), Amazon Bedrock Prompt Management, Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, Amazon Bedrock Guardrails, and other AWS services together to build and scale predefined generative AI workflows.]]></summary>
-        <author>
-            <name>Shubhankar Sumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fraud detection empowered by federated learning with the Flower framework on Amazon SageMaker AI]]></title>
-        <id>5799522b7de633ff608d3edb43bcd828f7798d8e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/fraud-detection-empowered-by-federated-learning-with-the-flower-framework-on-amazon-sagemaker-ai/"/>
-        <updated>2025-07-11T16:03:51.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how SageMaker and federated learning help financial institutions build scalable, privacy-first fraud detection systems.]]></summary>
-        <author>
-            <name>Ray Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building intelligent AI voice agents with Pipecat and Amazon Bedrock – Part 2]]></title>
-        <id>da98147b19903de78458156ef231c616cf7a9b54</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-2/"/>
-        <updated>2025-07-11T15:56:09.000Z</updated>
-        <summary type="html"><![CDATA[In Part 1 of this series, you learned how you can use the combination of Amazon Bedrock and Pipecat, an open source framework for voice and multimodal conversational AI agents to build applications with human-like conversational AI. You learned about common use cases of voice agents and the cascaded models approach, where you orchestrate several components to build your voice AI agent. In this post (Part 2), you explore how to use speech-to-speech foundation model, Amazon Nova Sonic, and the benefits of using a unified model.]]></summary>
-        <author>
-            <name>Adithya Suresh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uphold ethical standards in fashion using multimodal toxicity detection with Amazon Bedrock Guardrails]]></title>
-        <id>02936b6af2b2fd66e927f2933428c0db9b4a9583</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/uphold-ethical-standards-in-fashion-using-multimodal-toxicity-detection-with-amazon-bedrock-guardrails/"/>
-        <updated>2025-07-11T15:49:51.000Z</updated>
-        <summary type="html"><![CDATA[In the fashion industry, teams are frequently innovating quickly, often utilizing AI. Sharing content, whether it be through videos, designs, or otherwise, can lead to content moderation challenges. There remains a risk (through intentional or unintentional actions) of inappropriate, offensive, or toxic content being produced and shared. In this post, we cover the use of the multimodal toxicity detection feature of Amazon Bedrock Guardrails to guard against toxic content. Whether you’re an enterprise giant in the fashion industry or an up-and-coming brand, you can use this solution to screen potentially harmful content before it impacts your brand’s reputation and ethical standards. For the purposes of this post, ethical standards refer to toxic, disrespectful, or harmful content and images that could be created by fashion designers.]]></summary>
-        <author>
-            <name>Jean Jacques Mikem</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-10T04:38:17.357Z</updated>
+    <updated>2025-08-10T06:26:06.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,36 +714,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com YOUR AD COULD BE HERE! SRE Weekly has openings for new sponsorships. Reply or email lex at sreweekly.com for details. Migrating the Jira Database Platform to AWS Aurora How would you migrate several million databases, with minimal impact to your users? Atlassian allocates one Postgres database per tenant customer, with a few […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced fine-tuning methods on Amazon SageMaker AI]]></title>
-        <id>5276be178de4105b7347e6db4e39215a125556b9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-methods-on-amazon-sagemaker-ai/"/>
-        <updated>2025-07-11T17:26:08.000Z</updated>
-        <summary type="html"><![CDATA[When fine-tuning ML models on AWS, you can choose the right tool for your specific needs. AWS provides a comprehensive suite of tools for data scientists, ML engineers, and business users to achieve their ML goals. AWS has built solutions to support various levels of ML sophistication, from simple SageMaker training jobs for FM fine-tuning to the power of SageMaker HyperPod for cutting-edge research. We invite you to explore these options, starting with what suits your current needs, and evolve your approach as those needs change.]]></summary>
-        <author>
-            <name>Ilan Gleiser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline machine learning workflows with SkyPilot on Amazon SageMaker HyperPod]]></title>
-        <id>1d3eb57fbeff508effb51cbf963f19b99f9061b2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/streamline-machine-learning-workflows-with-skypilot-on-amazon-sagemaker-hyperpod/"/>
-        <updated>2025-07-11T17:22:23.000Z</updated>
-        <summary type="html"><![CDATA[This post is co-written with Zhanghao Wu, co-creator of SkyPilot. The rapid advancement of generative AI and foundation models (FMs) has significantly increased computational resource requirements for machine learning (ML) workloads. Modern ML pipelines require efficient systems for distributing workloads across accelerated compute resources, while making sure developer productivity remains high. Organizations need infrastructure solutions […]]]></summary>
-        <author>
-            <name>Roy Allela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation]]></title>
-        <id>5c75628151b3d0f87665085a72ae3c2132788427</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/"/>
-        <updated>2025-07-11T16:49:04.000Z</updated>
-        <summary type="html"><![CDATA[This post presents an end-to-end IDP application powered by Amazon Bedrock Data Automation and other AWS services. It provides a reusable AWS infrastructure as code (IaC) that deploys an IDP pipeline and provides an intuitive UI for transforming documents into structured tables at scale. The application only requires the user to provide the input documents (such as contracts or emails) and a list of attributes to be extracted. It then performs IDP with generative AI.]]></summary>
-        <author>
-            <name>Nikita Kozodoi</name>
         </author>
     </entry>
 </feed>

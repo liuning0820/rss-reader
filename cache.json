@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -764,36 +764,6 @@
           "wordCount": 10191,
           "title": "Build secure RAG applications with AWS serverless data lakes",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/ML-18563_featured.png"
-        },
-        {
-          "id": "5276be178de4105b7347e6db4e39215a125556b9",
-          "author": "Ilan Gleiser",
-          "description": "When fine-tuning ML models on AWS, you can choose the right tool for your specific needs. AWS provides a comprehensive suite of tools for data scientists, ML engineers, and business users to achieve their ML goals. AWS has built solutions to support various levels of ML sophistication, from simple SageMaker training jobs for FM fine-tuning to the power of SageMaker HyperPod for cutting-edge research. We invite you to explore these options, starting with what suits your current needs, and evolve your approach as those needs change.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-methods-on-amazon-sagemaker-ai/",
-          "publishedOn": "2025-07-11T17:26:08.000Z",
-          "wordCount": 10533,
-          "title": "Advanced fine-tuning methods on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/11/advancedfinetuning.png"
-        },
-        {
-          "id": "1d3eb57fbeff508effb51cbf963f19b99f9061b2",
-          "author": "Roy Allela",
-          "description": "This post is co-written with Zhanghao Wu, co-creator of SkyPilot. The rapid advancement of generative AI and foundation models (FMs) has significantly increased computational resource requirements for machine learning (ML) workloads. Modern ML pipelines require efficient systems for distributing workloads across accelerated compute resources, while making sure developer productivity remains high. Organizations need infrastructure solutions […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-machine-learning-workflows-with-skypilot-on-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-07-11T17:22:23.000Z",
-          "wordCount": 9428,
-          "title": "Streamline machine learning workflows with SkyPilot on Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/11/skypilot-sagemaker-hyperpod.jpg"
-        },
-        {
-          "id": "5c75628151b3d0f87665085a72ae3c2132788427",
-          "author": "Nikita Kozodoi",
-          "description": "This post presents an end-to-end IDP application powered by Amazon Bedrock Data Automation and other AWS services. It provides a reusable AWS infrastructure as code (IaC) that deploys an IDP pipeline and provides an intuitive UI for transforming documents into structured tables at scale. The application only requires the user to provide the input documents (such as contracts or emails) and a list of attributes to be extracted. It then performs IDP with generative AI.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/",
-          "publishedOn": "2025-07-11T16:49:04.000Z",
-          "wordCount": 10460,
-          "title": "Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/15/diagram-1260x552.png"
         }
       ]
     }

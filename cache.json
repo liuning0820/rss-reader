@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -32,6 +32,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1673",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe‘s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale – from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-489/",
+          "publishedOn": "2025-08-11T02:21:32.000Z",
+          "wordCount": 1156,
+          "title": "SRE Weekly Issue #489",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1671",
           "author": "lex",

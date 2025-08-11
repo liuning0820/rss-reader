@@ -96,6 +96,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "52e25d14512b3b40cec57dfc5a137be71e5966cd",
+          "author": "Brian Clark",
+          "description": "In this post, we'll look at Amazon Bedrock pricing through the lens of a practical, real-world example: building a customer service chatbot. We'll break down the essential cost components, walk through capacity planning for a mid-sized call center implementation, and provide detailed pricing calculations across different foundation models.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/demystifying-amazon-bedrock-pricing-for-a-chatbot-assistant/",
+          "publishedOn": "2025-08-11T19:33:10.000Z",
+          "wordCount": 6112,
+          "title": "Demystifying Amazon Bedrock Pricing for a Chatbot Assistant",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/28/ML-16302-ManagedRag-1260x533.png"
+        },
+        {
+          "id": "d0e115e236e0b6344b2ff8f29dd66401eef0567e",
+          "author": "Pranav Murthy",
+          "description": "Released on August 5, 2025, OpenAI’s GPT-OSS models, gpt-oss-20b and gpt-oss-120b, are now available on AWS through Amazon SageMaker AI and Amazon Bedrock. In this post, we walk through the process of fine-tuning a GPT-OSS model in a fully managed training environment using SageMaker AI training jobs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-on-amazon-sagemaker-ai-using-hugging-face-libraries/",
+          "publishedOn": "2025-08-11T19:25:19.000Z",
+          "wordCount": 7280,
+          "title": "Fine-tune OpenAI GPT-OSS models on Amazon SageMaker AI using Hugging Face libraries",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/11/ML-19519-1120x630.jpg"
+        },
+        {
           "id": "446f2efb9a4231100e57ec09e820f8afbac6f6a3",
           "author": "Rishi Sareen, Arunraja Karthick, Bakrudeen K",
           "description": "In this post, we discuss how DTDC and ShellKode used Amazon Bedrock to build DIVA 2.0, a generative AI-powered logistics agent.",

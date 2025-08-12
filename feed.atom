@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-12T12:37:16.346Z</updated>
+    <updated>2025-08-12T14:17:50.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -734,16 +734,6 @@
         <summary type="html"><![CDATA[In this post, we explore how to build a secure RAG application using serverless data lake architecture, an important data strategy to support generative AI development. We use Amazon Web Services (AWS) services including Amazon S3, Amazon DynamoDB, AWS Lambda, and Amazon Bedrock Knowledge Bases to create a comprehensive solution supporting unstructured data assets which can be extended to structured data. The post covers how to implement fine-grained access controls for your enterprise data and design metadata-driven retrieval systems that respect security boundaries. These approaches will help you maximize the value of your organization's data while maintaining robust security and compliance.]]></summary>
         <author>
             <name>Venkata Sistla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #485]]></title>
-        <id>https://sreweekly.com/?p=1662</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-485/"/>
-        <updated>2025-07-14T01:43:30.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com YOUR AD COULD BE HERE! SRE Weekly has openings for new sponsorships. Reply or email lex at sreweekly.com for details. Migrating the Jira Database Platform to AWS Aurora How would you migrate several million databases, with minimal impact to your users? Atlassian allocates one Postgres database per tenant customer, with a few […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

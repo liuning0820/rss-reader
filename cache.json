@@ -86,6 +86,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "dc72982a4b857296a1f14fc336a5feb52acbcbbd",
+          "author": "Nathan Arnold",
+          "description": "In this post, we review the technical specifications of P6e-GB200 UltraServers, discuss their performance benefits, and highlight key use cases. We then walk though how to purchase UltraServer capacity through flexible training plans and get started using UltraServers with SageMaker HyperPod.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ai-models-at-trillion-parameter-scale-with-amazon-sagemaker-hyperpod-support-for-p6e-gb200-ultraservers/",
+          "publishedOn": "2025-08-12T19:57:57.000Z",
+          "wordCount": 5435,
+          "title": "Train and deploy AI models at trillion-parameter scale with Amazon SageMaker HyperPod support for P6e-GB200 UltraServers",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/09/ML-19467_FeaturedImg.png"
+        },
+        {
+          "id": "00d70a079e0e1bdab08f42212edd47d248da1fc7",
+          "author": "Rudra Kannemadugu, Shravan K S",
+          "description": "This post explores how Indegene’s Social Intelligence Solution uses advanced AI to help life sciences companies extract valuable insights from digital healthcare conversations. Built on AWS technology, the solution addresses the growing preference of HCPs for digital channels while overcoming the challenges of analyzing complex medical discussions on a scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-indegenes-ai-powered-social-intelligence-for-life-sciences-turns-social-media-conversations-into-insights/",
+          "publishedOn": "2025-08-12T18:41:36.000Z",
+          "wordCount": 7675,
+          "title": "How Indegene’s AI-powered social intelligence for life sciences turns social media conversations into insights",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/21/ML-18715-image-1-1.png"
+        },
+        {
+          "id": "7ba85b699bebeb44e5caeba983ba26e509379d1a",
+          "author": "Wei Chen",
+          "description": "In this post, Lexbe, a legal document review software company, demonstrates how they integrated Amazon Bedrock and other AWS services to transform their document review process, enabling legal professionals to instantly query and extract insights from vast volumes of case documents using generative AI. Through collaboration with AWS, Lexbe achieved significant improvements in recall rates, reaching up to 90% by December 2024, and developed capabilities for broad human-style reporting and deep automated inference across multiple languages.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-enhanced-legal-document-review-with-lexbe-and-amazon-bedrock/",
+          "publishedOn": "2025-08-12T18:38:03.000Z",
+          "wordCount": 5602,
+          "title": "Unlocking enhanced legal document review with Lexbe and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/04/image-1-5-1026x630.png"
+        },
+        {
+          "id": "bcf90cde482fb42d48712b2e2a32230355380d06",
+          "author": "Ram Vittal",
+          "description": "In this post, we focus on implementing this architecture with step-by-step guidance and reference code. We provide a detailed technical walkthrough that addresses the needs of two critical personas in the AI development lifecycle: the administrator who establishes governance and infrastructure through automated templates, and the data scientist who uses SageMaker Unified Studio for model development without managing the underlying infrastructure.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-sagemaker-unified-studio-projects-part-2-technical-implementation/",
+          "publishedOn": "2025-08-12T18:31:19.000Z",
+          "wordCount": 7262,
+          "title": "Automate AIOps with SageMaker Unified Studio Projects, Part 2: Technical implementation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/11/graph_image-1096x630.png"
+        },
+        {
+          "id": "6ac91fdc4224e8e75994c96624edd7b64e770e74",
+          "author": "Ram Vittal",
+          "description": "This post presents architectural strategies and a scalable framework that helps organizations manage multi-tenant environments, automate consistently, and embed governance controls as they scale their AI initiatives with SageMaker Unified Studio.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-amazon-sagemaker-unified-studio-projects-part-1-solution-architecture/",
+          "publishedOn": "2025-08-12T18:31:15.000Z",
+          "wordCount": 7102,
+          "title": "Automate AIOps with Amazon SageMaker Unified Studio projects, Part 1: Solution architecture",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/30/Picture2-7-1260x590.jpg"
+        },
+        {
           "id": "52e25d14512b3b40cec57dfc5a137be71e5966cd",
           "author": "Brian Clark",
           "description": "In this post, we'll look at Amazon Bedrock pricing through the lens of a practical, real-world example: building a customer service chatbot. We'll break down the essential cost components, walk through capacity planning for a mid-sized call center implementation, and provide detailed pricing calculations across different foundation models.",

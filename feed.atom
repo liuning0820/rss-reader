@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-12T18:27:34.078Z</updated>
+    <updated>2025-08-12T20:20:16.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Train and deploy AI models at trillion-parameter scale with Amazon SageMaker HyperPod support for P6e-GB200 UltraServers]]></title>
+        <id>dc72982a4b857296a1f14fc336a5feb52acbcbbd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ai-models-at-trillion-parameter-scale-with-amazon-sagemaker-hyperpod-support-for-p6e-gb200-ultraservers/"/>
+        <updated>2025-08-12T19:57:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we review the technical specifications of P6e-GB200 UltraServers, discuss their performance benefits, and highlight key use cases. We then walk though how to purchase UltraServer capacity through flexible training plans and get started using UltraServers with SageMaker HyperPod.]]></summary>
+        <author>
+            <name>Nathan Arnold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Indegene’s AI-powered social intelligence for life sciences turns social media conversations into insights]]></title>
+        <id>00d70a079e0e1bdab08f42212edd47d248da1fc7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-indegenes-ai-powered-social-intelligence-for-life-sciences-turns-social-media-conversations-into-insights/"/>
+        <updated>2025-08-12T18:41:36.000Z</updated>
+        <summary type="html"><![CDATA[This post explores how Indegene’s Social Intelligence Solution uses advanced AI to help life sciences companies extract valuable insights from digital healthcare conversations. Built on AWS technology, the solution addresses the growing preference of HCPs for digital channels while overcoming the challenges of analyzing complex medical discussions on a scale.]]></summary>
+        <author>
+            <name>Rudra Kannemadugu, Shravan K S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking enhanced legal document review with Lexbe and Amazon Bedrock]]></title>
+        <id>7ba85b699bebeb44e5caeba983ba26e509379d1a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/unlocking-enhanced-legal-document-review-with-lexbe-and-amazon-bedrock/"/>
+        <updated>2025-08-12T18:38:03.000Z</updated>
+        <summary type="html"><![CDATA[In this post, Lexbe, a legal document review software company, demonstrates how they integrated Amazon Bedrock and other AWS services to transform their document review process, enabling legal professionals to instantly query and extract insights from vast volumes of case documents using generative AI. Through collaboration with AWS, Lexbe achieved significant improvements in recall rates, reaching up to 90% by December 2024, and developed capabilities for broad human-style reporting and deep automated inference across multiple languages.]]></summary>
+        <author>
+            <name>Wei Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate AIOps with SageMaker Unified Studio Projects, Part 2: Technical implementation]]></title>
+        <id>bcf90cde482fb42d48712b2e2a32230355380d06</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-sagemaker-unified-studio-projects-part-2-technical-implementation/"/>
+        <updated>2025-08-12T18:31:19.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we focus on implementing this architecture with step-by-step guidance and reference code. We provide a detailed technical walkthrough that addresses the needs of two critical personas in the AI development lifecycle: the administrator who establishes governance and infrastructure through automated templates, and the data scientist who uses SageMaker Unified Studio for model development without managing the underlying infrastructure.]]></summary>
+        <author>
+            <name>Ram Vittal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate AIOps with Amazon SageMaker Unified Studio projects, Part 1: Solution architecture]]></title>
+        <id>6ac91fdc4224e8e75994c96624edd7b64e770e74</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-amazon-sagemaker-unified-studio-projects-part-1-solution-architecture/"/>
+        <updated>2025-08-12T18:31:15.000Z</updated>
+        <summary type="html"><![CDATA[This post presents architectural strategies and a scalable framework that helps organizations manage multi-tenant environments, automate consistently, and embed governance controls as they scale their AI initiatives with SageMaker Unified Studio.]]></summary>
+        <author>
+            <name>Ram Vittal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demystifying Amazon Bedrock Pricing for a Chatbot Assistant]]></title>
         <id>52e25d14512b3b40cec57dfc5a137be71e5966cd</id>

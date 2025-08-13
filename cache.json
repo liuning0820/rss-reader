@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a9665622a4c45f386c95fba6a9c83b9620c6ce9a",
+          "author": "Nafi Diallo",
+          "description": "This post presents how AWS and PwC are developing new reasoning checks that combine deep industry expertise with Automated Reasoning checks in Amazon Bedrock Guardrails to support innovation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/pwc-and-aws-build-responsible-ai-with-automated-reasoning-on-amazon-bedrock/",
+          "publishedOn": "2025-08-13T19:32:01.000Z",
+          "wordCount": 5727,
+          "title": "PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/ML-19427-1120x630.jpg"
+        },
+        {
           "id": "457950a8222786c50d5cbd2c0200f90a8a0969f4",
           "author": "James Park",
           "description": "In this post, Amazon shares how they developed a multi-node inference solution for Rufus, their generative AI shopping assistant, using Amazon Trainium chips and vLLM to serve large language models at scale. The solution combines a leader/follower orchestration model, hybrid parallelism strategies, and a multi-node inference unit abstraction layer built on Amazon ECS to deploy models across multiple nodes while maintaining high performance and reliability.",

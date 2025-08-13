@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-13T18:25:16.407Z</updated>
+    <updated>2025-08-13T20:19:42.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock]]></title>
+        <id>a9665622a4c45f386c95fba6a9c83b9620c6ce9a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pwc-and-aws-build-responsible-ai-with-automated-reasoning-on-amazon-bedrock/"/>
+        <updated>2025-08-13T19:32:01.000Z</updated>
+        <summary type="html"><![CDATA[This post presents how AWS and PwC are developing new reasoning checks that combine deep industry expertise with Automated Reasoning checks in Amazon Bedrock Guardrails to support innovation.]]></summary>
+        <author>
+            <name>Nafi Diallo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Amazon scaled Rufus by building multi-node inference using AWS Trainium chips and vLLM]]></title>
         <id>457950a8222786c50d5cbd2c0200f90a8a0969f4</id>

@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "7941351a0e6968feb44204df3feee282c7818add",
+          "author": "Ravi Kumar",
+          "description": "In this post, we explore an innovative solution that uses Amazon Bedrock Agents, powered by Amazon Nova Lite, to create a conversational interface for Athena queries. We use AWS Cost and Usage Reports (AWS CUR) as an example, but this solution can be adapted for other databases you query using Athena. This approach democratizes data access while preserving the powerful analytical capabilities of Athena, so you can interact with your data using natural language.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-natural-language-interface-for-amazon-athena-queries-using-amazon-nova/",
+          "publishedOn": "2025-08-13T16:18:13.000Z",
+          "wordCount": 6746,
+          "title": "Build a conversational natural language interface for Amazon Athena queries using Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/FeaturedImage-Build-a-conversational-natural-language-interface-for-Amazon-Athena-queries-using-Amazon-Nova-1124x630.png"
+        },
+        {
           "id": "dc72982a4b857296a1f14fc336a5feb52acbcbbd",
           "author": "Nathan Arnold",
           "description": "In this post, we review the technical specifications of P6e-GB200 UltraServers, discuss their performance benefits, and highlight key use cases. We then walk though how to purchase UltraServer capacity through flexible training plans and get started using UltraServers with SageMaker HyperPod.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-13T14:18:23.513Z</updated>
+    <updated>2025-08-13T16:19:24.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a conversational natural language interface for Amazon Athena queries using Amazon Nova]]></title>
+        <id>7941351a0e6968feb44204df3feee282c7818add</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-conversational-natural-language-interface-for-amazon-athena-queries-using-amazon-nova/"/>
+        <updated>2025-08-13T16:18:13.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore an innovative solution that uses Amazon Bedrock Agents, powered by Amazon Nova Lite, to create a conversational interface for Athena queries. We use AWS Cost and Usage Reports (AWS CUR) as an example, but this solution can be adapted for other databases you query using Athena. This approach democratizes data access while preserving the powerful analytical capabilities of Athena, so you can interact with your data using natural language.]]></summary>
+        <author>
+            <name>Ravi Kumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Train and deploy AI models at trillion-parameter scale with Amazon SageMaker HyperPod support for P6e-GB200 UltraServers]]></title>
         <id>dc72982a4b857296a1f14fc336a5feb52acbcbbd</id>

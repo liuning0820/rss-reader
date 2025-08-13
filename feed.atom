@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-13T16:19:24.018Z</updated>
+    <updated>2025-08-13T18:25:16.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Amazon scaled Rufus by building multi-node inference using AWS Trainium chips and vLLM]]></title>
+        <id>457950a8222786c50d5cbd2c0200f90a8a0969f4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-scaled-rufus-by-building-multi-node-inference-using-aws-trainium-chips-and-vllm/"/>
+        <updated>2025-08-13T17:01:52.000Z</updated>
+        <summary type="html"><![CDATA[In this post, Amazon shares how they developed a multi-node inference solution for Rufus, their generative AI shopping assistant, using Amazon Trainium chips and vLLM to serve large language models at scale. The solution combines a leader/follower orchestration model, hybrid parallelism strategies, and a multi-node inference unit abstraction layer built on Amazon ECS to deploy models across multiple nodes while maintaining high performance and reliability.]]></summary>
+        <author>
+            <name>James Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an intelligent financial analysis agent with LangGraph and Strands Agents]]></title>
+        <id>12f15bdad18ac450e7f4ceaf6c17867dcb807e1c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-financial-analysis-agent-with-langgraph-and-strands-agents/"/>
+        <updated>2025-08-13T16:32:20.000Z</updated>
+        <summary type="html"><![CDATA[This post describes an approach of combining three powerful technologies to illustrate an architecture that you can adapt and build upon for your specific financial analysis needs: LangGraph for workflow orchestration, Strands Agents for structured reasoning, and Model Context Protocol (MCP) for tool integration.]]></summary>
+        <author>
+            <name>Evan Grenda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock AgentCore Memory: Building context-aware agents]]></title>
+        <id>115a33b6e241e1e65e7edd5b21f4d7ffc5749082</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/"/>
+        <updated>2025-08-13T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore Amazon Bedrock AgentCore Memory, a fully managed service that enables AI agents to maintain both immediate and long-term knowledge, transforming one-off conversations into continuous, evolving relationships between users and AI agents. The service eliminates complex memory infrastructure management while providing full control over what AI agents remember, offering powerful capabilities for maintaining both short-term working memory and long-term intelligent memory across sessions.]]></summary>
+        <author>
+            <name>Akarsha Sehwag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a conversational natural language interface for Amazon Athena queries using Amazon Nova]]></title>
         <id>7941351a0e6968feb44204df3feee282c7818add</id>

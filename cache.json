@@ -86,6 +86,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "457950a8222786c50d5cbd2c0200f90a8a0969f4",
+          "author": "James Park",
+          "description": "In this post, Amazon shares how they developed a multi-node inference solution for Rufus, their generative AI shopping assistant, using Amazon Trainium chips and vLLM to serve large language models at scale. The solution combines a leader/follower orchestration model, hybrid parallelism strategies, and a multi-node inference unit abstraction layer built on Amazon ECS to deploy models across multiple nodes while maintaining high performance and reliability.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-scaled-rufus-by-building-multi-node-inference-using-aws-trainium-chips-and-vllm/",
+          "publishedOn": "2025-08-13T17:01:52.000Z",
+          "wordCount": 5877,
+          "title": "How Amazon scaled Rufus by building multi-node inference using AWS Trainium chips and vLLM",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/rufuscover.png"
+        },
+        {
+          "id": "12f15bdad18ac450e7f4ceaf6c17867dcb807e1c",
+          "author": "Evan Grenda",
+          "description": "This post describes an approach of combining three powerful technologies to illustrate an architecture that you can adapt and build upon for your specific financial analysis needs: LangGraph for workflow orchestration, Strands Agents for structured reasoning, and Model Context Protocol (MCP) for tool integration.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-financial-analysis-agent-with-langgraph-and-strands-agents/",
+          "publishedOn": "2025-08-13T16:32:20.000Z",
+          "wordCount": 6889,
+          "title": "Build an intelligent financial analysis agent with LangGraph and Strands Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/07/ML-18662-5-1260x350.png"
+        },
+        {
+          "id": "115a33b6e241e1e65e7edd5b21f4d7ffc5749082",
+          "author": "Akarsha Sehwag",
+          "description": "In this post, we explore Amazon Bedrock AgentCore Memory, a fully managed service that enables AI agents to maintain both immediate and long-term knowledge, transforming one-off conversations into continuous, evolving relationships between users and AI agents. The service eliminates complex memory infrastructure management while providing full control over what AI agents remember, offering powerful capabilities for maintaining both short-term working memory and long-term intelligent memory across sessions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/",
+          "publishedOn": "2025-08-13T16:30:00.000Z",
+          "wordCount": 6842,
+          "title": "Amazon Bedrock AgentCore Memory: Building context-aware agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/memory_extraction-1260x590.jpg"
+        },
+        {
           "id": "7941351a0e6968feb44204df3feee282c7818add",
           "author": "Ravi Kumar",
           "description": "In this post, we explore an innovative solution that uses Amazon Bedrock Agents, powered by Amazon Nova Lite, to create a conversational interface for Athena queries. We use AWS Cost and Usage Reports (AWS CUR) as an example, but this solution can be adapted for other databases you query using Athena. This approach democratizes data access while preserving the powerful analytical capabilities of Athena, so you can interact with your data using natural language.",

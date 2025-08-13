@@ -86,6 +86,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "98be864c8f07fe0c95f95f1869959a3b685f0cdc",
+          "author": "Shreyas Subramanian",
+          "description": "In this post, we explore how Amazon Bedrock AgentCore Runtime simplifies the deployment and management of AI agents.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securely-launch-and-scale-your-agents-and-tools-on-amazon-bedrock-agentcore-runtime/",
+          "publishedOn": "2025-08-13T21:59:24.000Z",
+          "wordCount": 7887,
+          "title": "Securely launch and scale your agents and tools on Amazon Bedrock AgentCore Runtime",
+          "enclosure": {
+            "length": "12220980",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19422/v1-Agentcore+CLI+runtime+demo.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/ml-19422-1120x630.jpg"
+        },
+        {
           "id": "a9665622a4c45f386c95fba6a9c83b9620c6ce9a",
           "author": "Nafi Diallo",
           "description": "This post presents how AWS and PwC are developing new reasoning checks that combine deep industry expertise with Automated Reasoning checks in Amazon Bedrock Guardrails to support innovation.",

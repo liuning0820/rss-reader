@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-13T20:19:42.576Z</updated>
+    <updated>2025-08-13T22:17:28.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Securely launch and scale your agents and tools on Amazon Bedrock AgentCore Runtime]]></title>
+        <id>98be864c8f07fe0c95f95f1869959a3b685f0cdc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/securely-launch-and-scale-your-agents-and-tools-on-amazon-bedrock-agentcore-runtime/"/>
+        <updated>2025-08-13T21:59:24.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Amazon Bedrock AgentCore Runtime simplifies the deployment and management of AI agents.]]></summary>
+        <author>
+            <name>Shreyas Subramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock]]></title>
         <id>a9665622a4c45f386c95fba6a9c83b9620c6ce9a</id>

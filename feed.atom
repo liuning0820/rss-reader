@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-13T04:28:23.387Z</updated>
+    <updated>2025-08-13T06:27:57.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -754,36 +754,6 @@
         <summary type="html"><![CDATA[In this post, AWS announces a $100 million additional investment in its AWS Generative AI Innovation Center, marking two years of successful customer collaborations across industries from financial services to healthcare. The investment comes as AI evolves toward more autonomous, agentic systems, with the center already helping thousands of customers drive millions in productivity gains and transform customer experiences.]]></summary>
         <author>
             <name>Francessca Vasquez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI-driven policy creation for vehicle data collection and automation using Amazon Bedrock]]></title>
-        <id>c9f7847328e43d6dfac5c640da029cec0393b0c2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-ai-driven-policy-creation-for-vehicle-data-collection-and-automation-using-amazon-bedrock/"/>
-        <updated>2025-07-14T16:58:48.000Z</updated>
-        <summary type="html"><![CDATA[Sonatus partnered with the AWS Generative AI Innovation Center to develop a natural language interface to generate data collection and automation policies using generative AI. This innovation aims to reduce the policy generation process from days to minutes while making it accessible to both engineers and non-experts alike. In this post, we explore how we built this system using Sonatus’s Collector AI and Amazon Bedrock. We discuss the background, challenges, and high-level solution architecture.]]></summary>
-        <author>
-            <name>Giridhar Akila Dhakshinamoorthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Rapid7 automates vulnerability risk scores with ML pipelines using Amazon SageMaker AI]]></title>
-        <id>334b2a45e4e77b83fd6ca5da8ce93b59b702530a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-rapid7-automates-vulnerability-risk-scores-with-ml-pipelines-using-amazon-sagemaker-ai/"/>
-        <updated>2025-07-14T16:55:56.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how Rapid7 implemented end-to-end automation for the training, validation, and deployment of ML models that predict CVSS vectors. Rapid7 customers have the information they need to accurately understand their risk and prioritize remediation measures.]]></summary>
-        <author>
-            <name>Jimmy Cancilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build secure RAG applications with AWS serverless data lakes]]></title>
-        <id>0a280dbba53337526a382e2c10386c1b5133aec3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-secure-rag-applications-with-aws-serverless-data-lakes/"/>
-        <updated>2025-07-14T16:51:39.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to build a secure RAG application using serverless data lake architecture, an important data strategy to support generative AI development. We use Amazon Web Services (AWS) services including Amazon S3, Amazon DynamoDB, AWS Lambda, and Amazon Bedrock Knowledge Bases to create a comprehensive solution supporting unstructured data assets which can be extended to structured data. The post covers how to implement fine-grained access controls for your enterprise data and design metadata-driven retrieval systems that respect security boundaries. These approaches will help you maximize the value of your organization's data while maintaining robust security and compliance.]]></summary>
-        <author>
-            <name>Venkata Sistla</name>
         </author>
     </entry>
 </feed>

@@ -804,36 +804,6 @@
           "wordCount": 9029,
           "title": "AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/14/FINAL-BLOG-AND-SOCIAL-MEDIA-IMAGE.png"
-        },
-        {
-          "id": "c9f7847328e43d6dfac5c640da029cec0393b0c2",
-          "author": "Giridhar Akila Dhakshinamoorthy",
-          "description": "Sonatus partnered with the AWS Generative AI Innovation Center to develop a natural language interface to generate data collection and automation policies using generative AI. This innovation aims to reduce the policy generation process from days to minutes while making it accessible to both engineers and non-experts alike. In this post, we explore how we built this system using Sonatus’s Collector AI and Amazon Bedrock. We discuss the background, challenges, and high-level solution architecture.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-driven-policy-creation-for-vehicle-data-collection-and-automation-using-amazon-bedrock/",
-          "publishedOn": "2025-07-14T16:58:48.000Z",
-          "wordCount": 9305,
-          "title": "Build AI-driven policy creation for vehicle data collection and automation using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/18/image-1-1-1236x630.jpg"
-        },
-        {
-          "id": "334b2a45e4e77b83fd6ca5da8ce93b59b702530a",
-          "author": "Jimmy Cancilla",
-          "description": "In this post, we share how Rapid7 implemented end-to-end automation for the training, validation, and deployment of ML models that predict CVSS vectors. Rapid7 customers have the information they need to accurately understand their risk and prioritize remediation measures.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-rapid7-automates-vulnerability-risk-scores-with-ml-pipelines-using-amazon-sagemaker-ai/",
-          "publishedOn": "2025-07-14T16:55:56.000Z",
-          "wordCount": 9397,
-          "title": "How Rapid7 automates vulnerability risk scores with ML pipelines using Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/24/ML-18959-solution-993x630.png"
-        },
-        {
-          "id": "0a280dbba53337526a382e2c10386c1b5133aec3",
-          "author": "Venkata Sistla",
-          "description": "In this post, we explore how to build a secure RAG application using serverless data lake architecture, an important data strategy to support generative AI development. We use Amazon Web Services (AWS) services including Amazon S3, Amazon DynamoDB, AWS Lambda, and Amazon Bedrock Knowledge Bases to create a comprehensive solution supporting unstructured data assets which can be extended to structured data. The post covers how to implement fine-grained access controls for your enterprise data and design metadata-driven retrieval systems that respect security boundaries. These approaches will help you maximize the value of your organization's data while maintaining robust security and compliance.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-secure-rag-applications-with-aws-serverless-data-lakes/",
-          "publishedOn": "2025-07-14T16:51:39.000Z",
-          "wordCount": 10191,
-          "title": "Build secure RAG applications with AWS serverless data lakes",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/09/ML-18563_featured.png"
         }
       ]
     }

@@ -849,26 +849,6 @@
           "wordCount": 9475,
           "title": "Supercharge generative AI workflows with NVIDIA DGX Cloud on AWS and Amazon Bedrock Custom Model Import",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/15/ML-18626_FeaturedImg.png"
-        },
-        {
-          "id": "01da8a0ec4b3aaf5618fbf68941d110dcaba2bca",
-          "author": "Baladithya Balamurugan",
-          "description": "This post introduces NVIDIA Dynamo and explains how to set it up on Amazon EKS for automated scaling and streamlined Kubernetes operations. We provide a hands-on walkthrough, which uses the NVIDIA Dynamo blueprint on the AI on EKS GitHub repo by AWS Labs to provision the infrastructure, configure monitoring, and install the NVIDIA Dynamo operator.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/",
-          "publishedOn": "2025-07-15T13:03:32.000Z",
-          "wordCount": 10419,
-          "title": "Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/15/ML-18555_FeaturedImg.png"
-        },
-        {
-          "id": "7e00991968147a07b0896e1d0057379b055c04f5",
-          "author": "Francessca Vasquez",
-          "description": "In this post, AWS announces a $100 million additional investment in its AWS Generative AI Innovation Center, marking two years of successful customer collaborations across industries from financial services to healthcare. The investment comes as AI evolves toward more autonomous, agentic systems, with the center already helping thousands of customers drive millions in productivity gains and transform customer experiences.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/",
-          "publishedOn": "2025-07-15T12:40:42.000Z",
-          "wordCount": 9029,
-          "title": "AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/14/FINAL-BLOG-AND-SOCIAL-MEDIA-IMAGE.png"
         }
       ]
     }

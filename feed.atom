@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-13T22:17:28.120Z</updated>
+    <updated>2025-08-14T01:25:07.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -794,26 +794,6 @@
         <summary type="html"><![CDATA[This post is co-written with Andrew Liu, Chelsea Isaac, Zoey Zhang, and Charlie Huang from NVIDIA. DGX Cloud on Amazon Web Services (AWS) represents a significant leap forward in democratizing access to high-performance AI infrastructure. By combining NVIDIA GPU expertise with AWS scalable cloud services, organizations can accelerate their time-to-train, reduce operational complexity, and unlock […]]]></summary>
         <author>
             <name>Vara Bonthu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS]]></title>
-        <id>01da8a0ec4b3aaf5618fbf68941d110dcaba2bca</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/"/>
-        <updated>2025-07-15T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[This post introduces NVIDIA Dynamo and explains how to set it up on Amazon EKS for automated scaling and streamlined Kubernetes operations. We provide a hands-on walkthrough, which uses the NVIDIA Dynamo blueprint on the AI on EKS GitHub repo by AWS Labs to provision the infrastructure, configure monitoring, and install the NVIDIA Dynamo operator.]]></summary>
-        <author>
-            <name>Baladithya Balamurugan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success]]></title>
-        <id>7e00991968147a07b0896e1d0057379b055c04f5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/"/>
-        <updated>2025-07-15T12:40:42.000Z</updated>
-        <summary type="html"><![CDATA[In this post, AWS announces a $100 million additional investment in its AWS Generative AI Innovation Center, marking two years of successful customer collaborations across industries from financial services to healthcare. The investment comes as AI evolves toward more autonomous, agentic systems, with the center already helping thousands of customers drive millions in productivity gains and transform customer experiences.]]></summary>
-        <author>
-            <name>Francessca Vasquez</name>
         </author>
     </entry>
 </feed>

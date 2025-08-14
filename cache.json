@@ -86,6 +86,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "2e24387d7bbd045df847e3a8e4a0a9e16e16ca22",
+          "author": "Sadia Ahmed",
+          "description": "University Startups, headquartered in Bethesda, MD, was founded in 2020 to empower high school students to expand their education beyond a traditional curriculum. University Startups is focused on special education and related services in school districts throughout the US. In this post, we explain how University Startups uses generative AI technology on AWS to enable students to design a specific plan for their future either in education or the work force.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/empowering-students-with-disabilities-university-startups-generative-ai-solution-for-personalized-student-pathways/",
+          "publishedOn": "2025-08-14T16:10:57.000Z",
+          "wordCount": 5961,
+          "title": "Empowering students with disabilities: University Startups’ generative AI solution for personalized student pathways",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/30/ML-18688-diagramimage.png"
+        },
+        {
+          "id": "d029237005683f1ee0c4bbd914408575a13bd3ba",
+          "author": "Sunita Koppar",
+          "description": "In this post, we demonstrate how to prompt Amazon Nova understanding models to cite sources in responses. Further, we will also walk through how we can evaluate the responses (and citations) for accuracy.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/citations-with-amazon-nova-understanding-models/",
+          "publishedOn": "2025-08-14T15:56:20.000Z",
+          "wordCount": 5906,
+          "title": "Citations with Amazon Nova understanding models",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/14/cite-sources.jpg"
+        },
+        {
           "id": "98be864c8f07fe0c95f95f1869959a3b685f0cdc",
           "author": "Shreyas Subramanian",
           "description": "In this post, we explore how Amazon Bedrock AgentCore Runtime simplifies the deployment and management of AI agents.",

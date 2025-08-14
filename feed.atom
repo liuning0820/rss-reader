@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-14T14:17:29.272Z</updated>
+    <updated>2025-08-14T16:23:50.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Empowering students with disabilities: University Startups’ generative AI solution for personalized student pathways]]></title>
+        <id>2e24387d7bbd045df847e3a8e4a0a9e16e16ca22</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/empowering-students-with-disabilities-university-startups-generative-ai-solution-for-personalized-student-pathways/"/>
+        <updated>2025-08-14T16:10:57.000Z</updated>
+        <summary type="html"><![CDATA[University Startups, headquartered in Bethesda, MD, was founded in 2020 to empower high school students to expand their education beyond a traditional curriculum. University Startups is focused on special education and related services in school districts throughout the US. In this post, we explain how University Startups uses generative AI technology on AWS to enable students to design a specific plan for their future either in education or the work force.]]></summary>
+        <author>
+            <name>Sadia Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citations with Amazon Nova understanding models]]></title>
+        <id>d029237005683f1ee0c4bbd914408575a13bd3ba</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/citations-with-amazon-nova-understanding-models/"/>
+        <updated>2025-08-14T15:56:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to prompt Amazon Nova understanding models to cite sources in responses. Further, we will also walk through how we can evaluate the responses (and citations) for accuracy.]]></summary>
+        <author>
+            <name>Sunita Koppar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securely launch and scale your agents and tools on Amazon Bedrock AgentCore Runtime]]></title>
         <id>98be864c8f07fe0c95f95f1869959a3b685f0cdc</id>

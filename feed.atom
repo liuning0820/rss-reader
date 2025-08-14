@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-14T16:23:50.571Z</updated>
+    <updated>2025-08-14T18:26:31.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scalable intelligent document processing using Amazon Bedrock Data Automation]]></title>
+        <id>4a168c91585d8d7e2930883b971be36781f9851e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scalable-intelligent-document-processing-using-amazon-bedrock-data-automation/"/>
+        <updated>2025-08-14T17:53:40.000Z</updated>
+        <summary type="html"><![CDATA[In the blog post Scalable intelligent document processing using Amazon Bedrock, we demonstrated how to build a scalable IDP pipeline using Anthropic foundation models on Amazon Bedrock. Although that approach delivered robust performance, the introduction of Amazon Bedrock Data Automation brings a new level of efficiency and flexibility to IDP solutions. This post explores how Amazon Bedrock Data Automation enhances document processing capabilities and streamlines the automation journey.]]></summary>
+        <author>
+            <name>Abdul Navaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whiteboard to cloud in minutes using Amazon Q, Amazon Bedrock Data Automation, and Model Context Protocol]]></title>
+        <id>d6218e0e8bc2f4d56490160e55b9ad7f33ed55fe</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/whiteboard-to-cloud-in-minutes-using-amazon-q-amazon-bedrock-data-automation-and-model-context-protocol/"/>
+        <updated>2025-08-14T17:31:51.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to share the Amazon Bedrock Data Automation Model Context Protocol (MCP) server, for seamless integration between Amazon Q and your enterprise data. In this post, you will learn how to use the Amazon Bedrock Data Automation MCP server to securely integrate with AWS Services, use Bedrock Data Automation operations as callable MCP tools, and build a conversational development experience with Amazon Q.]]></summary>
+        <author>
+            <name>Wrick Talukdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing agentic Retrieval Augmented Generation to Amazon Q Business]]></title>
+        <id>baf74768d185095f9b19ec43b0848367f1574b65</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/"/>
+        <updated>2025-08-14T17:14:30.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we explore how Amazon Q Business is transforming enterprise data interaction through Agentic Retrieval Augmented Generation (RAG).]]></summary>
+        <author>
+            <name>Sanjit Misra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Empowering students with disabilities: University Startups’ generative AI solution for personalized student pathways]]></title>
         <id>2e24387d7bbd045df847e3a8e4a0a9e16e16ca22</id>

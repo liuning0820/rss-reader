@@ -86,6 +86,41 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "4a168c91585d8d7e2930883b971be36781f9851e",
+          "author": "Abdul Navaz",
+          "description": "In the blog post Scalable intelligent document processing using Amazon Bedrock, we demonstrated how to build a scalable IDP pipeline using Anthropic foundation models on Amazon Bedrock. Although that approach delivered robust performance, the introduction of Amazon Bedrock Data Automation brings a new level of efficiency and flexibility to IDP solutions. This post explores how Amazon Bedrock Data Automation enhances document processing capabilities and streamlines the automation journey.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scalable-intelligent-document-processing-using-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-08-14T17:53:40.000Z",
+          "wordCount": 5377,
+          "title": "Scalable intelligent document processing using Amazon Bedrock Data Automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/31/ML-17996-bda-a2i-1095x630.jpeg"
+        },
+        {
+          "id": "d6218e0e8bc2f4d56490160e55b9ad7f33ed55fe",
+          "author": "Wrick Talukdar",
+          "description": "We’re excited to share the Amazon Bedrock Data Automation Model Context Protocol (MCP) server, for seamless integration between Amazon Q and your enterprise data. In this post, you will learn how to use the Amazon Bedrock Data Automation MCP server to securely integrate with AWS Services, use Bedrock Data Automation operations as callable MCP tools, and build a conversational development experience with Amazon Q.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/whiteboard-to-cloud-in-minutes-using-amazon-q-amazon-bedrock-data-automation-and-model-context-protocol/",
+          "publishedOn": "2025-08-14T17:31:51.000Z",
+          "wordCount": 5550,
+          "title": "Whiteboard to cloud in minutes using Amazon Q, Amazon Bedrock Data Automation, and Model Context Protocol",
+          "enclosure": {
+            "length": "4265655",
+            "type": "audio/mpeg",
+            "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/meeting-conversation.mp3"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/14/ml-18793-1120x630.jpg"
+        },
+        {
+          "id": "baf74768d185095f9b19ec43b0848367f1574b65",
+          "author": "Sanjit Misra",
+          "description": "In this blog post, we explore how Amazon Q Business is transforming enterprise data interaction through Agentic Retrieval Augmented Generation (RAG).",
+          "link": "https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/",
+          "publishedOn": "2025-08-14T17:14:30.000Z",
+          "wordCount": 5832,
+          "title": "Bringing agentic Retrieval Augmented Generation to Amazon Q Business",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/14/ML-91232_Blog_FeaturedImg.png"
+        },
+        {
           "id": "2e24387d7bbd045df847e3a8e4a0a9e16e16ca22",
           "author": "Sadia Ahmed",
           "description": "University Startups, headquartered in Bethesda, MD, was founded in 2020 to empower high school students to expand their education beyond a traditional curriculum. University Startups is focused on special education and related services in school districts throughout the US. In this post, we explain how University Startups uses generative AI technology on AWS to enable students to design a specific plan for their future either in education or the work force.",

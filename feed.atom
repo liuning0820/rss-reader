@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-14T08:25:13.109Z</updated>
+    <updated>2025-08-14T10:19:50.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -754,36 +754,6 @@
         <summary type="html"><![CDATA[Today, I’m excited to share how we’re bringing this vision to life with new capabilities that address the fundamental aspects of building and deploying agents at scale. These innovations will help you move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes.]]></summary>
         <author>
             <name>Swami Sivasubramanian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store]]></title>
-        <id>b926c08f19c002c223155095808c4ff9e29ee819</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-amazon-opensearch-service-managed-cluster-as-vector-store/"/>
-        <updated>2025-07-15T22:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock Knowledge Bases has extended its vector store options by enabling support for Amazon OpenSearch Service managed clusters, further strengthening its capabilities as a fully managed Retrieval Augmented Generation (RAG) solution. This enhancement builds on the core functionality of Amazon Bedrock Knowledge Bases , which is designed to seamlessly connect foundation models (FMs) with internal data sources. This post provides a comprehensive, step-by-step guide on integrating an Amazon Bedrock knowledge base with an OpenSearch Service managed cluster as its vector store.]]></summary>
-        <author>
-            <name>Manoj Selvakumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor agents built on Amazon Bedrock with Datadog LLM Observability]]></title>
-        <id>e6ae05ad8527eed06b742e47b25bfe4da6bc0d52</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/monitor-agents-built-on-amazon-bedrock-with-datadog-llm-observability/"/>
-        <updated>2025-07-15T22:02:38.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce a new integration between Datadog LLM Observability and Amazon Bedrock Agents that helps monitor agentic applications built on Amazon Bedrock. In this post, we'll explore how Datadog's LLM Observability provides the visibility and control needed to successfully monitor, operate, and debug production-grade agentic applications built on Amazon Bedrock Agents.]]></summary>
-        <author>
-            <name>Jason Mimick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PayU built a secure enterprise AI assistant using Amazon Bedrock]]></title>
-        <id>523e5858fabf4ce89ec4627fa3b28a42f8cca264</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-payu-built-a-secure-enterprise-ai-assistant-using-amazon-bedrock/"/>
-        <updated>2025-07-15T21:54:53.000Z</updated>
-        <summary type="html"><![CDATA[PayU offers a full-stack digital financial services system that serves the financial needs of merchants, banks, and consumers through technology. In this post, we explain how we equipped the PayU team with an enterprise AI solution and democratized AI access using Amazon Bedrock, without compromising on data residency requirements.]]></summary>
-        <author>
-            <name>Deepesh Dhapola</name>
         </author>
     </entry>
 </feed>

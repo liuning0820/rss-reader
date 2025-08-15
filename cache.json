@@ -854,16 +854,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19208/ML-19208-video1.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/14/ML-19208_FeaturedImg.png"
-        },
-        {
-          "id": "88fe713fb98339ad011bc8c72d42c9333eb969a0",
-          "author": "Swami Sivasubramanian",
-          "description": "Today, I’m excited to share how we’re bringing this vision to life with new capabilities that address the fundamental aspects of building and deploying agents at scale. These innovations will help you move beyond experiments to production-ready agent systems that can be trusted with your most critical business processes.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/",
-          "publishedOn": "2025-07-16T15:04:04.000Z",
-          "wordCount": 9662,
-          "title": "Enabling customers to deliver production-ready AI agents at scale",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/16/All-days-hero-e1752642848847-1086x630.png"
         }
       ]
     }

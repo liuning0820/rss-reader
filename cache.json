@@ -86,6 +86,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "99f826ae24b13b2d3447a5375690ae78ec3f86f1",
+          "author": "Riccardo Freschi",
+          "description": "In this post, we demonstrate the implementation of a practical RAG chat-based assistant using a comprehensive stack of modern technologies. The solution uses NVIDIA NIMs for both LLM inference and text embedding services, with the NIM Operator handling their deployment and management. The architecture incorporates Amazon OpenSearch Serverless to store and query high-dimensional vector embeddings for similarity search.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-a-rag-chat-based-assistant-on-amazon-eks-auto-mode-and-nvidia-nims/",
+          "publishedOn": "2025-08-15T15:52:28.000Z",
+          "wordCount": 7797,
+          "title": "Building a RAG chat-based assistant on Amazon EKS Auto Mode and NVIDIA NIMs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/28/ML-18753-solution-diagram-1182x630.png"
+        },
+        {
+          "id": "a14e2a57cf2422e305b34be0fe9efefde93caab8",
+          "author": "Rahul Sharma",
+          "description": "In this post, we explore Amazon Bedrock AgentCore Identity, a comprehensive identity and access management service purpose-built for AI agents that enables secure access to AWS resources and third-party tools. The service provides robust identity management features including agent identity directory, agent authorizer, resource credential provider, and resource token vault to help organizations deploy AI agents securely at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-identity-securing-agentic-ai-at-scale/",
+          "publishedOn": "2025-08-15T15:28:11.000Z",
+          "wordCount": 6500,
+          "title": "Introducing Amazon Bedrock AgentCore Identity: Securing agentic AI at scale",
+          "enclosure": {
+            "length": "21143038",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19464/demo_github_identity.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/14/ML-19464-image-1-1196x630.png"
+        },
+        {
           "id": "4a168c91585d8d7e2930883b971be36781f9851e",
           "author": "Abdul Navaz",
           "description": "In the blog post Scalable intelligent document processing using Amazon Bedrock, we demonstrated how to build a scalable IDP pipeline using Anthropic foundation models on Amazon Bedrock. Although that approach delivered robust performance, the introduction of Amazon Bedrock Data Automation brings a new level of efficiency and flexibility to IDP solutions. This post explores how Amazon Bedrock Data Automation enhances document processing capabilities and streamlines the automation journey.",

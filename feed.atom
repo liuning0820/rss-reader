@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-15T14:17:14.696Z</updated>
+    <updated>2025-08-15T16:22:05.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a RAG chat-based assistant on Amazon EKS Auto Mode and NVIDIA NIMs]]></title>
+        <id>99f826ae24b13b2d3447a5375690ae78ec3f86f1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-rag-chat-based-assistant-on-amazon-eks-auto-mode-and-nvidia-nims/"/>
+        <updated>2025-08-15T15:52:28.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate the implementation of a practical RAG chat-based assistant using a comprehensive stack of modern technologies. The solution uses NVIDIA NIMs for both LLM inference and text embedding services, with the NIM Operator handling their deployment and management. The architecture incorporates Amazon OpenSearch Serverless to store and query high-dimensional vector embeddings for similarity search.]]></summary>
+        <author>
+            <name>Riccardo Freschi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Amazon Bedrock AgentCore Identity: Securing agentic AI at scale]]></title>
+        <id>a14e2a57cf2422e305b34be0fe9efefde93caab8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-identity-securing-agentic-ai-at-scale/"/>
+        <updated>2025-08-15T15:28:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore Amazon Bedrock AgentCore Identity, a comprehensive identity and access management service purpose-built for AI agents that enables secure access to AWS resources and third-party tools. The service provides robust identity management features including agent identity directory, agent authorizer, resource credential provider, and resource token vault to help organizations deploy AI agents securely at scale.]]></summary>
+        <author>
+            <name>Rahul Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable intelligent document processing using Amazon Bedrock Data Automation]]></title>
         <id>4a168c91585d8d7e2930883b971be36781f9851e</id>

@@ -86,6 +86,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "083fb26f5829b5108551a3ffd20466da52a176c1",
+          "author": "Dhawalkumar Patel",
+          "description": "In this post, we discuss Amazon Bedrock AgentCore Gateway, a fully managed service that revolutionizes how enterprises connect AI agents with tools and services by providing a centralized tool server with unified interface for agent-tool communication. The service offers key capabilities including Security Guard, Translation, Composition, Target extensibility, Infrastructure Manager, and Semantic Tool Selection, while implementing sophisticated dual-sided security architecture for both inbound and outbound connections.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/",
+          "publishedOn": "2025-08-15T18:04:57.000Z",
+          "wordCount": 6547,
+          "title": "Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/14/ML-19425-image-2-1217x630.jpeg"
+        },
+        {
+          "id": "5bcec91ee32cdcc8cb5bedc7e9de1687a85a73c1",
+          "author": "Bill Chan",
+          "description": "In a traditional SDLC, a lot of time is spent in the different phases researching approaches that can deliver on requirements: iterating over design changes, writing, testing and reviewing code, and configuring infrastructure. In this post, you learned about the experience and saw productivity gains you can realize by using Amazon Q Developer as a coding assistant to build a scalable MERN stack web application on AWS.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-containerized-web-application-on-aws-using-the-mern-stack-with-amazon-q-developer-part-1/",
+          "publishedOn": "2025-08-15T16:45:40.000Z",
+          "wordCount": 5873,
+          "title": "Build a scalable containerized web application on AWS using the MERN stack with Amazon Q Developer – Part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/15/scalable-containerized.jpg"
+        },
+        {
+          "id": "9bfc81ec1ddd2269796ff3c19eac19f849599bf3",
+          "author": "Rishu Aggarwal",
+          "description": "In this post, we share how the Salesforce AI Platform team optimized GPU utilization, improved resource efficiency and achieved cost savings using Amazon SageMaker AI, specifically inference components.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-salesforces-model-endpoints-with-amazon-sagemaker-ai-inference-components/",
+          "publishedOn": "2025-08-15T16:41:28.000Z",
+          "wordCount": 6063,
+          "title": "Optimizing Salesforce’s model endpoints with Amazon SageMaker AI inference components",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/21/Fixed.png"
+        },
+        {
           "id": "99f826ae24b13b2d3447a5375690ae78ec3f86f1",
           "author": "Riccardo Freschi",
           "description": "In this post, we demonstrate the implementation of a practical RAG chat-based assistant using a comprehensive stack of modern technologies. The solution uses NVIDIA NIMs for both LLM inference and text embedding services, with the NIM Operator handling their deployment and management. The architecture incorporates Amazon OpenSearch Serverless to store and query high-dimensional vector embeddings for similarity search.",

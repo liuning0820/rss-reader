@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-15T16:22:05.553Z</updated>
+    <updated>2025-08-15T18:25:56.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development]]></title>
+        <id>083fb26f5829b5108551a3ffd20466da52a176c1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/"/>
+        <updated>2025-08-15T18:04:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we discuss Amazon Bedrock AgentCore Gateway, a fully managed service that revolutionizes how enterprises connect AI agents with tools and services by providing a centralized tool server with unified interface for agent-tool communication. The service offers key capabilities including Security Guard, Translation, Composition, Target extensibility, Infrastructure Manager, and Semantic Tool Selection, while implementing sophisticated dual-sided security architecture for both inbound and outbound connections.]]></summary>
+        <author>
+            <name>Dhawalkumar Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a scalable containerized web application on AWS using the MERN stack with Amazon Q Developer – Part 1]]></title>
+        <id>5bcec91ee32cdcc8cb5bedc7e9de1687a85a73c1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-scalable-containerized-web-application-on-aws-using-the-mern-stack-with-amazon-q-developer-part-1/"/>
+        <updated>2025-08-15T16:45:40.000Z</updated>
+        <summary type="html"><![CDATA[In a traditional SDLC, a lot of time is spent in the different phases researching approaches that can deliver on requirements: iterating over design changes, writing, testing and reviewing code, and configuring infrastructure. In this post, you learned about the experience and saw productivity gains you can realize by using Amazon Q Developer as a coding assistant to build a scalable MERN stack web application on AWS.]]></summary>
+        <author>
+            <name>Bill Chan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Salesforce’s model endpoints with Amazon SageMaker AI inference components]]></title>
+        <id>9bfc81ec1ddd2269796ff3c19eac19f849599bf3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimizing-salesforces-model-endpoints-with-amazon-sagemaker-ai-inference-components/"/>
+        <updated>2025-08-15T16:41:28.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how the Salesforce AI Platform team optimized GPU utilization, improved resource efficiency and achieved cost savings using Amazon SageMaker AI, specifically inference components.]]></summary>
+        <author>
+            <name>Rishu Aggarwal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a RAG chat-based assistant on Amazon EKS Auto Mode and NVIDIA NIMs]]></title>
         <id>99f826ae24b13b2d3447a5375690ae78ec3f86f1</id>

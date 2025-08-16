@@ -869,16 +869,6 @@
           "wordCount": 9087,
           "title": "Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/17/feature-image-ML-19210-1120x630.jpg"
-        },
-        {
-          "id": "8ff3d6ffcc42ce0c118c5ac38374d452d9d91e63",
-          "author": "Sandeep Raveesh-Babu",
-          "description": "Organizations are adopting large language models (LLMs), such as DeepSeek R1, to transform business processes, enhance customer experiences, and drive innovation at unprecedented speed. However, standalone LLMs have key limitations such as hallucinations, outdated knowledge, and no access to proprietary data. Retrieval Augmented Generation (RAG) addresses these gaps by combining semantic search with generative AI, […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-enterprise-scale-rag-applications-with-amazon-s3-vectors-and-deepseek-r1-on-amazon-sagemaker-ai/",
-          "publishedOn": "2025-07-17T12:30:48.000Z",
-          "wordCount": 10811,
-          "title": "Building enterprise-scale RAG applications with Amazon S3 Vectors and DeepSeek R1 on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/14/ML-18648_FeaturedImg.png"
         }
       ]
     }

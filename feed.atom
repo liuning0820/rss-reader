@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-17T03:23:43.997Z</updated>
+    <updated>2025-08-17T04:30:34.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -754,36 +754,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Spacelift: IaC Experts! IaCConf Call for Presenters – August 27, 2025 The upcoming IaCConf Spotlight dives into the security and governance challenges of managing infrastructure as code at scale. From embedding security in your pipelines to navigating the realities of open source risk, this event brings together […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build real-time travel recommendations using AI agents on Amazon Bedrock]]></title>
-        <id>207a3853df8297e788fcc08326ea4767d609720e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-real-time-travel-recommendations-using-ai-agents-on-amazon-bedrock/"/>
-        <updated>2025-07-18T16:18:32.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to build a generative AI solution using Amazon Bedrock that creates bespoke holiday packages by combining customer profiles and preferences with real-time pricing data. We demonstrate how to use Amazon Bedrock Knowledge Bases for travel information, Amazon Bedrock Agents for real-time flight details, and Amazon OpenSearch Serverless for efficient package search and retrieval.]]></summary>
-        <author>
-            <name>Vishnu Vardhini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy a full stack voice AI agent with Amazon Nova Sonic]]></title>
-        <id>dd095e79094560bdc0219aa475c48eb9a751a7c4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-a-full-stack-voice-ai-agent-with-amazon-nova-sonic/"/>
-        <updated>2025-07-18T16:14:43.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to create an AI-powered call center agent for a fictional company called AnyTelco. The agent, named Telly, can handle customer inquiries about plans and services while accessing real-time customer data using custom tools implemented with the Model Context Protocol (MCP) framework.]]></summary>
-        <author>
-            <name>Reilly Manton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage multi-tenant Amazon Bedrock costs using application inference profiles]]></title>
-        <id>00135b56ce7d068bfe279955dc45cc60357d643f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/manage-multi-tenant-amazon-bedrock-costs-using-application-inference-profiles/"/>
-        <updated>2025-07-18T16:11:22.000Z</updated>
-        <summary type="html"><![CDATA[This post explores how to implement a robust monitoring solution for multi-tenant AI deployments using a feature of Amazon Bedrock called application inference profiles. We demonstrate how to create a system that enables granular usage tracking, accurate cost allocation, and dynamic resource management across complex multi-tenant environments.]]></summary>
-        <author>
-            <name>Claudio Mazzoni</name>
         </author>
     </entry>
 </feed>

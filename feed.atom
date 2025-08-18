@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-18T01:39:25.415Z</updated>
+    <updated>2025-08-18T03:27:57.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #490]]></title>
+        <id>https://sreweekly.com/?p=1676</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-490/"/>
+        <updated>2025-08-18T02:33:53.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development]]></title>
         <id>083fb26f5829b5108551a3ffd20466da52a176c1</id>

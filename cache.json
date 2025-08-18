@@ -33,6 +33,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1676",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-490/",
+          "publishedOn": "2025-08-18T02:33:53.000Z",
+          "wordCount": 1052,
+          "title": "SRE Weekly Issue #490",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1673",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe‘s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale – from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more […]",

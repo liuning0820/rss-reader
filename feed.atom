@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-19T18:23:10.131Z</updated>
+    <updated>2025-08-19T20:18:55.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation]]></title>
+        <id>a2c8109d46394c581954ccf9b60dc68943f6f167</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/"/>
+        <updated>2025-08-19T20:00:45.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to enable and use trusted identity propagation in Amazon SageMaker Studio, which allows organizations to simplify access management by granting permissions to existing AWS IAM Identity Center identities. The solution demonstrates how to implement fine-grained access controls based on a physical user's identity, maintain detailed audit logs across supported AWS services, and support long-running user background sessions for training jobs.]]></summary>
+        <author>
+            <name>Durga Sury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benchmarking document information localization with Amazon Nova]]></title>
         <id>a5a180f1a3fa1d0a64bcaffbcfcb7473f0b54933</id>

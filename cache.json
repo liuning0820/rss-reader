@@ -86,6 +86,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a5a180f1a3fa1d0a64bcaffbcfcb7473f0b54933",
+          "author": "Ryan Razkenari",
+          "description": "This post demonstrates how to use foundation models (FMs) in Amazon Bedrock, specifically Amazon Nova Pro, to achieve high-accuracy document field localization while dramatically simplifying implementation. We show how these models can precisely locate and interpret document fields with minimal frontend effort, reducing processing errors and manual intervention.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-document-information-localization-with-amazon-nova/",
+          "publishedOn": "2025-08-19T18:17:36.000Z",
+          "wordCount": 6183,
+          "title": "Benchmarking document information localization with Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/26/ML-18377-9-results-1042x630.png"
+        },
+        {
+          "id": "acb56cc97880f74e0fe2bf1bcf0e26f9b0742a50",
+          "author": "Dhiraj Thakur",
+          "description": "We built an advanced RAG solution using Amazon Bedrock leveraging Infosys Topaz™ AI capabilities, tailored for the oil and gas sector. This solution excels in handling multimodal data sources, seamlessly processing text, diagrams, and numerical data while maintaining context and relationships between different data elements. In this post, we provide insights on the solution and walk you through different approaches and architecture patterns explored, like different chunking, multi-vector retrieval, and hybrid search during the development.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/",
+          "publishedOn": "2025-08-19T18:04:25.000Z",
+          "wordCount": 7035,
+          "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/04/image-1-3-974x630.png"
+        },
+        {
           "id": "7a0ae177ce6347625011534ba7305a9d99376846",
           "author": "Neha Bhupatiraju",
           "description": "In this post, we explore how to design and implement custom plugins for Amazon Q Business to create an intelligent chatbot that streamlines employee training by retrieving answers from training materials. The solution implements secure API access using Amazon Cognito for user authentication and authorization, processes multiple document formats, and includes features like RAG-enhanced responses and email escalation capabilities through custom plugins.",

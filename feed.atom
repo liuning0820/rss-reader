@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-19T16:21:56.653Z</updated>
+    <updated>2025-08-19T18:23:10.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking document information localization with Amazon Nova]]></title>
+        <id>a5a180f1a3fa1d0a64bcaffbcfcb7473f0b54933</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/benchmarking-document-information-localization-with-amazon-nova/"/>
+        <updated>2025-08-19T18:17:36.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how to use foundation models (FMs) in Amazon Bedrock, specifically Amazon Nova Pro, to achieve high-accuracy document field localization while dramatically simplifying implementation. We show how these models can precisely locate and interpret document fields with minimal frontend effort, reducing processing errors and manual intervention.]]></summary>
+        <author>
+            <name>Ryan Razkenari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock]]></title>
+        <id>acb56cc97880f74e0fe2bf1bcf0e26f9b0742a50</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/"/>
+        <updated>2025-08-19T18:04:25.000Z</updated>
+        <summary type="html"><![CDATA[We built an advanced RAG solution using Amazon Bedrock leveraging Infosys Topaz™ AI capabilities, tailored for the oil and gas sector. This solution excels in handling multimodal data sources, seamlessly processing text, diagrams, and numerical data while maintaining context and relationships between different data elements. In this post, we provide insights on the solution and walk you through different approaches and architecture patterns explored, like different chunking, multi-vector retrieval, and hybrid search during the development.]]></summary>
+        <author>
+            <name>Dhiraj Thakur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamline employee training with an intelligent chatbot powered by Amazon Q Business]]></title>
         <id>7a0ae177ce6347625011534ba7305a9d99376846</id>

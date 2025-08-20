@@ -86,6 +86,41 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "cc357c896bdcc6f65850a3caf9cbb9e8681b6652",
+          "author": "Raechel Frick",
+          "description": "Built using Amazon Nova in Amazon Bedrock, The Fragrance Lab represents a comprehensive end-to-end application that illustrates the transformative power of generative AI in retail, consumer goods, advertising, and marketing. In this post, we explore the development of The Fragrance Lab. Our vision was to craft a unique blend of physical and digital experiences that would celebrate creativity, advertising, and consumer goods while capturing the spirit of the French Riviera.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/create-personalized-products-and-marketing-campaigns-using-amazon-nova-in-amazon-bedrock/",
+          "publishedOn": "2025-08-20T21:50:24.000Z",
+          "wordCount": 5665,
+          "title": "Create personalized products and marketing campaigns using Amazon Nova in Amazon Bedrock",
+          "enclosure": {
+            "length": "113356345",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19120/FragranceLab_Social_Horizontal_compressed.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/ML-19120-5-1120x630.png"
+        },
+        {
+          "id": "063916dbcd88c0a92ab97ec47ed03720b8dc55a3",
+          "author": "Anveshi Charuvaka",
+          "description": "In this post, we explore how Tyson Foods collaborated with the AWS Generative AI Innovation Center to revolutionize their customer interaction through an intuitive AI assistant integrated into their website. The AI assistant was built using Amazon Bedrock,",
+          "link": "https://aws.amazon.com/blogs/machine-learning/tyson-foods-elevates-customer-search-experience-with-an-ai-powered-conversational-assistant/",
+          "publishedOn": "2025-08-20T21:44:28.000Z",
+          "wordCount": 7908,
+          "title": "Tyson Foods elevates customer search experience with an AI-powered conversational assistant",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/tyson-bp-image-1-855x630.jpeg"
+        },
+        {
+          "id": "6e3e7620c7486a30cc17e6b1991f6f9d4b44a9e3",
+          "author": "Saptarshi Banerjee",
+          "description": "In this post, we demonstrate how to enhance AI agents’ capabilities by integrating predictive ML models using Amazon SageMaker AI and the MCP. By using the open source Strands Agents SDK and the flexible deployment options of SageMaker AI, developers can create sophisticated AI applications that combine conversational AI with powerful predictive analytics capabilities.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-ai-agents-using-predictive-ml-models-with-amazon-sagemaker-ai-and-model-context-protocol-mcp/",
+          "publishedOn": "2025-08-20T20:26:08.000Z",
+          "wordCount": 6523,
+          "title": "Enhance AI agents using predictive ML models with Amazon SageMaker AI and Model Context Protocol (MCP)",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/06/image-1-8-1038x630.png"
+        },
+        {
           "id": "a2c8109d46394c581954ccf9b60dc68943f6f167",
           "author": "Durga Sury",
           "description": "In this post, we explore how to enable and use trusted identity propagation in Amazon SageMaker Studio, which allows organizations to simplify access management by granting permissions to existing AWS IAM Identity Center identities. The solution demonstrates how to implement fine-grained access controls based on a physical user's identity, maintain detailed audit logs across supported AWS services, and support long-running user background sessions for training jobs.",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-20T20:19:00.767Z</updated>
+    <updated>2025-08-20T22:15:04.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create personalized products and marketing campaigns using Amazon Nova in Amazon Bedrock]]></title>
+        <id>cc357c896bdcc6f65850a3caf9cbb9e8681b6652</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/create-personalized-products-and-marketing-campaigns-using-amazon-nova-in-amazon-bedrock/"/>
+        <updated>2025-08-20T21:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Built using Amazon Nova in Amazon Bedrock, The Fragrance Lab represents a comprehensive end-to-end application that illustrates the transformative power of generative AI in retail, consumer goods, advertising, and marketing. In this post, we explore the development of The Fragrance Lab. Our vision was to craft a unique blend of physical and digital experiences that would celebrate creativity, advertising, and consumer goods while capturing the spirit of the French Riviera.]]></summary>
+        <author>
+            <name>Raechel Frick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tyson Foods elevates customer search experience with an AI-powered conversational assistant]]></title>
+        <id>063916dbcd88c0a92ab97ec47ed03720b8dc55a3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/tyson-foods-elevates-customer-search-experience-with-an-ai-powered-conversational-assistant/"/>
+        <updated>2025-08-20T21:44:28.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Tyson Foods collaborated with the AWS Generative AI Innovation Center to revolutionize their customer interaction through an intuitive AI assistant integrated into their website. The AI assistant was built using Amazon Bedrock,]]></summary>
+        <author>
+            <name>Anveshi Charuvaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance AI agents using predictive ML models with Amazon SageMaker AI and Model Context Protocol (MCP)]]></title>
+        <id>6e3e7620c7486a30cc17e6b1991f6f9d4b44a9e3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enhance-ai-agents-using-predictive-ml-models-with-amazon-sagemaker-ai-and-model-context-protocol-mcp/"/>
+        <updated>2025-08-20T20:26:08.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to enhance AI agents’ capabilities by integrating predictive ML models using Amazon SageMaker AI and the MCP. By using the open source Strands Agents SDK and the flexible deployment options of SageMaker AI, developers can create sophisticated AI applications that combine conversational AI with powerful predictive analytics capabilities.]]></summary>
+        <author>
+            <name>Saptarshi Banerjee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation]]></title>
         <id>a2c8109d46394c581954ccf9b60dc68943f6f167</id>

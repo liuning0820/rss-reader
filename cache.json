@@ -86,6 +86,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "952309d6f2e51c14cfd4de4f1b721630f95ca3fc",
+          "author": "Durga Sury",
+          "description": "This post is the second part of the GPT-OSS series focusing on model customization with Amazon SageMaker AI. In Part 1, we demonstrated fine-tuning GPT-OSS models using open source Hugging Face libraries with SageMaker training jobs, which supports distributed multi-GPU and multi-node configurations, so you can spin up high-performance clusters on demand. In this post, […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-using-amazon-sagemaker-hyperpod-recipes/",
+          "publishedOn": "2025-08-21T21:35:59.000Z",
+          "wordCount": 7238,
+          "title": "Fine-tune OpenAI GPT-OSS models using Amazon SageMaker HyperPod recipes",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/21/ML-19609_FeaturedImg.png"
+        },
+        {
+          "id": "8f4a869aa6d3799ecde15169219601372e7bf153",
+          "author": "Shubhankar Sumar",
+          "description": "We are excited to announce the public preview of support for inline code nodes in Amazon Bedrock Flows. With this powerful new capability, you can write Python scripts directly within your workflow, alleviating the need for separate AWS Lambda functions for simple logic. This feature streamlines preprocessing and postprocessing tasks (like data normalization and response formatting), simplifying generative AI application development and making it more accessible across organizations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/inline-code-nodes-now-supported-in-amazon-bedrock-flows-in-public-preview/",
+          "publishedOn": "2025-08-21T20:36:40.000Z",
+          "wordCount": 5352,
+          "title": "Inline code nodes now supported in Amazon Bedrock Flows in public preview",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/14/ml-19171-image-1-1260x502.png"
+        },
+        {
+          "id": "c9b61ae9d4272f1788c2d447f6e4182c2fc59650",
+          "author": "Oliver Steffmann",
+          "description": "Amazon Q Business offers AWS customers a scalable and comprehensive solution for enhancing business processes across their organization. By carefully evaluating your use cases, following implementation best practices, and using the architectural guidance provided in this post, you can deploy Amazon Q Business to transform your enterprise productivity. The key to success lies in starting small, proving value quickly, and scaling systematically across your organization.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-implementations-with-amazon-q-business/",
+          "publishedOn": "2025-08-21T20:29:53.000Z",
+          "wordCount": 6076,
+          "title": "Accelerate enterprise AI implementations with Amazon Q Business",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/blog2-1107x630.png"
+        },
+        {
+          "id": "06a60de1ba8424a8a5cc3acaf101286ab6b94e06",
+          "author": "Paul Hargis",
+          "description": "In this post, we walk through how you can use the new Code Editor and multiple spaces support in SageMaker Unified Studio. The sample solution shows how to develop an ML pipeline that automates the typical end-to-end ML activities to build, train, evaluate, and (optionally) deploy an ML model.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/speed-up-delivery-of-ml-workloads-using-code-editor-in-amazon-sagemaker-unified-studio/",
+          "publishedOn": "2025-08-21T20:24:35.000Z",
+          "wordCount": 6300,
+          "title": "Speed up delivery of ML workloads using Code Editor in Amazon SageMaker Unified Studio",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/21/code-editor-sagemaker-studio.jpg"
+        },
+        {
           "id": "19bd3f2c7977d1a8c8fe4f502d6da4b0b8e8d205",
           "author": "Meenakshi Venkatesan, Karthikeyan Senthilkumar, Aninda Chakraborty",
           "description": "In this blog, we examine the use case of a large energy supplier whose technical help desk agents answer customer calls and support field agents. We use Amazon Bedrock along with capabilities from Infosys Topaz™ to build a generative AI application that can reduce call handling times, automate tasks, and improve the overall quality of technical support.",

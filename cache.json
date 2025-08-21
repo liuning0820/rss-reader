@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "19bd3f2c7977d1a8c8fe4f502d6da4b0b8e8d205",
+          "author": "Meenakshi Venkatesan, Karthikeyan Senthilkumar, Aninda Chakraborty",
+          "description": "In this blog, we examine the use case of a large energy supplier whose technical help desk agents answer customer calls and support field agents. We use Amazon Bedrock along with capabilities from Infosys Topaz™ to build a generative AI application that can reduce call handling times, automate tasks, and improve the overall quality of technical support.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-topaz-leverages-amazon-bedrock-to-transform-technical-help-desk-operations/",
+          "publishedOn": "2025-08-21T17:25:11.000Z",
+          "wordCount": 6764,
+          "title": "How Infosys Topaz leverages Amazon Bedrock to transform technical help desk operations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/04/image-2-2.png"
+        },
+        {
           "id": "cc357c896bdcc6f65850a3caf9cbb9e8681b6652",
           "author": "Raechel Frick",
           "description": "Built using Amazon Nova in Amazon Bedrock, The Fragrance Lab represents a comprehensive end-to-end application that illustrates the transformative power of generative AI in retail, consumer goods, advertising, and marketing. In this post, we explore the development of The Fragrance Lab. Our vision was to craft a unique blend of physical and digital experiences that would celebrate creativity, advertising, and consumer goods while capturing the spirit of the French Riviera.",

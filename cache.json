@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -849,16 +849,6 @@
           "wordCount": 9662,
           "title": "Beyond accelerators: Lessons from building foundation models on AWS with Japan’s GENIAC program",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/22/image-4-1-1024x685-1-942x630.jpeg"
-        },
-        {
-          "id": "592684ae16598b6258cb619340726947a8d98ca1",
-          "author": "Sathya Balakrishnan",
-          "description": "In this post, we explore how to use Amazon Q Developer and Model Context Protocol (MCP) servers to streamline DLC workflows to automate creation, execution, and customization of DLC containers.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-deep-learning-environments-with-amazon-q-developer-and-mcp/",
-          "publishedOn": "2025-07-22T14:52:50.000Z",
-          "wordCount": 9759,
-          "title": "Streamline deep learning environments with Amazon Q Developer and MCP",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/ML-19067-image-2.png"
         }
       ]
     }

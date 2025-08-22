@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-22T06:26:24.152Z</updated>
+    <updated>2025-08-22T08:22:54.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -804,16 +804,6 @@
         <summary type="html"><![CDATA[The repositories for MT-Bench and Arena-Hard were originally developed using OpenAI’s GPT API, primarily employing GPT-4 as the judge. Our team has expanded its functionality by integrating it with the Amazon Bedrock API to enable using Anthropic’s Claude Sonnet on Amazon as judge. In this post, we use both MT-Bench and Arena-Hard to benchmark Amazon Nova models by comparing them to other leading LLMs available through Amazon Bedrock.]]></summary>
         <author>
             <name>Flora Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customize Amazon Nova in Amazon SageMaker AI using Direct Preference Optimization]]></title>
-        <id>a9ed934b88d83e917cd4cbccb478662dc41332f4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-in-amazon-sagemaker-ai-using-direct-preference-optimization/"/>
-        <updated>2025-07-23T19:08:16.000Z</updated>
-        <summary type="html"><![CDATA[At the AWS Summit in New York City, we introduced a comprehensive suite of model customization capabilities for Amazon Nova foundation models. Available as ready-to-use recipes on Amazon SageMaker AI, you can use them to adapt Nova Micro, Nova Lite, and Nova Pro across the model training lifecycle, including pre-training, supervised fine-tuning, and alignment. In this post, we present a streamlined approach to customize Nova Micro in SageMaker training jobs.]]></summary>
-        <author>
-            <name>Bruno Pistone</name>
         </author>
     </entry>
 </feed>

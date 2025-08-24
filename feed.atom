@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-24T04:23:25.388Z</updated>
+    <updated>2025-08-24T06:24:19.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -804,26 +804,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Spacelift: IaC Experts! IaCConf Call for Presenters – August 27, 2025The upcoming IaCConf Spotlight dives into the security and governance challenges of managing infrastructure as code at scale. From embedding security in your pipelines to navigating the realities of open source risk, this event brings together practitioners […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an intelligent eDiscovery solution using Amazon Bedrock Agents]]></title>
-        <id>94b577b6ff9cb0dad5eabf784e7fc843478e902d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-ediscovery-solution-using-amazon-bedrock-agents/"/>
-        <updated>2025-07-25T17:22:37.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build an intelligent eDiscovery solution using Amazon Bedrock Agents for real-time document analysis. We show how to deploy specialized agents for document classification, contract analysis, email review, and legal document processing, all working together through a multi-agent architecture. We walk through the implementation details, deployment steps, and best practices to create an extensible foundation that organizations can adapt to their specific eDiscovery requirements.]]></summary>
-        <author>
-            <name>Puneeth Komaragiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations]]></title>
-        <id>ad5dbd637deafce1f76c80ba90bfce9e335e599d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-performline-uses-prompt-engineering-on-amazon-bedrock-to-detect-compliance-violations/"/>
-        <updated>2025-07-25T17:03:23.000Z</updated>
-        <summary type="html"><![CDATA[PerformLine operates within the marketing compliance industry, a specialized subset of the broader compliance software market, which includes various compliance solutions like anti-money laundering (AML), know your customer (KYC), and others. In this post, PerformLine and AWS explore how PerformLine used Amazon Bedrock to accelerate compliance processes, generate actionable insights, and provide contextual data—delivering the speed and accuracy essential for large-scale oversight.]]></summary>
-        <author>
-            <name>Bogdan Arsenie, Nick Mattei</name>
         </author>
     </entry>
 </feed>

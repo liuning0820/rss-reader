@@ -33,6 +33,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1678",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Spacelift: Infrastructure Security Virtual Event – This Wednesday, August 27 Join the IaCConf community on August 27 for a free virtual event that dives into IaC security best practices and real-world stories. Hear from three speakers on: Taking a Platform Approach to Safer Infrastructure How Tagged, Vetted […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-491/",
+          "publishedOn": "2025-08-25T01:42:02.000Z",
+          "wordCount": 1210,
+          "title": "SRE Weekly Issue #491",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1676",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is […]",

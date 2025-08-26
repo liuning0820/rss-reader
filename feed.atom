@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-26T18:23:45.732Z</updated>
+    <updated>2025-08-26T20:18:46.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI]]></title>
+        <id>e27705756c1e7e55bd0d8013da0fec052cd84872</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/"/>
+        <updated>2025-08-26T18:37:21.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.]]></summary>
+        <author>
+            <name>Faryab Haye</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #491]]></title>
         <id>https://sreweekly.com/?p=1678</id>

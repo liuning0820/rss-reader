@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d75df33236516c37b56c6d9b29327b0b705b385a",
+          "author": "Niithiyn Vijeaswaran",
+          "description": "In this post, we announce that Mercury and Mercury Coder foundation models from Inception Labs are now available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. We demonstrate how to deploy these ultra-fast diffusion-based language models that can generate up to 1,100 tokens per second on NVIDIA H100 GPUs, and showcase their capabilities in code generation and tool use scenarios.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2025-08-27T15:39:06.000Z",
+          "wordCount": 7075,
+          "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/26/ML-19298-1-1260x630.jpeg"
+        },
+        {
           "id": "e27705756c1e7e55bd0d8013da0fec052cd84872",
           "author": "Faryab Haye",
           "description": "In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.",

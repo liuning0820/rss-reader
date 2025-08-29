@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -85,6 +85,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "1e0d846748627ab69c24fa6e7388f65c9efdda24",
+          "author": "Nina Chen",
+          "description": "We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/",
+          "publishedOn": "2025-08-29T16:55:37.000Z",
+          "wordCount": 5704,
+          "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/20/ML-18870-Datadog-AWS.png"
+        },
+        {
+          "id": "2de27b411929b46d7b690688508935cd0105dcb4",
+          "author": "Rahmat Fedayizada",
+          "description": "In this post, we show you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/",
+          "publishedOn": "2025-08-29T16:46:13.000Z",
+          "wordCount": 6164,
+          "title": "Set up custom domain names for Amazon Bedrock AgentCore Runtime agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/20/Screenshot-2025-08-20-at-11.41.18 AM-1260x594.png"
+        },
+        {
+          "id": "3597361840ea50779f5ad68210444b9ca0985d5b",
+          "author": "Vivek Gangasani",
+          "description": "In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2025-08-29T16:21:02.000Z",
+          "wordCount": 6210,
+          "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/29/auto_scaling_hyperpod.png"
+        },
         {
           "id": "9bd235e56ce2e7172fe9ee62f9fbfe850314c118",
           "author": "Julieta Rappan, Macarena Blasi, María Candela Blanco, Leandro Micchele",

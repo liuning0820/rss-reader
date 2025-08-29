@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-29T04:20:37.853Z</updated>
+    <updated>2025-08-29T06:24:49.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -754,16 +754,6 @@
         <summary type="html"><![CDATA[In this post, we introduce how to combine Strands Agents with Tavily’s purpose-built web intelligence API, to create powerful research agents that excel at complex information gathering tasks while maintaining the security and compliance standards required for enterprise deployment.]]></summary>
         <author>
             <name>Akarsha Sehwag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate the creation of handout notes using Amazon Bedrock Data Automation]]></title>
-        <id>fdb58bbfb5cf8d820085b75e494d8794753685cb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-the-creation-of-handout-notes-using-amazon-bedrock-data-automation/"/>
-        <updated>2025-07-30T16:22:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how you can build an automated, serverless solution to transform webinar recordings into comprehensive handouts using Amazon Bedrock Data Automation for video analysis. We walk you through the implementation of Amazon Bedrock Data Automation to transcribe and detect slide changes, as well as the use of Amazon Bedrock foundation models (FMs) for transcription refinement, combined with custom AWS Lambda functions orchestrated by AWS Step Functions.]]></summary>
-        <author>
-            <name>Laura Verghote</name>
         </author>
     </entry>
 </feed>

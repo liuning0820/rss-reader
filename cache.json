@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6414",
@@ -824,16 +824,6 @@
           "wordCount": 6390,
           "title": "Automate the creation of handout notes using Amazon Bedrock Data Automation",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/25/ML-17948-example-slides-1260x570.png"
-        },
-        {
-          "id": "2af805307b4cae8814344b0eaa0a80cf8a7f33f5",
-          "author": "Ajeet Tewari",
-          "description": "This blog post explores how to create powerful agentic applications using the Amazon Bedrock FMs, LangGraph, and the Model Context Protocol (MCP), with a practical scenario of handling a GitHub workflow of issue analysis, code fixes, and pull request generation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-github-workflows-with-generative-ai-using-amazon-bedrock-and-mcp/",
-          "publishedOn": "2025-07-30T16:16:30.000Z",
-          "wordCount": 6185,
-          "title": "Streamline GitHub workflows with generative AI using Amazon Bedrock and MCP",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/06/20/ML-18714-image-1-latest-1260x622.png"
         }
       ]
     }

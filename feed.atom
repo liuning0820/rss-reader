@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-30T01:13:40.541Z</updated>
+    <updated>2025-08-30T02:54:27.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -774,16 +774,6 @@
         <summary type="html"><![CDATA[In this post, we first introduce the Strands Agents SDK and its core features. Then we explore how it integrates with AWS environments for secure, scalable deployments, and how it provides rich observability for production use. Finally, we discuss practical use cases, and present a step-by-step example to illustrate Strands in action.]]></summary>
         <author>
             <name>Jin Tan Ruan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build dynamic web research agents with the Strands Agents SDK and Tavily]]></title>
-        <id>9646b4cbabfe26117ee3bd4443bbbd8221a89783</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-dynamic-web-research-agents-with-the-strands-agents-sdk-and-tavily/"/>
-        <updated>2025-07-31T14:35:10.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce how to combine Strands Agents with Tavily’s purpose-built web intelligence API, to create powerful research agents that excel at complex information gathering tasks while maintaining the security and compliance standards required for enterprise deployment.]]></summary>
-        <author>
-            <name>Akarsha Sehwag</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-08-31T06:22:58.078Z</updated>
+    <updated>2025-08-31T08:19:24.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -664,26 +664,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe‘s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale – from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Amazon Bedrock AgentCore Browser Tool]]></title>
-        <id>71ee8d69e119b10d2efd00b34e0b84a3e901b14f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-browser-tool/"/>
-        <updated>2025-08-01T19:23:13.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce the newly announced Amazon Bedrock AgentCore Browser Tool. We explore why organizations need cloud-based browser automation and the limitations it addresses for FMs that require real-time data access. We talk about key use cases and the core capabilities of the AgentCore Browser Tool. We walk through how to get started with the tool.]]></summary>
-        <author>
-            <name>Veda Raman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the Amazon Bedrock AgentCore Code Interpreter]]></title>
-        <id>4a3f131676ce3e0c3878346955b5ccefe59aa3f3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-agentcore-code-interpreter/"/>
-        <updated>2025-08-01T19:23:05.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce the Amazon Bedrock AgentCore Code Interpreter, a fully managed service that enables AI agents to securely execute code in isolated sandbox environments. We discuss how the AgentCore Code Interpreter helps solve challenges around security, scalability, and infrastructure management when deploying AI agents that need computational capabilities.]]></summary>
-        <author>
-            <name>Veda Raman</name>
         </author>
     </entry>
 </feed>

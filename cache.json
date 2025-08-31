@@ -713,26 +713,6 @@
           "wordCount": 5921,
           "title": "Cost tracking multi-tenant model inference on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/31/ML-18463-arch-diag-985x630.png"
-        },
-        {
-          "id": "71ee8d69e119b10d2efd00b34e0b84a3e901b14f",
-          "author": "Veda Raman",
-          "description": "In this post, we introduce the newly announced Amazon Bedrock AgentCore Browser Tool. We explore why organizations need cloud-based browser automation and the limitations it addresses for FMs that require real-time data access. We talk about key use cases and the core capabilities of the AgentCore Browser Tool. We walk through how to get started with the tool.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-browser-tool/",
-          "publishedOn": "2025-08-01T19:23:13.000Z",
-          "wordCount": 6105,
-          "title": "Introducing Amazon Bedrock AgentCore Browser Tool",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ML-19404-1120x630.jpg"
-        },
-        {
-          "id": "4a3f131676ce3e0c3878346955b5ccefe59aa3f3",
-          "author": "Veda Raman",
-          "description": "In this post, we introduce the Amazon Bedrock AgentCore Code Interpreter, a fully managed service that enables AI agents to securely execute code in isolated sandbox environments. We discuss how the AgentCore Code Interpreter helps solve challenges around security, scalability, and infrastructure management when deploying AI agents that need computational capabilities.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-agentcore-code-interpreter/",
-          "publishedOn": "2025-08-01T19:23:05.000Z",
-          "wordCount": 6753,
-          "title": "Introducing the Amazon Bedrock AgentCore Code Interpreter",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/01/ml-19403-1120x630.jpg"
         }
       ]
     }

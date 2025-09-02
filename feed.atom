@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-02T18:21:22.956Z</updated>
+    <updated>2025-09-02T20:17:22.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a serverless Amazon Bedrock batch job orchestration workflow using AWS Step Functions]]></title>
+        <id>5be768bbb28d9f3b0de3e8f1044afcf67bc8a561</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-serverless-amazon-bedrock-batch-job-orchestration-workflow-using-aws-step-functions/"/>
+        <updated>2025-09-02T18:55:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce a flexible and scalable solution that simplifies the batch inference workflow. This solution provides a highly scalable approach to managing your FM batch inference needs, such as generating embeddings for millions of documents or running custom evaluation or completion tasks with large datasets.]]></summary>
+        <author>
+            <name>Swagat Kulkarni</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natural language-based database analytics with Amazon Nova]]></title>
         <id>ffd202f4c937032dcc7bec0a3614b56d56d00ecf</id>

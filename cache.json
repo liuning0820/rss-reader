@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5be768bbb28d9f3b0de3e8f1044afcf67bc8a561",
+          "author": "Swagat Kulkarni",
+          "description": "In this post, we introduce a flexible and scalable solution that simplifies the batch inference workflow. This solution provides a highly scalable approach to managing your FM batch inference needs, such as generating embeddings for millions of documents or running custom evaluation or completion tasks with large datasets.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-amazon-bedrock-batch-job-orchestration-workflow-using-aws-step-functions/",
+          "publishedOn": "2025-09-02T18:55:16.000Z",
+          "wordCount": 5889,
+          "title": "Build a serverless Amazon Bedrock batch job orchestration workflow using AWS Step Functions",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/22/ML-18183-image-3-1260x482.jpeg"
+        },
+        {
           "id": "ffd202f4c937032dcc7bec0a3614b56d56d00ecf",
           "author": "Rahul Ghosh",
           "description": "In this post, we explore how natural language database analytics can revolutionize the way organizations interact with their structured data through the power of large language model (LLM) agents. Natural language interfaces to databases have long been a goal in data management. Agents enhance database analytics by breaking down complex queries into explicit, verifiable reasoning steps and enabling self-correction through validation loops that can catch errors, analyze failures, and refine queries until they accurately match user intent and schema requirements.",

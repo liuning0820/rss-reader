@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-02T22:14:04.549Z</updated>
+    <updated>2025-09-03T01:14:03.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Train and deploy models on Amazon SageMaker HyperPod using the new HyperPod CLI and SDK]]></title>
+        <id>c42f810eee8a4e1a023d9031bb3adce1f483a67a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/train-and-deploy-models-on-amazon-sagemaker-hyperpod-using-the-new-hyperpod-cli-and-sdk/"/>
+        <updated>2025-09-03T00:12:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to use the new Amazon SageMaker HyperPod CLI and SDK to streamline the process of training and deploying large AI models through practical examples of distributed training using Fully Sharded Data Parallel (FSDP) and model deployment for inference. The tools provide simplified workflows through straightforward commands for common tasks, while offering flexible development options through the SDK for more complex requirements, along with comprehensive observability features and production-ready deployment capabilities.]]></summary>
+        <author>
+            <name>Giuseppe Angelo Porcelli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a serverless Amazon Bedrock batch job orchestration workflow using AWS Step Functions]]></title>
         <id>5be768bbb28d9f3b0de3e8f1044afcf67bc8a561</id>

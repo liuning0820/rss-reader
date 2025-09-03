@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c42f810eee8a4e1a023d9031bb3adce1f483a67a",
+          "author": "Giuseppe Angelo Porcelli",
+          "description": "In this post, we demonstrate how to use the new Amazon SageMaker HyperPod CLI and SDK to streamline the process of training and deploying large AI models through practical examples of distributed training using Fully Sharded Data Parallel (FSDP) and model deployment for inference. The tools provide simplified workflows through straightforward commands for common tasks, while offering flexible development options through the SDK for more complex requirements, along with comprehensive observability features and production-ready deployment capabilities.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-models-on-amazon-sagemaker-hyperpod-using-the-new-hyperpod-cli-and-sdk/",
+          "publishedOn": "2025-09-03T00:12:37.000Z",
+          "wordCount": 8123,
+          "title": "Train and deploy models on Amazon SageMaker HyperPod using the new HyperPod CLI and SDK",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/03/hyperpodclisdk.png"
+        },
+        {
           "id": "5be768bbb28d9f3b0de3e8f1044afcf67bc8a561",
           "author": "Swagat Kulkarni",
           "description": "In this post, we introduce a flexible and scalable solution that simplifies the batch inference workflow. This solution provides a highly scalable approach to managing your FM batch inference needs, such as generating embeddings for millions of documents or running custom evaluation or completion tasks with large datasets.",

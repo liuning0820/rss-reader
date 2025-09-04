@@ -754,16 +754,6 @@
           "wordCount": 5621,
           "title": "Process multi-page documents with human review using Amazon Bedrock Data Automation and Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/ML-18583-1120x630.jpg"
-        },
-        {
-          "id": "0667e042a9edacb16f3fd2ac35f0a54d97b9edf4",
-          "author": "Abhinav Jawadekar",
-          "description": "In this post, we demonstrate how to build an AI assistant using Amazon Q Business that responds to user requests based on your enterprise documents stored in an S3 bucket, and how the users can use the reference URLs in the AI assistant responses to view or download the referred documents, and verify the AI responses to practice responsible AI.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-assistant-using-amazon-q-business-with-amazon-s3-clickable-urls/",
-          "publishedOn": "2025-08-06T01:16:43.000Z",
-          "wordCount": 7635,
-          "title": "Build an AI assistant using Amazon Q Business with Amazon S3 clickable URLs",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/ML-19045-1120x630.jpg"
         }
       ]
     }

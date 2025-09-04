@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-04T12:32:38.289Z</updated>
+    <updated>2025-09-04T14:15:43.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,16 +704,6 @@
         <summary type="html"><![CDATA[In this post, we show how to process multi-page documents with a human review loop using Amazon Bedrock Data Automation and Amazon SageMaker AI.]]></summary>
         <author>
             <name>Prashanth Ramanathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI assistant using Amazon Q Business with Amazon S3 clickable URLs]]></title>
-        <id>0667e042a9edacb16f3fd2ac35f0a54d97b9edf4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-ai-assistant-using-amazon-q-business-with-amazon-s3-clickable-urls/"/>
-        <updated>2025-08-06T01:16:43.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build an AI assistant using Amazon Q Business that responds to user requests based on your enterprise documents stored in an S3 bucket, and how the users can use the reference URLs in the AI assistant responses to view or download the referred documents, and verify the AI responses to practice responsible AI.]]></summary>
-        <author>
-            <name>Abhinav Jawadekar</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-05T10:17:23.394Z</updated>
+    <updated>2025-09-05T12:33:24.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RISC-V Production Ready]]></title>
+        <id>http://blog.thestateofme.com/?p=6450</id>
+        <link href="https://blog.thestateofme.com/2025/09/05/risc-v-production-ready/"/>
+        <updated>2025-09-05T10:19:33.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR RISE did it’s job, and in the past couple of years RISC-V support has found its way into stable releases of key infrastructure software like Debian. So from a software perspective, it’s arguable that RISC-V is now ready for production. Progress has been a little slower on the hardware front, but hardware is… hard; […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2]]></title>
         <id>8d31e3296a4f223676250d879399d2c555402445</id>

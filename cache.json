@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6450",
+          "author": "Chris Swan",
+          "description": "TL;DR RISE did it’s job, and in the past couple of years RISC-V support has found its way into stable releases of key infrastructure software like Debian. So from a software perspective, it’s arguable that RISC-V is now ready for production. Progress has been a little slower on the hardware front, but hardware is… hard; […]",
+          "link": "https://blog.thestateofme.com/2025/09/05/risc-v-production-ready/",
+          "publishedOn": "2025-09-05T10:19:33.000Z",
+          "wordCount": 4189,
+          "title": "RISC-V Production Ready",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6433",
           "author": "Chris Swan",
           "description": "Pupdate It’s been warm and dry[1], so the boys have enjoyed some nice long walks. Fringe Edinburgh Fringe was a regular feature of the twenty-teens for us, but then Covid happened. This year was our first time back, and it was great. We saw: They were all fantastic, and I’m not going to pick favourites. […]",

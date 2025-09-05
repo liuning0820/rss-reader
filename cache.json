@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6433",
@@ -729,21 +729,6 @@
           "wordCount": 5753,
           "title": "How Amazon Bedrock powers next-generation account planning at AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/07/ML-19090-1120x630.jpg"
-        },
-        {
-          "id": "f28eddbe4f7e3ea028d56443d34a4382f641d09b",
-          "author": "Spencer Herrick",
-          "description": "Today, we’re excited to announce the integration of Asana AI Studio with Amazon Q index, bringing generative AI directly into your daily workflows. In this post, we explore how Asana AI Studio and Amazon Q index transform enterprise efficiency through intelligent workflow automation and enhanced data accessibility.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/pioneering-ai-workflows-at-scale-a-deep-dive-into-asana-ai-studio-and-amazon-q-index-collaboration/",
-          "publishedOn": "2025-08-06T21:43:10.000Z",
-          "wordCount": 5926,
-          "title": "Pioneering AI workflows at scale: A deep dive into Asana AI Studio and Amazon Q index collaboration",
-          "enclosure": {
-            "length": "18031847",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19209/Asana+%2B+Amazon+Q+index+demo.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/06/ml-19209-1120x630.jpg"
         }
       ]
     }

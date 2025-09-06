@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-06T04:18:11.488Z</updated>
+    <updated>2025-09-06T06:21:19.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -684,26 +684,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe‘s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale – from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DIVA logistics agent, powered by Amazon Bedrock]]></title>
-        <id>446f2efb9a4231100e57ec09e820f8afbac6f6a3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/the-diva-logistics-agent-powered-by-amazon-bedrock/"/>
-        <updated>2025-08-07T16:44:17.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss how DTDC and ShellKode used Amazon Bedrock to build DIVA 2.0, a generative AI-powered logistics agent.]]></summary>
-        <author>
-            <name>Rishi Sareen, Arunraja Karthick, Bakrudeen K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate enterprise workflows by integrating Salesforce Agentforce with Amazon Bedrock Agents]]></title>
-        <id>369464767b6be982151c3e65a03896ae26e3ccff</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-enterprise-workflows-by-integrating-salesforce-agentforce-with-amazon-bedrock-agents/"/>
-        <updated>2025-08-07T16:40:46.000Z</updated>
-        <summary type="html"><![CDATA[This post explores a practical collaboration, integrating Salesforce Agentforce with Amazon Bedrock Agents and Amazon Redshift, to automate enterprise workflows.]]></summary>
-        <author>
-            <name>Yogesh Dhimate</name>
         </author>
     </entry>
 </feed>

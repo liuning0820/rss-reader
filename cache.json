@@ -106,6 +106,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "8855abde0d9b1a7c0fcfac580dddffa9cf528343",
+          "author": "Changsha Ma",
+          "description": "This post demonstrates how to quickly build sophisticated AI agents using Strands Agents, scale them reliably with Amazon Bedrock AgentCore, and make them accessible through LibreChat’s familiar interface to drive immediate user adoption across your institution.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-and-scale-adoption-of-ai-agents-for-education-with-strands-agents-amazon-bedrock-agentcore-and-librechat/",
+          "publishedOn": "2025-09-08T19:05:40.000Z",
+          "wordCount": 6694,
+          "title": "Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/04/ML-18949-arch-diag.png"
+        },
+        {
+          "id": "1cfb130aca0ab42c85e4fcc44f142705bb27cc4b",
+          "author": "Lior Heber, Yarden Ron",
+          "description": "Skai (formerly Kenshoo) is an AI-driven omnichannel advertising and analytics platform designed for brands and agencies to plan, launch, optimize, and measure paid media across search, social, retail media marketplaces and other “walled-garden” channels from a single interface. In this post, we share how Skai used Amazon Bedrock Agents to improve data access and analysis and improve customer insights.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/skai-uses-amazon-bedrock-agents-to-significantly-improve-customer-insights-by-revolutionized-data-access-and-analysis/",
+          "publishedOn": "2025-09-08T19:03:42.000Z",
+          "wordCount": 6616,
+          "title": "Skai uses Amazon Bedrock Agents to significantly improve customer insights by revolutionized data access and analysis",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/29/ML-19118-image-1.png"
+        },
+        {
           "id": "8562e0462c68c57c99c91b4af41de98c4497b654",
           "author": "Felipe Monroy, Ana Jaime, Nikita Gordeev",
           "description": "In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization. In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization.",

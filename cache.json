@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "8562e0462c68c57c99c91b4af41de98c4497b654",
+          "author": "Felipe Monroy, Ana Jaime, Nikita Gordeev",
+          "description": "In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization. In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/the-power-of-ai-in-driving-personalized-product-discovery-at-snoonu/",
+          "publishedOn": "2025-09-08T15:49:54.000Z",
+          "wordCount": 5902,
+          "title": "The power of AI in driving personalized product discovery at Snoonu",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/08/ML-18844-arch-diagram-808x630.jpg"
+        },
+        {
           "id": "f7c4b2b3806c8de1f6e276c9575102d273138b82",
           "author": "Tasneem Fathima",
           "description": "In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment.",

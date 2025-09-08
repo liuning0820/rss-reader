@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d415d23a11cef8854c31ee9de5be71ceda564376",
+          "author": "Siamak Nariman",
+          "description": "We are excited to announce the general availability of fine-grained compute and memory quota allocation with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects. For more information, see HyperPod task governance best […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/",
+          "publishedOn": "2025-09-08T20:50:04.000Z",
+          "wordCount": 6934,
+          "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
           "id": "8855abde0d9b1a7c0fcfac580dddffa9cf528343",
           "author": "Changsha Ma",
           "description": "This post demonstrates how to quickly build sophisticated AI agents using Strands Agents, scale them reliably with Amazon Bedrock AgentCore, and make them accessible through LibreChat’s familiar interface to drive immediate user adoption across your institution.",

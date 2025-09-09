@@ -81,16 +81,6 @@
           "wordCount": 1052,
           "title": "SRE Weekly Issue #490",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1673",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Observe, Inc.: Observe‘s free Masterclass in Observability at Scale is coming on September 4th at 10am Pacific! We’ll explore how to architect for observability at scale – from streaming telemetry and open data lakes to AI agents that proactively instrument your code and surface insights. Learn more […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-489/",
-          "publishedOn": "2025-08-11T02:21:32.000Z",
-          "wordCount": 1156,
-          "title": "SRE Weekly Issue #489",
-          "imageUrl": null
         }
       ]
     },
@@ -105,6 +95,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "e1cbf97e67035802ab2ef8c1c6396790fb2733c1",
+          "author": "Paulo Aragão",
+          "description": "AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2025-09-09T14:35:22.000Z",
+          "wordCount": 7038,
+          "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ML-19253_Blog_FeaturedImg.png"
+        },
         {
           "id": "d415d23a11cef8854c31ee9de5be71ceda564376",
           "author": "Siamak Nariman",

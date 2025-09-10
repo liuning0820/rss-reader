@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "eb793e2893f3725741f02fddfdf33c3338e51efc",
+          "author": "Mehran Nikoo",
+          "description": "We are excited to announce the availability of the Technology Innovation Institute (TII)’s Falcon-H1 models on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. With this launch, developers and data scientists can now use six instruction-tuned Falcon-H1 models (0.5B, 1.5B, 1.5B-Deep, 3B, 7B, and 34B) on AWS, and have access to a comprehensive suite of hybrid architecture models that combine traditional attention mechanisms with State Space Models (SSMs) to deliver exceptional performance with unprecedented efficiency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2025-09-10T16:22:09.000Z",
+          "wordCount": 6367,
+          "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/10/tii-falcon-h1-jumpstart.jpg"
+        },
+        {
           "id": "65b3ba63700c38b64e0a38f2527749fd3cf20bb4",
           "author": "Erik Cordsen",
           "description": "This post explores how Oldcastle partnered with AWS to transform their document processing workflow using Amazon Bedrock with Amazon Textract. We discuss how Oldcastle overcame the limitations of their previous OCR solution to automate the processing of hundreds of thousands of POD documents each month, dramatically improving accuracy while reducing manual effort.",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-11T16:20:23.310Z</updated>
+    <updated>2025-09-11T18:19:30.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Skello uses Amazon Bedrock to query data in a multi-tenant environment while keeping logical boundaries]]></title>
+        <id>c2c6699f84e1b6e6e9baeb0d978806d667c3103c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-skello-uses-amazon-bedrock-to-query-data-in-a-multi-tenant-environment-while-keeping-logical-boundaries/"/>
+        <updated>2025-09-11T17:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Skello is a leading human resources (HR) software as a service (SaaS) solution focusing on employee scheduling and workforce management. Catering to diverse sectors such as hospitality, retail, healthcare, construction, and industry, Skello offers features including schedule creation, time tracking, and payroll preparation. We dive deep into the challenges of implementing large language models (LLMs) for data querying, particularly in the context of a French company operating under the General Data Protection Regulation (GDPR).]]></summary>
+        <author>
+            <name>Nicolas de Place</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a private workforce on Amazon SageMaker Ground Truth with the AWS CDK]]></title>
+        <id>538e42995c09a147ed3e5774af46dd3354d6f271</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/create-a-private-workforce-on-amazon-sagemaker-ground-truth-with-the-aws-cdk/"/>
+        <updated>2025-09-11T17:56:01.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we present a complete solution for programmatically creating private workforces on Amazon SageMaker AI using the AWS Cloud Development Kit (AWS CDK), including the setup of a dedicated, fully configured Amazon Cognito user pool.]]></summary>
+        <author>
+            <name>Giorgio Pessot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart]]></title>
         <id>eb793e2893f3725741f02fddfdf33c3338e51efc</id>

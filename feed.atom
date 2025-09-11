@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-11T18:19:30.706Z</updated>
+    <updated>2025-09-11T20:15:15.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection]]></title>
+        <id>b7c8b3314921ebcf52f25e3dec6681bc7aa0ad05</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/"/>
+        <updated>2025-09-11T19:20:13.000Z</updated>
+        <summary type="html"><![CDATA[In real-world video and image analysis, businesses often face the challenge of detecting objects that weren’t part of a model’s original training set. This becomes especially difficult in dynamic environments where new, unknown, or user-defined objects frequently appear. In this post, we explore how Amazon Bedrock Data Automation uses OSOD to enhance video understanding.]]></summary>
+        <author>
+            <name>Dongsheng An</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Skello uses Amazon Bedrock to query data in a multi-tenant environment while keeping logical boundaries]]></title>
         <id>c2c6699f84e1b6e6e9baeb0d978806d667c3103c</id>

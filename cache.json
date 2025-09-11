@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b7c8b3314921ebcf52f25e3dec6681bc7aa0ad05",
+          "author": "Dongsheng An",
+          "description": "In real-world video and image analysis, businesses often face the challenge of detecting objects that weren’t part of a model’s original training set. This becomes especially difficult in dynamic environments where new, unknown, or user-defined objects frequently appear. In this post, we explore how Amazon Bedrock Data Automation uses OSOD to enhance video understanding.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/",
+          "publishedOn": "2025-09-11T19:20:13.000Z",
+          "wordCount": 5202,
+          "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml19267-1-1061x630.jpg"
+        },
+        {
           "id": "c2c6699f84e1b6e6e9baeb0d978806d667c3103c",
           "author": "Nicolas de Place",
           "description": "Skello is a leading human resources (HR) software as a service (SaaS) solution focusing on employee scheduling and workforce management. Catering to diverse sectors such as hospitality, retail, healthcare, construction, and industry, Skello offers features including schedule creation, time tracking, and payroll preparation. We dive deep into the challenges of implementing large language models (LLMs) for data querying, particularly in the context of a French company operating under the General Data Protection Regulation (GDPR).",

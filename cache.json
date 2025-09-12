@@ -744,16 +744,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19422/v1-Agentcore+CLI+runtime+demo.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/ml-19422-1120x630.jpg"
-        },
-        {
-          "id": "a9665622a4c45f386c95fba6a9c83b9620c6ce9a",
-          "author": "Nafi Diallo",
-          "description": "This post presents how AWS and PwC are developing new reasoning checks that combine deep industry expertise with Automated Reasoning checks in Amazon Bedrock Guardrails to support innovation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/pwc-and-aws-build-responsible-ai-with-automated-reasoning-on-amazon-bedrock/",
-          "publishedOn": "2025-08-13T19:32:01.000Z",
-          "wordCount": 5727,
-          "title": "PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/13/ML-19427-1120x630.jpg"
         }
       ]
     }

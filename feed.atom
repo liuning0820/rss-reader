@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-15T01:20:22.662Z</updated>
+    <updated>2025-09-15T03:05:12.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #494]]></title>
+        <id>https://sreweekly.com/?p=1688</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-494/"/>
+        <updated>2025-09-15T01:49:10.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I’m on medical leave. If all goes to plan, I’ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you’re interested, I invite […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate advanced agentic RAG pipeline with Amazon SageMaker AI]]></title>
         <id>d74b9e632b157ba06cfd919fb1700edb3411fc4a</id>

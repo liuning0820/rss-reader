@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1688",
+          "author": "lex",
+          "description": "View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I’m on medical leave. If all goes to plan, I’ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you’re interested, I invite […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-494/",
+          "publishedOn": "2025-09-15T01:49:10.000Z",
+          "wordCount": 1296,
+          "title": "SRE Weekly Issue #494",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1683",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Shipfox: Shipfox supercharges GitHub Actions – no workflow changes, 30-min setup. 2x faster builds with better CPU, faster disks & high-throughput caching 75% lower costs with shorter jobs and better price-per-performance Full CI observability with test/job speed and reliability 👉 See how it works: https://shipfox.io?utm_source=SREWeekly&utm_campaign=issue493 Reverse Proxy […]",

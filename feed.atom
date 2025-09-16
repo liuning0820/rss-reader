@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-16T16:20:51.704Z</updated>
+    <updated>2025-09-16T18:23:55.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamline access to ISO-rating content changes with Verisk rating insights and Amazon Bedrock]]></title>
+        <id>c81184f8a800563a229bc56a6e96924521a788de</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/streamline-access-to-iso-rating-content-changes-with-verisk-rating-insights-and-amazon-bedrock/"/>
+        <updated>2025-09-16T16:43:42.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we dive into how Verisk Rating Insights, powered by Amazon Bedrock, large language models (LLM), and Retrieval Augmented Generation (RAG), is transforming the way customers interact with and access ISO ERC changes.]]></summary>
+        <author>
+            <name>Samit Verma, Eusha Rizvi, Manmeet Singh, Troy Smith, Corey Finley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified multimodal access layer for Quora’s Poe using Amazon Bedrock]]></title>
+        <id>40061c4367b45b3caf258aa9563934211acf6432</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/unified-multimodal-access-layer-for-quoras-poe-using-amazon-bedrock/"/>
+        <updated>2025-09-16T16:40:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how the AWS Generative AI Innovation Center and Quora collaborated to build a unified wrapper API framework that dramatically accelerates the deployment of Amazon Bedrock FMs on Quora’s Poe system. We detail the technical architecture that bridges Poe’s event-driven ServerSentEvents protocol with Amazon Bedrock REST-based APIs, demonstrate how a template-based configuration system reduced deployment time from days to 15 minutes, and share implementation patterns for protocol translation, error handling, and multi-modal capabilities.]]></summary>
+        <author>
+            <name>Gilbert V Lepadatu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Schedule topology-aware workloads using Amazon SageMaker HyperPod task governance]]></title>
         <id>58a03ef099d3732190820119e9592a9adb21b9e4</id>

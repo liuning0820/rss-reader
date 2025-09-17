@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-17T08:21:44.231Z</updated>
+    <updated>2025-09-17T10:16:46.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -644,16 +644,6 @@
         <summary type="html"><![CDATA[In this post, we explore how to design and implement custom plugins for Amazon Q Business to create an intelligent chatbot that streamlines employee training by retrieving answers from training materials. The solution implements secure API access using Amazon Cognito for user authentication and authorization, processes multiple document formats, and includes features like RAG-enhanced responses and email escalation capabilities through custom plugins.]]></summary>
         <author>
             <name>Neha Bhupatiraju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a travel planning agentic workflow with Amazon Nova]]></title>
-        <id>76148e40b63152f8f90e52460fc904c981ac9008</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/create-a-travel-planning-agentic-workflow-with-amazon-nova/"/>
-        <updated>2025-08-18T20:30:15.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to build a travel planning solution using AI agents. The agent uses Amazon Nova, which offers an optimal balance of performance and cost compared to other commercial LLMs. By combining accurate but cost-efficient Amazon Nova models with LangGraph orchestration capabilities, we create a practical travel assistant that can handle complex planning tasks while keeping operational costs manageable for production deployments.]]></summary>
-        <author>
-            <name>Isaac Privitera</name>
         </author>
     </entry>
 </feed>

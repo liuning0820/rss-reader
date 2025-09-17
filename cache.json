@@ -96,6 +96,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "db5ef29d7caea4d62794a0c63821b3b9fda341ab",
+          "author": "Abhinand Sukumar",
+          "description": "In this post, we showed how to use the Amazon Q Business browser extension to give your team seamless access to AI-driven insights and assistance. The browser extension is now available in US East (N. Virginia) and US West (Oregon) AWS Regions for Mozilla, Google Chrome, and Microsoft Edge as part of the Lite Subscription.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-organizations-productivity-with-the-amazon-q-business-browser-extension/",
+          "publishedOn": "2025-09-17T19:37:32.000Z",
+          "wordCount": 12338,
+          "title": "Supercharge your organization’s productivity with the Amazon Q Business browser extension",
+          "enclosure": {
+            "length": "11698312",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-18631/browser_extension_demo_use_case_1.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/04/image-10-1-1260x630.png"
+        },
+        {
+          "id": "671f76c3eedc64d556bc86f3cbab1f9b4bc6c7d4",
+          "author": "Vivek Gangasani",
+          "description": "In this post, we show how to deploy gpt-oss-20b model to SageMaker managed endpoints and demonstrate a practical stock analyzer agent assistant example with LangGraph, a powerful graph-based framework that handles state management, coordinated workflows, and persistent memory systems.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-workflows-with-openai-gpt-oss-on-amazon-sagemaker-ai-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2025-09-17T19:31:44.000Z",
+          "wordCount": 12345,
+          "title": "Build Agentic Workflows with OpenAI GPT OSS on Amazon SageMaker AI and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/15/Screenshot-2025-09-15-at-9.37.48 AM-1155x630.png"
+        },
+        {
           "id": "c81184f8a800563a229bc56a6e96924521a788de",
           "author": "Samit Verma, Eusha Rizvi, Manmeet Singh, Troy Smith, Corey Finley",
           "description": "In this post, we dive into how Verisk Rating Insights, powered by Amazon Bedrock, large language models (LLM), and Retrieval Augmented Generation (RAG), is transforming the way customers interact with and access ISO ERC changes.",

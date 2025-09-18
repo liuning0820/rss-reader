@@ -664,16 +664,6 @@
           "wordCount": 6523,
           "title": "Enhance AI agents using predictive ML models with Amazon SageMaker AI and Model Context Protocol (MCP)",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/06/image-1-8-1038x630.png"
-        },
-        {
-          "id": "a2c8109d46394c581954ccf9b60dc68943f6f167",
-          "author": "Durga Sury",
-          "description": "In this post, we explore how to enable and use trusted identity propagation in Amazon SageMaker Studio, which allows organizations to simplify access management by granting permissions to existing AWS IAM Identity Center identities. The solution demonstrates how to implement fine-grained access controls based on a physical user's identity, maintain detailed audit logs across supported AWS services, and support long-running user background sessions for training jobs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/",
-          "publishedOn": "2025-08-19T20:00:45.000Z",
-          "wordCount": 7335,
-          "title": "Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/18/ml-19006-arch-diagram-1.png"
         }
       ]
     }

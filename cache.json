@@ -694,16 +694,6 @@
           "wordCount": 7035,
           "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/04/image-1-3-974x630.png"
-        },
-        {
-          "id": "7a0ae177ce6347625011534ba7305a9d99376846",
-          "author": "Neha Bhupatiraju",
-          "description": "In this post, we explore how to design and implement custom plugins for Amazon Q Business to create an intelligent chatbot that streamlines employee training by retrieving answers from training materials. The solution implements secure API access using Amazon Cognito for user authentication and authorization, processes multiple document formats, and includes features like RAG-enhanced responses and email escalation capabilities through custom plugins.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-employee-training-with-an-intelligent-chatbot-powered-by-amazon-q-business/",
-          "publishedOn": "2025-08-19T14:02:50.000Z",
-          "wordCount": 7094,
-          "title": "Streamline employee training with an intelligent chatbot powered by Amazon Q Business",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/05/image-1-6-611x630.png"
         }
       ]
     }

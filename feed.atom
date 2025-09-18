@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-18T20:18:01.523Z</updated>
+    <updated>2025-09-18T22:13:31.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scale visual production using Stability AI Image Services in Amazon Bedrock]]></title>
+        <id>b642ec0bfe2c1a167b10b3c9f32f37665b11d360</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/"/>
+        <updated>2025-09-18T21:25:49.000Z</updated>
+        <summary type="html"><![CDATA[This post was written with Alex Gnibus of Stability AI. Stability AI Image Services are now available in Amazon Bedrock, offering ready-to-use media editing capabilities delivered through the Amazon Bedrock API. These image editing tools expand on the capabilities of Stability AI’s Stable Diffusion 3.5 models (SD3.5) and Stable Image Core and Ultra models, which […]]]></summary>
+        <author>
+            <name>Alex Gnibus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompting for precision with Stability AI Image Services in Amazon Bedrock]]></title>
+        <id>ba1f8c7a8b2fcd1e929865b693e1f09d5bc55374</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/"/>
+        <updated>2025-09-18T21:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock now offers Stability AI Image Services: 9 tools that improve how businesses create and modify images. The technology extends Stable Diffusion and Stable Image models to give you precise control over image creation and editing. Clear prompts are critical—they provide art direction to the AI system. Strong prompts control specific elements like tone, […]]]></summary>
+        <author>
+            <name>Suleman Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics]]></title>
         <id>d9e117a4b439353a34dfffbccc088a081a699676</id>

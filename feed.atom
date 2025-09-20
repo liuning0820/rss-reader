@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-20T04:19:08.379Z</updated>
+    <updated>2025-09-20T06:22:42.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -634,16 +634,6 @@
         <summary type="html"><![CDATA[In this post, we walk through how you can use the new Code Editor and multiple spaces support in SageMaker Unified Studio. The sample solution shows how to develop an ML pipeline that automates the typical end-to-end ML activities to build, train, evaluate, and (optionally) deploy an ML model.]]></summary>
         <author>
             <name>Paul Hargis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Infosys Topaz leverages Amazon Bedrock to transform technical help desk operations]]></title>
-        <id>19bd3f2c7977d1a8c8fe4f502d6da4b0b8e8d205</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-infosys-topaz-leverages-amazon-bedrock-to-transform-technical-help-desk-operations/"/>
-        <updated>2025-08-21T17:25:11.000Z</updated>
-        <summary type="html"><![CDATA[In this blog, we examine the use case of a large energy supplier whose technical help desk agents answer customer calls and support field agents. We use Amazon Bedrock along with capabilities from Infosys Topaz™ to build a generative AI application that can reduce call handling times, automate tasks, and improve the overall quality of technical support.]]></summary>
-        <author>
-            <name>Meenakshi Venkatesan, Karthikeyan Senthilkumar, Aninda Chakraborty</name>
         </author>
     </entry>
 </feed>

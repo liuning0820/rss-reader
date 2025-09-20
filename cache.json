@@ -674,16 +674,6 @@
           "wordCount": 6300,
           "title": "Speed up delivery of ML workloads using Code Editor in Amazon SageMaker Unified Studio",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/21/code-editor-sagemaker-studio.jpg"
-        },
-        {
-          "id": "19bd3f2c7977d1a8c8fe4f502d6da4b0b8e8d205",
-          "author": "Meenakshi Venkatesan, Karthikeyan Senthilkumar, Aninda Chakraborty",
-          "description": "In this blog, we examine the use case of a large energy supplier whose technical help desk agents answer customer calls and support field agents. We use Amazon Bedrock along with capabilities from Infosys Topaz™ to build a generative AI application that can reduce call handling times, automate tasks, and improve the overall quality of technical support.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-topaz-leverages-amazon-bedrock-to-transform-technical-help-desk-operations/",
-          "publishedOn": "2025-08-21T17:25:11.000Z",
-          "wordCount": 6764,
-          "title": "How Infosys Topaz leverages Amazon Bedrock to transform technical help desk operations",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/04/image-2-2.png"
         }
       ]
     }

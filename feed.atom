@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-23T12:34:38.181Z</updated>
+    <updated>2025-09-23T14:17:03.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -554,16 +554,6 @@
         <summary type="html"><![CDATA[In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.]]></summary>
         <author>
             <name>Faryab Haye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #491]]></title>
-        <id>https://sreweekly.com/?p=1678</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-491/"/>
-        <updated>2025-08-25T01:42:02.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Spacelift: Infrastructure Security Virtual Event – This Wednesday, August 27 Join the IaCConf community on August 27 for a free virtual event that dives into IaC security best practices and real-world stories. Hear from three speakers on: Taking a Platform Approach to Safer Infrastructure How Tagged, Vetted […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

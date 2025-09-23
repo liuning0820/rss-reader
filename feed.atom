@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-23T20:17:54.353Z</updated>
+    <updated>2025-09-23T22:14:40.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Running deep research AI agents on Amazon Bedrock AgentCore]]></title>
+        <id>bee0617f3a3c21af9191c358c9d226f23aa24fdb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/"/>
+        <updated>2025-09-23T20:35:23.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]]]></summary>
+        <author>
+            <name>Vadim Omeltchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrate tokenization with Amazon Bedrock Guardrails for secure data handling]]></title>
         <id>5e79a5420fc034f58c3a553079e5509c78475a2f</id>

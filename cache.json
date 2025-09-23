@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5e79a5420fc034f58c3a553079e5509c78475a2f",
+          "author": "Nizar Kheir",
+          "description": "In this post, we show you how to integrate Amazon Bedrock Guardrails with third-party tokenization services to protect sensitive data while maintaining data reversibility. By combining these technologies, organizations can implement stronger privacy controls while preserving the functionality of their generative AI applications and related systems.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/",
+          "publishedOn": "2025-09-23T17:31:04.000Z",
+          "wordCount": 12421,
+          "title": "Integrate tokenization with Amazon Bedrock Guardrails for secure data handling",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/07/ML-19297-arch-diag-1260x613.png"
+        },
+        {
           "id": "76f210816ecaaeb36edae89d344a193da1ab5030",
           "author": "Vikesh Pandey",
           "description": "In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities.",

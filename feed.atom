@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-25T18:24:45.481Z</updated>
+    <updated>2025-09-25T20:18:33.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How PropHero built an intelligent property investment advisor with continuous evaluation using Amazon Bedrock]]></title>
+        <id>5dbe4cfd52ee8f36bacb0b7620e42d0462ec0a6b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-prophero-built-an-intelligent-property-investment-advisor-with-continuous-evaluation-using-amazon-bedrock/"/>
+        <updated>2025-09-25T19:25:23.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how we built a multi-agent conversational AI system using Amazon Bedrock that delivers knowledge-grounded property investment advice. We explore the agent architecture, model selection strategy, and comprehensive continuous evaluation system that facilitates quality conversations while facilitating rapid iteration and improvement.]]></summary>
+        <author>
+            <name>Adithya Suresh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate benefits claims processing with Amazon Bedrock Data Automation]]></title>
+        <id>57cada4e19d45b9d1f3d5d40acbd429376abe8b1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-benefits-claims-processing-with-amazon-bedrock-data-automation/"/>
+        <updated>2025-09-25T19:20:16.000Z</updated>
+        <summary type="html"><![CDATA[In the benefits administration industry, claims processing is a vital operational pillar that makes sure employees and beneficiaries receive timely benefits, such as health, dental, or disability payments, while controlling costs and adhering to regulations like HIPAA and ERISA. In this post, we examine the typical benefit claims processing workflow and identify where generative AI-powered automation can deliver the greatest impact.]]></summary>
+        <author>
+            <name>Saurabh Kumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Running deep research AI agents on Amazon Bedrock AgentCore]]></title>
         <id>bee0617f3a3c21af9191c358c9d226f23aa24fdb</id>

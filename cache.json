@@ -604,16 +604,6 @@
           "wordCount": 7075,
           "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/26/ML-19298-1-1260x630.jpeg"
-        },
-        {
-          "id": "e27705756c1e7e55bd0d8013da0fec052cd84872",
-          "author": "Faryab Haye",
-          "description": "In this post, we show you how Amazon Health Services (AHS) solved discoverability challenges on Amazon.com search using AWS services such as Amazon SageMaker, Amazon Bedrock, and Amazon EMR. By combining machine learning (ML), natural language processing, and vector search capabilities, we improved our ability to connect customers with relevant healthcare offerings.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/",
-          "publishedOn": "2025-08-26T18:37:21.000Z",
-          "wordCount": 6527,
-          "title": "Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/26/ML-18930-ner.jpg"
         }
       ]
     }

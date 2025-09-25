@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-25T20:18:33.768Z</updated>
+    <updated>2025-09-25T22:13:30.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DoWhile loops now supported in Amazon Bedrock Flows]]></title>
+        <id>a36fad000602a8e0e7d80dacd0f94b9d86a9b03d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/"/>
+        <updated>2025-09-25T20:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]]]></summary>
+        <author>
+            <name>Shubhankar Sumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How PropHero built an intelligent property investment advisor with continuous evaluation using Amazon Bedrock]]></title>
         <id>5dbe4cfd52ee8f36bacb0b7620e42d0462ec0a6b</id>

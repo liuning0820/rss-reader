@@ -624,16 +624,6 @@
           "wordCount": 6718,
           "title": "How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/20/ML-17902-arch-diag-1-808x630.png"
-        },
-        {
-          "id": "d75df33236516c37b56c6d9b29327b0b705b385a",
-          "author": "Niithiyn Vijeaswaran",
-          "description": "In this post, we announce that Mercury and Mercury Coder foundation models from Inception Labs are now available through Amazon Bedrock Marketplace and Amazon SageMaker JumpStart. We demonstrate how to deploy these ultra-fast diffusion-based language models that can generate up to 1,100 tokens per second on NVIDIA H100 GPUs, and showcase their capabilities in code generation and tool use scenarios.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/",
-          "publishedOn": "2025-08-27T15:39:06.000Z",
-          "wordCount": 7075,
-          "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/26/ML-19298-1-1260x630.jpeg"
         }
       ]
     }

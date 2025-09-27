@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-27T08:18:43.115Z</updated>
+    <updated>2025-09-27T10:15:09.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -574,26 +574,6 @@
         <summary type="html"><![CDATA[In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.]]></summary>
         <author>
             <name>Vivek Gangasani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock]]></title>
-        <id>9bd235e56ce2e7172fe9ee62f9fbfe850314c118</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/"/>
-        <updated>2025-08-28T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[This post describes the agentic AI assistant built by the Government of the City of Buenos Aires and the GenAIIC to respond to citizens’ questions about government procedures. The solution consists of two primary components: an input guardrail system that helps prevent the system from responding to harmful user queries and a government procedures agent that retrieves relevant information and generates responses.]]></summary>
-        <author>
-            <name>Julieta Rappan, Macarena Blasi, María Candela Blanco, Leandro Micchele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowering air quality research with secure, ML-driven predictive analytics]]></title>
-        <id>ef1b04a8bfa565766ebfbbc8e7f4c193c5cdfc2d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/empowering-air-quality-research-with-secure-ml-driven-predictive-analytics/"/>
-        <updated>2025-08-28T20:20:10.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we provide a data imputation solution using Amazon SageMaker AI, AWS Lambda, and AWS Step Functions. This solution is designed for environmental analysts, public health officials, and business intelligence professionals who need reliable PM2.5 data for trend analysis, reporting, and decision-making. We sourced our sample training dataset from openAFRICA. Our solution predicts PM2.5 values using time-series forecasting.]]></summary>
-        <author>
-            <name>Nehal Sangoi</name>
         </author>
     </entry>
 </feed>

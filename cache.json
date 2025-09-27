@@ -634,16 +634,6 @@
           "wordCount": 7045,
           "title": "Empowering air quality research with secure, ML-driven predictive analytics",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/20/image-5-2-1187x630.jpeg"
-        },
-        {
-          "id": "3338f69276d0e81cf8fc0945562d446ac912d34a",
-          "author": "Saikat Gomes",
-          "description": "The Amazon Finance technical team develops and manages comprehensive technology solutions that power financial decision-making and operational efficiency while standardizing across Amazon’s global operations. In this post, we explain how the team conceptualized and implemented a solution to these business challenges by harnessing the power of generative AI using Amazon Bedrock and intelligent search with Amazon Kendra.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-built-an-ai-assistant-using-amazon-bedrock-and-amazon-kendra-to-support-analysts-for-data-discovery-and-business-insights/",
-          "publishedOn": "2025-08-28T20:14:22.000Z",
-          "wordCount": 6718,
-          "title": "How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/20/ML-17902-arch-diag-1-808x630.png"
         }
       ]
     }

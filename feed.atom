@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-28T04:19:07.756Z</updated>
+    <updated>2025-09-28T06:22:53.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -544,36 +544,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detect Amazon Bedrock misconfigurations with Datadog Cloud Security]]></title>
-        <id>1e0d846748627ab69c24fa6e7388f65c9efdda24</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/"/>
-        <updated>2025-08-29T16:55:37.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce new security capabilities in Datadog Cloud Security that can help you detect and remediate Amazon Bedrock misconfigurations before they become security incidents. This integration helps organizations embed robust security controls and secure their use of the powerful capabilities of Amazon Bedrock by offering three critical advantages: holistic AI security by integrating AI security into your broader cloud security strategy, real-time risk detection through identifying potential AI-related security issues as they emerge, and simplified compliance to help meet evolving AI regulations with pre-built detections.]]></summary>
-        <author>
-            <name>Nina Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set up custom domain names for Amazon Bedrock AgentCore Runtime agents]]></title>
-        <id>2de27b411929b46d7b690688508935cd0105dcb4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/"/>
-        <updated>2025-08-29T16:46:13.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to create custom domain names for your Amazon Bedrock AgentCore Runtime agent endpoints using CloudFront as a reverse proxy. This solution provides several key benefits: simplified integration for development teams, custom domains that align with your organization, cleaner infrastructure abstraction, and straightforward maintenance when endpoints need updates.]]></summary>
-        <author>
-            <name>Rahmat Fedayizada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing auto scaling on Amazon SageMaker HyperPod]]></title>
-        <id>3597361840ea50779f5ad68210444b9ca0985d5b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/"/>
-        <updated>2025-08-29T16:21:02.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we announce that Amazon SageMaker HyperPod now supports managed node automatic scaling with Karpenter, enabling efficient scaling of SageMaker HyperPod clusters to meet inference and training demands. We dive into the benefits of Karpenter and provide details on enabling and configuring Karpenter in SageMaker HyperPod EKS clusters.]]></summary>
-        <author>
-            <name>Vivek Gangasani</name>
         </author>
     </entry>
 </feed>

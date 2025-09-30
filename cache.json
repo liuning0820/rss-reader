@@ -61,16 +61,6 @@
           "wordCount": 1055,
           "title": "SRE Weekly Issue #493",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1681",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-492/",
-          "publishedOn": "2025-09-01T01:47:17.000Z",
-          "wordCount": 1058,
-          "title": "SRE Weekly Issue #492",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-09-30T12:36:28.765Z</updated>
+    <updated>2025-09-30T14:16:53.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -534,16 +534,6 @@
         <summary type="html"><![CDATA[Pupdate It’s been warm and dry[1], so the boys have enjoyed some nice long walks. Fringe Edinburgh Fringe was a regular feature of the twenty-teens for us, but then Covid happened. This year was our first time back, and it was great. We saw: They were all fantastic, and I’m not going to pick favourites. […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #492]]></title>
-        <id>https://sreweekly.com/?p=1681</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-492/"/>
-        <updated>2025-09-01T01:47:17.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Observe, Inc.: Built on a scalable, cost-efficient data lake, Observe delivers AI-powered observability at scale. With its context-aware Knowledge Graph and AI SRE, Observe enables Capital One, Topgolf, and Dialpad to ingest hundreds of terabytes daily and resolve issues faster—at drastically lower cost. Learn how Observe is […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

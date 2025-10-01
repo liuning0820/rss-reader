@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-01T12:36:43.598Z</updated>
+    <updated>2025-10-01T14:17:28.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[September 2025]]></title>
+        <id>http://blog.thestateofme.com/?p=6445</id>
+        <link href="https://blog.thestateofme.com/2025/10/01/september-2025/"/>
+        <updated>2025-10-01T13:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate Autumn is upon us, and it was a wet start to the month, but that hasn’t stopped the boys from being enthusiastic about their walks. Clear scan Milo had another scan at the start of the month, and once again it was clear :) That means we’re now on the longest stretch of remission […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modernize fraud prevention: GraphStorm v0.5 for real-time inference]]></title>
         <id>03691c5f106ea0685a5cc2024d24236c0b94dd8e</id>

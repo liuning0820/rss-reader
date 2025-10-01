@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6445",
+          "author": "Chris Swan",
+          "description": "Pupdate Autumn is upon us, and it was a wet start to the month, but that hasn’t stopped the boys from being enthusiastic about their walks. Clear scan Milo had another scan at the start of the month, and once again it was clear :) That means we’re now on the longest stretch of remission […]",
+          "link": "https://blog.thestateofme.com/2025/10/01/september-2025/",
+          "publishedOn": "2025-10-01T13:16:19.000Z",
+          "wordCount": 4198,
+          "title": "September 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/09/pups_202509.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6450",
           "author": "Chris Swan",
           "description": "TL;DR RISE did it’s job, and in the past couple of years RISC-V support has found its way into stable releases of key infrastructure software like Debian. So from a software perspective, it’s arguable that RISC-V is now ready for production. Progress has been a little slower on the hardware front, but hardware is… hard; […]",

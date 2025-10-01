@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-01T16:20:50.450Z</updated>
+    <updated>2025-10-01T18:24:00.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker]]></title>
+        <id>0704d093093695b571984ba565ab6c13df0964e9</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/"/>
+        <updated>2025-10-01T18:19:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how Hapag-Lloyd developed and implemented a machine learning (ML)-powered assistant predicting vessel arrival and departure times that revolutionizes their schedule planning. By using Amazon SageMaker AI and implementing robust MLOps practices, Hapag-Lloyd has enhanced its schedule reliability—a key performance indicator in the industry and quality promise to their customers.]]></summary>
+        <author>
+            <name>Thomas Voss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rox accelerates sales productivity with AI agents powered by Amazon Bedrock]]></title>
+        <id>b8f7a9ac2a750989bc9c29714055a385e7526324</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/rox-accelerates-sales-productivity-with-ai-agents-powered-by-amazon-bedrock/"/>
+        <updated>2025-10-01T18:13:41.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce that Rox is generally available, with Rox infrastructure built on AWS and delivered across web, Slack, macOS, and iOS. In this post, we share how Rox accelerates sales productivity with AI agents powered by Amazon Bedrock.]]></summary>
+        <author>
+            <name>Santhan Pamulapati</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 2025]]></title>
         <id>http://blog.thestateofme.com/?p=6445</id>

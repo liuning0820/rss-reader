@@ -66,6 +66,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "0704d093093695b571984ba565ab6c13df0964e9",
+          "author": "Thomas Voss",
+          "description": "In this post, we share how Hapag-Lloyd developed and implemented a machine learning (ML)-powered assistant predicting vessel arrival and departure times that revolutionizes their schedule planning. By using Amazon SageMaker AI and implementing robust MLOps practices, Hapag-Lloyd has enhanced its schedule reliability—a key performance indicator in the industry and quality promise to their customers.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/",
+          "publishedOn": "2025-10-01T18:19:37.000Z",
+          "wordCount": 12268,
+          "title": "How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/19/hapag-eta-image-1.png"
+        },
+        {
+          "id": "b8f7a9ac2a750989bc9c29714055a385e7526324",
+          "author": "Santhan Pamulapati",
+          "description": "We’re excited to announce that Rox is generally available, with Rox infrastructure built on AWS and delivered across web, Slack, macOS, and iOS. In this post, we share how Rox accelerates sales productivity with AI agents powered by Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/rox-accelerates-sales-productivity-with-ai-agents-powered-by-amazon-bedrock/",
+          "publishedOn": "2025-10-01T18:13:41.000Z",
+          "wordCount": 11013,
+          "title": "Rox accelerates sales productivity with AI agents powered by Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/22/image-1-23-969x630.png"
+        },
+        {
           "id": "03691c5f106ea0685a5cc2024d24236c0b94dd8e",
           "author": "Jian Zhang",
           "description": "In this post, we demonstrate how to implement real-time fraud prevention using GraphStorm v0.5's new capabilities for deploying graph neural network (GNN) models through Amazon SageMaker. We show how to transition from model training to production-ready inference endpoints with minimal operational overhead, enabling sub-second fraud detection on transaction graphs with billions of nodes and edges.",

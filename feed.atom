@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-01T04:19:20.792Z</updated>
+    <updated>2025-10-01T06:25:52.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -524,26 +524,6 @@
         <summary type="html"><![CDATA[With the new cluster creation experience, you can create your SageMaker HyperPod clusters, including the required prerequisite AWS resources, in one click, with prescriptive default values automatically applied. In this post, we explore the new cluster creation experience for Amazon SageMaker HyperPod.]]></summary>
         <author>
             <name>Giuseppe Angelo Porcelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 2025]]></title>
-        <id>https://blog.thestateofme.com/?p=6433</id>
-        <link href="http://blog.thestateofme.com/2025/09/01/august-2025/"/>
-        <updated>2025-09-01T17:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate It’s been warm and dry[1], so the boys have enjoyed some nice long walks. Fringe Edinburgh Fringe was a regular feature of the twenty-teens for us, but then Covid happened. This year was our first time back, and it was great. We saw: They were all fantastic, and I’m not going to pick favourites. […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 2025]]></title>
-        <id>http://blog.thestateofme.com/?p=6433</id>
-        <link href="https://blog.thestateofme.com/2025/09/01/august-2025/"/>
-        <updated>2025-09-01T17:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate It’s been warm and dry[1], so the boys have enjoyed some nice long walks. Fringe Edinburgh Fringe was a regular feature of the twenty-teens for us, but then Covid happened. This year was our first time back, and it was great. We saw: They were all fantastic, and I’m not going to pick favourites. […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

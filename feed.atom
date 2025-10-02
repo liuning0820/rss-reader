@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-02T10:16:17.417Z</updated>
+    <updated>2025-10-02T12:33:21.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,16 +494,6 @@
         <summary type="html"><![CDATA[In this post, we show how to deploy Coveo’s Passage Retrieval API as an Amazon Bedrock Agents action group to enhance response accuracy, so Coveo users can use their current index to rapidly deploy new generative experiences across their organization.]]></summary>
         <author>
             <name>Yanick Houngbedji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Train and deploy models on Amazon SageMaker HyperPod using the new HyperPod CLI and SDK]]></title>
-        <id>c42f810eee8a4e1a023d9031bb3adce1f483a67a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/train-and-deploy-models-on-amazon-sagemaker-hyperpod-using-the-new-hyperpod-cli-and-sdk/"/>
-        <updated>2025-09-03T00:12:37.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to use the new Amazon SageMaker HyperPod CLI and SDK to streamline the process of training and deploying large AI models through practical examples of distributed training using Fully Sharded Data Parallel (FSDP) and model deployment for inference. The tools provide simplified workflows through straightforward commands for common tasks, while offering flexible development options through the SDK for more complex requirements, along with comprehensive observability features and production-ready deployment capabilities.]]></summary>
-        <author>
-            <name>Giuseppe Angelo Porcelli</name>
         </author>
     </entry>
 </feed>

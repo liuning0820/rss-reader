@@ -66,6 +66,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "22ff773cb7992539ee0c819b04dfbf90761eccb6",
+          "author": "Shreyas Subramanian",
+          "description": "Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/",
+          "publishedOn": "2025-10-02T21:12:34.000Z",
+          "wordCount": 11140,
+          "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
+          "enclosure": {
+            "length": "19956036",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19737/video1.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/02/ML-19737-4-1196x630.png"
+        },
+        {
           "id": "0704d093093695b571984ba565ab6c13df0964e9",
           "author": "Thomas Voss",
           "description": "In this post, we share how Hapag-Lloyd developed and implemented a machine learning (ML)-powered assistant predicting vessel arrival and departure times that revolutionizes their schedule planning. By using Amazon SageMaker AI and implementing robust MLOps practices, Hapag-Lloyd has enhanced its schedule reliability—a key performance indicator in the industry and quality promise to their customers.",

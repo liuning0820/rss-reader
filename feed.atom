@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-02T20:18:04.680Z</updated>
+    <updated>2025-10-02T22:14:29.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerate development with the Amazon Bedrock AgentCore MCP server]]></title>
+        <id>22ff773cb7992539ee0c819b04dfbf90761eccb6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/"/>
+        <updated>2025-10-02T21:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]]]></summary>
+        <author>
+            <name>Shreyas Subramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker]]></title>
         <id>0704d093093695b571984ba565ab6c13df0964e9</id>

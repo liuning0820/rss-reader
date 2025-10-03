@@ -529,36 +529,6 @@
           "wordCount": 6017,
           "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 1",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/15/output1.png"
-        },
-        {
-          "id": "3ede12106580ade820e0572f4318e755130790eb",
-          "author": "Takeshi Kobayashi",
-          "description": "In this post, we showed how to implement TTI authentication for Amazon Q data accessors. We covered the setup process for both ISVs and enterprises and demonstrated how TTI authentication simplifies the user experience while maintaining security standards.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-amazon-q-business-data-accessors-using-a-trusted-token-issuer/",
-          "publishedOn": "2025-09-03T16:44:14.000Z",
-          "wordCount": 5852,
-          "title": "Authenticate Amazon Q Business data accessors using a trusted token issuer",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/15/blog-tti-data-accessor-add-1.png"
-        },
-        {
-          "id": "383b1da573292eb94fb5f48306645a462f96e8e2",
-          "author": "Stephen Coverdale, Alessandra Filice",
-          "description": "Proofpoint has redefined its professional services by integrating Amazon Q Business, a fully managed, generative AI powered assistant that you can configure to answer questions, provide summaries, generate content, and complete tasks based on your enterprise data. In this post, we explore how Amazon Q Business transformed Proofpoint’s professional services, detailing its deployment, functionality, and future roadmap.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-future-of-professional-services-how-proofpoint-uses-amazon-q-business/",
-          "publishedOn": "2025-09-03T16:39:10.000Z",
-          "wordCount": 5975,
-          "title": "Unlocking the future of professional services: How Proofpoint uses Amazon Q Business",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/06/ML-18339-img2-implmentation-1210x630.png"
-        },
-        {
-          "id": "af8a827cfd32b9ba318aceb345a1f7d27e5f7186",
-          "author": "Yanick Houngbedji",
-          "description": "In this post, we show how to deploy Coveo’s Passage Retrieval API as an Amazon Bedrock Agents action group to enhance response accuracy, so Coveo users can use their current index to rapidly deploy new generative experiences across their organization.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-accuracy-with-coveo-passage-retrieval-on-amazon-bedrock/",
-          "publishedOn": "2025-09-03T16:32:47.000Z",
-          "wordCount": 5809,
-          "title": "Enhancing LLM accuracy with Coveo Passage Retrieval on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/19/Solution-overview-1260x528.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-03T18:23:13.201Z</updated>
+    <updated>2025-10-03T20:17:47.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints]]></title>
+        <id>621433382e96ae20d85b768df8c7d1ef88f956e3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/"/>
+        <updated>2025-10-03T20:08:46.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.]]></summary>
+        <author>
+            <name>Dhawalkumar Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business]]></title>
         <id>62a27b5684f3e0806ef2980f93b64ecbcd7e603e</id>

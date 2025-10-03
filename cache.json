@@ -66,6 +66,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "62a27b5684f3e0806ef2980f93b64ecbcd7e603e",
+          "author": "Siddhant Gupta",
+          "description": "In this post, we demonstrate how organizations can enhance their employee productivity by integrating Kore.ai’s AI for Work platform with Amazon Q Business. We show how to configure AI for Work as a data accessor for Amazon Q index for independent software vendors (ISVs), so employees can search enterprise knowledge and execute end-to-end agentic workflows involving search, reasoning, actions, and content generation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/",
+          "publishedOn": "2025-10-02T22:14:23.000Z",
+          "wordCount": 12310,
+          "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/29/ML-19489a-2-1260x541.png"
+        },
+        {
           "id": "22ff773cb7992539ee0c819b04dfbf90761eccb6",
           "author": "Shreyas Subramanian",
           "description": "Today, we’re excited to announce the Amazon Bedrock AgentCore Model Context Protocol (MCP) Server. With built-in support for runtime, gateway integration, identity management, and agent memory, the AgentCore MCP Server is purpose-built to speed up creation of components compatible with Bedrock AgentCore. You can use the AgentCore MCP server for rapid prototyping, production AI solutions, […]",

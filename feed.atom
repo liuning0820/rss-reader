@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-04T04:18:30.110Z</updated>
+    <updated>2025-10-04T06:22:03.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -484,26 +484,6 @@
         <summary type="html"><![CDATA[TL;DR RISE did it’s job, and in the past couple of years RISC-V support has found its way into stable releases of key infrastructure software like Debian. So from a software perspective, it’s arguable that RISC-V is now ready for production. Progress has been a little slower on the hardware front, but hardware is… hard; […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2]]></title>
-        <id>8d31e3296a4f223676250d879399d2c555402445</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-2/"/>
-        <updated>2025-09-04T17:21:03.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.]]></summary>
-        <author>
-            <name>Achin Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 1]]></title>
-        <id>2e94a6e03af7f7dac659e70586feb204cf0f4291</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-1/"/>
-        <updated>2025-09-04T17:20:11.000Z</updated>
-        <summary type="html"><![CDATA[The art of storyboarding stands as the cornerstone of modern content creation, weaving its essential role through filmmaking, animation, advertising, and UX design. Though traditionally, creators have relied on hand-drawn sequential illustrations to map their narratives, today’s AI foundation models (FMs) are transforming this landscape. FMs like Amazon Nova Canvas and Amazon Nova Reel offer […]]]></summary>
-        <author>
-            <name>Alex Burkleaux</name>
         </author>
     </entry>
 </feed>

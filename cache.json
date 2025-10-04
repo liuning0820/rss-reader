@@ -529,26 +529,6 @@
           "wordCount": 4994,
           "title": "Exploring the Real-Time Race Track with Amazon Nova",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/02/RTRT-1.jpeg"
-        },
-        {
-          "id": "8d31e3296a4f223676250d879399d2c555402445",
-          "author": "Achin Jain",
-          "description": "In this post, we take an animated short film, Picchu, produced by FuzzyPixel from Amazon Web Services (AWS), prepare training data by extracting key character frames, and fine-tune a character-consistent model for the main character Mayu and her mother, so we can quickly generate storyboard concepts for new sequels like the following images.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-2/",
-          "publishedOn": "2025-09-04T17:21:03.000Z",
-          "wordCount": 6241,
-          "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 2",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/04/image-5-1024x408-1.jpeg"
-        },
-        {
-          "id": "2e94a6e03af7f7dac659e70586feb204cf0f4291",
-          "author": "Alex Burkleaux",
-          "description": "The art of storyboarding stands as the cornerstone of modern content creation, weaving its essential role through filmmaking, animation, advertising, and UX design. Though traditionally, creators have relied on hand-drawn sequential illustrations to map their narratives, today’s AI foundation models (FMs) are transforming this landscape. FMs like Amazon Nova Canvas and Amazon Nova Reel offer […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-1/",
-          "publishedOn": "2025-09-04T17:20:11.000Z",
-          "wordCount": 6017,
-          "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock – Part 1",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/15/output1.png"
         }
       ]
     }

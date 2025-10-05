@@ -499,26 +499,6 @@
           "wordCount": 5902,
           "title": "The power of AI in driving personalized product discovery at Snoonu",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/08/ML-18844-arch-diagram-808x630.jpg"
-        },
-        {
-          "id": "f7c4b2b3806c8de1f6e276c9575102d273138b82",
-          "author": "Tasneem Fathima",
-          "description": "In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-09-05T17:04:49.000Z",
-          "wordCount": 5253,
-          "title": "Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/01/SMHP-Solution-Architecture-1142x630.png"
-        },
-        {
-          "id": "988ded34c1860f3e91a68fda6a840a4b15b8d047",
-          "author": "Raechel Frick",
-          "description": "This post explores the Real-Time Race Track (RTRT), an interactive experience built using Amazon Nova in Amazon Bedrock, that lets fans design, customize, and share their own racing circuits. We highlight how generative AI capabilities come together to deliver strategic racing insights such as pit timing and tire choices, and interactive features like an AI voice assistant and a retro-style racing poster.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-real-time-race-track-with-amazon-nova/",
-          "publishedOn": "2025-09-05T16:58:36.000Z",
-          "wordCount": 4994,
-          "title": "Exploring the Real-Time Race Track with Amazon Nova",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/02/RTRT-1.jpeg"
         }
       ]
     }

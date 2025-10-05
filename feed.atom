@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-05T04:18:44.511Z</updated>
+    <updated>2025-10-05T06:22:19.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -454,26 +454,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Shipfox: Shipfox supercharges GitHub Actions – no workflow changes, 30-min setup. 2x faster builds with better CPU, faster disks & high-throughput caching 75% lower costs with shorter jobs and better price-per-performance Full CI observability with test/job speed and reliability 👉 See how it works: https://shipfox.io?utm_source=SREWeekly&utm_campaign=issue493 Reverse Proxy […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod]]></title>
-        <id>f7c4b2b3806c8de1f6e276c9575102d273138b82</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/"/>
-        <updated>2025-09-05T17:04:49.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how a research university implemented SageMaker HyperPod to accelerate AI research by using dynamic SLURM partitions, fine-grained GPU resource management, budget-aware compute cost tracking, and multi-login node load balancing—all integrated seamlessly into the SageMaker HyperPod environment.]]></summary>
-        <author>
-            <name>Tasneem Fathima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Real-Time Race Track with Amazon Nova]]></title>
-        <id>988ded34c1860f3e91a68fda6a840a4b15b8d047</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/exploring-the-real-time-race-track-with-amazon-nova/"/>
-        <updated>2025-09-05T16:58:36.000Z</updated>
-        <summary type="html"><![CDATA[This post explores the Real-Time Race Track (RTRT), an interactive experience built using Amazon Nova in Amazon Bedrock, that lets fans design, customize, and share their own racing circuits. We highlight how generative AI capabilities come together to deliver strategic racing insights such as pit timing and tire choices, and interactive features like an AI voice assistant and a retro-style racing poster.]]></summary>
-        <author>
-            <name>Raechel Frick</name>
         </author>
     </entry>
 </feed>

@@ -14,16 +14,6 @@
           "wordCount": 4198,
           "title": "September 2025",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/09/pups_202509.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6450",
-          "author": "Chris Swan",
-          "description": "TL;DR RISE did it’s job, and in the past couple of years RISC-V support has found its way into stable releases of key infrastructure software like Debian. So from a software perspective, it’s arguable that RISC-V is now ready for production. Progress has been a little slower on the hardware front, but hardware is… hard; […]",
-          "link": "https://blog.thestateofme.com/2025/09/05/risc-v-production-ready/",
-          "publishedOn": "2025-09-05T10:19:33.000Z",
-          "wordCount": 4189,
-          "title": "RISC-V Production Ready",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },

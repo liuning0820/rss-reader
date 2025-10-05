@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-04T22:13:52.428Z</updated>
+    <updated>2025-10-05T01:22:17.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -474,16 +474,6 @@
         <summary type="html"><![CDATA[This post explores the Real-Time Race Track (RTRT), an interactive experience built using Amazon Nova in Amazon Bedrock, that lets fans design, customize, and share their own racing circuits. We highlight how generative AI capabilities come together to deliver strategic racing insights such as pit timing and tire choices, and interactive features like an AI voice assistant and a retro-style racing poster.]]></summary>
         <author>
             <name>Raechel Frick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V Production Ready]]></title>
-        <id>http://blog.thestateofme.com/?p=6450</id>
-        <link href="https://blog.thestateofme.com/2025/09/05/risc-v-production-ready/"/>
-        <updated>2025-09-05T10:19:33.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR RISE did it’s job, and in the past couple of years RISC-V support has found its way into stable releases of key infrastructure software like Debian. So from a software perspective, it’s arguable that RISC-V is now ready for production. Progress has been a little slower on the hardware front, but hardware is… hard; […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

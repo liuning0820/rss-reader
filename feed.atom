@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-07T16:20:32.680Z</updated>
+    <updated>2025-10-07T18:24:43.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act]]></title>
+        <id>19d273f7c940ba611d00f01708337653aa3a4297</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/"/>
+        <updated>2025-10-07T17:43:26.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.]]></summary>
+        <author>
+            <name>Satish Bhonsle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement automated monitoring for Amazon Bedrock batch inference]]></title>
+        <id>e67566178c840e041852b5e8ec3a54b04e934f95</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/implement-automated-monitoring-for-amazon-bedrock-batch-inference/"/>
+        <updated>2025-10-07T17:39:32.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrated how a financial services company can use an FM to process large volumes of customer records and get specific data-driven product recommendations. We also showed how to implement an automated monitoring solution for Amazon Bedrock batch inference jobs. By using EventBridge, Lambda, and DynamoDB, you can gain real-time visibility into batch processing operations, so you can efficiently generate personalized product recommendations based on customer credit data.]]></summary>
+        <author>
+            <name>Durga Prasad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI]]></title>
         <id>4f3e5af4e9a4b90e292ad2693a7fc66e089afedc</id>

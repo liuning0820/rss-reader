@@ -46,6 +46,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "19d273f7c940ba611d00f01708337653aa3a4297",
+          "author": "Satish Bhonsle",
+          "description": "In this post, we demonstrate how Amazon Nova Act automates QuickSight data story creation, saving time so you can focus on making critical, data-driven business decisions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/",
+          "publishedOn": "2025-10-07T17:43:26.000Z",
+          "wordCount": 11013,
+          "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/21/selecting_visuals_and_building_data_story-1260x444.png"
+        },
+        {
+          "id": "e67566178c840e041852b5e8ec3a54b04e934f95",
+          "author": "Durga Prasad",
+          "description": "In this post, we demonstrated how a financial services company can use an FM to process large volumes of customer records and get specific data-driven product recommendations. We also showed how to implement an automated monitoring solution for Amazon Bedrock batch inference jobs. By using EventBridge, Lambda, and DynamoDB, you can gain real-time visibility into batch processing operations, so you can efficiently generate personalized product recommendations based on customer credit data.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-monitoring-for-amazon-bedrock-batch-inference/",
+          "publishedOn": "2025-10-07T17:39:32.000Z",
+          "wordCount": 11743,
+          "title": "Implement automated monitoring for Amazon Bedrock batch inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/07/implement-automated-monitoring.jpg"
+        },
+        {
           "id": "4f3e5af4e9a4b90e292ad2693a7fc66e089afedc",
           "author": "Anjali Vijayakumar",
           "description": "In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.",

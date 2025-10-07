@@ -31,16 +31,6 @@
           "wordCount": 1296,
           "title": "SRE Weekly Issue #494",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1683",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Shipfox: Shipfox supercharges GitHub Actions – no workflow changes, 30-min setup. 2x faster builds with better CPU, faster disks & high-throughput caching 75% lower costs with shorter jobs and better price-per-performance Full CI observability with test/job speed and reliability 👉 See how it works: https://shipfox.io?utm_source=SREWeekly&utm_campaign=issue493 Reverse Proxy […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-493/",
-          "publishedOn": "2025-09-08T01:59:18.000Z",
-          "wordCount": 1055,
-          "title": "SRE Weekly Issue #493",
-          "imageUrl": null
         }
       ]
     },

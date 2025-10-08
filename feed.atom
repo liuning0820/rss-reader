@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-08T16:21:03.316Z</updated>
+    <updated>2025-10-08T18:25:17.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock]]></title>
+        <id>ac8913ca2a3cb732441962e95363b1e0d466a690</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/"/>
+        <updated>2025-10-08T16:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how Vxceed used Amazon Bedrock to develop this AI-powered multi-agent solution that generates personalized sales pitches for field sales teams at scale.]]></summary>
+        <author>
+            <name>Roger Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implement a secure MLOps platform based on Terraform and GitHub]]></title>
         <id>a5223e281083edf65ff097cd5aa203ee8054be40</id>

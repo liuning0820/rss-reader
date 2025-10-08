@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-08T08:23:10.746Z</updated>
+    <updated>2025-10-08T10:17:31.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -434,16 +434,6 @@
         <summary type="html"><![CDATA[AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature.]]></summary>
         <author>
             <name>Paulo Aragão</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation]]></title>
-        <id>d415d23a11cef8854c31ee9de5be71ceda564376</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/"/>
-        <updated>2025-09-08T20:50:04.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the general availability of fine-grained compute and memory quota allocation with HyperPod task governance. With this capability, customers can optimize Amazon SageMaker HyperPod cluster utilization on Amazon Elastic Kubernetes Service (Amazon EKS), distribute fair usage, and support efficient resource allocation across different teams or projects. For more information, see HyperPod task governance best […]]]></summary>
-        <author>
-            <name>Siamak Nariman</name>
         </author>
     </entry>
 </feed>

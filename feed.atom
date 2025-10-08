@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-08T02:55:35.504Z</updated>
+    <updated>2025-10-08T04:19:56.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -464,16 +464,6 @@
         <summary type="html"><![CDATA[Skai (formerly Kenshoo) is an AI-driven omnichannel advertising and analytics platform designed for brands and agencies to plan, launch, optimize, and measure paid media across search, social, retail media marketplaces and other “walled-garden” channels from a single interface. In this post, we share how Skai used Amazon Bedrock Agents to improve data access and analysis and improve customer insights.]]></summary>
         <author>
             <name>Lior Heber, Yarden Ron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The power of AI in driving personalized product discovery at Snoonu]]></title>
-        <id>8562e0462c68c57c99c91b4af41de98c4497b654</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/the-power-of-ai-in-driving-personalized-product-discovery-at-snoonu/"/>
-        <updated>2025-09-08T15:49:54.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization. In this post, we share how Snoonu, a leading ecommerce platform in the Middle East, transformed their product discovery experience using AI-powered personalization.]]></summary>
-        <author>
-            <name>Felipe Monroy, Ana Jaime, Nikita Gordeev</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-09T04:20:07.412Z</updated>
+    <updated>2025-10-09T06:26:09.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -434,16 +434,6 @@
         <summary type="html"><![CDATA[In this post, we walk you through implementation options for both agents hosted on Amazon Bedrock AgentCore Runtime and agents hosted on other services like Amazon Elastic Compute Cloud (Amazon EC2), Amazon Elastic Kubernetes Service (Amazon EKS), AWS Lambda, or alternative cloud providers. We also share best practices for incorporating observability throughout the development lifecycle.]]></summary>
         <author>
             <name>Ishan Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powering innovation at scale: How AWS is tackling AI infrastructure challenges]]></title>
-        <id>6ffa81eb7f1c06d39e8f4f257b395c312a7273b4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/"/>
-        <updated>2025-09-09T17:40:53.000Z</updated>
-        <summary type="html"><![CDATA[As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. At AWS, we’re also seeing a transformation across the technology […]]]></summary>
-        <author>
-            <name>Barry Cooks</name>
         </author>
     </entry>
 </feed>

@@ -484,16 +484,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19604/250822_OBSERVE_DELIVERY.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/05/ML-19604_FeaturedImg.png"
-        },
-        {
-          "id": "6ffa81eb7f1c06d39e8f4f257b395c312a7273b4",
-          "author": "Barry Cooks",
-          "description": "As generative AI continues to transform how enterprises operate—and develop net new innovations—the infrastructure demands for training and deploying AI models have grown exponentially. Traditional infrastructure approaches are struggling to keep pace with today’s computational requirements, network demands, and resilience needs of modern AI workloads. At AWS, we’re also seeing a transformation across the technology […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/",
-          "publishedOn": "2025-09-09T17:40:53.000Z",
-          "wordCount": 4910,
-          "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml-19678_Blog_FeaturedImg.png"
         }
       ]
     }

@@ -494,16 +494,6 @@
           "wordCount": 4910,
           "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml-19678_Blog_FeaturedImg.png"
-        },
-        {
-          "id": "e1cbf97e67035802ab2ef8c1c6396790fb2733c1",
-          "author": "Paulo Aragão",
-          "description": "AWS announced managed tiered checkpointing in Amazon SageMaker HyperPod, a purpose-built infrastructure to scale and accelerate generative AI model development across thousands of AI accelerators. Managed tiered checkpointing uses CPU memory for high-performance checkpoint storage with automatic data replication across adjacent compute nodes for enhanced reliability. In this post, we dive deep into those concepts and understand how to use the managed tiered checkpointing feature.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-09-09T14:35:22.000Z",
-          "wordCount": 7038,
-          "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ML-19253_Blog_FeaturedImg.png"
         }
       ]
     }

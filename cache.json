@@ -439,26 +439,6 @@
           "wordCount": 5202,
           "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml19267-1-1061x630.jpg"
-        },
-        {
-          "id": "c2c6699f84e1b6e6e9baeb0d978806d667c3103c",
-          "author": "Nicolas de Place",
-          "description": "Skello is a leading human resources (HR) software as a service (SaaS) solution focusing on employee scheduling and workforce management. Catering to diverse sectors such as hospitality, retail, healthcare, construction, and industry, Skello offers features including schedule creation, time tracking, and payroll preparation. We dive deep into the challenges of implementing large language models (LLMs) for data querying, particularly in the context of a French company operating under the General Data Protection Regulation (GDPR).",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-skello-uses-amazon-bedrock-to-query-data-in-a-multi-tenant-environment-while-keeping-logical-boundaries/",
-          "publishedOn": "2025-09-11T17:59:15.000Z",
-          "wordCount": 5880,
-          "title": "How Skello uses Amazon Bedrock to query data in a multi-tenant environment while keeping logical boundaries",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/08/ML-17276-1-1003x630.png"
-        },
-        {
-          "id": "538e42995c09a147ed3e5774af46dd3354d6f271",
-          "author": "Giorgio Pessot",
-          "description": "In this post, we present a complete solution for programmatically creating private workforces on Amazon SageMaker AI using the AWS Cloud Development Kit (AWS CDK), including the setup of a dedicated, fully configured Amazon Cognito user pool.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/create-a-private-workforce-on-amazon-sagemaker-ground-truth-with-the-aws-cdk/",
-          "publishedOn": "2025-09-11T17:56:01.000Z",
-          "wordCount": 5948,
-          "title": "Create a private workforce on Amazon SageMaker Ground Truth with the AWS CDK",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/04/ML-18610-auth-diagram-1.jpeg"
         }
       ]
     }

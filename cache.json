@@ -429,16 +429,6 @@
           "wordCount": 12699,
           "title": "Migrate from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/12/migrate-anthropic.jpg"
-        },
-        {
-          "id": "b7c8b3314921ebcf52f25e3dec6681bc7aa0ad05",
-          "author": "Dongsheng An",
-          "description": "In real-world video and image analysis, businesses often face the challenge of detecting objects that weren’t part of a model’s original training set. This becomes especially difficult in dynamic environments where new, unknown, or user-defined objects frequently appear. In this post, we explore how Amazon Bedrock Data Automation uses OSOD to enhance video understanding.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/",
-          "publishedOn": "2025-09-11T19:20:13.000Z",
-          "wordCount": 5202,
-          "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml19267-1-1061x630.jpg"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-12T04:19:01.592Z</updated>
+    <updated>2025-10-12T06:22:05.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -354,36 +354,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I’m on medical leave. If all goes to plan, I’ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you’re interested, I invite […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate advanced agentic RAG pipeline with Amazon SageMaker AI]]></title>
-        <id>d74b9e632b157ba06cfd919fb1700edb3411fc4a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-advanced-agentic-rag-pipeline-with-amazon-sagemaker-ai/"/>
-        <updated>2025-09-12T17:36:19.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk through how to streamline your RAG development lifecycle from experimentation to automation, helping you operationalize your RAG solution for production deployments with Amazon SageMaker AI, helping your team experiment efficiently, collaborate effectively, and drive continuous improvement.]]></summary>
-        <author>
-            <name>Sandeep Raveesh-Babu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock model insights with log probability support for Amazon Bedrock Custom Model Import]]></title>
-        <id>b54c60906afe440782a377531c0224b3e6d017e5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/unlock-model-insights-with-log-probability-support-for-amazon-bedrock-custom-model-import/"/>
-        <updated>2025-09-12T17:34:16.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how log probabilities work with imported models in Amazon Bedrock. You will learn what log probabilities are, how to enable them in your API calls, and how to interpret the returned data. We also highlight practical applications—from detecting potential hallucinations to optimizing RAG systems and evaluating fine-tuned models—that demonstrate how these insights can improve your AI applications, helping you build more trustworthy solutions with your custom models.]]></summary>
-        <author>
-            <name>Manoj Selvakumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrate from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock]]></title>
-        <id>a493808d952677cb8e9713f39b9a0c02413d514b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/migrate-from-anthropics-claude-3-5-sonnet-to-claude-4-sonnet-on-amazon-bedrock/"/>
-        <updated>2025-09-12T17:31:19.000Z</updated>
-        <summary type="html"><![CDATA[This post provides a systematic approach to migrating from Anthropic’s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock. We examine the key model differences, highlight essential migration considerations, and deliver proven best practices to transform this necessary transition into a strategic advantage that drives measurable value for your organization.]]></summary>
-        <author>
-            <name>Melanie Li</name>
         </author>
     </entry>
 </feed>

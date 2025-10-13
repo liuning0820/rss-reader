@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-13T20:18:45.207Z</updated>
+    <updated>2025-10-13T22:15:19.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medical reports analysis dashboard using Amazon Bedrock, LangChain, and Streamlit]]></title>
+        <id>bc6394132e595dff36af84bdba60da2db334d536</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/medical-reports-analysis-dashboard-using-amazon-bedrock-langchain-and-streamlit/"/>
+        <updated>2025-10-13T20:56:14.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate the development of a conceptual Medical Reports Analysis Dashboard that combines Amazon Bedrock AI capabilities, LangChain's document processing, and Streamlit's interactive visualization features. The solution transforms complex medical data into accessible insights through a context-aware chat system powered by large language models available through Amazon Bedrock and dynamic visualizations of health parameters.]]></summary>
+        <author>
+            <name>Aditya Ranjan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kitsa transforms clinical trial site selection with Amazon Quick Automate]]></title>
         <id>2c9cb1ea81a1dfaa4a9d43d1e632ef77bb221fb1</id>

@@ -46,6 +46,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "bc6394132e595dff36af84bdba60da2db334d536",
+          "author": "Aditya Ranjan",
+          "description": "In this post, we demonstrate the development of a conceptual Medical Reports Analysis Dashboard that combines Amazon Bedrock AI capabilities, LangChain's document processing, and Streamlit's interactive visualization features. The solution transforms complex medical data into accessible insights through a context-aware chat system powered by large language models available through Amazon Bedrock and dynamic visualizations of health parameters.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/medical-reports-analysis-dashboard-using-amazon-bedrock-langchain-and-streamlit/",
+          "publishedOn": "2025-10-13T20:56:14.000Z",
+          "wordCount": 11594,
+          "title": "Medical reports analysis dashboard using Amazon Bedrock, LangChain, and Streamlit",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/25/ML-18400-image-2-1153x630.png"
+        },
+        {
           "id": "2c9cb1ea81a1dfaa4a9d43d1e632ef77bb221fb1",
           "author": "Chethan Shriyan",
           "description": "In this post, we'll show how Kitsa, a health-tech company specializing in AI-driven clinical trial recruitment and site selection, used Amazon Quick Automate to transform their clinical trial site selection solution. Amazon Quick Automate, a capability of Amazon Quick Suite, enables enterprises to build, deploy and maintain resilient workflow automations at scale.",

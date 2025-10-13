@@ -46,6 +46,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "2c9cb1ea81a1dfaa4a9d43d1e632ef77bb221fb1",
+          "author": "Chethan Shriyan",
+          "description": "In this post, we'll show how Kitsa, a health-tech company specializing in AI-driven clinical trial recruitment and site selection, used Amazon Quick Automate to transform their clinical trial site selection solution. Amazon Quick Automate, a capability of Amazon Quick Suite, enables enterprises to build, deploy and maintain resilient workflow automations at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/kitsa-transforms-clinical-trial-site-selection-with-amazon-quick-automate/",
+          "publishedOn": "2025-10-13T17:26:05.000Z",
+          "wordCount": 11330,
+          "title": "Kitsa transforms clinical trial site selection with Amazon Quick Automate",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/06/image-1-4-1260x470.png"
+        },
+        {
+          "id": "9a11f0eb17a3d9d10438dc3fc7ee576e2da20a65",
+          "author": "Abhinav Jawadekar",
+          "description": "In this post, we explore how Amazon Quick Suite's Model Context Protocol (MCP) client enables secure, standardized connections to enterprise applications and AI agents, eliminating the need for complex custom integrations. You'll discover how to set up MCP Actions integrations with popular enterprise tools like Atlassian Jira and Confluence, AWS Knowledge MCP Server, and Amazon Bedrock AgentCore Gateway to create a collaborative environment where people and AI agents can seamlessly work together across your organization's data and applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-quick-suite-to-enterprise-apps-and-agents-with-mcp/",
+          "publishedOn": "2025-10-13T17:21:02.000Z",
+          "wordCount": 12590,
+          "title": "Connect Amazon Quick Suite to enterprise apps and agents with MCP",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/09/image13-1082x630.png"
+        },
+        {
           "id": "f2e6de86919636f581a59dfba603be40afc1716c",
           "author": "Swami Sivasubramanian",
           "description": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",

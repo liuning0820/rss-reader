@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-13T12:35:51.420Z</updated>
+    <updated>2025-10-13T14:17:35.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make agents a reality with Amazon Bedrock AgentCore: Now generally available]]></title>
+        <id>f2e6de86919636f581a59dfba603be40afc1716c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/"/>
+        <updated>2025-10-13T14:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.]]></summary>
+        <author>
+            <name>Swami Sivasubramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing]]></title>
         <id>f832a50a0430d5d2e9c29c6c6fcb6a67b67fe2b6</id>

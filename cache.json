@@ -46,6 +46,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "f2e6de86919636f581a59dfba603be40afc1716c",
+          "author": "Swami Sivasubramanian",
+          "description": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
+          "publishedOn": "2025-10-13T14:10:44.000Z",
+          "wordCount": 11844,
+          "title": "Make agents a reality with Amazon Bedrock AgentCore: Now generally available",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/10/img3-1120x630.png"
+        },
+        {
           "id": "f832a50a0430d5d2e9c29c6c6fcb6a67b67fe2b6",
           "author": "Sindhura Palakodety",
           "description": "In this post, we demonstrate how to integrate Amazon SageMaker HyperPod with Anyscale platform to address critical infrastructure challenges in building and deploying large-scale AI models. The combined solution provides robust infrastructure for distributed AI workloads with high-performance hardware, continuous monitoring, and seamless integration with Ray, the leading AI compute engine, enabling organizations to reduce time-to-market and lower total cost of ownership.",

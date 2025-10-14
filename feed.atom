@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-14T16:21:30.948Z</updated>
+    <updated>2025-10-14T18:24:51.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a device management agent with Amazon Bedrock AgentCore]]></title>
+        <id>d1d82d8c9f17cbd16fab69f19538034d619b7323</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/"/>
+        <updated>2025-10-14T16:42:21.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to build a conversational device management system using Amazon Bedrock AgentCore. With this solution, users can manage their IoT devices through natural language, using a UI for tasks like checking device status, configuring WiFi networks, and monitoring user activity.]]></summary>
+        <author>
+            <name>Godwin Sahayaraj Vincent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce]]></title>
+        <id>00d1e91a5471decbc99963f2138bd3d0660524c6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/"/>
+        <updated>2025-10-14T16:33:57.000Z</updated>
+        <summary type="html"><![CDATA[This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.]]></summary>
+        <author>
+            <name>Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transforming the physical world with AI: the next frontier in intelligent automation]]></title>
         <id>ae0ed9a49cd1fa028cacc342372895295fb6bdd6</id>

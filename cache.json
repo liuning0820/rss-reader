@@ -35,6 +35,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d1d82d8c9f17cbd16fab69f19538034d619b7323",
+          "author": "Godwin Sahayaraj Vincent",
+          "description": "In this post, we explore how to build a conversational device management system using Amazon Bedrock AgentCore. With this solution, users can manage their IoT devices through natural language, using a UI for tasks like checking device status, configuring WiFi networks, and monitoring user activity.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2025-10-14T16:42:21.000Z",
+          "wordCount": 11072,
+          "title": "Build a device management agent with Amazon Bedrock AgentCore",
+          "enclosure": {
+            "length": "8652636",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19579/device_management_agent_trimmed-25-AUg.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/02/device-management-architecture-5-897x630.png"
+        },
+        {
+          "id": "00d1e91a5471decbc99963f2138bd3d0660524c6",
+          "author": "Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,",
+          "description": "This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/",
+          "publishedOn": "2025-10-14T16:33:57.000Z",
+          "wordCount": 11422,
+          "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/26/image-2-21-1260x604.png"
+        },
+        {
           "id": "ae0ed9a49cd1fa028cacc342372895295fb6bdd6",
           "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Randi Larson",
           "description": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",

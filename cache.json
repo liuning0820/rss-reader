@@ -46,6 +46,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "ae0ed9a49cd1fa028cacc342372895295fb6bdd6",
+          "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Randi Larson",
+          "description": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/",
+          "publishedOn": "2025-10-13T22:21:26.000Z",
+          "wordCount": 11274,
+          "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/13/Screenshot-2025-10-13-at-16-22-12-Physical-AI-Capability-Spectrum.png"
+        },
+        {
           "id": "bc6394132e595dff36af84bdba60da2db334d536",
           "author": "Aditya Ranjan",
           "description": "In this post, we demonstrate the development of a conceptual Medical Reports Analysis Dashboard that combines Amazon Bedrock AI capabilities, LangChain's document processing, and Streamlit's interactive visualization features. The solution transforms complex medical data into accessible insights through a context-aware chat system powered by large language models available through Amazon Bedrock and dynamic visualizations of health parameters.",

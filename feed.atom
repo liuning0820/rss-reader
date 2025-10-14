@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-14T12:37:20.503Z</updated>
+    <updated>2025-10-14T14:17:58.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -394,16 +394,6 @@
         <summary type="html"><![CDATA[In this post, we share how msg automated data harmonization for msg.ProfileMap, using Amazon Bedrock to power its large language model (LLM)-driven data enrichment workflows, resulting in higher accuracy in HR concept matching, reduced manual workload, and improved alignment with compliance requirements under the EU AI Act and GDPR.]]></summary>
         <author>
             <name>Stefan Walter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #494]]></title>
-        <id>https://sreweekly.com/?p=1688</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-494/"/>
-        <updated>2025-09-15T01:49:10.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I’m on medical leave. If all goes to plan, I’ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you’re interested, I invite […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

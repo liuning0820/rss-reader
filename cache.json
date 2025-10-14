@@ -21,18 +21,7 @@
       "title": "SRE WEEKLY",
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
-      "articles": [
-        {
-          "id": "https://sreweekly.com/?p=1688",
-          "author": "lex",
-          "description": "View on sreweekly.com SRE Weekly will be on hiatus for the next 6 weeks while I’m on medical leave. If all goes to plan, I’ll be donating a kidney for a loved one later this week, reducing my internal redundancy to help them respond to their own internal renal incident. If you’re interested, I invite […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-494/",
-          "publishedOn": "2025-09-15T01:49:10.000Z",
-          "wordCount": 1296,
-          "title": "SRE Weekly Issue #494",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Toby Liu",

@@ -35,6 +35,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a88f306c587e1e3fe65a2bf0886e0bd06f57bc32",
+          "author": "Abhinav Bhargava",
+          "description": "In this post, we share four high-impact, widely adopted use cases built with Nova in Amazon Bedrock, supported by real-world customers deployments, offerings available from AWS partners, and experiences. These examples are ideal for organizations researching their own AI adoption strategies and use cases across industries.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/transforming-enterprise-operations-four-high-impact-use-cases-with-amazon-nova/",
+          "publishedOn": "2025-10-15T18:26:10.000Z",
+          "wordCount": 11781,
+          "title": "Transforming enterprise operations: Four high-impact use cases with Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/15/high-impact-use-cases.jpg"
+        },
+        {
           "id": "2b769d8fbd0268099a8b22fd9ff5b6f628471ad8",
           "author": "Akarsha Sehwag",
           "description": "In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-15T16:18:33.054Z</updated>
+    <updated>2025-10-15T18:25:43.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building smarter AI agents: AgentCore long-term memory deep dive]]></title>
+        <id>2b769d8fbd0268099a8b22fd9ff5b6f628471ad8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-smarter-ai-agents-agentcore-long-term-memory-deep-dive/"/>
+        <updated>2025-10-15T18:22:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Amazon Bedrock AgentCore Memory transforms raw conversational data into persistent, actionable knowledge through sophisticated extraction, consolidation, and retrieval mechanisms that mirror human cognitive processes. The system tackles the complex challenge of building AI agents that don't just store conversations but extract meaningful insights, merge related information across time, and maintain coherent memory stores that enable truly context-aware interactions.]]></summary>
+        <author>
+            <name>Akarsha Sehwag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS]]></title>
+        <id>cae730cd759fff3458a801258f1e0fc018372a2a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/"/>
+        <updated>2025-10-15T16:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Misconfiguration issues in distributed training with Amazon EKS can be prevented following a systematic approach to launch required components and verify their proper configuration. This post walks through the steps to set up and verify an EKS cluster for training large models using DLCs.]]></summary>
+        <author>
+            <name>Meryem Ozcelik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scala development in Amazon SageMaker Studio with Almond kernel]]></title>
+        <id>171124478accbd7b568ae8404dc93e5bf513d574</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scala-development-in-amazon-sagemaker-studio-with-almond-kernel/"/>
+        <updated>2025-10-15T16:35:01.000Z</updated>
+        <summary type="html"><![CDATA[This post provides a comprehensive guide on integrating the Almond kernel into SageMaker Studio, offering a solution for Scala development within the platform.]]></summary>
+        <author>
+            <name>Varun Rajan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a device management agent with Amazon Bedrock AgentCore]]></title>
         <id>d1d82d8c9f17cbd16fab69f19538034d619b7323</id>

@@ -35,6 +35,51 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "cb09717385e4a038d420856e4bfa92f0dbb4ce60",
+          "author": "Ross Ashworth",
+          "description": "This post shows how TP ICAP used Amazon Bedrock Knowledge Bases and Amazon Bedrock Evaluations to build ClientIQ, an enterprise-grade solution with enhanced security features for extracting CRM insights using AI, delivering immediate business value.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-tp-icap-transformed-crm-data-into-real-time-insights-with-amazon-bedrock/",
+          "publishedOn": "2025-10-17T16:15:25.000Z",
+          "wordCount": 12203,
+          "title": "How TP ICAP transformed CRM data into real-time insights with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/30/image-2-22-1260x549.png"
+        },
+        {
+          "id": "1c008b3ddbbc2de333c4e33259f04e04313bbe6c",
+          "author": "Mulay Ahmed and Caroline Lima-Lane",
+          "description": "In the post Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight, we discussed the overall Principal Virtual Assistant solution using Genesys Cloud, Amazon Lex V2, multiple AWS services, and a custom reporting and analytics solution using Amazon QuickSight.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-accelerates-build-test-and-deployment-of-amazon-lex-v2-bots-through-automation/",
+          "publishedOn": "2025-10-17T16:13:18.000Z",
+          "wordCount": 11473,
+          "title": "Principal Financial Group accelerates build, test, and deployment of Amazon Lex V2 bots through automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/07/test_workebnech_diagrams.png"
+        },
+        {
+          "id": "c4144dc79e41a1d5cf87ff24cfb749bfe5d85290",
+          "author": "Claudio Mazzoni",
+          "description": "In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/",
+          "publishedOn": "2025-10-17T16:09:22.000Z",
+          "wordCount": 12842,
+          "title": "Beyond vibes: How to properly select the right LLM for the right task",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/14/ml-19279-11.png"
+        },
+        {
+          "id": "00762bb38473718cc25037f9a523e473a1e760dc",
+          "author": "Sheldon Liu",
+          "description": "In this post, we show how Splash Music is setting a new standard for AI-powered music creation by using its advanced HummingLM model with AWS Trainium on Amazon SageMaker HyperPod. As a selected startup in the 2024 AWS Generative AI Accelerator, Splash Music collaborated closely with AWS Startups and the AWS Generative AI Innovation Center (GenAIIC) to fast-track innovation and accelerate their music generation FM development lifecycle.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/splash-music-transforms-music-generation-using-aws-trainium-and-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2025-10-17T16:06:01.000Z",
+          "wordCount": 12317,
+          "title": "Splash Music transforms music generation using AWS Trainium and Amazon SageMaker HyperPod",
+          "enclosure": {
+            "length": "173119631",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19312/AWS+Summit+Sydney+2025+-+Splash+Music_compressed.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/26/splash-aws.png"
+        },
+        {
           "id": "6b5d536e1611a76858bb67ebee23f5319ec90ad8",
           "author": "Yanyan Zhang",
           "description": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",

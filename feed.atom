@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-17T06:24:50.229Z</updated>
+    <updated>2025-10-17T08:23:09.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -424,26 +424,6 @@
         <summary type="html"><![CDATA[In this post, we show how to integrate AWS DLCs with MLflow to create a solution that balances infrastructure control with robust ML governance. We walk through a functional setup that your team can use to meet your specialized requirements while significantly reducing the time and resources needed for ML lifecycle management.]]></summary>
         <author>
             <name>Gunjan Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharge your organization’s productivity with the Amazon Q Business browser extension]]></title>
-        <id>db5ef29d7caea4d62794a0c63821b3b9fda341ab</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/supercharge-your-organizations-productivity-with-the-amazon-q-business-browser-extension/"/>
-        <updated>2025-09-17T19:37:32.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we showed how to use the Amazon Q Business browser extension to give your team seamless access to AI-driven insights and assistance. The browser extension is now available in US East (N. Virginia) and US West (Oregon) AWS Regions for Mozilla, Google Chrome, and Microsoft Edge as part of the Lite Subscription.]]></summary>
-        <author>
-            <name>Abhinand Sukumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Agentic Workflows with OpenAI GPT OSS on Amazon SageMaker AI and Amazon Bedrock AgentCore]]></title>
-        <id>671f76c3eedc64d556bc86f3cbab1f9b4bc6c7d4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-agentic-workflows-with-openai-gpt-oss-on-amazon-sagemaker-ai-and-amazon-bedrock-agentcore/"/>
-        <updated>2025-09-17T19:31:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to deploy gpt-oss-20b model to SageMaker managed endpoints and demonstrate a practical stock analyzer agent assistant example with LangGraph, a powerful graph-based framework that handles state management, coordinated workflows, and persistent memory systems.]]></summary>
-        <author>
-            <name>Vivek Gangasani</name>
         </author>
     </entry>
 </feed>

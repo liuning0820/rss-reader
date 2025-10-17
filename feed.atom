@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-16T22:13:00.600Z</updated>
+    <updated>2025-10-17T01:17:28.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iterative fine-tuning on Amazon Bedrock for strategic model improvement]]></title>
+        <id>6b5d536e1611a76858bb67ebee23f5319ec90ad8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/"/>
+        <updated>2025-10-16T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]]]></summary>
+        <author>
+            <name>Yanyan Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Voice AI-powered drive-thru ordering with Amazon Nova Sonic and dynamic menu displays]]></title>
         <id>d4a67e7eaaf1dfae5132179976a5e87990601fb6</id>

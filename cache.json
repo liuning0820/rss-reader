@@ -498,26 +498,6 @@
           "wordCount": 12844,
           "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ML-19574_Blog_FeaturedImg.png"
-        },
-        {
-          "id": "d9e117a4b439353a34dfffbccc088a081a699676",
-          "author": "Vamsi Thilak Gudi",
-          "description": "In this post, we explore how to monitor and manage Amazon Bedrock batch inference jobs using Amazon CloudWatch metrics, alarms, and dashboards to optimize performance, cost, and operational efficiency.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/",
-          "publishedOn": "2025-09-18T15:33:07.000Z",
-          "wordCount": 11165,
-          "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/06/image6-1260x498.png"
-        },
-        {
-          "id": "faeaba9c01aea3dc5489fe4c9e966362c3a028be",
-          "author": "Gunjan Jain",
-          "description": "In this post, we show how to integrate AWS DLCs with MLflow to create a solution that balances infrastructure control with robust ML governance. We walk through a functional setup that your team can use to meet your specialized requirements while significantly reducing the time and resources needed for ML lifecycle management.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-deep-learning-containers-with-amazon-sagemaker-ai-managed-mlflow/",
-          "publishedOn": "2025-09-18T15:29:35.000Z",
-          "wordCount": 34144,
-          "title": "Use AWS Deep Learning Containers with Amazon SageMaker AI managed MLflow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/08/ML-19168-image-1.png"
         }
       ]
     }

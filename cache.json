@@ -463,21 +463,6 @@
           "wordCount": 12400,
           "title": "Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/22/comet-experiments.jpg"
-        },
-        {
-          "id": "c3a0d43c715a563f3e1a858e5fb71a584f9105b3",
-          "author": "Maira Ladeira Tanke",
-          "description": "This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/move-your-ai-agents-from-proof-of-concept-to-production-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2025-09-19T16:09:26.000Z",
-          "wordCount": 14756,
-          "title": "Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore",
-          "enclosure": {
-            "length": "33519174",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-19419/250822_MARK-intro_DELIVERY_compressed.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/03/image-9-1-1163x630.png"
         }
       ]
     }

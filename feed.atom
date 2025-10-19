@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-19T03:13:25.797Z</updated>
+    <updated>2025-10-19T04:20:29.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -414,16 +414,6 @@
         <summary type="html"><![CDATA[In this post, we showed how to use SageMaker and Comet together to spin up fully managed ML environments with reproducibility and experiment tracking capabilities.]]></summary>
         <author>
             <name>Vikesh Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore]]></title>
-        <id>c3a0d43c715a563f3e1a858e5fb71a584f9105b3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/move-your-ai-agents-from-proof-of-concept-to-production-with-amazon-bedrock-agentcore/"/>
-        <updated>2025-09-19T16:09:26.000Z</updated>
-        <summary type="html"><![CDATA[This post explores how Amazon Bedrock AgentCore helps you transition your agentic applications from experimental proof of concept to production-ready systems. We follow the journey of a customer support agent that evolves from a simple local prototype to a comprehensive, enterprise-grade solution capable of handling multiple concurrent users while maintaining security and performance standards.]]></summary>
-        <author>
-            <name>Maira Ladeira Tanke</name>
         </author>
     </entry>
 </feed>

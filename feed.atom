@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-21T18:24:12.619Z</updated>
+    <updated>2025-10-21T20:19:45.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Serverless deployment for your Amazon SageMaker Canvas models]]></title>
+        <id>01a7efd1c9e617bce68892ba04c387f1c6f94dca</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/"/>
+        <updated>2025-10-21T19:03:19.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through how to take an ML model built in SageMaker Canvas and deploy it using SageMaker Serverless Inference, helping you go from model creation to production-ready predictions quickly and efficiently without managing any infrastructure. This solution demonstrates a complete workflow from adding your trained model to the SageMaker Model Registry through creating serverless endpoint configurations and deploying endpoints that automatically scale based on demand .]]></summary>
+        <author>
+            <name>Nadhya Polanco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a multi-agent voice assistant with Amazon Nova Sonic and Amazon Bedrock AgentCore]]></title>
         <id>ee249c27d5fce684bd80368b5939b95cb2afac51</id>

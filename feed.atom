@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-22T18:26:37.457Z</updated>
+    <updated>2025-10-22T20:20:39.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a proactive AI cost management system for Amazon Bedrock – Part 2]]></title>
+        <id>99166a80963ca7cacb8854bad66c65bbe68442e8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-2/"/>
+        <updated>2025-10-22T18:58:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore advanced cost monitoring strategies for Amazon Bedrock deployments, introducing granular custom tagging approaches for precise cost allocation and comprehensive reporting mechanisms that build upon the proactive cost management foundation established in Part 1. The solution demonstrates how to implement invocation-level tagging, application inference profiles, and integration with AWS Cost Explorer to create a complete 360-degree view of generative AI usage and expenses.]]></summary>
+        <author>
+            <name>Jason Salcido</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a proactive AI cost management system for Amazon Bedrock – Part 1]]></title>
+        <id>5ec8660660e90c1becf517a95ca7827af59948d0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-1/"/>
+        <updated>2025-10-22T18:58:05.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce a comprehensive solution for proactively managing Amazon Bedrock inference costs through a cost sentry mechanism designed to establish and enforce token usage limits, providing organizations with a robust framework for controlling generative AI expenses. The solution uses serverless workflows and native Amazon Bedrock integration to deliver a predictable, cost-effective approach that aligns with organizational financial constraints while preventing runaway costs through leading indicators and real-time budget enforcement.]]></summary>
+        <author>
+            <name>Jason Salcido</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline code migration using Amazon Nova Premier with an agentic workflow]]></title>
+        <id>abe342a5e6d7479365e2a640bd9af7927b3e9d45</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/streamline-code-migration-using-amazon-nova-premier-with-an-agentic-workflow/"/>
+        <updated>2025-10-22T18:48:48.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how Amazon Nova Premier with Amazon Bedrock can systematically migrate legacy C code to modern Java/Spring applications using an intelligent agentic workflow that breaks down complex conversions into specialized agent roles. The solution reduces migration time and costs while improving code quality through automated validation, security assessment, and iterative refinement processes that handle even large codebases exceeding token limitations.]]></summary>
+        <author>
+            <name>Aditya Prakash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia]]></title>
         <id>73df746debefcca75a44117798dbae06a5bb05a1</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-22T12:37:19.472Z</updated>
+    <updated>2025-10-22T14:18:32.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia]]></title>
+        <id>73df746debefcca75a44117798dbae06a5bb05a1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/"/>
+        <updated>2025-10-22T13:53:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .]]></summary>
+        <author>
+            <name>Audra Devoto, Owen Janson, Adam Perry, Christopher Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serverless deployment for your Amazon SageMaker Canvas models]]></title>
         <id>01a7efd1c9e617bce68892ba04c387f1c6f94dca</id>

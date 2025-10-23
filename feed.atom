@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-23T04:20:18.277Z</updated>
+    <updated>2025-10-23T06:25:54.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -474,16 +474,6 @@
         <summary type="html"><![CDATA[AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]]]></summary>
         <author>
             <name>Vadim Omeltchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrate tokenization with Amazon Bedrock Guardrails for secure data handling]]></title>
-        <id>5e79a5420fc034f58c3a553079e5509c78475a2f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/"/>
-        <updated>2025-09-23T17:31:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to integrate Amazon Bedrock Guardrails with third-party tokenization services to protect sensitive data while maintaining data reversibility. By combining these technologies, organizations can implement stronger privacy controls while preserving the functionality of their generative AI applications and related systems.]]></summary>
-        <author>
-            <name>Nizar Kheir</name>
         </author>
     </entry>
 </feed>

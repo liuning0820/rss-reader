@@ -508,21 +508,6 @@
           "wordCount": 11974,
           "title": "Accelerate benefits claims processing with Amazon Bedrock Data Automation",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/15/image-1-13-970x630.png"
-        },
-        {
-          "id": "bee0617f3a3c21af9191c358c9d226f23aa24fdb",
-          "author": "Vadim Omeltchenko",
-          "description": "AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/",
-          "publishedOn": "2025-09-23T20:35:23.000Z",
-          "wordCount": 11650,
-          "title": "Running deep research AI agents on Amazon Bedrock AgentCore",
-          "enclosure": {
-            "length": "11939358",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19539/blog-video-exp-2.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/23/ml19539_AWS_Blog_FeaturedImg.png"
         }
       ]
     }

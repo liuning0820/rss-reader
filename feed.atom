@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-23T08:23:55.147Z</updated>
+    <updated>2025-10-23T10:18:42.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -464,16 +464,6 @@
         <summary type="html"><![CDATA[In the benefits administration industry, claims processing is a vital operational pillar that makes sure employees and beneficiaries receive timely benefits, such as health, dental, or disability payments, while controlling costs and adhering to regulations like HIPAA and ERISA. In this post, we examine the typical benefit claims processing workflow and identify where generative AI-powered automation can deliver the greatest impact.]]></summary>
         <author>
             <name>Saurabh Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running deep research AI agents on Amazon Bedrock AgentCore]]></title>
-        <id>bee0617f3a3c21af9191c358c9d226f23aa24fdb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/"/>
-        <updated>2025-09-23T20:35:23.000Z</updated>
-        <summary type="html"><![CDATA[AI agents are evolving beyond basic single-task helpers into more powerful systems that can plan, critique, and collaborate with other agents to solve complex problems. Deep Agents—a recently introduced framework built on LangGraph—bring these capabilities to life, enabling multi-agent workflows that mirror real-world team dynamics. The challenge, however, is not just building such agents but […]]]></summary>
-        <author>
-            <name>Vadim Omeltchenko</name>
         </author>
     </entry>
 </feed>

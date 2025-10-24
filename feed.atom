@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-24T14:17:27.059Z</updated>
+    <updated>2025-10-24T16:21:07.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond pilots: A proven framework for scaling AI to production]]></title>
+        <id>3323b39296fb43abde4986f299ed5be4d86e3fc0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/beyond-pilots-a-proven-framework-for-scaling-ai-to-production/"/>
+        <updated>2025-10-24T14:42:41.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore the Five V's Framework—a field-tested methodology that has helped 65% of AWS Generative AI Innovation Center customer projects successfully transition from concept to production, with some launching in just 45 days. The framework provides a structured approach through Value, Visualize, Validate, Verify, and Venture phases, shifting focus from "What can AI do?" to "What do we need AI to do?" while ensuring solutions deliver measurable business outcomes and sustainable operational excellence.]]></summary>
+        <author>
+            <name>Sri Elaprolu, Sabine Khan, Diego Socolinsky, Andrea Jimenez Fernandez, and Randi Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generate Gremlin queries using Amazon Bedrock models]]></title>
         <id>df781df1c993e8b209eb0ab62bc745b710ee38a1</id>

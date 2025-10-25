@@ -528,26 +528,6 @@
           "wordCount": 11797,
           "title": "DoWhile loops now supported in Amazon Bedrock Flows",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/25/19662_Blog_FeaturedImg.png"
-        },
-        {
-          "id": "5dbe4cfd52ee8f36bacb0b7620e42d0462ec0a6b",
-          "author": "Adithya Suresh",
-          "description": "In this post, we explore how we built a multi-agent conversational AI system using Amazon Bedrock that delivers knowledge-grounded property investment advice. We explore the agent architecture, model selection strategy, and comprehensive continuous evaluation system that facilitates quality conversations while facilitating rapid iteration and improvement.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-prophero-built-an-intelligent-property-investment-advisor-with-continuous-evaluation-using-amazon-bedrock/",
-          "publishedOn": "2025-09-25T19:25:23.000Z",
-          "wordCount": 11695,
-          "title": "How PropHero built an intelligent property investment advisor with continuous evaluation using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/16/ML-18952-flow-1036x630.png"
-        },
-        {
-          "id": "57cada4e19d45b9d1f3d5d40acbd429376abe8b1",
-          "author": "Saurabh Kumar",
-          "description": "In the benefits administration industry, claims processing is a vital operational pillar that makes sure employees and beneficiaries receive timely benefits, such as health, dental, or disability payments, while controlling costs and adhering to regulations like HIPAA and ERISA. In this post, we examine the typical benefit claims processing workflow and identify where generative AI-powered automation can deliver the greatest impact.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-benefits-claims-processing-with-amazon-bedrock-data-automation/",
-          "publishedOn": "2025-09-25T19:20:16.000Z",
-          "wordCount": 11974,
-          "title": "Accelerate benefits claims processing with Amazon Bedrock Data Automation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/15/image-1-13-970x630.png"
         }
       ]
     }

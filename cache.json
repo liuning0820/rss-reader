@@ -518,16 +518,6 @@
           "wordCount": 14057,
           "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/17/ML-19413-arch-diag-1260x573.png"
-        },
-        {
-          "id": "a36fad000602a8e0e7d80dacd0f94b9d86a9b03d",
-          "author": "Shubhankar Sumar",
-          "description": "Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/",
-          "publishedOn": "2025-09-25T20:25:08.000Z",
-          "wordCount": 11797,
-          "title": "DoWhile loops now supported in Amazon Bedrock Flows",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/25/19662_Blog_FeaturedImg.png"
         }
       ]
     }

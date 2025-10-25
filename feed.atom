@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-25T08:19:40.651Z</updated>
+    <updated>2025-10-25T10:15:37.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -474,16 +474,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.]]></summary>
         <author>
             <name>Amit Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoWhile loops now supported in Amazon Bedrock Flows]]></title>
-        <id>a36fad000602a8e0e7d80dacd0f94b9d86a9b03d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/"/>
-        <updated>2025-09-25T20:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are excited to announce support for DoWhile loops in Amazon Bedrock Flows. With this powerful new capability, you can create iterative, condition-based workflows directly within your Amazon Bedrock flows, using Prompt nodes, AWS Lambda functions, Amazon Bedrock Agents, Amazon Bedrock Flows inline code, Amazon Bedrock Knowledge Bases, Amazon Simple Storage Service (Amazon S3), […]]]></summary>
-        <author>
-            <name>Shubhankar Sumar</name>
         </author>
     </entry>
 </feed>

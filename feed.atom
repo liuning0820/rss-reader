@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-26T03:07:57.292Z</updated>
+    <updated>2025-10-26T04:18:47.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -454,26 +454,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to implement real-time fraud prevention using GraphStorm v0.5's new capabilities for deploying graph neural network (GNN) models through Amazon SageMaker. We show how to transition from model training to production-ready inference endpoints with minimal operational overhead, enabling sub-second fraud detection on transaction graphs with billions of nodes and edges.]]></summary>
         <author>
             <name>Jian Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building health care agents using Amazon Bedrock AgentCore]]></title>
-        <id>4b67620f7d7881d3934c61e66710464e409fc1b4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/"/>
-        <updated>2025-09-26T16:03:41.000Z</updated>
-        <summary type="html"><![CDATA[In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.]]></summary>
-        <author>
-            <name>Kamal Manchanda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore]]></title>
-        <id>4686c90ee68cf5e40a644e3afd1e7ce092734302</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/"/>
-        <updated>2025-09-26T15:58:34.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.]]></summary>
-        <author>
-            <name>Amit Arora</name>
         </author>
     </entry>
 </feed>

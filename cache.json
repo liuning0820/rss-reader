@@ -498,26 +498,6 @@
           "wordCount": 12815,
           "title": "Modernize fraud prevention: GraphStorm v0.5 for real-time inference",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/25/ML-19181-Arch-1088x630.png"
-        },
-        {
-          "id": "4b67620f7d7881d3934c61e66710464e409fc1b4",
-          "author": "Kamal Manchanda",
-          "description": "In this solution, we demonstrate how the user (a parent) can interact with a Strands or LangGraph agent in conversational style and get information about the immunization history and schedule of their child, inquire about the available slots, and book appointments. With some changes, AI agents can be made event-driven so that they can automatically send reminders, book appointments, and so on.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/",
-          "publishedOn": "2025-09-26T16:03:41.000Z",
-          "wordCount": 11911,
-          "title": "Building health care agents using Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/18/ML-19648-Arch-1172x630.png"
-        },
-        {
-          "id": "4686c90ee68cf5e40a644e3afd1e7ce092734302",
-          "author": "Amit Arora",
-          "description": "In this post, we demonstrate how to build a multi-agent SRE assistant using Amazon Bedrock AgentCore, LangGraph, and the Model Context Protocol (MCP). This system deploys specialized AI agents that collaborate to provide the deep, contextual intelligence that modern SRE teams need for effective incident response and infrastructure management.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2025-09-26T15:58:34.000Z",
-          "wordCount": 14057,
-          "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/17/ML-19413-arch-diag-1260x573.png"
         }
       ]
     }

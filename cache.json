@@ -45,6 +45,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "1585d45c60f8212f2e7aa0603fecafbd57e21e6a",
+          "author": "Curt Lockhart, Francesco Ciannella",
+          "description": "In this post, we explore how to deploy NVIDIA's Parakeet ASR model on Amazon SageMaker AI using asynchronous inference endpoints to create a scalable, cost-effective pipeline for processing large volumes of audio data. The solution combines state-of-the-art speech recognition capabilities with AWS managed services like Lambda, S3, and Bedrock to automatically transcribe audio files and generate intelligent summaries, enabling organizations to unlock valuable insights from customer calls, meeting recordings, and other audio content at scale .",
+          "link": "https://aws.amazon.com/blogs/machine-learning/hosting-nvidia-speech-nim-models-on-amazon-sagemaker-ai-parakeet-asr/",
+          "publishedOn": "2025-10-28T18:09:48.000Z",
+          "wordCount": 37820,
+          "title": "Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/27/ml-157041-887x630.png"
+        },
+        {
           "id": "d8d359ca86c1f7e2d62d1324c5f8a42cb5fab91d",
           "author": "Tonny Ouma",
           "description": "In this post, we explore the critical design considerations for building responsible AI systems in healthcare and life sciences, focusing on establishing governance mechanisms, transparency artifacts, and security measures that ensure safe and effective generative AI applications. The discussion covers essential policies for mitigating risks like confabulation and bias while promoting trust, accountability, and patient safety throughout the AI development lifecycle.",

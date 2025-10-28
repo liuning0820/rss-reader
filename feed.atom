@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-28T12:36:27.467Z</updated>
+    <updated>2025-10-28T14:18:07.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLSA attestations for Docker matrix builds]]></title>
+        <id>http://blog.thestateofme.com/?p=6500</id>
+        <link href="https://blog.thestateofme.com/2025/10/28/slsa-attestations-for-docker-matrix-builds/"/>
+        <updated>2025-10-28T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Supply-chain Levels for Software Artifacts (SLSA) attestations are a great way to show that you care about security, and they’re fairly trivial to add to delivery pipelines that produce a single binary or container image. But things get tricky with matrix jobs that build lots of things in parallel, as you then need to […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsible AI design in healthcare and life sciences]]></title>
         <id>d8d359ca86c1f7e2d62d1324c5f8a42cb5fab91d</id>

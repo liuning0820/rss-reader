@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-28T20:20:04.682Z</updated>
+    <updated>2025-10-28T22:16:49.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[In this post, we explore how to deploy NVIDIA's Parakeet ASR model on Amazon SageMaker AI using asynchronous inference endpoints to create a scalable, cost-effective pipeline for processing large volumes of audio data. The solution combines state-of-the-art speech recognition capabilities with AWS managed services like Lambda, S3, and Bedrock to automatically transcribe audio files and generate intelligent summaries, enabling organizations to unlock valuable insights from customer calls, meeting recordings, and other audio content at scale .]]></summary>
         <author>
             <name>Curt Lockhart, Francesco Ciannella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLSA attestations for Docker matrix builds]]></title>
+        <id>https://blog.thestateofme.com/?p=6500</id>
+        <link href="http://blog.thestateofme.com/2025/10/28/slsa-attestations-for-docker-matrix-builds/"/>
+        <updated>2025-10-28T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Supply-chain Levels for Software Artifacts (SLSA) attestations are a great way to show that you care about security, and they’re fairly trivial to add to delivery pipelines that produce a single binary or container image. But things get tricky with matrix jobs that build lots of things in parallel, as you then need to […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>
@@ -454,6 +464,16 @@
         <summary type="html"><![CDATA[We’re excited to announce that Rox is generally available, with Rox infrastructure built on AWS and delivered across web, Slack, macOS, and iOS. In this post, we share how Rox accelerates sales productivity with AI agents powered by Amazon Bedrock.]]></summary>
         <author>
             <name>Santhan Pamulapati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 2025]]></title>
+        <id>https://blog.thestateofme.com/?p=6445</id>
+        <link href="http://blog.thestateofme.com/2025/10/01/september-2025/"/>
+        <updated>2025-10-01T13:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate Autumn is upon us, and it was a wet start to the month, but that hasn’t stopped the boys from being enthusiastic about their walks. Clear scan Milo had another scan at the start of the month, and once again it was clear :) That means we’re now on the longest stretch of remission […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

@@ -65,6 +65,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5852c23ebdfd8293c680994c8754b164caed7869",
+          "author": "Veda Raman",
+          "description": "AI agents need to browse the web on your behalf. When your agent visits a website to gather information, complete a form, or verify data, it encounters the same defenses designed to stop unwanted bots: CAPTCHAs, rate limits, and outright blocks. Today, we are excited to share that AWS has a solution. Amazon Bedrock AgentCore […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/reduce-captchas-for-ai-agents-browsing-the-web-with-web-bot-auth-preview-in-amazon-bedrock-agentcore-browser/",
+          "publishedOn": "2025-10-30T21:55:03.000Z",
+          "wordCount": 35663,
+          "title": "Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/30/AWS_Blog_FeaturedImg_19997.png"
+        },
+        {
           "id": "1585d45c60f8212f2e7aa0603fecafbd57e21e6a",
           "author": "Curt Lockhart, Francesco Ciannella",
           "description": "In this post, we explore how to deploy NVIDIA's Parakeet ASR model on Amazon SageMaker AI using asynchronous inference endpoints to create a scalable, cost-effective pipeline for processing large volumes of audio data. The solution combines state-of-the-art speech recognition capabilities with AWS managed services like Lambda, S3, and Bedrock to automatically transcribe audio files and generate intelligent summaries, enabling organizations to unlock valuable insights from customer calls, meeting recordings, and other audio content at scale .",

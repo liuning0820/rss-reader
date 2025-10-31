@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-30T22:16:20.577Z</updated>
+    <updated>2025-10-31T01:20:00.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -474,26 +474,6 @@
         <summary type="html"><![CDATA[We’re excited to announce that Rox is generally available, with Rox infrastructure built on AWS and delivered across web, Slack, macOS, and iOS. In this post, we share how Rox accelerates sales productivity with AI agents powered by Amazon Bedrock.]]></summary>
         <author>
             <name>Santhan Pamulapati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September 2025]]></title>
-        <id>https://blog.thestateofme.com/?p=6445</id>
-        <link href="http://blog.thestateofme.com/2025/10/01/september-2025/"/>
-        <updated>2025-10-01T13:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate Autumn is upon us, and it was a wet start to the month, but that hasn’t stopped the boys from being enthusiastic about their walks. Clear scan Milo had another scan at the start of the month, and once again it was clear :) That means we’re now on the longest stretch of remission […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September 2025]]></title>
-        <id>http://blog.thestateofme.com/?p=6445</id>
-        <link href="https://blog.thestateofme.com/2025/10/01/september-2025/"/>
-        <updated>2025-10-01T13:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate Autumn is upon us, and it was a wet start to the month, but that hasn’t stopped the boys from being enthusiastic about their walks. Clear scan Milo had another scan at the start of the month, and once again it was clear :) That means we’re now on the longest stretch of remission […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

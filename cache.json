@@ -45,6 +45,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "791aee238bcfb3ad5cbffcbfaee5fbc30efa61b8",
+          "author": "Adewale Akinfaderin",
+          "description": "Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-systems-with-automated-reasoning-on-amazon-bedrock-part-1/",
+          "publishedOn": "2025-10-31T21:44:24.000Z",
+          "wordCount": 39545,
+          "title": "Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/31/ML-19626-1120x630.png"
+        },
+        {
           "id": "0674547c6ec850a2f49b4389643c1e0dbacadfd4",
           "author": "Hannah Marlowe",
           "description": "In 2024, we launched the Custom Model Program within the AWS Generative AI Innovation Center to provide comprehensive support throughout every stage of model customization and optimization. Over the past two years, this program has delivered exceptional results by partnering with global enterprises and startups across diverse industries—including legal, financial services, healthcare and life sciences, […]",

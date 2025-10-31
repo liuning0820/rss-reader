@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6500",
@@ -44,6 +44,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0674547c6ec850a2f49b4389643c1e0dbacadfd4",
+          "author": "Hannah Marlowe",
+          "description": "In 2024, we launched the Custom Model Program within the AWS Generative AI Innovation Center to provide comprehensive support throughout every stage of model customization and optimization. Over the past two years, this program has delivered exceptional results by partnering with global enterprises and startups across diverse industries—including legal, financial services, healthcare and life sciences, […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/custom-intelligence-building-ai-that-matches-your-business-dna/",
+          "publishedOn": "2025-10-31T16:07:19.000Z",
+          "wordCount": 36872,
+          "title": "Custom Intelligence: Building AI that matches your business DNA",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/31/ml-19659-1120x630.png"
+        },
+        {
+          "id": "2319e7c91d019a6cd10eb525a54dbffa60967755",
+          "author": "Kim Nguyen, Shyam Banuprakash,",
+          "description": "This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/clario-streamlines-clinical-trial-software-configurations-using-amazon-bedrock/",
+          "publishedOn": "2025-10-31T15:49:09.000Z",
+          "wordCount": 36853,
+          "title": "Clario streamlines clinical trial software configurations using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/02/image-1-2-1191x630.png"
+        },
+        {
+          "id": "c8f0b941108f9822dcb7499606d43ddc4faa595d",
+          "author": "Derrick Choo",
+          "description": "こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/",
+          "publishedOn": "2025-10-31T14:45:37.000Z",
+          "wordCount": 36822,
+          "title": "Introducing Amazon Bedrock cross-Region inference for Claude Sonnet 4.5 and Haiku 4.5 in Japan and Australia",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/31/ML-19916-1120x630.png"
+        },
         {
           "id": "5852c23ebdfd8293c680994c8754b164caed7869",
           "author": "Veda Raman",

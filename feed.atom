@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-10-31T14:17:20.851Z</updated>
+    <updated>2025-10-31T16:21:45.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Custom Intelligence: Building AI that matches your business DNA]]></title>
+        <id>0674547c6ec850a2f49b4389643c1e0dbacadfd4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/custom-intelligence-building-ai-that-matches-your-business-dna/"/>
+        <updated>2025-10-31T16:07:19.000Z</updated>
+        <summary type="html"><![CDATA[In 2024, we launched the Custom Model Program within the AWS Generative AI Innovation Center to provide comprehensive support throughout every stage of model customization and optimization. Over the past two years, this program has delivered exceptional results by partnering with global enterprises and startups across diverse industries—including legal, financial services, healthcare and life sciences, […]]]></summary>
+        <author>
+            <name>Hannah Marlowe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clario streamlines clinical trial software configurations using Amazon Bedrock]]></title>
+        <id>2319e7c91d019a6cd10eb525a54dbffa60967755</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/clario-streamlines-clinical-trial-software-configurations-using-amazon-bedrock/"/>
+        <updated>2025-10-31T15:49:09.000Z</updated>
+        <summary type="html"><![CDATA[This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.]]></summary>
+        <author>
+            <name>Kim Nguyen, Shyam Banuprakash,</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Amazon Bedrock cross-Region inference for Claude Sonnet 4.5 and Haiku 4.5 in Japan and Australia]]></title>
+        <id>c8f0b941108f9822dcb7499606d43ddc4faa595d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/"/>
+        <updated>2025-10-31T14:45:37.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]]]></summary>
+        <author>
+            <name>Derrick Choo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser]]></title>
         <id>5852c23ebdfd8293c680994c8754b164caed7869</id>

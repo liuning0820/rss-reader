@@ -503,16 +503,6 @@
           "wordCount": 12912,
           "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic’s Claude Sonnet 4.5",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/03/ml-19733-featured-images-1120x630.png"
-        },
-        {
-          "id": "621433382e96ae20d85b768df8c7d1ef88f956e3",
-          "author": "Dhawalkumar Patel",
-          "description": "In this post, we demonstrate how to access AgentCore Gateway through a VPC interface endpoint from an Amazon Elastic Compute Cloud (Amazon EC2) instance in a VPC. We also show how to configure your VPC endpoint policy to provide secure access to the AgentCore Gateway while maintaining the principle of least privilege access.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/",
-          "publishedOn": "2025-10-03T20:08:46.000Z",
-          "wordCount": 13241,
-          "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/03/19794_Blog_FeaturedImg.png"
         }
       ]
     }

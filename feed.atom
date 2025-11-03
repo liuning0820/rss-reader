@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-03T14:17:39.721Z</updated>
+    <updated>2025-11-03T16:20:42.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[October 2025]]></title>
+        <id>https://blog.thestateofme.com/?p=6497</id>
+        <link href="http://blog.thestateofme.com/2025/11/03/october-2025/"/>
+        <updated>2025-11-03T15:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The central heating went on a few days into the month, and it was also soon time for the boys to be wearing their coats out. Interactive Ball Toy Having learned my lesson about dodgy drop shippers last month I ordered from AliExpress when $wife found a fun looking toy in some Dachshund forum. […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #495]]></title>
         <id>https://sreweekly.com/?p=1694</id>

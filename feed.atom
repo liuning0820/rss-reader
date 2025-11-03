@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-03T16:20:42.062Z</updated>
+    <updated>2025-11-03T18:25:03.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic]]></title>
+        <id>6da9350e661ed9a7437efcad43376edb9f54f20b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-switchboard-md-automates-real-time-call-transcription-in-clinical-contact-centers-with-amazon-nova-sonic/"/>
+        <updated>2025-11-03T17:25:22.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we examine the specific challenges Switchboard, MD faced with scaling transcription accuracy and cost-effectiveness in clinical environments, their evaluation process for selecting the right transcription solution, and the technical architecture they implemented using Amazon Connect and Amazon Kinesis Video Streams. This post details the impressive results achieved and demonstrates how they were able to use this foundation to automate EMR matching and give healthcare staff more time to focus on patient care.]]></summary>
+        <author>
+            <name>Tanner Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 2025]]></title>
+        <id>http://blog.thestateofme.com/?p=6497</id>
+        <link href="https://blog.thestateofme.com/2025/11/03/october-2025/"/>
+        <updated>2025-11-03T15:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The central heating went on a few days into the month, and it was also soon time for the boys to be wearing their coats out. Interactive Ball Toy Having learned my lesson about dodgy drop shippers last month I ordered from AliExpress when $wife found a fun looking toy in some Dachshund forum. […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October 2025]]></title>
         <id>https://blog.thestateofme.com/?p=6497</id>

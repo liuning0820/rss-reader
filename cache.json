@@ -76,6 +76,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "15a557ab69304d71f1674fe6b0d2a123cd4f5dab",
+          "author": "Chaitra Mathur",
+          "description": "Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/",
+          "publishedOn": "2025-11-04T18:30:44.000Z",
+          "wordCount": 35930,
+          "title": "Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/04/ml-20000-1120x630.png"
+        },
+        {
           "id": "6da9350e661ed9a7437efcad43376edb9f54f20b",
           "author": "Tanner Jones",
           "description": "In this post, we examine the specific challenges Switchboard, MD faced with scaling transcription accuracy and cost-effectiveness in clinical environments, their evaluation process for selecting the right transcription solution, and the technical architecture they implemented using Amazon Connect and Amazon Kinesis Video Streams. This post details the impressive results achieved and demonstrates how they were able to use this foundation to automate EMR matching and give healthcare staff more time to focus on patient care.",

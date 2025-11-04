@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-04T18:25:41.226Z</updated>
+    <updated>2025-11-04T20:19:59.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment]]></title>
+        <id>15a557ab69304d71f1674fe6b0d2a123cd4f5dab</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/"/>
+        <updated>2025-11-04T18:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]]]></summary>
+        <author>
+            <name>Chaitra Mathur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic]]></title>
         <id>6da9350e661ed9a7437efcad43376edb9f54f20b</id>

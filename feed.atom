@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-05T06:27:03.425Z</updated>
+    <updated>2025-11-05T08:24:37.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,16 +494,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrated how a financial services company can use an FM to process large volumes of customer records and get specific data-driven product recommendations. We also showed how to implement an automated monitoring solution for Amazon Bedrock batch inference jobs. By using EventBridge, Lambda, and DynamoDB, you can gain real-time visibility into batch processing operations, so you can efficiently generate personalized product recommendations based on customer credit data.]]></summary>
         <author>
             <name>Durga Prasad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI]]></title>
-        <id>4f3e5af4e9a4b90e292ad2693a7fc66e089afedc</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/"/>
-        <updated>2025-10-06T19:14:40.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how PowerSchool built and deployed a custom content filtering solution using Amazon SageMaker AI that achieved better accuracy while maintaining low false positive rates. We walk through our technical approach to fine tuning Llama 3.1 8B, our deployment architecture, and the performance results from internal validations.]]></summary>
-        <author>
-            <name>Anjali Vijayakumar</name>
         </author>
     </entry>
 </feed>

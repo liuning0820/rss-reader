@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-05T16:23:05.306Z</updated>
+    <updated>2025-11-05T18:25:23.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs]]></title>
+        <id>f55d60d7dff4ecd77ac44f87ca8ac590ee972b32</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-search-increased-ml-training-twofold-using-aws-batch-for-amazon-sagemaker-training-jobs/"/>
+        <updated>2025-11-05T17:15:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.]]></summary>
+        <author>
+            <name>Mona Mona</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t huff the fumes]]></title>
+        <id>http://blog.thestateofme.com/?p=6538</id>
+        <link href="https://blog.thestateofme.com/2025/11/05/dont-huff-the-fumes/"/>
+        <updated>2025-11-05T16:47:28.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Agentic systems are the latest thing being used to solve IT integration issues, becoming the glue squirted into the gaps between systems. But the use of natural language means that the distinction between ‘data’ and ‘code’ is almost impossible to make, which causes a whole raft of security concerns. This new glue may be […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment]]></title>
         <id>15a557ab69304d71f1674fe6b0d2a123cd4f5dab</id>

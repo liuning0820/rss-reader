@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6538",
+          "author": "Chris Swan",
+          "description": "TL;DR Agentic systems are the latest thing being used to solve IT integration issues, becoming the glue squirted into the gaps between systems. But the use of natural language means that the distinction between ‘data’ and ‘code’ is almost impossible to make, which causes a whole raft of security concerns. This new glue may be […]",
+          "link": "https://blog.thestateofme.com/2025/11/05/dont-huff-the-fumes/",
+          "publishedOn": "2025-11-05T16:47:28.000Z",
+          "wordCount": 4028,
+          "title": "Don’t huff the fumes",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6497",
           "author": "Chris Swan",
           "description": "Pupdate The central heating went on a few days into the month, and it was also soon time for the boys to be wearing their coats out. Interactive Ball Toy Having learned my lesson about dodgy drop shippers last month I ordered from AliExpress when $wife found a fun looking toy in some Dachshund forum. […]",
@@ -75,6 +85,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "f55d60d7dff4ecd77ac44f87ca8ac590ee972b32",
+          "author": "Mona Mona",
+          "description": "In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-increased-ml-training-twofold-using-aws-batch-for-amazon-sagemaker-training-jobs/",
+          "publishedOn": "2025-11-05T17:15:35.000Z",
+          "wordCount": 37117,
+          "title": "How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/16/image-2-11-1260x496.png"
+        },
         {
           "id": "15a557ab69304d71f1674fe6b0d2a123cd4f5dab",
           "author": "Chaitra Mathur",

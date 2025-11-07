@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-07T18:24:45.675Z</updated>
+    <updated>2025-11-07T20:17:29.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing structured output for Custom Model Import in Amazon Bedrock]]></title>
+        <id>aa5cd0d3b39a96fa7c30faa2ba6b5447db10de30</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-structured-output-for-custom-model-import-in-amazon-bedrock/"/>
+        <updated>2025-11-07T18:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.]]></summary>
+        <author>
+            <name>Manoj Selvakumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transform your MCP architecture: Unite MCP servers through AgentCore Gateway]]></title>
         <id>011c53acf54a7243c5f7cacf5c2289a47c61c13b</id>

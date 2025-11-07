@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-07T20:17:29.463Z</updated>
+    <updated>2025-11-07T22:15:45.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock]]></title>
+        <id>e498a87cb90ee23afbe685861460a15ce83a4ee2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/"/>
+        <updated>2025-11-07T21:51:22.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we explore how TR addressed key business use cases with Open Arena, a highly scalable and flexible no-code AI solution powered by Amazon Bedrock and other AWS services such as Amazon OpenSearch Service, Amazon Simple Storage Service (Amazon S3), Amazon DynamoDB, and AWS Lambda. We'll explain how TR used AWS services to build this solution, including how the architecture was designed, the use cases it solves, and the business profiles that use it.]]></summary>
+        <author>
+            <name>Laura Skylaki, Vaibhav Goswami, Ramdev Wudali, Sahar El Khoury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing structured output for Custom Model Import in Amazon Bedrock]]></title>
         <id>aa5cd0d3b39a96fa7c30faa2ba6b5447db10de30</id>

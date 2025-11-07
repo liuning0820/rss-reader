@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "e498a87cb90ee23afbe685861460a15ce83a4ee2",
+          "author": "Laura Skylaki, Vaibhav Goswami, Ramdev Wudali, Sahar El Khoury",
+          "description": "In this blog post, we explore how TR addressed key business use cases with Open Arena, a highly scalable and flexible no-code AI solution powered by Amazon Bedrock and other AWS services such as Amazon OpenSearch Service, Amazon Simple Storage Service (Amazon S3), Amazon DynamoDB, and AWS Lambda. We'll explain how TR used AWS services to build this solution, including how the architecture was designed, the use cases it solves, and the business profiles that use it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
+          "publishedOn": "2025-11-07T21:51:22.000Z",
+          "wordCount": 36760,
+          "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/22/image-3-11-1060x630.png"
+        },
+        {
           "id": "aa5cd0d3b39a96fa7c30faa2ba6b5447db10de30",
           "author": "Manoj Selvakumar",
           "description": "Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.",

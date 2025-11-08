@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-08T08:20:26.750Z</updated>
+    <updated>2025-11-08T10:16:01.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,26 +494,6 @@
         <summary type="html"><![CDATA[Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.]]></summary>
         <author>
             <name>Swami Sivasubramanian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing]]></title>
-        <id>f832a50a0430d5d2e9c29c6c6fcb6a67b67fe2b6</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-hyperpod-and-anyscale-for-next-generation-distributed-computing/"/>
-        <updated>2025-10-09T21:52:24.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to integrate Amazon SageMaker HyperPod with Anyscale platform to address critical infrastructure challenges in building and deploying large-scale AI models. The combined solution provides robust infrastructure for distributed AI workloads with high-performance hardware, continuous monitoring, and seamless integration with Ray, the leading AI compute engine, enabling organizations to reduce time-to-market and lower total cost of ownership.]]></summary>
-        <author>
-            <name>Sindhura Palakodety</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customizing text content moderation with Amazon Nova]]></title>
-        <id>d04157e912152a03d34a9ce14f1e0152eeab547a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/"/>
-        <updated>2025-10-09T21:47:08.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce Amazon Nova customization for text content moderation through Amazon SageMaker AI, enabling organizations to fine-tune models for their specific moderation needs. The evaluation across three benchmarks shows that customized Nova models achieve an average improvement of 7.3% in F1 scores compared to the baseline Nova Lite, with individual improvements ranging from 4.2% to 9.2% across different content moderation tasks.]]></summary>
-        <author>
-            <name>Yooju Shin</name>
         </author>
     </entry>
 </feed>

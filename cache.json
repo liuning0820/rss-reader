@@ -63,6 +63,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1701",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, CodeRabbit: CodeRabbit is your AI co-pilot for code reviews. Get instant code review feedback, one-click fix suggestions and define custom rules with AST Grep to catch subtle issues static tools miss. Trusted across 1M repos and 70K open-source projects. ☞ Get Started Today The hidden trade-offs of […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-496/",
+          "publishedOn": "2025-11-10T03:42:56.000Z",
+          "wordCount": 1120,
+          "title": "SRE Weekly Issue #496",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1694",
           "author": "lex",
           "description": "View on sreweekly.com I’m back! Kidney donation was a fascinating and rewarding experience, and I encourage you to learn more. It’s amazing how it’s possible to fix one human with spare parts from another! I’ll share more about my experience later, but for now: thank you to the many of you that reached out with […]",

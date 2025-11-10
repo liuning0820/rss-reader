@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-10T18:25:34.058Z</updated>
+    <updated>2025-11-10T20:20:46.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT]]></title>
+        <id>cd6501af575873f5a5d4623a81a6e7c14710f3a1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fine-tune-vlms-for-multipage-document-to-json-with-sagemaker-ai-and-swift/"/>
+        <updated>2025-11-10T19:59:01.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate that fine-tuning VLMs provides a powerful and flexible approach to automate and significantly enhance document understanding capabilities. We also demonstrate that using focused fine-tuning allows smaller, multi-modal models to compete effectively with much larger counterparts (98% accuracy with Qwen2.5 VL 3B).]]></summary>
+        <author>
+            <name>Nick McCarthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Clario automates clinical research analysis using generative AI on AWS]]></title>
         <id>f391ed6ac0816dc5e1cc7b1f5ef92bacbdbc0fed</id>

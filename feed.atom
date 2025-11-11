@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-11T10:19:53.112Z</updated>
+    <updated>2025-11-11T12:36:54.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Checking that Docker image manifests are complete]]></title>
+        <id>https://blog.thestateofme.com/?p=6544</id>
+        <link href="http://blog.thestateofme.com/2025/11/11/checking-that-docker-image-manifests-are-complete/"/>
+        <updated>2025-11-11T11:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Background We build a bunch of stuff for RISC-V using the Dart official Docker image, but the RISC-V images can often arrive some time (days) after the more mainstream images[1]. That means that if we merge a Dependabot PR for an updated image it might well be missing RISC-V, causing the Continuous Delivery (CD) pipeline […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT]]></title>
         <id>cd6501af575873f5a5d4623a81a6e7c14710f3a1</id>
@@ -84,6 +94,16 @@
         <summary type="html"><![CDATA[In this post, we show you how Amazon Search optimized GPU instance utilization by leveraging AWS Batch for SageMaker Training jobs. This managed solution enabled us to orchestrate machine learning (ML) training workloads on GPU-accelerated instance families like P5, P4, and others. We will also provide a step-by-step walkthrough of the use case implementation.]]></summary>
         <author>
             <name>Mona Mona</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t huff the fumes]]></title>
+        <id>https://blog.thestateofme.com/?p=6538</id>
+        <link href="http://blog.thestateofme.com/2025/11/05/dont-huff-the-fumes/"/>
+        <updated>2025-11-05T16:47:28.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Agentic systems are the latest thing being used to solve IT integration issues, becoming the glue squirted into the gaps between systems. But the use of natural language means that the distinction between ‘data’ and ‘code’ is almost impossible to make, which causes a whole raft of security concerns. This new glue may be […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

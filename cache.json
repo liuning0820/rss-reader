@@ -3,8 +3,28 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6544",
+          "author": "Chris Swan",
+          "description": "Background We build a bunch of stuff for RISC-V using the Dart official Docker image, but the RISC-V images can often arrive some time (days) after the more mainstream images[1]. That means that if we merge a Dependabot PR for an updated image it might well be missing RISC-V, causing the Continuous Delivery (CD) pipeline […]",
+          "link": "http://blog.thestateofme.com/2025/11/11/checking-that-docker-image-manifests-are-complete/",
+          "publishedOn": "2025-11-11T11:20:28.000Z",
+          "wordCount": 3556,
+          "title": "Checking that Docker image manifests are complete",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6538",
+          "author": "Chris Swan",
+          "description": "TL;DR Agentic systems are the latest thing being used to solve IT integration issues, becoming the glue squirted into the gaps between systems. But the use of natural language means that the distinction between ‘data’ and ‘code’ is almost impossible to make, which causes a whole raft of security concerns. This new glue may be […]",
+          "link": "http://blog.thestateofme.com/2025/11/05/dont-huff-the-fumes/",
+          "publishedOn": "2025-11-05T16:47:28.000Z",
+          "wordCount": 4021,
+          "title": "Don’t huff the fumes",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6538",
           "author": "Chris Swan",

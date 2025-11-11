@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-11T20:18:54.779Z</updated>
+    <updated>2025-11-11T22:16:54.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime]]></title>
+        <id>5e864a2d149ef3107873df3041fc5942840876c8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/"/>
+        <updated>2025-11-11T21:32:31.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how you can use the A2A protocol for AI agents built with different frameworks to collaborate seamlessly. You'll learn how to deploy A2A servers on AgentCore Runtime, configure agent discovery and authentication, and build a real-world multi-agent system for incident response. We'll cover the complete A2A request lifecycle, from agent card discovery to task delegation, showing how standardized protocols eliminate the complexity of multi-agent coordination.]]></summary>
+        <author>
+            <name>Madhur Prashant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powering enterprise search with the Cohere Embed 4 multimodal embeddings model in Amazon Bedrock]]></title>
+        <id>8e35cbc3f99dbe7d376bb14d5fa3ad941651e649</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/powering-enterprise-search-with-the-cohere-embed-4-multimodal-embeddings-model-in-amazon-bedrock/"/>
+        <updated>2025-11-11T20:59:54.000Z</updated>
+        <summary type="html"><![CDATA[The Cohere Embed 4 multimodal embeddings model is now available as a fully managed, serverless option in Amazon Bedrock. In this post, we dive into the benefits and unique capabilities of Embed 4 for enterprise search use cases. We’ll show you how to quickly get started using Embed 4 on Amazon Bedrock, taking advantage of integrations with Strands Agents, S3 Vectors, and Amazon Bedrock AgentCore to build powerful agentic retrieval-augmented generation (RAG) workflows.]]></summary>
+        <author>
+            <name>James Yi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A guide to building AI agents in GxP environments]]></title>
+        <id>bdb0436df8ba865189cb69a6adb11c999ddbf510</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/"/>
+        <updated>2025-11-11T20:33:09.000Z</updated>
+        <summary type="html"><![CDATA[The regulatory landscape for GxP compliance is evolving to address the unique characteristics of AI. Traditional Computer System Validation (CSV) approaches, often with uniform validation strategies, are being supplemented by Computer Software Assurance (CSA) frameworks that emphasize flexible risk-based validation methods tailored to each system's actual impact and complexity (FDA latest guidance). In this post, we cover a risk-based implementation, practical implementation considerations across different risk levels, the AWS shared responsibility model for compliance, and concrete examples of risk mitigation strategies.]]></summary>
+        <author>
+            <name>Pierre de Malliard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Agent collaboration patterns with Strands Agents and Amazon Nova]]></title>
+        <id>dcd1f15e0436c6a1ab1cda62dd9621e8ae0bdbbe</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/"/>
+        <updated>2025-11-11T20:28:14.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore four key collaboration patterns for multi-agent, multimodal AI systems – Agents as Tools, Swarms Agents, Agent Graphs, and Agent Workflows – and discuss when and how to apply each using the open-source AWS Strands Agents SDK with Amazon Nova models.]]></summary>
+        <author>
+            <name>Julia Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Checking that Docker image manifests are complete]]></title>
         <id>http://blog.thestateofme.com/?p=6544</id>

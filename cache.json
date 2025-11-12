@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -579,16 +579,6 @@
           "wordCount": 11422,
           "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/26/image-2-21-1260x604.png"
-        },
-        {
-          "id": "ae0ed9a49cd1fa028cacc342372895295fb6bdd6",
-          "author": "Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Randi Larson",
-          "description": "In this post, we explore how Physical AI represents the next frontier in intelligent automation, where artificial intelligence transcends digital boundaries to perceive, understand, and manipulate the tangible world around us.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/",
-          "publishedOn": "2025-10-13T22:21:26.000Z",
-          "wordCount": 11274,
-          "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/13/Screenshot-2025-10-13-at-16-22-12-Physical-AI-Capability-Spectrum.png"
         }
       ]
     }

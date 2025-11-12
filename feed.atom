@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-12T04:21:39.963Z</updated>
+    <updated>2025-11-12T06:27:36.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -564,26 +564,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate the development of a conceptual Medical Reports Analysis Dashboard that combines Amazon Bedrock AI capabilities, LangChain's document processing, and Streamlit's interactive visualization features. The solution transforms complex medical data into accessible insights through a context-aware chat system powered by large language models available through Amazon Bedrock and dynamic visualizations of health parameters.]]></summary>
         <author>
             <name>Aditya Ranjan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kitsa transforms clinical trial site selection with Amazon Quick Automate]]></title>
-        <id>2c9cb1ea81a1dfaa4a9d43d1e632ef77bb221fb1</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/kitsa-transforms-clinical-trial-site-selection-with-amazon-quick-automate/"/>
-        <updated>2025-10-13T17:26:05.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll show how Kitsa, a health-tech company specializing in AI-driven clinical trial recruitment and site selection, used Amazon Quick Automate to transform their clinical trial site selection solution. Amazon Quick Automate, a capability of Amazon Quick Suite, enables enterprises to build, deploy and maintain resilient workflow automations at scale.]]></summary>
-        <author>
-            <name>Chethan Shriyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connect Amazon Quick Suite to enterprise apps and agents with MCP]]></title>
-        <id>9a11f0eb17a3d9d10438dc3fc7ee576e2da20a65</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/connect-amazon-quick-suite-to-enterprise-apps-and-agents-with-mcp/"/>
-        <updated>2025-10-13T17:21:02.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Amazon Quick Suite's Model Context Protocol (MCP) client enables secure, standardized connections to enterprise applications and AI agents, eliminating the need for complex custom integrations. You'll discover how to set up MCP Actions integrations with popular enterprise tools like Atlassian Jira and Confluence, AWS Knowledge MCP Server, and Amazon Bedrock AgentCore Gateway to create a collaborative environment where people and AI agents can seamlessly work together across your organization's data and applications.]]></summary>
-        <author>
-            <name>Abhinav Jawadekar</name>
         </author>
     </entry>
 </feed>

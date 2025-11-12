@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-12T01:21:30.550Z</updated>
+    <updated>2025-11-12T03:10:18.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -584,16 +584,6 @@
         <summary type="html"><![CDATA[In this post, we explore how Amazon Quick Suite's Model Context Protocol (MCP) client enables secure, standardized connections to enterprise applications and AI agents, eliminating the need for complex custom integrations. You'll discover how to set up MCP Actions integrations with popular enterprise tools like Atlassian Jira and Confluence, AWS Knowledge MCP Server, and Amazon Bedrock AgentCore Gateway to create a collaborative environment where people and AI agents can seamlessly work together across your organization's data and applications.]]></summary>
         <author>
             <name>Abhinav Jawadekar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make agents a reality with Amazon Bedrock AgentCore: Now generally available]]></title>
-        <id>f2e6de86919636f581a59dfba603be40afc1716c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/"/>
-        <updated>2025-10-13T14:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.]]></summary>
-        <author>
-            <name>Swami Sivasubramanian</name>
         </author>
     </entry>
 </feed>

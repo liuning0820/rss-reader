@@ -619,16 +619,6 @@
           "wordCount": 12590,
           "title": "Connect Amazon Quick Suite to enterprise apps and agents with MCP",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/09/image13-1082x630.png"
-        },
-        {
-          "id": "f2e6de86919636f581a59dfba603be40afc1716c",
-          "author": "Swami Sivasubramanian",
-          "description": "Learn why customers choose AgentCore to build secure, reliable AI solutions using their choice of frameworks and models for production workloads.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/",
-          "publishedOn": "2025-10-13T14:10:44.000Z",
-          "wordCount": 11844,
-          "title": "Make agents a reality with Amazon Bedrock AgentCore: Now generally available",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/10/img3-1120x630.png"
         }
       ]
     }

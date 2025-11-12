@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -589,16 +589,6 @@
           "wordCount": 11274,
           "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/13/Screenshot-2025-10-13-at-16-22-12-Physical-AI-Capability-Spectrum.png"
-        },
-        {
-          "id": "bc6394132e595dff36af84bdba60da2db334d536",
-          "author": "Aditya Ranjan",
-          "description": "In this post, we demonstrate the development of a conceptual Medical Reports Analysis Dashboard that combines Amazon Bedrock AI capabilities, LangChain's document processing, and Streamlit's interactive visualization features. The solution transforms complex medical data into accessible insights through a context-aware chat system powered by large language models available through Amazon Bedrock and dynamic visualizations of health parameters.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/medical-reports-analysis-dashboard-using-amazon-bedrock-langchain-and-streamlit/",
-          "publishedOn": "2025-10-13T20:56:14.000Z",
-          "wordCount": 11594,
-          "title": "Medical reports analysis dashboard using Amazon Bedrock, LangChain, and Streamlit",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/25/ML-18400-image-2-1153x630.png"
         }
       ]
     }

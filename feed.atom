@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-13T04:23:24.203Z</updated>
+    <updated>2025-11-13T06:27:44.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[凤鸣山]]></title>
+        <id>https://liuning0820.github.io/2025/11/13/%E5%87%A4%E9%B8%A3%E5%B1%B1.html</id>
+        <link href="https://liuning0820.github.io/2025/11/13/%E5%87%A4%E9%B8%A3%E5%B1%B1.html"/>
+        <updated>2025-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[凤鸣山问丹 上虞的秋日，凤鸣山薄雾如纱。我沿石阶缓步而上，两旁古木参天，溪水泠泠作响，仿佛仍回荡着千年前炉火噼啪的余音。山腰处，一方“炼丹井”静卧于苔痕斑驳的石栏内，井水幽深，映不出魏伯阳的身影，却照见自己模糊的轮廓——这方寸水土，曾是他与弟子们埋首炼丹、叩问长生的地方。 山间传说里，魏伯阳炼成金丹后，以犬试药，犬倒地如死。两位弟子心生疑惧，弃丹而去；唯有一人笃信师道，愿同服共死。结果师徒与犬皆复苏飞升，而犹豫者终老山下。故事如山风拂过耳际，初听是仙迹，细思却如井水般冰凉：那“坚定”的信念，究竟该交付给谁？若丹本为毒，那“信”岂非成了引向深渊的绳索？ 下山途中，偶遇一位老农在田埂上歇息。他笑谈：“如今谁还信什么金丹？但人总得信点什么吧，不然日子怎么过？”他信的是节气、是土地、是春种秋收的踏实。这朴素之“尚”，与魏伯阳的玄奥丹道相隔千年，却同样支撑着一种生活。吴晗先生曾言，社会风气之“尚”如潮汐涨落，或尚名节，或尚功利，或尚清谈——可无论何种“尚”，若只知随波逐流，不加省察，便如那两位弃丹弟子，既失了飞升之机，也未必真得了安稳。 归途车窗外，城市灯火渐次亮起，霓虹如新的“丹炉”，闪烁着财富、流量、速度的诱人光泽。我们这一代人，何尝不在各自的时代“炼丹”？只是炉中所炼，早已不是铅汞，而是对意义、价值与归属的渴求。然而，若只知追逐那最耀眼的光，却不肯停下脚步自问一句“此丹可服否？”，恐怕终将陷入另一种“假死”——身体活着，灵魂却已沉睡。 凤鸣山无凤鸣，唯有风过林梢。魏伯阳的丹炉早已冷透，但那口炼丹井却像一面古镜，照见所有时代人心深处的叩问：我们该信什么？又为何而信？ 苏格拉底说：“未经省察的人生不值得过。”或许真正的“丹”，并非服食之物，而是那敢于审视自身信念的勇气——它不许诺飞升，却能让双脚在尘世站得更稳，让眼睛在迷雾中看得更清。]]></summary>
+        <author>
+            <name>Toby Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime]]></title>
         <id>5e864a2d149ef3107873df3041fc5942840876c8</id>
@@ -524,26 +534,6 @@
         <summary type="html"><![CDATA[This post provides a comprehensive guide on integrating the Almond kernel into SageMaker Studio, offering a solution for Scala development within the platform.]]></summary>
         <author>
             <name>Varun Rajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a device management agent with Amazon Bedrock AgentCore]]></title>
-        <id>d1d82d8c9f17cbd16fab69f19538034d619b7323</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/"/>
-        <updated>2025-10-14T16:42:21.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to build a conversational device management system using Amazon Bedrock AgentCore. With this solution, users can manage their IoT devices through natural language, using a UI for tasks like checking device status, configuring WiFi networks, and monitoring user activity.]]></summary>
-        <author>
-            <name>Godwin Sahayaraj Vincent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce]]></title>
-        <id>00d1e91a5471decbc99963f2138bd3d0660524c6</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/"/>
-        <updated>2025-10-14T16:33:57.000Z</updated>
-        <summary type="html"><![CDATA[This post shows how Salesforce integrated Amazon Bedrock Custom Model Import into their machine learning operations (MLOps) workflow, reused existing endpoints without application changes, and benchmarked scalability. We share key metrics on operational efficiency and cost optimization gains, and offer practical insights for simplifying your deployment strategy.]]></summary>
-        <author>
-            <name>Srikanta Prasad, Utkarsh Arora, Raghav Tanaji, Nitin Surya, Gokulakrishnan Gopalakrishnan, Akhilesh Deepak Gotmare,</name>
         </author>
     </entry>
 </feed>

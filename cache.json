@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -525,16 +525,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19312/AWS+Summit+Sydney+2025+-+Splash+Music_compressed.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/26/splash-aws.png"
-        },
-        {
-          "id": "6b5d536e1611a76858bb67ebee23f5319ec90ad8",
-          "author": "Yanyan Zhang",
-          "description": "Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/",
-          "publishedOn": "2025-10-16T23:11:28.000Z",
-          "wordCount": 10992,
-          "title": "Iterative fine-tuning on Amazon Bedrock for strategic model improvement",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/16/19864_AWS_Blog_FeaturedImg.png"
         }
       ]
     }

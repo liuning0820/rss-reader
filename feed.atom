@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-15T10:16:33.785Z</updated>
+    <updated>2025-11-15T12:32:32.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,16 +494,6 @@
         <summary type="html"><![CDATA[In this post, we show how Splash Music is setting a new standard for AI-powered music creation by using its advanced HummingLM model with AWS Trainium on Amazon SageMaker HyperPod. As a selected startup in the 2024 AWS Generative AI Accelerator, Splash Music collaborated closely with AWS Startups and the AWS Generative AI Innovation Center (GenAIIC) to fast-track innovation and accelerate their music generation FM development lifecycle.]]></summary>
         <author>
             <name>Sheldon Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iterative fine-tuning on Amazon Bedrock for strategic model improvement]]></title>
-        <id>6b5d536e1611a76858bb67ebee23f5319ec90ad8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/"/>
-        <updated>2025-10-16T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Organizations often face challenges when implementing single-shot fine-tuning approaches for their generative AI models. The single-shot fine-tuning method involves selecting training data, configuring hyperparameters, and hoping the results meet expectations without the ability to make incremental adjustments. Single-shot fine-tuning frequently leads to suboptimal results and requires starting the entire process from scratch when improvements are […]]]></summary>
-        <author>
-            <name>Yanyan Zhang</name>
         </author>
     </entry>
 </feed>

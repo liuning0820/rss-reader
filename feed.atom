@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-16T03:16:14.578Z</updated>
+    <updated>2025-11-16T04:23:24.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -454,46 +454,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to deploy and manage machine learning training workloads using the Amazon SageMaker HyperPod training operator, which enhances training resilience for Kubernetes workloads through pinpoint recovery and customizable monitoring capabilities. The Amazon SageMaker HyperPod training operator helps accelerate generative AI model development by efficiently managing distributed training across large GPU clusters, offering benefits like centralized training process monitoring, granular process recovery, and hanging job detection that can reduce recovery times from tens of minutes to seconds.]]></summary>
         <author>
             <name>Arun Kumar Lokanatha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How TP ICAP transformed CRM data into real-time insights with Amazon Bedrock]]></title>
-        <id>cb09717385e4a038d420856e4bfa92f0dbb4ce60</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-tp-icap-transformed-crm-data-into-real-time-insights-with-amazon-bedrock/"/>
-        <updated>2025-10-17T16:15:25.000Z</updated>
-        <summary type="html"><![CDATA[This post shows how TP ICAP used Amazon Bedrock Knowledge Bases and Amazon Bedrock Evaluations to build ClientIQ, an enterprise-grade solution with enhanced security features for extracting CRM insights using AI, delivering immediate business value.]]></summary>
-        <author>
-            <name>Ross Ashworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principal Financial Group accelerates build, test, and deployment of Amazon Lex V2 bots through automation]]></title>
-        <id>1c008b3ddbbc2de333c4e33259f04e04313bbe6c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/principal-financial-group-accelerates-build-test-and-deployment-of-amazon-lex-v2-bots-through-automation/"/>
-        <updated>2025-10-17T16:13:18.000Z</updated>
-        <summary type="html"><![CDATA[In the post Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight, we discussed the overall Principal Virtual Assistant solution using Genesys Cloud, Amazon Lex V2, multiple AWS services, and a custom reporting and analytics solution using Amazon QuickSight.]]></summary>
-        <author>
-            <name>Mulay Ahmed and Caroline Lima-Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond vibes: How to properly select the right LLM for the right task]]></title>
-        <id>c4144dc79e41a1d5cf87ff24cfb749bfe5d85290</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/"/>
-        <updated>2025-10-17T16:09:22.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss an approach that can guide you to build comprehensive and empirically driven evaluations that can help you make better decisions when selecting the right model for your task.]]></summary>
-        <author>
-            <name>Claudio Mazzoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splash Music transforms music generation using AWS Trainium and Amazon SageMaker HyperPod]]></title>
-        <id>00762bb38473718cc25037f9a523e473a1e760dc</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/splash-music-transforms-music-generation-using-aws-trainium-and-amazon-sagemaker-hyperpod/"/>
-        <updated>2025-10-17T16:06:01.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how Splash Music is setting a new standard for AI-powered music creation by using its advanced HummingLM model with AWS Trainium on Amazon SageMaker HyperPod. As a selected startup in the 2024 AWS Generative AI Accelerator, Splash Music collaborated closely with AWS Startups and the AWS Generative AI Innovation Center (GenAIIC) to fast-track innovation and accelerate their music generation FM development lifecycle.]]></summary>
-        <author>
-            <name>Sheldon Liu</name>
         </author>
     </entry>
 </feed>

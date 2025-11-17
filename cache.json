@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1703",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS & GCP Marketplaces. Start your free trial at costory.io To vibe or not to […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-497/",
+          "publishedOn": "2025-11-17T03:35:09.000Z",
+          "wordCount": 1088,
+          "title": "SRE Weekly Issue #497",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1701",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, CodeRabbit: CodeRabbit is your AI co-pilot for code reviews. Get instant code review feedback, one-click fix suggestions and define custom rules with AST Grep to catch subtle issues static tools miss. Trusted across 1M repos and 70K open-source projects. ☞ Get Started Today The hidden trade-offs of […]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-17T16:24:16.076Z</updated>
+    <updated>2025-11-17T18:25:54.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock AgentCore and Claude: Transforming business with agentic AI]]></title>
+        <id>9d188a81956dbba4372f34b6ab90b49ca9968380</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-and-claude-transforming-business-with-agentic-ai/"/>
+        <updated>2025-11-17T18:20:41.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Amazon Bedrock AgentCore and Claude are enabling enterprises like Cox Automotive and Druva to deploy production-ready agentic AI systems that deliver measurable business value, with results including up to 63% autonomous issue resolution and 58% faster response times. We examine the technical foundation combining Claude's frontier AI capabilities with AgentCore's enterprise-grade infrastructure that allows organizations to focus on agent logic rather than building complex operational systems from scratch.]]></summary>
+        <author>
+            <name>Jawhny Cooke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #497]]></title>
         <id>https://sreweekly.com/?p=1703</id>

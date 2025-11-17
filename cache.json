@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9d188a81956dbba4372f34b6ab90b49ca9968380",
+          "author": "Jawhny Cooke",
+          "description": "In this post, we explore how Amazon Bedrock AgentCore and Claude are enabling enterprises like Cox Automotive and Druva to deploy production-ready agentic AI systems that deliver measurable business value, with results including up to 63% autonomous issue resolution and 58% faster response times. We examine the technical foundation combining Claude's frontier AI capabilities with AgentCore's enterprise-grade infrastructure that allows organizations to focus on agent logic rather than building complex operational systems from scratch.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-and-claude-transforming-business-with-agentic-ai/",
+          "publishedOn": "2025-11-17T18:20:41.000Z",
+          "wordCount": 37304,
+          "title": "Amazon Bedrock AgentCore and Claude: Transforming business with agentic AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/17/ML-19937-1-1260x496.png"
+        },
+        {
           "id": "dea7956fa7a5f66548f8593ca721fc68cde02f8a",
           "author": "Hasan Poonawala",
           "description": "In this post, we demonstrate how to build a production-ready biomedical research agent by integrating Biomni's specialized tools with Amazon Bedrock AgentCore Gateway, enabling researchers to access over 30 biomedical databases through a secure, scalable infrastructure. The implementation showcases how to transform research prototypes into enterprise-grade systems with persistent memory, semantic tool discovery, and comprehensive observability for scientific reproducibility .",

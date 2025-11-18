@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -146,6 +146,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "40cc8197e95c8b748d5c2029393cd60f3a4075e9",
+          "author": "Mark Vinciguerra",
+          "description": "This blog post introduces two major enhancements to Amazon SageMaker HyperPod that strengthen security and storage capabilities for large-scale machine learning infrastructure. The new features include customer managed key (CMK) support for encrypting EBS volumes with organization-controlled encryption keys, and Amazon EBS CSI driver integration that enables dynamic storage management for Kubernetes volumes in AI workloads.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/hyperpod-enhances-ml-infrastructure-with-security-and-storage/",
+          "publishedOn": "2025-11-18T17:54:27.000Z",
+          "wordCount": 37879,
+          "title": "HyperPod enhances ML infrastructure with security and storage",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/18/hyperpod.png"
+        },
+        {
+          "id": "aa8197a3744532c1708fc3df29b3268f48d446a2",
+          "author": "Thong Seng Foo",
+          "description": "In this post, I will illustrate how applying platform engineering principles to generative AI unlocks faster time-to-value, cost control, and scalable innovation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-applications-with-a-platform-engineering-approach/",
+          "publishedOn": "2025-11-18T17:04:13.000Z",
+          "wordCount": 36815,
+          "title": "Accelerating generative AI applications with a platform engineering approach",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/27/ml17163-image-2-1260x595.png"
+        },
         {
           "id": "990d8c9873bac4b0d587c8b2b18aa72f14dddf3d",
           "author": "Pelak Desai",

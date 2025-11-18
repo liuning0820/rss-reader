@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-18T20:20:48.135Z</updated>
+    <updated>2025-11-18T22:17:23.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bringing tic-tac-toe to life with AWS AI services]]></title>
+        <id>69fccec4fdb145a6e66fa7bb2a79fb64540fc011</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bringing-tic-tac-toe-to-life-with-aws-ai-services/"/>
+        <updated>2025-11-18T22:08:57.000Z</updated>
+        <summary type="html"><![CDATA[RoboTic-Tac-Toe is an interactive game where two physical robots move around a tic-tac-toe board, with both the gameplay and robots’ movements orchestrated by LLMs. Players can control the robots using natural language commands, directing them to place their markers on the game board. In this post, we explore the architecture and prompt engineering techniques used to reason about a tic-tac-toe game and decide the next best game strategy and movement plan for the current player.]]></summary>
+        <author>
+            <name>Georges Hamieh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HyperPod enhances ML infrastructure with security and storage]]></title>
         <id>40cc8197e95c8b748d5c2029393cd60f3a4075e9</id>

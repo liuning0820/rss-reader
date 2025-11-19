@@ -147,6 +147,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b55007d7a79e5d654c0be7f2f130f74276a8d71d",
+          "author": "Bharath Suresh, Mary Law",
+          "description": "In this post, we cover how you can use tools from Snowflake AI Data Cloud and Amazon Web Services (AWS) to build generative AI solutions that organizations can use to make data-driven decisions, increase operational efficiency, and ultimately gain a competitive edge.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-solution-with-amazon-nova-snowflake-and-langgraph/",
+          "publishedOn": "2025-11-19T16:16:49.000Z",
+          "wordCount": 38675,
+          "title": "Build an agentic solution with Amazon Nova, Snowflake, and LangGraph",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/17/ml-18769-image-1-1260x495.png"
+        },
+        {
+          "id": "bc2ae487af6bca3dd8f7d994c45f27c20b92eecf",
+          "author": "Mona Mona",
+          "description": "In this post you will learn how to use Spectrum to optimize resource use and shorten training times without sacrificing quality, as well as how to implement Spectrum fine-tuning with Amazon SageMaker AI training jobs. We will also discuss the tradeoff between QLoRA and Spectrum fine-tuning, showing that while QLoRA is more resource efficient, Spectrum results in higher performance overall.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/using-spectrum-fine-tuning-to-improve-fm-training-efficiency-on-amazon-sagemaker-ai/",
+          "publishedOn": "2025-11-19T15:51:40.000Z",
+          "wordCount": 37631,
+          "title": "Using Spectrum fine-tuning to improve FM training efficiency on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/19/image-3-8-1260x551.jpeg"
+        },
+        {
           "id": "69fccec4fdb145a6e66fa7bb2a79fb64540fc011",
           "author": "Georges Hamieh",
           "description": "RoboTic-Tac-Toe is an interactive game where two physical robots move around a tic-tac-toe board, with both the gameplay and robots’ movements orchestrated by LLMs. Players can control the robots using natural language commands, directing them to place their markers on the game board. In this post, we explore the architecture and prompt engineering techniques used to reason about a tic-tac-toe game and decide the next best game strategy and movement plan for the current player.",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-19T14:17:38.228Z</updated>
+    <updated>2025-11-19T16:24:03.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build an agentic solution with Amazon Nova, Snowflake, and LangGraph]]></title>
+        <id>b55007d7a79e5d654c0be7f2f130f74276a8d71d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-agentic-solution-with-amazon-nova-snowflake-and-langgraph/"/>
+        <updated>2025-11-19T16:16:49.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we cover how you can use tools from Snowflake AI Data Cloud and Amazon Web Services (AWS) to build generative AI solutions that organizations can use to make data-driven decisions, increase operational efficiency, and ultimately gain a competitive edge.]]></summary>
+        <author>
+            <name>Bharath Suresh, Mary Law</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Spectrum fine-tuning to improve FM training efficiency on Amazon SageMaker AI]]></title>
+        <id>bc2ae487af6bca3dd8f7d994c45f27c20b92eecf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/using-spectrum-fine-tuning-to-improve-fm-training-efficiency-on-amazon-sagemaker-ai/"/>
+        <updated>2025-11-19T15:51:40.000Z</updated>
+        <summary type="html"><![CDATA[In this post you will learn how to use Spectrum to optimize resource use and shorten training times without sacrificing quality, as well as how to implement Spectrum fine-tuning with Amazon SageMaker AI training jobs. We will also discuss the tradeoff between QLoRA and Spectrum fine-tuning, showing that while QLoRA is more resource efficient, Spectrum results in higher performance overall.]]></summary>
+        <author>
+            <name>Mona Mona</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bringing tic-tac-toe to life with AWS AI services]]></title>
         <id>69fccec4fdb145a6e66fa7bb2a79fb64540fc011</id>

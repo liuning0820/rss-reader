@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -580,16 +580,6 @@
           "wordCount": 36899,
           "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/19/Figure1-2.png"
-        },
-        {
-          "id": "01a7efd1c9e617bce68892ba04c387f1c6f94dca",
-          "author": "Nadhya Polanco",
-          "description": "In this post, we walk through how to take an ML model built in SageMaker Canvas and deploy it using SageMaker Serverless Inference, helping you go from model creation to production-ready predictions quickly and efficiently without managing any infrastructure. This solution demonstrates a complete workflow from adding your trained model to the SageMaker Model Registry through creating serverless endpoint configurations and deploying endpoints that automatically scale based on demand .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/",
-          "publishedOn": "2025-10-21T19:03:19.000Z",
-          "wordCount": 11931,
-          "title": "Serverless deployment for your Amazon SageMaker Canvas models",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/15/ml-18479-2-1120x630.jpg"
         }
       ]
     }

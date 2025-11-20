@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-20T06:26:34.206Z</updated>
+    <updated>2025-11-20T08:25:01.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -554,16 +554,6 @@
         <summary type="html"><![CDATA[In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .]]></summary>
         <author>
             <name>Audra Devoto, Owen Janson, Adam Perry, Christopher Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless deployment for your Amazon SageMaker Canvas models]]></title>
-        <id>01a7efd1c9e617bce68892ba04c387f1c6f94dca</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/"/>
-        <updated>2025-10-21T19:03:19.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk through how to take an ML model built in SageMaker Canvas and deploy it using SageMaker Serverless Inference, helping you go from model creation to production-ready predictions quickly and efficiently without managing any infrastructure. This solution demonstrates a complete workflow from adding your trained model to the SageMaker Model Registry through creating serverless endpoint configurations and deploying endpoints that automatically scale based on demand .]]></summary>
-        <author>
-            <name>Nadhya Polanco</name>
         </author>
     </entry>
 </feed>

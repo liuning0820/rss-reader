@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-20T04:20:19.673Z</updated>
+    <updated>2025-11-20T06:26:34.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -564,26 +564,6 @@
         <summary type="html"><![CDATA[In this post, we walk through how to take an ML model built in SageMaker Canvas and deploy it using SageMaker Serverless Inference, helping you go from model creation to production-ready predictions quickly and efficiently without managing any infrastructure. This solution demonstrates a complete workflow from adding your trained model to the SageMaker Model Registry through creating serverless endpoint configurations and deploying endpoints that automatically scale based on demand .]]></summary>
         <author>
             <name>Nadhya Polanco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a multi-agent voice assistant with Amazon Nova Sonic and Amazon Bedrock AgentCore]]></title>
-        <id>ee249c27d5fce684bd80368b5939b95cb2afac51</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-multi-agent-voice-assistant-with-amazon-nova-sonic-and-amazon-bedrock-agentcore/"/>
-        <updated>2025-10-21T17:31:05.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Amazon Nova Sonic's speech-to-speech capabilities can be combined with Amazon Bedrock AgentCore to create sophisticated multi-agent voice assistants that break complex tasks into specialized, manageable components. The approach demonstrates how to build modular, scalable voice applications using a banking assistant example with dedicated sub-agents for authentication, banking inquiries, and mortgage services, offering a more maintainable alternative to monolithic voice assistant designs.]]></summary>
-        <author>
-            <name>Lana Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate large-scale AI training with Amazon SageMaker HyperPod training operator]]></title>
-        <id>d8040586a60e722119a2e06c3d252d5a8aa53fd2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-large-scale-ai-training-with-amazon-sagemaker-hyperpod-training-operator/"/>
-        <updated>2025-10-21T17:26:32.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to deploy and manage machine learning training workloads using the Amazon SageMaker HyperPod training operator, which enhances training resilience for Kubernetes workloads through pinpoint recovery and customizable monitoring capabilities. The Amazon SageMaker HyperPod training operator helps accelerate generative AI model development by efficiently managing distributed training across large GPU clusters, offering benefits like centralized training process monitoring, granular process recovery, and hanging job detection that can reduce recovery times from tens of minutes to seconds.]]></summary>
-        <author>
-            <name>Arun Kumar Lokanatha</name>
         </author>
     </entry>
 </feed>

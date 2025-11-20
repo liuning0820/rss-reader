@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -146,6 +146,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "88d10c92023722ffc64b451b2cf12c6701615a8f",
+          "author": "Michelle Tat, Christopher Penrose, Daniel Hansen, Rasmus Buchmann",
+          "description": "In this post, we demonstrate how healthcare organizations can securely implement prompt caching technology to streamline medical record processing while maintaining compliance requirements.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-care-access-achieved-86-data-processing-cost-reductions-and-66-faster-data-processing-with-amazon-bedrock-prompt-caching/",
+          "publishedOn": "2025-11-20T16:15:04.000Z",
+          "wordCount": 33656,
+          "title": "How Care Access achieved 86% data processing cost reductions and 66% faster data processing with Amazon Bedrock prompt caching",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/20/care-access.jpg"
+        },
         {
           "id": "95818ff52ffdff780bbc43765c32e77070489dc9",
           "author": "Court Schuett",

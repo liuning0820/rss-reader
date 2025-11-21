@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-21T16:22:33.502Z</updated>
+    <updated>2025-11-21T18:23:54.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy geospatial agents with Foursquare Spatial H3 Hub and Amazon SageMaker AI]]></title>
+        <id>75f1b2ad15d2731347ca854bdfd5d910ae5bb2a3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-geospatial-agents-with-foursquare-spatial-h3-hub-and-amazon-sagemaker-ai/"/>
+        <updated>2025-11-21T17:15:31.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you'll learn how to deploy geospatial AI agents that can answer complex spatial questions in minutes instead of months. By combining Foursquare Spatial H3 Hub's analysis-ready geospatial data with reasoning models deployed on Amazon SageMaker AI, you can build agents that enable nontechnical domain experts to perform sophisticated spatial analysis through natural language queries—without requiring geographic information system (GIS) expertise or custom data engineering pipelines.]]></summary>
+        <author>
+            <name>Vikram Gundeti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Wipro PARI accelerates PLC code generation using Amazon Bedrock]]></title>
         <id>3df6b1beb06f3ab47eced88f342ef230227b0211</id>

@@ -147,6 +147,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "75f1b2ad15d2731347ca854bdfd5d910ae5bb2a3",
+          "author": "Vikram Gundeti",
+          "description": "In this post, you'll learn how to deploy geospatial AI agents that can answer complex spatial questions in minutes instead of months. By combining Foursquare Spatial H3 Hub's analysis-ready geospatial data with reasoning models deployed on Amazon SageMaker AI, you can build agents that enable nontechnical domain experts to perform sophisticated spatial analysis through natural language queries—without requiring geographic information system (GIS) expertise or custom data engineering pipelines.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-geospatial-agents-with-foursquare-spatial-h3-hub-and-amazon-sagemaker-ai/",
+          "publishedOn": "2025-11-21T17:15:31.000Z",
+          "wordCount": 34082,
+          "title": "Deploy geospatial agents with Foursquare Spatial H3 Hub and Amazon SageMaker AI",
+          "enclosure": {
+            "length": "19817288",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20104/insurance-demo-2-3x.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/21/ml-20104-1120x630.png"
+        },
+        {
           "id": "3df6b1beb06f3ab47eced88f342ef230227b0211",
           "author": "Aparajithan Vaidyanathan",
           "description": "In this post, we share how Wipro implemented advanced prompt engineering techniques, custom validation logic, and automated code rectification to streamline the development of industrial automation code at scale using Amazon Bedrock. We walk through the architecture along with the key use cases, explain core components and workflows, and share real-world results that show the transformative impact on manufacturing operations.",

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -585,36 +585,6 @@
           "wordCount": 36994,
           "title": "Build scalable creative solutions for product teams with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/31/arch-1.png"
-        },
-        {
-          "id": "99166a80963ca7cacb8854bad66c65bbe68442e8",
-          "author": "Jason Salcido",
-          "description": "In this post, we explore advanced cost monitoring strategies for Amazon Bedrock deployments, introducing granular custom tagging approaches for precise cost allocation and comprehensive reporting mechanisms that build upon the proactive cost management foundation established in Part 1. The solution demonstrates how to implement invocation-level tagging, application inference profiles, and integration with AWS Cost Explorer to create a complete 360-degree view of generative AI usage and expenses.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-2/",
-          "publishedOn": "2025-10-22T18:58:16.000Z",
-          "wordCount": 36365,
-          "title": "Build a proactive AI cost management system for Amazon Bedrock – Part 2",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/22/buildpt2.png"
-        },
-        {
-          "id": "5ec8660660e90c1becf517a95ca7827af59948d0",
-          "author": "Jason Salcido",
-          "description": "In this post, we introduce a comprehensive solution for proactively managing Amazon Bedrock inference costs through a cost sentry mechanism designed to establish and enforce token usage limits, providing organizations with a robust framework for controlling generative AI expenses. The solution uses serverless workflows and native Amazon Bedrock integration to deliver a predictable, cost-effective approach that aligns with organizational financial constraints while preventing runaway costs through leading indicators and real-time budget enforcement.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-1/",
-          "publishedOn": "2025-10-22T18:58:05.000Z",
-          "wordCount": 36631,
-          "title": "Build a proactive AI cost management system for Amazon Bedrock – Part 1",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/22/buildpt1.png"
-        },
-        {
-          "id": "abe342a5e6d7479365e2a640bd9af7927b3e9d45",
-          "author": "Aditya Prakash",
-          "description": "In this post, we demonstrate how Amazon Nova Premier with Amazon Bedrock can systematically migrate legacy C code to modern Java/Spring applications using an intelligent agentic workflow that breaks down complex conversions into specialized agent roles. The solution reduces migration time and costs while improving code quality through automated validation, security assessment, and iterative refinement processes that handle even large codebases exceeding token limitations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-code-migration-using-amazon-nova-premier-with-an-agentic-workflow/",
-          "publishedOn": "2025-10-22T18:48:48.000Z",
-          "wordCount": 39328,
-          "title": "Streamline code migration using Amazon Nova Premier with an agentic workflow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/18/ML-17759-arch-diag1.png"
         }
       ]
     }

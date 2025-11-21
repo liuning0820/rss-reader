@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "3df6b1beb06f3ab47eced88f342ef230227b0211",
+          "author": "Aparajithan Vaidyanathan",
+          "description": "In this post, we share how Wipro implemented advanced prompt engineering techniques, custom validation logic, and automated code rectification to streamline the development of industrial automation code at scale using Amazon Bedrock. We walk through the architecture along with the key use cases, explain core components and workflows, and share real-world results that show the transformative impact on manufacturing operations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-wipro-pari-accelerates-plc-code-generation-using-amazon-bedrock/",
+          "publishedOn": "2025-11-21T16:10:26.000Z",
+          "wordCount": 34974,
+          "title": "How Wipro PARI accelerates PLC code generation using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/14/image-1-11-1260x565.png"
+        },
+        {
           "id": "e58e524dc321ef0896fddc81a083c3f36cf4e33c",
           "author": "Hossein Salami, Jwalant (JD) Vyas,",
           "description": "This blog post has explores how MSD is harnessing the power of generative AI and databases to optimize and transform its manufacturing deviation management process. By creating an accurate and multifaceted knowledge base of past events, deviations, and findings, the company aims to significantly reduce the time and effort required for each new case while maintaining the highest standards of quality and compliance.",

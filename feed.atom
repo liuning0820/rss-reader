@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-21T01:20:42.185Z</updated>
+    <updated>2025-11-21T03:08:50.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -584,16 +584,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how Amazon Nova Premier with Amazon Bedrock can systematically migrate legacy C code to modern Java/Spring applications using an intelligent agentic workflow that breaks down complex conversions into specialized agent roles. The solution reduces migration time and costs while improving code quality through automated validation, security assessment, and iterative refinement processes that handle even large codebases exceeding token limitations.]]></summary>
         <author>
             <name>Aditya Prakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia]]></title>
-        <id>73df746debefcca75a44117798dbae06a5bb05a1</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/"/>
-        <updated>2025-10-22T13:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .]]></summary>
-        <author>
-            <name>Audra Devoto, Owen Janson, Adam Perry, Christopher Brown</name>
         </author>
     </entry>
 </feed>

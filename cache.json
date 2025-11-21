@@ -615,16 +615,6 @@
           "wordCount": 39328,
           "title": "Streamline code migration using Amazon Nova Premier with an agentic workflow",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/18/ML-17759-arch-diag1.png"
-        },
-        {
-          "id": "73df746debefcca75a44117798dbae06a5bb05a1",
-          "author": "Audra Devoto, Owen Janson, Adam Perry, Christopher Brown",
-          "description": "In this post, we detail how Metagenomi partnered with AWS to implement the Progen2 protein language model on AWS Inferentia, achieving up to 56% cost reduction for high-throughput enzyme generation workflows. The implementation enabled cost-effective generation of millions of novel enzyme variants using EC2 Inf2 Spot Instances and AWS Batch, demonstrating how cloud-based generative AI can make large-scale protein design more accessible for biotechnology applications .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/",
-          "publishedOn": "2025-10-22T13:53:20.000Z",
-          "wordCount": 36899,
-          "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/19/Figure1-2.png"
         }
       ]
     }

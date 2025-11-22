@@ -590,26 +590,6 @@
           "wordCount": 36674,
           "title": "Beyond pilots: A proven framework for scaling AI to production",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/17/GENAIIC_65_Blog-1260x574.png"
-        },
-        {
-          "id": "df781df1c993e8b209eb0ab62bc745b710ee38a1",
-          "author": "Rachel Hanspal",
-          "description": "In this post, we explore an innovative approach that converts natural language to Gremlin queries using Amazon Bedrock models such as Amazon Nova Pro, helping business analysts and data scientists access graph databases without requiring deep technical expertise. The methodology involves three key steps: extracting graph knowledge, structuring the graph similar to text-to-SQL processing, and generating executable Gremlin queries through an iterative refinement process that achieved 74.17% overall accuracy in testing.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generate-gremlin-queries-using-amazon-bedrock-models/",
-          "publishedOn": "2025-10-23T20:57:29.000Z",
-          "wordCount": 36735,
-          "title": "Generate Gremlin queries using Amazon Bedrock models",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/26/latency-cost-graph-1260x400.png"
-        },
-        {
-          "id": "371ff7b46a1751ddda222f61ce512c75af9042c5",
-          "author": "Randy DeFauw",
-          "description": "In this post, we explore how companies can systematically incorporate responsible AI practices into their generative AI project prioritization methodology to better evaluate business value against costs while addressing novel risks like hallucination and regulatory compliance. The post demonstrates through a practical example how conducting upfront responsible AI risk assessments can significantly change project rankings by revealing substantial mitigation work that affects overall project complexity and timeline.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/incorporating-responsible-ai-into-generative-ai-project-prioritization/",
-          "publishedOn": "2025-10-23T20:51:41.000Z",
-          "wordCount": 35916,
-          "title": "Incorporating responsible AI into generative AI project prioritization",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/23/raigenai.png"
         }
       ]
     }

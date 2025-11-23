@@ -570,16 +570,6 @@
           "wordCount": 37820,
           "title": "Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/27/ml-157041-887x630.png"
-        },
-        {
-          "id": "d8d359ca86c1f7e2d62d1324c5f8a42cb5fab91d",
-          "author": "Tonny Ouma",
-          "description": "In this post, we explore the critical design considerations for building responsible AI systems in healthcare and life sciences, focusing on establishing governance mechanisms, transparency artifacts, and security measures that ensure safe and effective generative AI applications. The discussion covers essential policies for mitigating risks like confabulation and bias while promoting trust, accountability, and patient safety throughout the AI development lifecycle.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-design-in-healthcare-and-life-sciences/",
-          "publishedOn": "2025-10-24T17:25:39.000Z",
-          "wordCount": 36205,
-          "title": "Responsible AI design in healthcare and life sciences",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/11/ML-19257-comp-arch-v2-1260x571.jpg"
         }
       ]
     }

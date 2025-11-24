@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-24T20:20:31.948Z</updated>
+    <updated>2025-11-24T22:16:55.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power up your ML workflows with interactive IDEs on SageMaker HyperPod]]></title>
+        <id>38e547ddbf867e4bda5e7a172ce3b1b663422ed8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/"/>
+        <updated>2025-11-24T21:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod clusters with Amazon Elastic Kubernetes Service (EKS) orchestration now support creating and managing interactive development environments such as JupyterLab and open source Visual Studio Code, streamlining the ML development lifecycle by providing managed environments for familiar tools to data scientists. This post shows how HyperPod administrators can configure Spaces for their clusters, and how data scientists can create and connect to these Spaces.]]></summary>
+        <author>
+            <name>Durga Sury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Opus 4.5 now in Amazon Bedrock]]></title>
         <id>18337642408f13c7cb0e1e34d0eaf610f448352f</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-24T18:27:23.941Z</updated>
+    <updated>2025-11-24T20:20:31.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.5 now in Amazon Bedrock]]></title>
+        <id>18337642408f13c7cb0e1e34d0eaf610f448352f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/"/>
+        <updated>2025-11-24T19:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic's newest foundation model, Claude Opus 4.5, is now available in Amazon Bedrock, a fully managed service that offers a choice of high-performing foundation models from leading AI companies. In this post, I'll show you what makes this model different, walk through key business applications, and demonstrate how to use Opus 4.5's new tool use capabilities on Amazon Bedrock.]]></summary>
+        <author>
+            <name>Jonathan Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploy GPT-OSS models with Amazon Bedrock Custom Model Import]]></title>
         <id>51965c0d05a28699665284454ca625f39b8e7e7c</id>

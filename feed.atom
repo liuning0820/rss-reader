@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-24T16:20:24.373Z</updated>
+    <updated>2025-11-24T18:27:23.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy GPT-OSS models with Amazon Bedrock Custom Model Import]]></title>
+        <id>51965c0d05a28699665284454ca625f39b8e7e7c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-gpt-oss-models-with-amazon-bedrock-custom-model-import/"/>
+        <updated>2025-11-24T17:49:05.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to deploy the GPT-OSS-20B model on Amazon Bedrock using Custom Model Import while maintaining complete API compatibility with your current applications.]]></summary>
+        <author>
+            <name>Prashant Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #498]]></title>
         <id>https://sreweekly.com/?p=1709</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-25T20:20:03.912Z</updated>
+    <updated>2025-11-25T22:17:30.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Practical implementation considerations to close the AI value gap]]></title>
+        <id>f7193b4b0f7d6663023bdf49fc313b2cdcf1ee0d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/"/>
+        <updated>2025-11-25T20:19:50.000Z</updated>
+        <summary type="html"><![CDATA[The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.]]></summary>
+        <author>
+            <name>Bhargs Srivathsan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI]]></title>
         <id>73c69e62b6fa9525d44e92ab6b746325573678bf</id>

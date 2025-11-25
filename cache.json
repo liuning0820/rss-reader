@@ -157,6 +157,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a01ec818d74b3d6d9fab63648066e7ae9e23afee",
+          "author": "Daniel Duplessis",
+          "description": "We are excited to announce that customers in Canada can now access advanced foundation models including Anthropic's Claude Sonnet 4.5 and Claude Haiku 4.5 on Amazon Bedrock through cross-Region inference (CRIS). This post explores how Canadian organizations can use cross-Region inference profiles from the Canada (Central) Region to access the latest foundation models to accelerate AI initiatives. We will demonstrate how to get started with these new capabilities, provide guidance for migrating from older models, and share recommended practices for quota management.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-innovation-in-canada-with-amazon-bedrock-cross-region-inference/",
+          "publishedOn": "2025-11-24T23:56:58.000Z",
+          "wordCount": 32802,
+          "title": "Accelerate generative AI innovation in Canada with Amazon Bedrock cross-Region inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/ml-20062-1120x630.png"
+        },
+        {
           "id": "38e547ddbf867e4bda5e7a172ce3b1b663422ed8",
           "author": "Durga Sury",
           "description": "Amazon SageMaker HyperPod clusters with Amazon Elastic Kubernetes Service (EKS) orchestration now support creating and managing interactive development environments such as JupyterLab and open source Visual Studio Code, streamlining the ML development lifecycle by providing managed environments for familiar tools to data scientists. This post shows how HyperPod administrators can configure Spaces for their clusters, and how data scientists can create and connect to these Spaces.",

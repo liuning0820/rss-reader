@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6544",
@@ -156,6 +156,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "73c69e62b6fa9525d44e92ab6b746325573678bf",
+          "author": "Lingran Xia",
+          "description": "We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/",
+          "publishedOn": "2025-11-25T19:09:59.000Z",
+          "wordCount": 34181,
+          "title": "Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/25/ML-20070-1120x630.jpg"
+        },
         {
           "id": "482293ac328efb08808224bc3db9aeaf921d7d3c",
           "author": "Nukul Sharma, Karthik Dasani",

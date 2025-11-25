@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-25T18:27:55.132Z</updated>
+    <updated>2025-11-25T20:20:03.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI]]></title>
+        <id>73c69e62b6fa9525d44e92ab6b746325573678bf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/"/>
+        <updated>2025-11-25T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.]]></summary>
+        <author>
+            <name>Lingran Xia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warner Bros. Discovery achieves 60% cost savings and faster ML inference with AWS Graviton]]></title>
         <id>482293ac328efb08808224bc3db9aeaf921d7d3c</id>

@@ -157,6 +157,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "0214683edfa65fca6d1766affdfe269ab16c9f32",
+          "author": "Kareem Syed-Mohammed",
+          "description": "Amazon SageMaker AI now supports EAGLE-based adaptive speculative decoding, a technique that accelerates large language model inference by up to 2.5x while maintaining output quality. In this post, we explain how to use EAGLE 2 and EAGLE 3 speculative decoding in Amazon SageMaker AI, covering the solution architecture, optimization workflows using your own datasets or SageMaker's built-in data, and benchmark results demonstrating significant improvements in throughput and latency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/",
+          "publishedOn": "2025-11-26T00:29:42.000Z",
+          "wordCount": 33634,
+          "title": "Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/25/Screenshot-2025-11-19-at-10.12.40-PM-1260x628.png"
+        },
+        {
+          "id": "1b21c51a912bae51863185d8535ff0da5f2b6b8f",
+          "author": "Ryan Vanderwerf",
+          "description": "In this post, we demonstrate how to migrate computer vision workloads from Amazon Lookout for Vision to Amazon SageMaker AI by training custom defect detection models using pre-trained models available on AWS Marketplace. We provide step-by-step guidance on labeling datasets with SageMaker Ground Truth, training models with flexible hyperparameter configurations, and deploying them for real-time or batch inference—giving you greater control and flexibility for automated quality inspection use cases.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/train-custom-computer-vision-defect-detection-model-using-amazon-sagemaker/",
+          "publishedOn": "2025-11-25T22:44:22.000Z",
+          "wordCount": 34678,
+          "title": "Train custom computer vision defect detection model using Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/10/image-6-2-775x630.jpeg"
+        },
+        {
           "id": "f7193b4b0f7d6663023bdf49fc313b2cdcf1ee0d",
           "author": "Bhargs Srivathsan",
           "description": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",

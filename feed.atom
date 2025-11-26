@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-26T16:23:06.420Z</updated>
+    <updated>2025-11-26T18:22:13.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enhanced performance for Amazon Bedrock Custom Model Import]]></title>
+        <id>5de680e884153cc4b692edd29fec8972b2f69dba</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enhanced-performance-for-amazon-bedrock-custom-model-import/"/>
+        <updated>2025-11-26T16:46:01.000Z</updated>
+        <summary type="html"><![CDATA[You can now achieve significant performance improvements when using Amazon Bedrock Custom Model Import, with reduced end-to-end latency, faster time-to-first-token, and improved throughput through advanced PyTorch compilation and CUDA graph optimizations. With Amazon Bedrock Custom Model Import you can to bring your own foundation models to Amazon Bedrock for deployment and inference at scale. In this post, we introduce how to use the improvements in Amazon Bedrock Custom Model Import.]]></summary>
+        <author>
+            <name>Nick McCarthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference]]></title>
         <id>0214683edfa65fca6d1766affdfe269ab16c9f32</id>

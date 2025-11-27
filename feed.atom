@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-26T22:17:06.041Z</updated>
+    <updated>2025-11-27T01:20:35.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator]]></title>
+        <id>48aadf2953d203034bb9ec9578ca933c45876935</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/"/>
+        <updated>2025-11-27T00:58:14.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Myriad Genetics partnered with the AWS Generative AI Innovation Center to transform their healthcare document processing pipeline using Amazon Bedrock and Amazon Nova foundation models, achieving 98% classification accuracy while reducing costs by 77% and processing time by 80%. We detail the technical implementation using AWS's open-source GenAI Intelligent Document Processing Accelerator, the optimization strategies for document classification and key information extraction, and the measurable business impact on Myriad's prior authorization workflows.]]></summary>
+        <author>
+            <name>Priyashree Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CBRE powers unified property management search and digital assistant using Amazon Bedrock]]></title>
+        <id>0ff9e67f508a3557b66fe49dfaa565f54f3de1a1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/"/>
+        <updated>2025-11-27T00:56:27.000Z</updated>
+        <summary type="html"><![CDATA[In this post, CBRE and AWS demonstrate how they transformed property management by building a unified search and digital assistant using Amazon Bedrock, enabling professionals to access millions of documents and multiple databases through natural language queries. The solution combines Amazon Nova Pro for SQL generation and Claude Haiku for document interactions, achieving a 67% reduction in processing time while maintaining enterprise-grade security across more than eight million documents.]]></summary>
+        <author>
+            <name>Lokesha Thimmegowda, Muppirala Venkata Krishna Kumar, Maraka Vishwadev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod]]></title>
+        <id>a732d03112437b9f78d0be723d1330a6c9619f95</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/"/>
+        <updated>2025-11-27T00:50:04.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod, new capabilities that can reduce time to first token by up to 40% and lower compute costs by up to 25% for long context prompts and multi-turn conversations. These features automatically manage distributed KV caching infrastructure and intelligent request routing, making it easier to deploy production-scale LLM inference workloads with enterprise-grade performance while significantly reducing operational overhead.]]></summary>
+        <author>
+            <name>Chaitanya Hazarey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply fine-grained access control with Bedrock AgentCore Gateway interceptors]]></title>
+        <id>2451d99a749267aeb5f6fa77cb09485829337f0d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/"/>
+        <updated>2025-11-26T22:28:29.000Z</updated>
+        <summary type="html"><![CDATA[We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.]]></summary>
+        <author>
+            <name>Dhawalkumar Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Condé Nast accelerated contract processing and rights analysis with Amazon Bedrock]]></title>
         <id>9590081f72238c183c4e5e7ea523a0602bee46a8</id>

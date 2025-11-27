@@ -770,16 +770,6 @@
           "wordCount": 35663,
           "title": "Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/30/AWS_Blog_FeaturedImg_19997.png"
-        },
-        {
-          "id": "1585d45c60f8212f2e7aa0603fecafbd57e21e6a",
-          "author": "Curt Lockhart, Francesco Ciannella",
-          "description": "In this post, we explore how to deploy NVIDIA's Parakeet ASR model on Amazon SageMaker AI using asynchronous inference endpoints to create a scalable, cost-effective pipeline for processing large volumes of audio data. The solution combines state-of-the-art speech recognition capabilities with AWS managed services like Lambda, S3, and Bedrock to automatically transcribe audio files and generate intelligent summaries, enabling organizations to unlock valuable insights from customer calls, meeting recordings, and other audio content at scale .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/hosting-nvidia-speech-nim-models-on-amazon-sagemaker-ai-parakeet-asr/",
-          "publishedOn": "2025-10-28T18:09:48.000Z",
-          "wordCount": 37820,
-          "title": "Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/27/ml-157041-887x630.png"
         }
       ]
     }

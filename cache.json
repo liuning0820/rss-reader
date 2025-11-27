@@ -64,26 +64,6 @@
           "wordCount": 4262,
           "title": "October 2025",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/11/pups_202510.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6500",
-          "author": "Chris Swan",
-          "description": "TL;DR Supply-chain Levels for Software Artifacts (SLSA) attestations are a great way to show that you care about security, and they’re fairly trivial to add to delivery pipelines that produce a single binary or container image. But things get tricky with matrix jobs that build lots of things in parallel, as you then need to […]",
-          "link": "http://blog.thestateofme.com/2025/10/28/slsa-attestations-for-docker-matrix-builds/",
-          "publishedOn": "2025-10-28T14:00:02.000Z",
-          "wordCount": 4059,
-          "title": "SLSA attestations for Docker matrix builds",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6500",
-          "author": "Chris Swan",
-          "description": "TL;DR Supply-chain Levels for Software Artifacts (SLSA) attestations are a great way to show that you care about security, and they’re fairly trivial to add to delivery pipelines that produce a single binary or container image. But things get tricky with matrix jobs that build lots of things in parallel, as you then need to […]",
-          "link": "https://blog.thestateofme.com/2025/10/28/slsa-attestations-for-docker-matrix-builds/",
-          "publishedOn": "2025-10-28T14:00:02.000Z",
-          "wordCount": 4050,
-          "title": "SLSA attestations for Docker matrix builds",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         }
       ]
     },

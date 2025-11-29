@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-29T12:34:23.168Z</updated>
+    <updated>2025-11-29T14:15:20.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clocking on at the Outrage Factory]]></title>
+        <id>https://blog.thestateofme.com/?p=6569</id>
+        <link href="http://blog.thestateofme.com/2025/11/29/clocking-on-at-the-outrage-factory/"/>
+        <updated>2025-11-29T12:25:46.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Our online discourse is the victim of industrial scale pollution, and the incentives are being aligned in the wrong direction. Rather than polluters being penalised there’s now an entire industry that’s paid to pollute. Filter Failure at the Outrage Factory is no longer just the work of ‘amateur’ fringe trolls and state sponsored propaganda; […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clocking on at the Outrage Factory]]></title>
         <id>http://blog.thestateofme.com/?p=6569</id>

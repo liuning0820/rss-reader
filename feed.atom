@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-29T08:22:45.776Z</updated>
+    <updated>2025-11-29T10:17:48.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,16 +724,6 @@
         <summary type="html"><![CDATA[こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]]]></summary>
         <author>
             <name>Derrick Choo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser]]></title>
-        <id>5852c23ebdfd8293c680994c8754b164caed7869</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/reduce-captchas-for-ai-agents-browsing-the-web-with-web-bot-auth-preview-in-amazon-bedrock-agentcore-browser/"/>
-        <updated>2025-10-30T21:55:03.000Z</updated>
-        <summary type="html"><![CDATA[AI agents need to browse the web on your behalf. When your agent visits a website to gather information, complete a form, or verify data, it encounters the same defenses designed to stop unwanted bots: CAPTCHAs, rate limits, and outright blocks. Today, we are excited to share that AWS has a solution. Amazon Bedrock AgentCore […]]]></summary>
-        <author>
-            <name>Veda Raman</name>
         </author>
     </entry>
 </feed>

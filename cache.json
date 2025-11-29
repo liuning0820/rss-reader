@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6569",
+          "author": "Chris Swan",
+          "description": "TL;DR Our online discourse is the victim of industrial scale pollution, and the incentives are being aligned in the wrong direction. Rather than polluters being penalised there’s now an entire industry that’s paid to pollute. Filter Failure at the Outrage Factory is no longer just the work of ‘amateur’ fringe trolls and state sponsored propaganda; […]",
+          "link": "https://blog.thestateofme.com/2025/11/29/clocking-on-at-the-outrage-factory/",
+          "publishedOn": "2025-11-29T12:25:46.000Z",
+          "wordCount": 4120,
+          "title": "Clocking on at the Outrage Factory",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/11/heartbreaking_photos_of_pollution_that_will_inspire_you_to_recycle.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6544",
           "author": "Chris Swan",
           "description": "Background We build a bunch of stuff for RISC-V using the Dart official Docker image, but the RISC-V images can often arrive some time (days) after the more mainstream images[1]. That means that if we merge a Dependabot PR for an updated image it might well be missing RISC-V, causing the Continuous Delivery (CD) pipeline […]",

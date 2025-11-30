@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-30T08:20:56.462Z</updated>
+    <updated>2025-11-30T10:17:12.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,16 +704,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com I’m back! Kidney donation was a fascinating and rewarding experience, and I encourage you to learn more. It’s amazing how it’s possible to fix one human with spare parts from another! I’ll share more about my experience later, but for now: thank you to the many of you that reached out with […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build reliable AI systems with Automated Reasoning on Amazon Bedrock – Part 1]]></title>
-        <id>791aee238bcfb3ad5cbffcbfaee5fbc30efa61b8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-systems-with-automated-reasoning-on-amazon-bedrock-part-1/"/>
-        <updated>2025-10-31T21:44:24.000Z</updated>
-        <summary type="html"><![CDATA[Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at […]]]></summary>
-        <author>
-            <name>Adewale Akinfaderin</name>
         </author>
     </entry>
 </feed>

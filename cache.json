@@ -770,16 +770,6 @@
           "wordCount": 36853,
           "title": "Clario streamlines clinical trial software configurations using Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/02/image-1-2-1191x630.png"
-        },
-        {
-          "id": "c8f0b941108f9822dcb7499606d43ddc4faa595d",
-          "author": "Derrick Choo",
-          "description": "こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/",
-          "publishedOn": "2025-10-31T14:45:37.000Z",
-          "wordCount": 36822,
-          "title": "Introducing Amazon Bedrock cross-Region inference for Claude Sonnet 4.5 and Haiku 4.5 in Japan and Australia",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/31/ML-19916-1120x630.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-30T01:39:28.620Z</updated>
+    <updated>2025-11-30T03:24:44.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -734,16 +734,6 @@
         <summary type="html"><![CDATA[This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.]]></summary>
         <author>
             <name>Kim Nguyen, Shyam Banuprakash,</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Amazon Bedrock cross-Region inference for Claude Sonnet 4.5 and Haiku 4.5 in Japan and Australia]]></title>
-        <id>c8f0b941108f9822dcb7499606d43ddc4faa595d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/"/>
-        <updated>2025-10-31T14:45:37.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは, G’day. The recent launch of Anthropic’s Claude Sonnet 4.5 and Claude Haiku 4.5, now available on Amazon Bedrock, marks a significant leap forward in generative AI models. These state-of-the-art models excel at complex agentic tasks, coding, and enterprise workloads, offering enhanced capabilities to developers. Along with the new models, we are thrilled to announce that […]]]></summary>
-        <author>
-            <name>Derrick Choo</name>
         </author>
     </entry>
 </feed>

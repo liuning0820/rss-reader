@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-11-30T03:24:44.519Z</updated>
+    <updated>2025-11-30T04:31:59.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,26 +714,6 @@
         <summary type="html"><![CDATA[Enterprises in regulated industries often need mathematical certainty that every AI response complies with established policies and domain knowledge. Regulated industries can’t use traditional quality assurance methods that test only a statistical sample of AI outputs and make probabilistic assertions about compliance. When we launched Automated Reasoning checks in Amazon Bedrock Guardrails in preview at […]]]></summary>
         <author>
             <name>Adewale Akinfaderin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom Intelligence: Building AI that matches your business DNA]]></title>
-        <id>0674547c6ec850a2f49b4389643c1e0dbacadfd4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/custom-intelligence-building-ai-that-matches-your-business-dna/"/>
-        <updated>2025-10-31T16:07:19.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, we launched the Custom Model Program within the AWS Generative AI Innovation Center to provide comprehensive support throughout every stage of model customization and optimization. Over the past two years, this program has delivered exceptional results by partnering with global enterprises and startups across diverse industries—including legal, financial services, healthcare and life sciences, […]]]></summary>
-        <author>
-            <name>Hannah Marlowe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clario streamlines clinical trial software configurations using Amazon Bedrock]]></title>
-        <id>2319e7c91d019a6cd10eb525a54dbffa60967755</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/clario-streamlines-clinical-trial-software-configurations-using-amazon-bedrock/"/>
-        <updated>2025-10-31T15:49:09.000Z</updated>
-        <summary type="html"><![CDATA[This post builds upon our previous post discussing how Clario developed an AI solution powered by Amazon Bedrock to accelerate clinical trials. Since then, Clario has further enhanced their AI capabilities, focusing on innovative solutions that streamline the generation of software configurations and artifacts for clinical trials while delivering high-quality clinical evidence.]]></summary>
-        <author>
-            <name>Kim Nguyen, Shyam Banuprakash,</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-01T01:46:30.697Z</updated>
+    <updated>2025-12-01T03:49:03.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #499]]></title>
+        <id>https://sreweekly.com/?p=1711</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-499/"/>
+        <updated>2025-12-01T02:56:18.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Fix-mas Countdown The folks at Uptime Labs and Advanced Capacity Labs have announced an advent calendar for this December. Note: In order to take part, you’ll need to provide an email address to subscribe. I gave that some serious thought before including this here, but ultimately, I have a lot of trust […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clocking on at the Outrage Factory]]></title>
         <id>https://blog.thestateofme.com/?p=6569</id>

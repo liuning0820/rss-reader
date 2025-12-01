@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1711",
+          "author": "lex",
+          "description": "View on sreweekly.com Fix-mas Countdown The folks at Uptime Labs and Advanced Capacity Labs have announced an advent calendar for this December. Note: In order to take part, you’ll need to provide an email address to subscribe. I gave that some serious thought before including this here, but ultimately, I have a lot of trust […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-499/",
+          "publishedOn": "2025-12-01T02:56:18.000Z",
+          "wordCount": 1088,
+          "title": "SRE Weekly Issue #499",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1709",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps. Costory automatically explains why your cloud costs change, and reports it straight to Slack. Built for SREs who want to code, not wrestle with spreadsheets. Now on AWS & GCP Marketplaces. Start your free trial at costory.io Cloudflare outage […]",

@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=6551",
+          "author": "Chris Swan",
+          "description": "Pupdate It’s been pretty cold and wet, so the boys are needing to wear their coats outside. Milo had a scan at the start of the month. Initially things were looking good, and the plan was to stretch out the next visit to three months time :) But then the technician noticed some lymph node […]",
+          "link": "https://blog.thestateofme.com/2025/12/01/november-2025/",
+          "publishedOn": "2025-12-01T11:55:52.000Z",
+          "wordCount": 4254,
+          "title": "November 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/11/pups_202511.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=6569",
           "author": "Chris Swan",

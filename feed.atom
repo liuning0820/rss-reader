@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-01T14:19:34.361Z</updated>
+    <updated>2025-12-01T16:26:06.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[November 2025]]></title>
+        <id>https://blog.thestateofme.com/?p=6551</id>
+        <link href="http://blog.thestateofme.com/2025/12/01/november-2025/"/>
+        <updated>2025-12-01T11:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate It’s been pretty cold and wet, so the boys are needing to wear their coats outside. Milo had a scan at the start of the month. Initially things were looking good, and the plan was to stretch out the next visit to three months time :) But then the technician noticed some lymph node […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[November 2025]]></title>
         <id>http://blog.thestateofme.com/?p=6551</id>

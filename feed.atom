@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-02T14:19:49.030Z</updated>
+    <updated>2025-12-02T16:25:34.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,16 +724,6 @@
         <summary type="html"><![CDATA[Pupdate The central heating went on a few days into the month, and it was also soon time for the boys to be wearing their coats out. Interactive Ball Toy Having learned my lesson about dodgy drop shippers last month I ordered from AliExpress when $wife found a fun looking toy in some Dachshund forum. […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #495]]></title>
-        <id>https://sreweekly.com/?p=1694</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-495/"/>
-        <updated>2025-11-03T03:13:43.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com I’m back! Kidney donation was a fascinating and rewarding experience, and I encourage you to learn more. It’s amazing how it’s possible to fix one human with spare parts from another! I’ll share more about my experience later, but for now: thank you to the many of you that reached out with […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

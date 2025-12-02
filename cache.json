@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6551",
@@ -150,16 +150,6 @@
           "publishedOn": "2025-11-10T03:42:56.000Z",
           "wordCount": 1120,
           "title": "SRE Weekly Issue #496",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1694",
-          "author": "lex",
-          "description": "View on sreweekly.com I’m back! Kidney donation was a fascinating and rewarding experience, and I encourage you to learn more. It’s amazing how it’s possible to fix one human with spare parts from another! I’ll share more about my experience later, but for now: thank you to the many of you that reached out with […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-495/",
-          "publishedOn": "2025-11-03T03:13:43.000Z",
-          "wordCount": 1223,
-          "title": "SRE Weekly Issue #495",
           "imageUrl": null
         }
       ]

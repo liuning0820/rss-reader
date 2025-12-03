@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-03T04:26:52.619Z</updated>
+    <updated>2025-12-03T06:29:07.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -694,16 +694,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]]]></summary>
         <author>
             <name>Chaitra Mathur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic]]></title>
-        <id>6da9350e661ed9a7437efcad43376edb9f54f20b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-switchboard-md-automates-real-time-call-transcription-in-clinical-contact-centers-with-amazon-nova-sonic/"/>
-        <updated>2025-11-03T17:25:22.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we examine the specific challenges Switchboard, MD faced with scaling transcription accuracy and cost-effectiveness in clinical environments, their evaluation process for selecting the right transcription solution, and the technical architecture they implemented using Amazon Connect and Amazon Kinesis Video Streams. This post details the impressive results achieved and demonstrates how they were able to use this foundation to automate EMR matching and give healthcare staff more time to focus on patient care.]]></summary>
-        <author>
-            <name>Tanner Jones</name>
         </author>
     </entry>
 </feed>

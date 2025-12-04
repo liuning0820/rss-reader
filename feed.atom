@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-04T06:28:42.857Z</updated>
+    <updated>2025-12-04T08:26:21.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -684,16 +684,6 @@
         <summary type="html"><![CDATA[TL;DR Agentic systems are the latest thing being used to solve IT integration issues, becoming the glue squirted into the gaps between systems. But the use of natural language means that the distinction between ‘data’ and ‘code’ is almost impossible to make, which causes a whole raft of security concerns. This new glue may be […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment]]></title>
-        <id>15a557ab69304d71f1674fe6b0d2a123cd4f5dab</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/"/>
-        <updated>2025-11-04T18:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]]]></summary>
-        <author>
-            <name>Chaitra Mathur</name>
         </author>
     </entry>
 </feed>

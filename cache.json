@@ -720,16 +720,6 @@
           "wordCount": 37117,
           "title": "How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/16/image-2-11-1260x496.png"
-        },
-        {
-          "id": "15a557ab69304d71f1674fe6b0d2a123cd4f5dab",
-          "author": "Chaitra Mathur",
-          "description": "Amazon Bedrock AgentCore is an agentic platform for building, deploying, and operating effective agents securely at scale. Amazon Bedrock AgentCore Runtime is a fully managed service of Bedrock AgentCore, which provides low latency serverless environments to deploy agents and tools. It provides session isolation, supports multiple agent frameworks including popular open-source frameworks, and handles multimodal […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/",
-          "publishedOn": "2025-11-04T18:30:44.000Z",
-          "wordCount": 35930,
-          "title": "Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/04/ml-20000-1120x630.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-04T14:19:18.300Z</updated>
+    <updated>2025-12-04T16:26:58.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 21 – CHOP #4]]></title>
+        <id>http://blog.thestateofme.com/?p=6599</id>
+        <link href="https://blog.thestateofme.com/2025/12/04/milo-cancer-diary-part-21-chop-4/"/>
+        <updated>2025-12-04T15:19:33.000Z</updated>
+        <summary type="html"><![CDATA[Milo’s had a fantastic long remission – it’s been almost nine months since his last chemo. Long enough that we started hoping for a miracle, and that he might not relapse again. But… the good folk at North Downs Specialist Referrals (NDSR) were right to be concerned about his last scan, and get him back […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[November 2025]]></title>
         <id>https://blog.thestateofme.com/?p=6551</id>

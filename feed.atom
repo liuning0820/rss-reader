@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-06T04:20:15.173Z</updated>
+    <updated>2025-12-06T06:25:29.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -654,16 +654,6 @@
         <summary type="html"><![CDATA[Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.]]></summary>
         <author>
             <name>Manoj Selvakumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transform your MCP architecture: Unite MCP servers through AgentCore Gateway]]></title>
-        <id>011c53acf54a7243c5f7cacf5c2289a47c61c13b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/"/>
-        <updated>2025-11-06T17:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, we introduced Amazon Bedrock AgentCore Gateway, a fully managed service that serves as a centralized MCP tool server, providing a unified interface where agents can discover, access, and invoke tools. Today, we're extending support for existing MCP servers as a new target type in AgentCore Gateway. With this capability, you can group multiple task-specific MCP servers aligned to agent goals behind a single, manageable MCP gateway interface. This reduces the operational complexity of maintaining separate gateways, while providing the same centralized tool and authentication management that existed for REST APIs and AWS Lambda functions.]]></summary>
-        <author>
-            <name>Frank Dallezotte</name>
         </author>
     </entry>
 </feed>

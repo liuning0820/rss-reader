@@ -670,16 +670,6 @@
           "wordCount": 36724,
           "title": "Connect Amazon Bedrock agents to cross-account knowledge bases",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        },
-        {
-          "id": "e498a87cb90ee23afbe685861460a15ce83a4ee2",
-          "author": "Laura Skylaki, Vaibhav Goswami, Ramdev Wudali, Sahar El Khoury",
-          "description": "In this blog post, we explore how TR addressed key business use cases with Open Arena, a highly scalable and flexible no-code AI solution powered by Amazon Bedrock and other AWS services such as Amazon OpenSearch Service, Amazon Simple Storage Service (Amazon S3), Amazon DynamoDB, and AWS Lambda. We'll explain how TR used AWS services to build this solution, including how the architecture was designed, the use cases it solves, and the business profiles that use it.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
-          "publishedOn": "2025-11-07T21:51:22.000Z",
-          "wordCount": 36760,
-          "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/22/image-3-11-1060x630.png"
         }
       ]
     }

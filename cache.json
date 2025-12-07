@@ -680,16 +680,6 @@
           "wordCount": 36760,
           "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/22/image-3-11-1060x630.png"
-        },
-        {
-          "id": "aa5cd0d3b39a96fa7c30faa2ba6b5447db10de30",
-          "author": "Manoj Selvakumar",
-          "description": "Today, we are excited to announce the addition of structured output to Custom Model Import. Structured output constrains a model's generation process in real time so that every token it produces conforms to a schema you define. Rather than relying on prompt-engineering tricks or brittle post-processing scripts, you can now generate structured outputs directly at inference time.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-structured-output-for-custom-model-import-in-amazon-bedrock/",
-          "publishedOn": "2025-11-07T18:53:55.000Z",
-          "wordCount": 36256,
-          "title": "Introducing structured output for Custom Model Import in Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/07/ML-19881-1120x630.png"
         }
       ]
     }

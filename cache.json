@@ -660,16 +660,6 @@
           "wordCount": 36389,
           "title": "How Clario automates clinical research analysis using generative AI on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/01/ML-19444-arch-diag-1251x630.png"
-        },
-        {
-          "id": "d0e8b773f88d8f24f39fd8b9152aaa10c95b7645",
-          "author": "Kunal Ghosh",
-          "description": "Organizations need seamless access to their structured data repositories to power intelligent AI agents. However, when these resources span multiple AWS accounts integration challenges can arise. This post explores a practical solution for connecting Amazon Bedrock agents to knowledge bases in Amazon Redshift clusters residing in different AWS accounts.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agents-to-cross-account-knowledge-bases/",
-          "publishedOn": "2025-11-07T23:14:33.000Z",
-          "wordCount": 36724,
-          "title": "Connect Amazon Bedrock agents to cross-account knowledge bases",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         }
       ]
     }

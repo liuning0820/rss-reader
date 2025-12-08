@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-08T01:24:21.906Z</updated>
+    <updated>2025-12-08T03:19:38.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #500]]></title>
+        <id>https://sreweekly.com/?p=1713</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-500/"/>
+        <updated>2025-12-08T02:05:42.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Depot: Stop hunting through GitHub Actions logs. Depot now offers powerful CI log search across all your repositories and workflows. With smart filtering by timeframe, runner type, and keywords, you’ll have all the information at your fingertips to debug faster. Wow, five hundred issues! I sent the […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Milo cancer diary part 21 – CHOP #4]]></title>
         <id>http://blog.thestateofme.com/?p=6599</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-09T16:24:48.454Z</updated>
+    <updated>2025-12-09T18:24:01.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create AI-powered chat assistants for your enterprise with Amazon Quick Suite]]></title>
+        <id>dfcf62ba5a3c478d4c4295a8c6e0cad6dee47646</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/"/>
+        <updated>2025-12-09T17:07:22.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to build chat agents in Amazon Quick Suite. We walk through a three-layer framework—identity, instructions, and knowledge—that transforms Quick Suite chat agents into intelligent enterprise AI assistants. In our example, we demonstrate how our chat agent guides feature discovery, use enterprise data to inform recommendations, and tailors solutions based on potential to impact and your team’s adoption readiness.]]></summary>
+        <author>
+            <name>Nitish Chaudhari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AWS delivers generative AI to the public sector in weeks, not years]]></title>
         <id>c22af24726dc304105f49c3f0bcdff29f33080c9</id>

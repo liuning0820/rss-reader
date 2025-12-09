@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "dfcf62ba5a3c478d4c4295a8c6e0cad6dee47646",
+          "author": "Nitish Chaudhari",
+          "description": "In this post, we show how to build chat agents in Amazon Quick Suite. We walk through a three-layer framework—identity, instructions, and knowledge—that transforms Quick Suite chat agents into intelligent enterprise AI assistants. In our example, we demonstrate how our chat agent guides feature discovery, use enterprise data to inform recommendations, and tailors solutions based on potential to impact and your team’s adoption readiness.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/",
+          "publishedOn": "2025-12-09T17:07:22.000Z",
+          "wordCount": 34896,
+          "title": "Create AI-powered chat assistants for your enterprise with Amazon Quick Suite",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/09/ML-20069-1120x630.png"
+        },
+        {
           "id": "c22af24726dc304105f49c3f0bcdff29f33080c9",
           "author": "Kate Zimmerman",
           "description": "Experts at the Generative AI Innovation Center share several strategies to help organizations excel with generative AI.",

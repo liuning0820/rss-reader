@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-09T14:20:14.243Z</updated>
+    <updated>2025-12-09T16:24:48.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -664,16 +664,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.]]></summary>
         <author>
             <name>Alex Boudreau, Cuong Lai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #496]]></title>
-        <id>https://sreweekly.com/?p=1701</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-496/"/>
-        <updated>2025-11-10T03:42:56.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, CodeRabbit: CodeRabbit is your AI co-pilot for code reviews. Get instant code review feedback, one-click fix suggestions and define custom rules with AST Grep to catch subtle issues static tools miss. Trusted across 1M repos and 70K open-source projects. ☞ Get Started Today The hidden trade-offs of […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

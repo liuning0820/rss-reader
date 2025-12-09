@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5d798c3add739e9eb279c9f94e7db7c128261c34",
+          "author": "Madhu Pai",
+          "description": "This post evaluates the reasoning capabilities of our latest offering in the Nova family, Amazon Nova Lite 2.0, using practical scenarios that test these critical dimensions. We compare its performance against other models in the Nova family—Lite 1.0, Micro, Pro 1.0, and Premier—to elucidate how the latest version advances reasoning quality and consistency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/",
+          "publishedOn": "2025-12-09T20:50:42.000Z",
+          "wordCount": 34779,
+          "title": "Real-world reasoning: How Amazon Nova Lite 2.0 handles complex customer support scenarios",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/09/ml-20043-1120x630.png"
+        },
+        {
           "id": "dfcf62ba5a3c478d4c4295a8c6e0cad6dee47646",
           "author": "Nitish Chaudhari",
           "description": "In this post, we show how to build chat agents in Amazon Quick Suite. We walk through a three-layer framework—identity, instructions, and knowledge—that transforms Quick Suite chat agents into intelligent enterprise AI assistants. In our example, we demonstrate how our chat agent guides feature discovery, use enterprise data to inform recommendations, and tailors solutions based on potential to impact and your team’s adoption readiness.",

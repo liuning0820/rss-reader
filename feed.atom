@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-10T04:31:15.163Z</updated>
+    <updated>2025-12-10T06:29:48.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -674,16 +674,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate that fine-tuning VLMs provides a powerful and flexible approach to automate and significantly enhance document understanding capabilities. We also demonstrate that using focused fine-tuning allows smaller, multi-modal models to compete effectively with much larger counterparts (98% accuracy with Qwen2.5 VL 3B).]]></summary>
         <author>
             <name>Nick McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Clario automates clinical research analysis using generative AI on AWS]]></title>
-        <id>f391ed6ac0816dc5e1cc7b1f5ef92bacbdbc0fed</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/"/>
-        <updated>2025-11-10T18:13:47.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how Clario has used Amazon Bedrock and other AWS services to build an AI-powered solution that automates and improves the analysis of COA interviews.]]></summary>
-        <author>
-            <name>Alex Boudreau, Cuong Lai</name>
         </author>
     </entry>
 </feed>

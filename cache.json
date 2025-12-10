@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9f7e81416e22d51d3752227159334cf7ddb240ec",
+          "author": "Sakthi Chellapparimanam",
+          "description": "This post shows how to implement automated smoke testing using Amazon Nova Act headless mode in CI/CD pipelines. We use SauceDemo, a sample ecommerce application, as our target for demonstration. We demonstrate setting up Amazon Nova Act for headless browser automation in CI/CD environments and creating smoke tests that validate key user workflows. We then show how to implement parallel execution to maximize testing efficiency, configure GitLab CI/CD for automatic test execution on every deployment, and apply best practices for maintainable and scalable test automation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/",
+          "publishedOn": "2025-12-10T19:04:24.000Z",
+          "wordCount": 34736,
+          "title": "Implement automated smoke testing using Amazon Nova Act headless mode",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/10/ml-20089-1120x630.jpg"
+        },
+        {
           "id": "5d798c3add739e9eb279c9f94e7db7c128261c34",
           "author": "Madhu Pai",
           "description": "This post evaluates the reasoning capabilities of our latest offering in the Nova family, Amazon Nova Lite 2.0, using practical scenarios that test these critical dimensions. We compare its performance against other models in the Nova family—Lite 1.0, Micro, Pro 1.0, and Premier—to elucidate how the latest version advances reasoning quality and consistency.",

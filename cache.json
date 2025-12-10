@@ -700,16 +700,6 @@
           "wordCount": 39421,
           "title": "Multi-Agent collaboration patterns with Strands Agents and Amazon Nova",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/17/multi-agent-nova-image-4-1260x618.jpg"
-        },
-        {
-          "id": "cd6501af575873f5a5d4623a81a6e7c14710f3a1",
-          "author": "Nick McCarthy",
-          "description": "In this post, we demonstrate that fine-tuning VLMs provides a powerful and flexible approach to automate and significantly enhance document understanding capabilities. We also demonstrate that using focused fine-tuning allows smaller, multi-modal models to compete effectively with much larger counterparts (98% accuracy with Qwen2.5 VL 3B).",
-          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-vlms-for-multipage-document-to-json-with-sagemaker-ai-and-swift/",
-          "publishedOn": "2025-11-10T19:59:01.000Z",
-          "wordCount": 39652,
-          "title": "Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/22/image-2-14-1131x630.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-10T22:18:22.539Z</updated>
+    <updated>2025-12-11T01:26:23.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -654,26 +654,6 @@
         <summary type="html"><![CDATA[In this post, we explore four key collaboration patterns for multi-agent, multimodal AI systems – Agents as Tools, Swarms Agents, Agent Graphs, and Agent Workflows – and discuss when and how to apply each using the open-source AWS Strands Agents SDK with Amazon Nova models.]]></summary>
         <author>
             <name>Julia Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checking that Docker image manifests are complete]]></title>
-        <id>http://blog.thestateofme.com/?p=6544</id>
-        <link href="https://blog.thestateofme.com/2025/11/11/checking-that-docker-image-manifests-are-complete/"/>
-        <updated>2025-11-11T11:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Background We build a bunch of stuff for RISC-V using the Dart official Docker image, but the RISC-V images can often arrive some time (days) after the more mainstream images[1]. That means that if we merge a Dependabot PR for an updated image it might well be missing RISC-V, causing the Continuous Delivery (CD) pipeline […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checking that Docker image manifests are complete]]></title>
-        <id>https://blog.thestateofme.com/?p=6544</id>
-        <link href="http://blog.thestateofme.com/2025/11/11/checking-that-docker-image-manifests-are-complete/"/>
-        <updated>2025-11-11T11:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Background We build a bunch of stuff for RISC-V using the Dart official Docker image, but the RISC-V images can often arrive some time (days) after the more mainstream images[1]. That means that if we merge a Dependabot PR for an updated image it might well be missing RISC-V, causing the Continuous Delivery (CD) pipeline […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

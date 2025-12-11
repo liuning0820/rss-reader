@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-11T18:27:01.149Z</updated>
+    <updated>2025-12-11T20:21:15.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro]]></title>
+        <id>9c282f1489927d6ecb8d028c8c80eed8b363f597</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-harmonic-security-improved-their-data-leakage-detection-system-with-low-latency-fine-tuned-models-using-amazon-sagemaker-amazon-bedrock-and-amazon-nova-pro/"/>
+        <updated>2025-12-11T18:28:15.000Z</updated>
+        <summary type="html"><![CDATA[This post walks through how Harmonic Security used Amazon SageMaker AI, Amazon Bedrock, and Amazon Nova Pro to fine-tune a ModernBERT model, achieving low-latency, accurate, and scalable data leakage detection.]]></summary>
+        <author>
+            <name>Babs Khalidson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore]]></title>
         <id>27b6bb53ea935c4cfe36a3f72572a5a3fee4c782</id>

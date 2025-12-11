@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9c282f1489927d6ecb8d028c8c80eed8b363f597",
+          "author": "Babs Khalidson",
+          "description": "This post walks through how Harmonic Security used Amazon SageMaker AI, Amazon Bedrock, and Amazon Nova Pro to fine-tune a ModernBERT model, achieving low-latency, accurate, and scalable data leakage detection.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-harmonic-security-improved-their-data-leakage-detection-system-with-low-latency-fine-tuned-models-using-amazon-sagemaker-amazon-bedrock-and-amazon-nova-pro/",
+          "publishedOn": "2025-12-11T18:28:15.000Z",
+          "wordCount": 34408,
+          "title": "How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/ml-18972-1120x630.png"
+        },
+        {
           "id": "27b6bb53ea935c4cfe36a3f72572a5a3fee4c782",
           "author": "Arun Sittampalam, Maxime Darçot",
           "description": "In this post, we'll show how Swisscom implemented Amazon Bedrock AgentCore to build and scale their enterprise AI agents for customer support and sales operations. As an early adopter of Amazon Bedrock in the AWS Europe Region (Zurich), Swisscom leads in enterprise AI implementation with their Chatbot Builder system and various AI initiatives. Their successful deployments include Conversational AI powered by Rasa and fine-tuned LLMs on Amazon SageMaker, and the Swisscom Swisscom myAI assistant, built to meet Swiss data protection standards.",

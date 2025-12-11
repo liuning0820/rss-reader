@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-11T16:27:43.625Z</updated>
+    <updated>2025-12-11T18:27:01.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore]]></title>
+        <id>27b6bb53ea935c4cfe36a3f72572a5a3fee4c782</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/"/>
+        <updated>2025-12-11T18:24:13.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we'll show how Swisscom implemented Amazon Bedrock AgentCore to build and scale their enterprise AI agents for customer support and sales operations. As an early adopter of Amazon Bedrock in the AWS Europe Region (Zurich), Swisscom leads in enterprise AI implementation with their Chatbot Builder system and various AI initiatives. Their successful deployments include Conversational AI powered by Rasa and fine-tuned LLMs on Amazon SageMaker, and the Swisscom Swisscom myAI assistant, built to meet Swiss data protection standards.]]></summary>
+        <author>
+            <name>Arun Sittampalam, Maxime Darçot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling MLflow for enterprise AI: What’s New in SageMaker AI with MLflow]]></title>
+        <id>f7ced0de81c88ba86eb9525e0eb17affa7f676c8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-mlflow-for-enterprise-ai-whats-new-in-sagemaker-ai-with-mlflow/"/>
+        <updated>2025-12-11T18:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re announcing Amazon SageMaker AI with MLflow, now including a serverless capability that dynamically manages infrastructure provisioning, scaling, and operations for artificial intelligence and machine learning (AI/ML) development tasks. In this post, we explore how these new capabilities help you run large MLflow workloads—from generative AI agents to large language model (LLM) experimentation—with improved performance, automation, and security using SageMaker AI with MLflow.]]></summary>
+        <author>
+            <name>Sandeep Raveesh-Babu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock AgentCore Observability with Langfuse]]></title>
+        <id>13990419e907be2b97bd01816a9d95c3ec8dbcd8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-observability-with-langfuse/"/>
+        <updated>2025-12-11T18:12:48.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explain how to integrate Langfuse observability with Amazon Bedrock AgentCore to gain deep visibility into an AI agent's performance, debug issues faster, and optimize costs. We walk through a complete implementation using Strands agents deployed on AgentCore Runtime followed by step-by-step code examples.]]></summary>
+        <author>
+            <name>Richa Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implement automated smoke testing using Amazon Nova Act headless mode]]></title>
         <id>9f7e81416e22d51d3752227159334cf7ddb240ec</id>

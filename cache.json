@@ -127,6 +127,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "27b6bb53ea935c4cfe36a3f72572a5a3fee4c782",
+          "author": "Arun Sittampalam, Maxime Darçot",
+          "description": "In this post, we'll show how Swisscom implemented Amazon Bedrock AgentCore to build and scale their enterprise AI agents for customer support and sales operations. As an early adopter of Amazon Bedrock in the AWS Europe Region (Zurich), Swisscom leads in enterprise AI implementation with their Chatbot Builder system and various AI initiatives. Their successful deployments include Conversational AI powered by Rasa and fine-tuned LLMs on Amazon SageMaker, and the Swisscom Swisscom myAI assistant, built to meet Swiss data protection standards.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/",
+          "publishedOn": "2025-12-11T18:24:13.000Z",
+          "wordCount": 33385,
+          "title": "How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/ML-19847-1120x630.png"
+        },
+        {
+          "id": "f7ced0de81c88ba86eb9525e0eb17affa7f676c8",
+          "author": "Sandeep Raveesh-Babu",
+          "description": "Today we’re announcing Amazon SageMaker AI with MLflow, now including a serverless capability that dynamically manages infrastructure provisioning, scaling, and operations for artificial intelligence and machine learning (AI/ML) development tasks. In this post, we explore how these new capabilities help you run large MLflow workloads—from generative AI agents to large language model (LLM) experimentation—with improved performance, automation, and security using SageMaker AI with MLflow.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-mlflow-for-enterprise-ai-whats-new-in-sagemaker-ai-with-mlflow/",
+          "publishedOn": "2025-12-11T18:16:19.000Z",
+          "wordCount": 32396,
+          "title": "Scaling MLflow for enterprise AI: What’s New in SageMaker AI with MLflow",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/ML-19756-1120x630.jpg"
+        },
+        {
+          "id": "13990419e907be2b97bd01816a9d95c3ec8dbcd8",
+          "author": "Richa Gupta",
+          "description": "In this post, we explain how to integrate Langfuse observability with Amazon Bedrock AgentCore to gain deep visibility into an AI agent's performance, debug issues faster, and optimize costs. We walk through a complete implementation using Strands agents deployed on AgentCore Runtime followed by step-by-step code examples.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-observability-with-langfuse/",
+          "publishedOn": "2025-12-11T18:12:48.000Z",
+          "wordCount": 33717,
+          "title": "Amazon Bedrock AgentCore Observability with Langfuse",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/AWS_Blog_FeaturedImg_18524.png"
+        },
+        {
           "id": "9f7e81416e22d51d3752227159334cf7ddb240ec",
           "author": "Sakthi Chellapparimanam",
           "description": "This post shows how to implement automated smoke testing using Amazon Nova Act headless mode in CI/CD pipelines. We use SauceDemo, a sample ecommerce application, as our target for demonstration. We demonstrate setting up Amazon Nova Act for headless browser automation in CI/CD environments and creating smoke tests that validate key user workflows. We then show how to implement parallel execution to maximize testing efficiency, configure GitLab CI/CD for automatic test execution on every deployment, and apply best practices for maintainable and scalable test automation.",

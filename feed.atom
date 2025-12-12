@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-12T16:22:55.593Z</updated>
+    <updated>2025-12-12T18:29:06.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a voice-driven AWS assistant with Amazon Nova Sonic]]></title>
+        <id>5c57c432d3b604ead682e3c83eae76a193cf14e2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/"/>
+        <updated>2025-12-12T18:07:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to build a sophisticated voice-powered AWS operations assistant using Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This solution demonstrates how natural language voice interactions can transform cloud operations, making AWS services more accessible and operations more efficient.]]></summary>
+        <author>
+            <name>Jagdish Komakula</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro]]></title>
         <id>9c282f1489927d6ecb8d028c8c80eed8b363f597</id>

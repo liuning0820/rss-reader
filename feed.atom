@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-14T06:27:03.262Z</updated>
+    <updated>2025-12-14T08:22:59.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -624,16 +624,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS & GCP Marketplaces. Start your free trial at costory.io To vibe or not to […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a biomedical research agent with Biomni tools and Amazon Bedrock AgentCore Gateway]]></title>
-        <id>dea7956fa7a5f66548f8593ca721fc68cde02f8a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/"/>
-        <updated>2025-11-14T18:28:42.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build a production-ready biomedical research agent by integrating Biomni's specialized tools with Amazon Bedrock AgentCore Gateway, enabling researchers to access over 30 biomedical databases through a secure, scalable infrastructure. The implementation showcases how to transform research prototypes into enterprise-grade systems with persistent memory, semantic tool discovery, and comprehensive observability for scientific reproducibility .]]></summary>
-        <author>
-            <name>Hasan Poonawala</name>
         </author>
     </entry>
 </feed>

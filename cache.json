@@ -659,21 +659,6 @@
           "wordCount": 37304,
           "title": "Amazon Bedrock AgentCore and Claude: Transforming business with agentic AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/17/ML-19937-1-1260x496.png"
-        },
-        {
-          "id": "dea7956fa7a5f66548f8593ca721fc68cde02f8a",
-          "author": "Hasan Poonawala",
-          "description": "In this post, we demonstrate how to build a production-ready biomedical research agent by integrating Biomni's specialized tools with Amazon Bedrock AgentCore Gateway, enabling researchers to access over 30 biomedical databases through a secure, scalable infrastructure. The implementation showcases how to transform research prototypes into enterprise-grade systems with persistent memory, semantic tool discovery, and comprehensive observability for scientific reproducibility .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/",
-          "publishedOn": "2025-11-14T18:28:42.000Z",
-          "wordCount": 38025,
-          "title": "Build a biomedical research agent with Biomni tools and Amazon Bedrock AgentCore Gateway",
-          "enclosure": {
-            "length": "23302843",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19791/research_agent_biomni_sonnet_q1_q2.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/04/architecture_diagram_biomni.jpeg"
         }
       ]
     }

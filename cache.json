@@ -674,26 +674,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19791/research_agent_biomni_sonnet_q1_q2.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/04/architecture_diagram_biomni.jpeg"
-        },
-        {
-          "id": "933b52e3ca15d5be13d1e78b12f84471259a33d7",
-          "author": "Manu Mishra",
-          "description": "Graphical user interfaces have carried the torch for decades, but today’s users increasingly expect to talk to their applications. In this post we show how we added a true voice-first experience to a reference application—the Smart Todo App—turning routine task management into a fluid, hands-free conversation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/make-your-web-apps-hands-free-with-amazon-nova-sonic/",
-          "publishedOn": "2025-11-14T18:18:54.000Z",
-          "wordCount": 36118,
-          "title": "Make your web apps hands-free with Amazon Nova Sonic",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/11/ArchitectureDiagram-1109x630.png"
-        },
-        {
-          "id": "791b8c9758a2c96b23a29bec09ed7db43948976b",
-          "author": "David Gildea, Tom Nijs",
-          "description": "Generative AI is transforming the way businesses interact with their customers and revolutionizing conversational interfaces for complex IT operations. Druva, a leading provider of data security solutions, is at the forefront of this transformation. In collaboration with Amazon Web Services (AWS), Druva is developing a cutting-edge generative AI-powered multi-agent copilot that aims to redefine the customer experience in data security and cyber resilience.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-generative-ai-druvas-multi-agent-copilot-for-streamlined-data-protection/",
-          "publishedOn": "2025-11-14T18:10:20.000Z",
-          "wordCount": 36855,
-          "title": "Harnessing the power of generative AI: Druva’s multi-agent copilot for streamlined data protection",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/10/21/image-2-ML-17621-1099x630.png"
         }
       ]
     }

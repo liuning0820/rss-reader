@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-14T04:34:43.363Z</updated>
+    <updated>2025-12-14T06:27:03.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -634,26 +634,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to build a production-ready biomedical research agent by integrating Biomni's specialized tools with Amazon Bedrock AgentCore Gateway, enabling researchers to access over 30 biomedical databases through a secure, scalable infrastructure. The implementation showcases how to transform research prototypes into enterprise-grade systems with persistent memory, semantic tool discovery, and comprehensive observability for scientific reproducibility .]]></summary>
         <author>
             <name>Hasan Poonawala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your web apps hands-free with Amazon Nova Sonic]]></title>
-        <id>933b52e3ca15d5be13d1e78b12f84471259a33d7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/make-your-web-apps-hands-free-with-amazon-nova-sonic/"/>
-        <updated>2025-11-14T18:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Graphical user interfaces have carried the torch for decades, but today’s users increasingly expect to talk to their applications. In this post we show how we added a true voice-first experience to a reference application—the Smart Todo App—turning routine task management into a fluid, hands-free conversation.]]></summary>
-        <author>
-            <name>Manu Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing the power of generative AI: Druva’s multi-agent copilot for streamlined data protection]]></title>
-        <id>791b8c9758a2c96b23a29bec09ed7db43948976b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-generative-ai-druvas-multi-agent-copilot-for-streamlined-data-protection/"/>
-        <updated>2025-11-14T18:10:20.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is transforming the way businesses interact with their customers and revolutionizing conversational interfaces for complex IT operations. Druva, a leading provider of data security solutions, is at the forefront of this transformation. In collaboration with Amazon Web Services (AWS), Druva is developing a cutting-edge generative AI-powered multi-agent copilot that aims to redefine the customer experience in data security and cyber resilience.]]></summary>
-        <author>
-            <name>David Gildea, Tom Nijs</name>
         </author>
     </entry>
 </feed>

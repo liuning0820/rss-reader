@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-15T18:29:07.059Z</updated>
+    <updated>2025-12-15T20:21:17.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery]]></title>
+        <id>bb8fd48eca18f4fd00c0e22d706c0dccd6f17d26</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/"/>
+        <updated>2025-12-15T19:45:50.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce checkpointless training on Amazon SageMaker HyperPod, a paradigm shift in model training that reduces the need for traditional checkpointing by enabling peer-to-peer state recovery. Results from production-scale validation show 80–93% reduction in recovery time (from 15–30 minutes or more to under 2 minutes) and enables up to 95% training goodput on cluster sizes with thousands of AI accelerators.]]></summary>
+        <author>
+            <name>Anirudh Viswanathan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adaptive infrastructure for foundation model training with elastic training on SageMaker HyperPod]]></title>
         <id>50fecb2ff45bd5879bbc4ed8765d4b10194a29fa</id>

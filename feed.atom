@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-15T16:27:58.808Z</updated>
+    <updated>2025-12-15T18:29:07.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adaptive infrastructure for foundation model training with elastic training on SageMaker HyperPod]]></title>
+        <id>50fecb2ff45bd5879bbc4ed8765d4b10194a29fa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/adaptive-infrastructure-for-foundation-model-training-with-elastic-training-on-sagemaker-hyperpod/"/>
+        <updated>2025-12-15T18:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod now supports elastic training, enabling your machine learning (ML) workloads to automatically scale based on resource availability. In this post, we demonstrate how elastic training helps you maximize GPU utilization, reduce costs, and accelerate model development through dynamic resource adaptation, while maintain training quality and minimizing manual intervention.]]></summary>
+        <author>
+            <name>Roy Allela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize agent workflows with advanced orchestration techniques using Strands Agents]]></title>
+        <id>6d6fd9f23e9624cf28b2a14479b22963c42086f3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/customize-agent-workflows-with-advanced-orchestration-techniques-using-strands-agents/"/>
+        <updated>2025-12-15T17:35:47.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore two powerful orchestration patterns implemented with Strands Agents. Using a common set of travel planning tools, we demonstrate how different orchestration strategies can solve the same problem through distinct reasoning approaches,]]></summary>
+        <author>
+            <name>Baishali Chaudhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operationalize generative AI workloads and scale to hundreds of use cases with Amazon Bedrock – Part 1: GenAIOps]]></title>
+        <id>af38b595d8cb9960c7fe1f1b026aea76caf7f1e3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/operationalize-generative-ai-workloads-and-scale-to-hundreds-of-use-cases-with-amazon-bedrock-part-1-genaiops/"/>
+        <updated>2025-12-15T17:31:53.000Z</updated>
+        <summary type="html"><![CDATA[In this first part of our two-part series, you'll learn how to evolve your existing DevOps architecture for generative AI workloads and implement GenAIOps practices. We'll showcase practical implementation strategies for different generative AI adoption levels, focusing on consuming foundation models.]]></summary>
+        <author>
+            <name>Anastasia Tzeveleka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applying data loading best practices for ML training with Amazon S3 clients]]></title>
+        <id>1087be18de0112b54518f3450de0cea495973ed3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/"/>
+        <updated>2025-12-15T17:29:31.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we present practical techniques and recommendations for optimizing throughput in ML training workloads that read data directly from Amazon S3 general purpose buckets.]]></summary>
+        <author>
+            <name>Alexander Arzhanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #501]]></title>
         <id>https://sreweekly.com/?p=1715</id>

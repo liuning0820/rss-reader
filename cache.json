@@ -126,6 +126,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "50fecb2ff45bd5879bbc4ed8765d4b10194a29fa",
+          "author": "Roy Allela",
+          "description": "Amazon SageMaker HyperPod now supports elastic training, enabling your machine learning (ML) workloads to automatically scale based on resource availability. In this post, we demonstrate how elastic training helps you maximize GPU utilization, reduce costs, and accelerate model development through dynamic resource adaptation, while maintain training quality and minimizing manual intervention.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-infrastructure-for-foundation-model-training-with-elastic-training-on-sagemaker-hyperpod/",
+          "publishedOn": "2025-12-15T18:12:22.000Z",
+          "wordCount": 34229,
+          "title": "Adaptive infrastructure for foundation model training with elastic training on SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/etworkflow22.png"
+        },
+        {
+          "id": "6d6fd9f23e9624cf28b2a14479b22963c42086f3",
+          "author": "Baishali Chaudhury",
+          "description": "In this post, we explore two powerful orchestration patterns implemented with Strands Agents. Using a common set of travel planning tools, we demonstrate how different orchestration strategies can solve the same problem through distinct reasoning approaches,",
+          "link": "https://aws.amazon.com/blogs/machine-learning/customize-agent-workflows-with-advanced-orchestration-techniques-using-strands-agents/",
+          "publishedOn": "2025-12-15T17:35:47.000Z",
+          "wordCount": 35596,
+          "title": "Customize agent workflows with advanced orchestration techniques using Strands Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/15/ml-19383-1120x630.png"
+        },
+        {
+          "id": "af38b595d8cb9960c7fe1f1b026aea76caf7f1e3",
+          "author": "Anastasia Tzeveleka",
+          "description": "In this first part of our two-part series, you'll learn how to evolve your existing DevOps architecture for generative AI workloads and implement GenAIOps practices. We'll showcase practical implementation strategies for different generative AI adoption levels, focusing on consuming foundation models.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/operationalize-generative-ai-workloads-and-scale-to-hundreds-of-use-cases-with-amazon-bedrock-part-1-genaiops/",
+          "publishedOn": "2025-12-15T17:31:53.000Z",
+          "wordCount": 36507,
+          "title": "Operationalize generative AI workloads and scale to hundreds of use cases with Amazon Bedrock – Part 1: GenAIOps",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/15/ML-18356-1120x630.png"
+        },
+        {
+          "id": "1087be18de0112b54518f3450de0cea495973ed3",
+          "author": "Alexander Arzhanov",
+          "description": "In this post, we present practical techniques and recommendations for optimizing throughput in ML training workloads that read data directly from Amazon S3 general purpose buckets.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/",
+          "publishedOn": "2025-12-15T17:29:31.000Z",
+          "wordCount": 34711,
+          "title": "Applying data loading best practices for ML training with Amazon S3 clients",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/15/ml-19322-1120x630.png"
+        },
+        {
           "id": "5c57c432d3b604ead682e3c83eae76a193cf14e2",
           "author": "Jagdish Komakula",
           "description": "In this post, we explore how to build a sophisticated voice-powered AWS operations assistant using Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This solution demonstrates how natural language voice interactions can transform cloud operations, making AWS services more accessible and operations more efficient.",

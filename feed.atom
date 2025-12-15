@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-15T03:28:15.841Z</updated>
+    <updated>2025-12-15T04:38:09.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #501]]></title>
+        <id>https://sreweekly.com/?p=1715</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-501/"/>
+        <updated>2025-12-15T03:31:51.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Depot: “Waiting for a runner” but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot’s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation – Part 1 A thoughtful evaluation of […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a voice-driven AWS assistant with Amazon Nova Sonic]]></title>
         <id>5c57c432d3b604ead682e3c83eae76a193cf14e2</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-16T20:21:54.345Z</updated>
+    <updated>2025-12-16T22:17:25.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Governance by design: The essential guide for successful AI scaling]]></title>
+        <id>05d4574859e6e3bab82cc881760dff28c5b8b3fb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/governance-by-design-the-essential-guide-for-successful-ai-scaling/"/>
+        <updated>2025-12-16T21:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: Your enterprise has just deployed its first generative AI application. The initial results are promising, but as you plan to scale across departments, critical questions emerge. How will you enforce consistent security, prevent model bias, and maintain control as AI applications multiply?]]></summary>
+        <author>
+            <name>Segolene Dessertine-Panhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Tata Power CoE built a scalable AI-powered solar panel inspection solution with Amazon SageMaker AI and Amazon Bedrock]]></title>
         <id>16ac999cec6571e91ffffd5a7671474673cfa179</id>

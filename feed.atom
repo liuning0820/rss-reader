@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-16T18:29:01.030Z</updated>
+    <updated>2025-12-16T20:21:54.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Tata Power CoE built a scalable AI-powered solar panel inspection solution with Amazon SageMaker AI and Amazon Bedrock]]></title>
+        <id>16ac999cec6571e91ffffd5a7671474673cfa179</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-tata-power-coe-built-a-scalable-ai-powered-solar-panel-inspection-solution-with-amazon-sagemaker-ai-and-amazon-bedrock/"/>
+        <updated>2025-12-16T18:55:36.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Tata Power CoE and Oneture Technologies use AWS services to automate the inspection process end-to-end.]]></summary>
+        <author>
+            <name>Chetan Makvana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking video understanding with TwelveLabs Marengo on Amazon Bedrock]]></title>
+        <id>c455d57bcdeb246e70d51a7711e013c2e9f88c3b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/unlocking-video-understanding-with-twelvelabs-marengo-on-amazon-bedrock/"/>
+        <updated>2025-12-16T18:51:10.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we'll show how the TwelveLabs Marengo embedding model, available on Amazon Bedrock, enhances video understanding through multimodal AI. We'll build a video semantic search and analysis solution using embeddings from the Marengo model with Amazon OpenSearch Serverless as the vector database, for semantic search capabilities that go beyond simple metadata matching to deliver intelligent content discovery.]]></summary>
+        <author>
+            <name>Wei Teh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery]]></title>
         <id>bb8fd48eca18f4fd00c0e22d706c0dccd6f17d26</id>

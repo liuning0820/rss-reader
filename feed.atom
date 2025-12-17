@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-17T16:25:42.762Z</updated>
+    <updated>2025-12-17T18:29:40.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tracking and managing assets used in AI development with Amazon SageMaker AI]]></title>
+        <id>6672ba4055fdde505fc526fb1b6a9f048e9889c1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/tracking-and-managing-assets-used-in-ai-development-with-amazon-sagemaker-ai/"/>
+        <updated>2025-12-17T16:53:30.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we'll explore the new capabilities and core concepts that help organizations track and manage models development and deployment lifecycles. We will show you how the features are configured to train models with automatic end-to-end lineage, from dataset upload and versioning to model fine-tuning, evaluation, and seamless endpoint deployment.]]></summary>
+        <author>
+            <name>Amit Modi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Track machine learning experiments with MLflow on Amazon SageMaker using Snowflake integration]]></title>
+        <id>57dad90b1b0de07aa152540c36d0c58c43e94a09</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/track-machine-learning-experiments-with-mlflow-on-amazon-sagemaker-using-snowflake-integration/"/>
+        <updated>2025-12-17T16:50:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to integrate Amazon SageMaker managed MLflow as a central repository to log these experiments and provide a unified system for monitoring their progress.]]></summary>
+        <author>
+            <name>Mark Hoover</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Governance by design: The essential guide for successful AI scaling]]></title>
         <id>05d4574859e6e3bab82cc881760dff28c5b8b3fb</id>

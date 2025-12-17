@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-17T06:30:09.829Z</updated>
+    <updated>2025-12-17T08:27:27.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -674,26 +674,6 @@
         <summary type="html"><![CDATA[In this post, I will illustrate how applying platform engineering principles to generative AI unlocks faster time-to-value, cost control, and scalable innovation.]]></summary>
         <author>
             <name>Thong Seng Foo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your complete guide to Amazon Quick Suite at AWS re:Invent 2025]]></title>
-        <id>990d8c9873bac4b0d587c8b2b18aa72f14dddf3d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-amazon-quick-suite-at-aws-reinvent-2025/"/>
-        <updated>2025-11-17T19:26:56.000Z</updated>
-        <summary type="html"><![CDATA[This year, re:Invent will be held in Las Vegas, Nevada, from December 1 to December 5, 2025, and this guide will help you navigate our comprehensive session catalog and plan your week. The sessions cater to business and technology leaders, product and engineering teams, and data and analytics teams interested in incorporating agentic AI capabilities across their teams and organization.]]></summary>
-        <author>
-            <name>Pelak Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate enterprise solutions with agentic AI-powered consulting: Introducing AWS Professional Service Agents]]></title>
-        <id>0f5cd41dc34779a406b17d71305e68cb47b4e843</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-solutions-with-agentic-ai-powered-consulting-introducing-aws-professional-service-agents/"/>
-        <updated>2025-11-17T19:01:27.000Z</updated>
-        <summary type="html"><![CDATA[I'm excited to announce AWS Professional Services now offers specialized AI agents including the AWS Professional Services Delivery Agent. This represents a transformation to the consulting experience that embeds intelligent agents throughout the consulting life cycle to deliver better value for customers.]]></summary>
-        <author>
-            <name>Francessca Vasquez</name>
         </author>
     </entry>
 </feed>

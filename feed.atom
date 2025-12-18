@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-18T16:27:28.739Z</updated>
+    <updated>2025-12-18T18:28:46.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents]]></title>
+        <id>d0093e0f1d95b90f8427fc87ef6c89a7767b02a5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/"/>
+        <updated>2025-12-18T17:26:39.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how to use the powerful combination of Strands Agents, Amazon Bedrock AgentCore, and NVIDIA NeMo Agent Toolkit to build, evaluate, optimize, and deploy AI agents on Amazon Web Services (AWS) from initial development through production deployment.]]></summary>
+        <author>
+            <name>Kosti Vasilakakis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime]]></title>
+        <id>f86d2603985c4be7fe90bdbf9c7e9e5f06f0a7fe</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/"/>
+        <updated>2025-12-18T17:00:21.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn about bi-directional streaming on AgentCore Runtime and the prerequisites to create a WebSocket implementation. You will also learn how to use Strands Agents to implement a bi-directional streaming solution for voice agents.]]></summary>
+        <author>
+            <name>Lana Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tracking and managing assets used in AI development with Amazon SageMaker AI]]></title>
         <id>6672ba4055fdde505fc526fb1b6a9f048e9889c1</id>

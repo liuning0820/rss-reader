@@ -116,6 +116,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d0093e0f1d95b90f8427fc87ef6c89a7767b02a5",
+          "author": "Kosti Vasilakakis",
+          "description": "This post demonstrates how to use the powerful combination of Strands Agents, Amazon Bedrock AgentCore, and NVIDIA NeMo Agent Toolkit to build, evaluate, optimize, and deploy AI agents on Amazon Web Services (AWS) from initial development through production deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/",
+          "publishedOn": "2025-12-18T17:26:39.000Z",
+          "wordCount": 35243,
+          "title": "Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/18/ml-20075-1-1120x630.png"
+        },
+        {
+          "id": "f86d2603985c4be7fe90bdbf9c7e9e5f06f0a7fe",
+          "author": "Lana Zhang",
+          "description": "In this post, you will learn about bi-directional streaming on AgentCore Runtime and the prerequisites to create a WebSocket implementation. You will also learn how to use Strands Agents to implement a bi-directional streaming solution for voice agents.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/",
+          "publishedOn": "2025-12-18T17:00:21.000Z",
+          "wordCount": 32854,
+          "title": "Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime",
+          "enclosure": {
+            "length": "37922552",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20075/agentcore-sonic.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/18/ml-20075-1120x630.png"
+        },
+        {
           "id": "6672ba4055fdde505fc526fb1b6a9f048e9889c1",
           "author": "Amit Modi",
           "description": "In this post, we'll explore the new capabilities and core concepts that help organizations track and manage models development and deployment lifecycles. We will show you how the features are configured to train models with automatic end-to-end lineage, from dataset upload and versioning to model fine-tuning, evaluation, and seamless endpoint deployment.",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-18T04:31:54.843Z</updated>
+    <updated>2025-12-18T06:30:29.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -674,26 +674,6 @@
         <summary type="html"><![CDATA[RoboTic-Tac-Toe is an interactive game where two physical robots move around a tic-tac-toe board, with both the gameplay and robots’ movements orchestrated by LLMs. Players can control the robots using natural language commands, directing them to place their markers on the game board. In this post, we explore the architecture and prompt engineering techniques used to reason about a tic-tac-toe game and decide the next best game strategy and movement plan for the current player.]]></summary>
         <author>
             <name>Georges Hamieh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperPod enhances ML infrastructure with security and storage]]></title>
-        <id>40cc8197e95c8b748d5c2029393cd60f3a4075e9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/hyperpod-enhances-ml-infrastructure-with-security-and-storage/"/>
-        <updated>2025-11-18T17:54:27.000Z</updated>
-        <summary type="html"><![CDATA[This blog post introduces two major enhancements to Amazon SageMaker HyperPod that strengthen security and storage capabilities for large-scale machine learning infrastructure. The new features include customer managed key (CMK) support for encrypting EBS volumes with organization-controlled encryption keys, and Amazon EBS CSI driver integration that enables dynamic storage management for Kubernetes volumes in AI workloads.]]></summary>
-        <author>
-            <name>Mark Vinciguerra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating generative AI applications with a platform engineering approach]]></title>
-        <id>aa8197a3744532c1708fc3df29b3268f48d446a2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-applications-with-a-platform-engineering-approach/"/>
-        <updated>2025-11-18T17:04:13.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I will illustrate how applying platform engineering principles to generative AI unlocks faster time-to-value, cost control, and scalable innovation.]]></summary>
-        <author>
-            <name>Thong Seng Foo</name>
         </author>
     </entry>
 </feed>

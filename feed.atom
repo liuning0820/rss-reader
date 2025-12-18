@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-18T08:27:09.045Z</updated>
+    <updated>2025-12-18T10:21:07.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -664,16 +664,6 @@
         <summary type="html"><![CDATA[In this post you will learn how to use Spectrum to optimize resource use and shorten training times without sacrificing quality, as well as how to implement Spectrum fine-tuning with Amazon SageMaker AI training jobs. We will also discuss the tradeoff between QLoRA and Spectrum fine-tuning, showing that while QLoRA is more resource efficient, Spectrum results in higher performance overall.]]></summary>
         <author>
             <name>Mona Mona</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing tic-tac-toe to life with AWS AI services]]></title>
-        <id>69fccec4fdb145a6e66fa7bb2a79fb64540fc011</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/bringing-tic-tac-toe-to-life-with-aws-ai-services/"/>
-        <updated>2025-11-18T22:08:57.000Z</updated>
-        <summary type="html"><![CDATA[RoboTic-Tac-Toe is an interactive game where two physical robots move around a tic-tac-toe board, with both the gameplay and robots’ movements orchestrated by LLMs. Players can control the robots using natural language commands, directing them to place their markers on the game board. In this post, we explore the architecture and prompt engineering techniques used to reason about a tic-tac-toe game and decide the next best game strategy and movement plan for the current player.]]></summary>
-        <author>
-            <name>Georges Hamieh</name>
         </author>
     </entry>
 </feed>

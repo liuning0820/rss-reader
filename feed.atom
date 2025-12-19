@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-19T16:23:54.980Z</updated>
+    <updated>2025-12-19T18:27:04.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads]]></title>
+        <id>5b2dcc701e8ab7aff53a5c39d34d49284d4dd949</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/"/>
+        <updated>2025-12-19T18:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are excited to introduce a new feature for SageMaker Studio: SOCI (Seekable Open Container Initiative) indexing. SOCI supports lazy loading of container images, where only the necessary parts of an image are downloaded initially rather than the entire container.]]></summary>
+        <author>
+            <name>Pranav Murthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents]]></title>
         <id>d0093e0f1d95b90f8427fc87ef6c89a7767b02a5</id>

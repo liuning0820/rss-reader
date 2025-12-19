@@ -116,6 +116,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5b2dcc701e8ab7aff53a5c39d34d49284d4dd949",
+          "author": "Pranav Murthy",
+          "description": "Today, we are excited to introduce a new feature for SageMaker Studio: SOCI (Seekable Open Container Initiative) indexing. SOCI supports lazy loading of container images, where only the necessary parts of an image are downloaded initially rather than the entire container.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/",
+          "publishedOn": "2025-12-19T18:23:50.000Z",
+          "wordCount": 33496,
+          "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/19/ml-18654-1120x630.png"
+        },
+        {
           "id": "d0093e0f1d95b90f8427fc87ef6c89a7767b02a5",
           "author": "Kosti Vasilakakis",
           "description": "This post demonstrates how to use the powerful combination of Strands Agents, Amazon Bedrock AgentCore, and NVIDIA NeMo Agent Toolkit to build, evaluate, optimize, and deploy AI agents on Amazon Web Services (AWS) from initial development through production deployment.",

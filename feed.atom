@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-19T06:29:29.035Z</updated>
+    <updated>2025-12-19T08:26:51.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -644,26 +644,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock Guardrails now extends its safety controls to protect code generation across twelve programming languages, addressing critical security challenges in AI-assisted software development. In this post, we explore how to configure content filters, prompt attack detection, denied topics, and sensitive information filters to safeguard against threats like prompt injection, data exfiltration, and malicious code generation while maintaining developer productivity .]]></summary>
         <author>
             <name>Phu Mon Htut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the AWS Well-Architected Responsible AI Lens]]></title>
-        <id>2463611cd72baa5c7ff04e36a478b682bb1ac9f7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-well-architected-responsible-ai-lens/"/>
-        <updated>2025-11-19T20:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Today, we're announcing the AWS Well-Architected Responsible AI Lens—a set of thoughtful questions and corresponding best practices that help builders address responsible AI concerns throughout development and operation.]]></summary>
-        <author>
-            <name>Rachna Chadha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Amazon uses AI agents to support compliance screening of billions of transactions per day]]></title>
-        <id>2c6fa3d36a88755b4d7d99119c8c6a0c4aa267d0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-ai-agents-to-support-compliance-screening-of-billions-of-transactions-per-day/"/>
-        <updated>2025-11-19T19:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Amazon's AI-powered Amazon Compliance Screening system tackles complex compliance challenges through autonomous agents that analyze, reason through, and resolve cases with precision. This blog post explores how Amazon’s Compliance team built its AI-powered investigation system through a series of AI agents built on AWS.]]></summary>
-        <author>
-            <name>Damodar Shetyo</name>
         </author>
     </entry>
 </feed>

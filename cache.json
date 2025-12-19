@@ -664,26 +664,6 @@
           "wordCount": 33656,
           "title": "How Care Access achieved 86% data processing cost reductions and 66% faster data processing with Amazon Bedrock prompt caching",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/20/care-access.jpg"
-        },
-        {
-          "id": "95818ff52ffdff780bbc43765c32e77070489dc9",
-          "author": "Court Schuett",
-          "description": "In this post, we explore deployment patterns and best practices for Claude Code with Amazon Bedrock, covering authentication methods, infrastructure decisions, and monitoring strategies to help enterprises deploy securely at scale. We recommend using Direct IdP integration for authentication, a dedicated AWS account for infrastructure, and OpenTelemetry with CloudWatch dashboards for comprehensive monitoring to ensure secure access, capacity management, and visibility into costs and developer productivity .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/claude-code-deployment-patterns-and-best-practices-with-amazon-bedrock/",
-          "publishedOn": "2025-11-19T23:17:38.000Z",
-          "wordCount": 34674,
-          "title": "Claude Code deployment patterns and best practices with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/19/ccbdrk.png"
-        },
-        {
-          "id": "38344ff81fe02636758af70d21e6c30400e38908",
-          "author": "Phu Mon Htut",
-          "description": "Amazon Bedrock Guardrails now extends its safety controls to protect code generation across twelve programming languages, addressing critical security challenges in AI-assisted software development. In this post, we explore how to configure content filters, prompt attack detection, denied topics, and sensitive information filters to safeguard against threats like prompt injection, data exfiltration, and malicious code generation while maintaining developer productivity .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-expands-support-for-code-domain/",
-          "publishedOn": "2025-11-19T22:27:14.000Z",
-          "wordCount": 33750,
-          "title": "Amazon Bedrock Guardrails expands support for code domain",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/19/ML-19995-11-1-1260x550.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-20T03:13:31.189Z</updated>
+    <updated>2025-12-20T04:24:11.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -624,16 +624,6 @@
         <summary type="html"><![CDATA[Our team at Amazon builds Rufus, an AI-powered shopping assistant which delivers intelligent, conversational experiences to delight our customers. More than 250 million customers have used Rufus this year. Monthly users are up 140% YoY and interactions are up 210% YoY. Additionally, customers that use Rufus during a shopping journey are 60% more likely to […]]]></summary>
         <author>
             <name>James Park</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Care Access achieved 86% data processing cost reductions and 66% faster data processing with Amazon Bedrock prompt caching]]></title>
-        <id>88d10c92023722ffc64b451b2cf12c6701615a8f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-care-access-achieved-86-data-processing-cost-reductions-and-66-faster-data-processing-with-amazon-bedrock-prompt-caching/"/>
-        <updated>2025-11-20T16:15:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how healthcare organizations can securely implement prompt caching technology to streamline medical record processing while maintaining compliance requirements.]]></summary>
-        <author>
-            <name>Michelle Tat, Christopher Penrose, Daniel Hansen, Rasmus Buchmann</name>
         </author>
     </entry>
 </feed>

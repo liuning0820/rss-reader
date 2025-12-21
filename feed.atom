@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-21T03:27:30.771Z</updated>
+    <updated>2025-12-21T04:35:13.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -584,16 +584,6 @@
         <summary type="html"><![CDATA[In this post, you'll learn how to deploy geospatial AI agents that can answer complex spatial questions in minutes instead of months. By combining Foursquare Spatial H3 Hub's analysis-ready geospatial data with reasoning models deployed on Amazon SageMaker AI, you can build agents that enable nontechnical domain experts to perform sophisticated spatial analysis through natural language queries—without requiring geographic information system (GIS) expertise or custom data engineering pipelines.]]></summary>
         <author>
             <name>Vikram Gundeti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wipro PARI accelerates PLC code generation using Amazon Bedrock]]></title>
-        <id>3df6b1beb06f3ab47eced88f342ef230227b0211</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-wipro-pari-accelerates-plc-code-generation-using-amazon-bedrock/"/>
-        <updated>2025-11-21T16:10:26.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how Wipro implemented advanced prompt engineering techniques, custom validation logic, and automated code rectification to streamline the development of industrial automation code at scale using Amazon Bedrock. We walk through the architecture along with the key use cases, explain core components and workflows, and share real-world results that show the transformative impact on manufacturing operations.]]></summary>
-        <author>
-            <name>Aparajithan Vaidyanathan</name>
         </author>
     </entry>
 </feed>

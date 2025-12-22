@@ -63,6 +63,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1717",
+          "author": "lex",
+          "description": "View on sreweekly.com Eliminating Cold Starts 2: shard and conquer Cloudflare reduced their cold-start rate for Workers requests through sharding and consistent hashing, with an interesting solution for load shedding.   Harris Hancock — Cloudflare Monitoring & Observability: Using Logs, Metrics, Traces, and Alerts to Understand System Failures I appreciate the way this article also shares […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-502/",
+          "publishedOn": "2025-12-22T03:13:23.000Z",
+          "wordCount": 1073,
+          "title": "SRE Weekly Issue #502",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1715",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Depot: “Waiting for a runner” but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot’s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation – Part 1 A thoughtful evaluation of […]",

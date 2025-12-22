@@ -126,6 +126,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "779ab6d44a58dd4d0ffa25b3f4e472ec0d1916c2",
+          "author": "Ahmed Raafat",
+          "description": "This post explores Chain-of-Draft (CoD), an innovative prompting technique introduced in a Zoom AI Research paper Chain of Draft: Thinking Faster by Writing Less, that revolutionizes how models approach reasoning tasks. While Chain-of-Thought (CoT) prompting has been the go-to method for enhancing model reasoning, CoD offers a more efficient alternative that mirrors human problem-solving patterns—using concise, high-signal thinking steps rather than verbose explanations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/move-beyond-chain-of-thought-with-chain-of-draft-on-amazon-bedrock/",
+          "publishedOn": "2025-12-22T18:37:13.000Z",
+          "wordCount": 34161,
+          "title": "Move Beyond Chain-of-Thought with Chain-of-Draft on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/22/ml-19022-1120x630.png"
+        },
+        {
+          "id": "5c4ba89e887fc7dd534c7dbaa5ce27ec7624acf3",
+          "author": "Ying Hou",
+          "description": "In this post, we demonstrate hosting Voxtral models on Amazon SageMaker AI endpoints using vLLM and the Bring Your Own Container (BYOC) approach. vLLM is a high-performance library for serving large language models (LLMs) that features paged attention for improved memory management and tensor parallelism for distributing models across multiple GPUs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-mistral-ais-voxtral-on-amazon-sagemaker-ai/",
+          "publishedOn": "2025-12-22T18:32:19.000Z",
+          "wordCount": 33484,
+          "title": "Deploy Mistral AI’s Voxtral on Amazon SageMaker AI",
+          "enclosure": {
+            "length": "2266937",
+            "type": "audio/mpeg",
+            "url": "https://audiocdn.frenchtoday.com/file/ft-public-files/audiobook-samples/AMPFE/AMP%20FE%20Ch%2002%20Story%20Slower.mp3"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/22/ml-19542-1120x630.png"
+        },
+        {
           "id": "95e5e93b67c6860061d5445b4178ee5206915bc0",
           "author": "David Kaleko",
           "description": "To address the need for businesses to quickly analyze information and unlock actionable insights, we are announcing Analytics Agent, a new feature that is seamlessly integrated into the GenAI IDP Accelerator. With this feature, users can perform advanced searches and complex analyses using natural language queries without SQL or data analysis expertise. In this post, we discuss how non-technical users can use this tool to analyze and understand the documents they have processed at scale with natural language.",

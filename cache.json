@@ -126,6 +126,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "95e5e93b67c6860061d5445b4178ee5206915bc0",
+          "author": "David Kaleko",
+          "description": "To address the need for businesses to quickly analyze information and unlock actionable insights, we are announcing Analytics Agent, a new feature that is seamlessly integrated into the GenAI IDP Accelerator. With this feature, users can perform advanced searches and complex analyses using natural language queries without SQL or data analysis expertise. In this post, we discuss how non-technical users can use this tool to analyze and understand the documents they have processed at scale with natural language.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/",
+          "publishedOn": "2025-12-22T18:26:17.000Z",
+          "wordCount": 33849,
+          "title": "Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/22/ml-19631-1120x630.png"
+        },
+        {
+          "id": "21670325a98dfbb7046bcd28093df48c901419ff",
+          "author": "Carla Lorente",
+          "description": "In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/",
+          "publishedOn": "2025-12-22T18:21:28.000Z",
+          "wordCount": 36174,
+          "title": "Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/22/ml-17769-1120x630.png"
+        },
+        {
           "id": "5b2dcc701e8ab7aff53a5c39d34d49284d4dd949",
           "author": "Pranav Murthy",
           "description": "Today, we are excited to introduce a new feature for SageMaker Studio: SOCI (Seekable Open Container Initiative) indexing. SOCI supports lazy loading of container images, where only the necessary parts of an image are downloaded initially rather than the entire container.",

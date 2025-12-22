@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-22T16:23:43.941Z</updated>
+    <updated>2025-12-22T18:28:01.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator]]></title>
+        <id>95e5e93b67c6860061d5445b4178ee5206915bc0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/"/>
+        <updated>2025-12-22T18:26:17.000Z</updated>
+        <summary type="html"><![CDATA[To address the need for businesses to quickly analyze information and unlock actionable insights, we are announcing Analytics Agent, a new feature that is seamlessly integrated into the GenAI IDP Accelerator. With this feature, users can perform advanced searches and complex analyses using natural language queries without SQL or data analysis expertise. In this post, we discuss how non-technical users can use this tool to analyze and understand the documents they have processed at scale with natural language.]]></summary>
+        <author>
+            <name>David Kaleko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock]]></title>
+        <id>21670325a98dfbb7046bcd28093df48c901419ff</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/"/>
+        <updated>2025-12-22T18:21:28.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.]]></summary>
+        <author>
+            <name>Carla Lorente</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #502]]></title>
         <id>https://sreweekly.com/?p=1717</id>

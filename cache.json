@@ -101,16 +101,6 @@
           "wordCount": 1088,
           "title": "SRE Weekly Issue #499",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1709",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps. Costory automatically explains why your cloud costs change, and reports it straight to Slack. Built for SREs who want to code, not wrestle with spreadsheets. Now on AWS & GCP Marketplaces. Start your free trial at costory.io Cloudflare outage […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-498/",
-          "publishedOn": "2025-11-24T03:38:41.000Z",
-          "wordCount": 1118,
-          "title": "SRE Weekly Issue #498",
-          "imageUrl": null
         }
       ]
     },

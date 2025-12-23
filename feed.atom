@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-23T14:18:58.093Z</updated>
+    <updated>2025-12-23T16:24:54.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -604,16 +604,6 @@
         <summary type="html"><![CDATA[In this post, we show how to deploy the GPT-OSS-20B model on Amazon Bedrock using Custom Model Import while maintaining complete API compatibility with your current applications.]]></summary>
         <author>
             <name>Prashant Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #498]]></title>
-        <id>https://sreweekly.com/?p=1709</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-498/"/>
-        <updated>2025-11-24T03:38:41.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps. Costory automatically explains why your cloud costs change, and reports it straight to Slack. Built for SREs who want to code, not wrestle with spreadsheets. Now on AWS & GCP Marketplaces. Start your free trial at costory.io Cloudflare outage […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-23T22:17:42.545Z</updated>
+    <updated>2025-12-24T01:25:13.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring the zero operator access design of Mantle]]></title>
+        <id>57f66c1e4afeda64b781ca6bfd1b4688a6fcc535</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/"/>
+        <updated>2025-12-23T22:18:12.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Mantle, Amazon's next-generation inference engine for Amazon Bedrock, implements a zero operator access (ZOA) design that eliminates any technical means for AWS operators to access customer data.]]></summary>
+        <author>
+            <name>Anthony Liguori</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS AI League: Model customization and agentic showdown]]></title>
         <id>840d570c0c49b77db70d0f2d56757d27329d2097</id>

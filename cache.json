@@ -116,6 +116,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "57f66c1e4afeda64b781ca6bfd1b4688a6fcc535",
+          "author": "Anthony Liguori",
+          "description": "In this post, we explore how Mantle, Amazon's next-generation inference engine for Amazon Bedrock, implements a zero operator access (ZOA) design that eliminates any technical means for AWS operators to access customer data.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
+          "publishedOn": "2025-12-23T22:18:12.000Z",
+          "wordCount": 32007,
+          "title": "Exploring the zero operator access design of Mantle",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/23/ML-20238-image-1.jpeg"
+        },
+        {
           "id": "840d570c0c49b77db70d0f2d56757d27329d2097",
           "author": "Marc Karp",
           "description": "In this post, we explore the new AWS AI League challenges and how they are transforming how organizations approach AI development. The grand finale at AWS re:Invent 2025 was an exciting showcase of their ingenuity and skills.",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-24T08:27:09.538Z</updated>
+    <updated>2025-12-24T10:19:55.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -644,16 +644,6 @@
         <summary type="html"><![CDATA[We are excited to announce that customers in Canada can now access advanced foundation models including Anthropic's Claude Sonnet 4.5 and Claude Haiku 4.5 on Amazon Bedrock through cross-Region inference (CRIS). This post explores how Canadian organizations can use cross-Region inference profiles from the Canada (Central) Region to access the latest foundation models to accelerate AI initiatives. We will demonstrate how to get started with these new capabilities, provide guidance for migrating from older models, and share recommended practices for quota management.]]></summary>
         <author>
             <name>Daniel Duplessis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power up your ML workflows with interactive IDEs on SageMaker HyperPod]]></title>
-        <id>38e547ddbf867e4bda5e7a172ce3b1b663422ed8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/"/>
-        <updated>2025-11-24T21:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker HyperPod clusters with Amazon Elastic Kubernetes Service (EKS) orchestration now support creating and managing interactive development environments such as JupyterLab and open source Visual Studio Code, streamlining the ML development lifecycle by providing managed environments for familiar tools to data scientists. This post shows how HyperPod administrators can configure Spaces for their clusters, and how data scientists can create and connect to these Spaces.]]></summary>
-        <author>
-            <name>Durga Sury</name>
         </author>
     </entry>
 </feed>

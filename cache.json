@@ -684,16 +684,6 @@
           "wordCount": 32802,
           "title": "Accelerate generative AI innovation in Canada with Amazon Bedrock cross-Region inference",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/ml-20062-1120x630.png"
-        },
-        {
-          "id": "38e547ddbf867e4bda5e7a172ce3b1b663422ed8",
-          "author": "Durga Sury",
-          "description": "Amazon SageMaker HyperPod clusters with Amazon Elastic Kubernetes Service (EKS) orchestration now support creating and managing interactive development environments such as JupyterLab and open source Visual Studio Code, streamlining the ML development lifecycle by providing managed environments for familiar tools to data scientists. This post shows how HyperPod administrators can configure Spaces for their clusters, and how data scientists can create and connect to these Spaces.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/",
-          "publishedOn": "2025-11-24T21:25:56.000Z",
-          "wordCount": 33939,
-          "title": "Power up your ML workflows with interactive IDEs on SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/ML-20125-1120x630.png"
         }
       ]
     }

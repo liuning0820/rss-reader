@@ -116,6 +116,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c4df355eb088c4a51168668c4f0a03ea09e2ebb5",
+          "author": "Raian Osman",
+          "description": "In this post, we explore how to programmatically create an IDP solution that uses Strands SDK, Amazon Bedrock AgentCore, Amazon Bedrock Knowledge Base, and Bedrock Data Automation (BDA). This solution is provided through a Jupyter notebook that enables users to upload multi-modal business documents and extract insights using BDA as a parser to retrieve relevant chunks and augment a prompt to a foundational model (FM).",
+          "link": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/",
+          "publishedOn": "2025-12-24T17:26:00.000Z",
+          "wordCount": 32342,
+          "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/24/ml-18711-1120x630.png"
+        },
+        {
+          "id": "e9db788e9bee01ad17df936a82f3a31c18cb98e2",
+          "author": "Kosti Vasilakakis",
+          "description": "Enterprise organizations increasingly rely on web-based applications for critical business processes, yet many workflows remain manually intensive, creating operational inefficiencies and compliance risks. Despite significant technology investments, knowledge workers routinely navigate between eight to twelve different web applications during standard workflows, constantly switching contexts and manually transferring information between systems. Data entry and validation tasks […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/",
+          "publishedOn": "2025-12-24T17:22:30.000Z",
+          "wordCount": 32557,
+          "title": "AI agent-driven browser automation for enterprise workflow management",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/24/ml-19969-1120x630.png"
+        },
+        {
+          "id": "54ac1ccdcae51c92003f8767e91372b67f918f4c",
+          "author": "Kosti Vasilakakis",
+          "description": "In this post, we explore how agentic QA automation addresses these challenges and walk through a practical example using Amazon Bedrock AgentCore Browser and Amazon Nova Act to automate testing for a sample retail application.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/",
+          "publishedOn": "2025-12-24T17:20:16.000Z",
+          "wordCount": 32690,
+          "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/24/ml-19972-1120x630.png"
+        },
+        {
+          "id": "80416c6462e235ab9a8ab7cb52564ce329d27edd",
+          "author": "Josh Longenecker",
+          "description": "In this post, we demonstrate how to optimize large language model (LLM) inference on Amazon SageMaker AI using BentoML's LLM-Optimizer to systematically identify the best serving configurations for your workload.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/",
+          "publishedOn": "2025-12-24T17:17:44.000Z",
+          "wordCount": 34866,
+          "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/24/ml-19976-1120x630.png"
+        },
+        {
           "id": "57f66c1e4afeda64b781ca6bfd1b4688a6fcc535",
           "author": "Anthony Liguori",
           "description": "In this post, we explore how Mantle, Amazon's next-generation inference engine for Amazon Bedrock, implements a zero operator access (ZOA) design that eliminates any technical means for AWS operators to access customer data.",

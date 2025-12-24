@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-24T16:23:06.362Z</updated>
+    <updated>2025-12-24T18:27:21.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Programmatically creating an IDP solution with Amazon Bedrock Data Automation]]></title>
+        <id>c4df355eb088c4a51168668c4f0a03ea09e2ebb5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/"/>
+        <updated>2025-12-24T17:26:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to programmatically create an IDP solution that uses Strands SDK, Amazon Bedrock AgentCore, Amazon Bedrock Knowledge Base, and Bedrock Data Automation (BDA). This solution is provided through a Jupyter notebook that enables users to upload multi-modal business documents and extract insights using BDA as a parser to retrieve relevant chunks and augment a prompt to a foundational model (FM).]]></summary>
+        <author>
+            <name>Raian Osman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI agent-driven browser automation for enterprise workflow management]]></title>
+        <id>e9db788e9bee01ad17df936a82f3a31c18cb98e2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/"/>
+        <updated>2025-12-24T17:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise organizations increasingly rely on web-based applications for critical business processes, yet many workflows remain manually intensive, creating operational inefficiencies and compliance risks. Despite significant technology investments, knowledge workers routinely navigate between eight to twelve different web applications during standard workflows, constantly switching contexts and manually transferring information between systems. Data entry and validation tasks […]]]></summary>
+        <author>
+            <name>Kosti Vasilakakis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act]]></title>
+        <id>54ac1ccdcae51c92003f8767e91372b67f918f4c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/"/>
+        <updated>2025-12-24T17:20:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how agentic QA automation addresses these challenges and walk through a practical example using Amazon Bedrock AgentCore Browser and Amazon Nova Act to automate testing for a sample retail application.]]></summary>
+        <author>
+            <name>Kosti Vasilakakis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer]]></title>
+        <id>80416c6462e235ab9a8ab7cb52564ce329d27edd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/"/>
+        <updated>2025-12-24T17:17:44.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to optimize large language model (LLM) inference on Amazon SageMaker AI using BentoML's LLM-Optimizer to systematically identify the best serving configurations for your workload.]]></summary>
+        <author>
+            <name>Josh Longenecker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the zero operator access design of Mantle]]></title>
         <id>57f66c1e4afeda64b781ca6bfd1b4688a6fcc535</id>

@@ -694,16 +694,6 @@
           "wordCount": 33939,
           "title": "Power up your ML workflows with interactive IDEs on SageMaker HyperPod",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/ML-20125-1120x630.png"
-        },
-        {
-          "id": "18337642408f13c7cb0e1e34d0eaf610f448352f",
-          "author": "Jonathan Evans",
-          "description": "Anthropic's newest foundation model, Claude Opus 4.5, is now available in Amazon Bedrock, a fully managed service that offers a choice of high-performing foundation models from leading AI companies. In this post, I'll show you what makes this model different, walk through key business applications, and demonstrate how to use Opus 4.5's new tool use capabilities on Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/",
-          "publishedOn": "2025-11-24T19:22:59.000Z",
-          "wordCount": 32958,
-          "title": "Claude Opus 4.5 now in Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/Berry-launch.png"
         }
       ]
     }

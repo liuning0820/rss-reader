@@ -704,16 +704,6 @@
           "wordCount": 32958,
           "title": "Claude Opus 4.5 now in Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/Berry-launch.png"
-        },
-        {
-          "id": "51965c0d05a28699665284454ca625f39b8e7e7c",
-          "author": "Prashant Patel",
-          "description": "In this post, we show how to deploy the GPT-OSS-20B model on Amazon Bedrock using Custom Model Import while maintaining complete API compatibility with your current applications.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-gpt-oss-models-with-amazon-bedrock-custom-model-import/",
-          "publishedOn": "2025-11-24T17:49:05.000Z",
-          "wordCount": 33490,
-          "title": "Deploy GPT-OSS models with Amazon Bedrock Custom Model Import",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/21/ML-20109-image-1-1260x325.png"
         }
       ]
     }

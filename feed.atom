@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-25T03:24:52.579Z</updated>
+    <updated>2025-12-25T04:35:53.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -664,16 +664,6 @@
         <summary type="html"><![CDATA[In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming healthcare logistics and returning valuable time to patient care.]]></summary>
         <author>
             <name>Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Laura Kulowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks]]></title>
-        <id>de67e19f8d17d70b5c7e68c90ee8ddcfcc2ecad5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/"/>
-        <updated>2025-11-25T16:10:39.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.]]></summary>
-        <author>
-            <name>Aman Shanbhag</name>
         </author>
     </entry>
 </feed>

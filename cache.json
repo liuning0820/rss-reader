@@ -704,16 +704,6 @@
           "wordCount": 33207,
           "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/25/ML-20088-4-1120x630.jpg"
-        },
-        {
-          "id": "de67e19f8d17d70b5c7e68c90ee8ddcfcc2ecad5",
-          "author": "Aman Shanbhag",
-          "description": "In this post, we explore how Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling you to partition powerful GPUs into multiple isolated instances for running concurrent workloads like inference, research, and interactive development. By maximizing GPU utilization and reducing wasted resources, MIG helps organizations optimize costs while maintaining performance isolation and predictable quality of service across diverse machine learning tasks.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/",
-          "publishedOn": "2025-11-25T16:10:39.000Z",
-          "wordCount": 38439,
-          "title": "HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/24/ML-19983-2-1144x630.png"
         }
       ]
     }

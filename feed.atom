@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-25T04:35:53.599Z</updated>
+    <updated>2025-12-25T06:30:07.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -644,26 +644,6 @@
         <summary type="html"><![CDATA[We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.]]></summary>
         <author>
             <name>Lingran Xia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warner Bros. Discovery achieves 60% cost savings and faster ML inference with AWS Graviton]]></title>
-        <id>482293ac328efb08808224bc3db9aeaf921d7d3c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/"/>
-        <updated>2025-11-25T17:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Warner Bros. Discovery (WBD) is a leading global media and entertainment company that creates and distributes the world’s most differentiated and complete portfolio of content and brands across television, film and streaming. In this post, we describe the scale of our offerings, artificial intelligence (AI)/machine learning (ML) inference infrastructure requirements for our real time recommender systems, and how we used AWS Graviton-based Amazon SageMaker AI instances for our ML inference workloads and achieved 60% cost savings and 7% to 60% latency improvements across different models.]]></summary>
-        <author>
-            <name>Nukul Sharma, Karthik Dasani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical AI in practice: Technical foundations that fuel human-machine interactions]]></title>
-        <id>5d9c66cf6eb5f0ed93e48693bc48141c86351873</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/"/>
-        <updated>2025-11-25T17:00:25.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore the complete development lifecycle of physical AI—from data collection and model training to edge deployment—and examine how these intelligent systems learn to understand, reason, and interact with the physical world through continuous feedback loops. We illustrate this workflow through Diligent Robotics' Moxi, a mobile manipulation robot that has completed over 1.2 million deliveries in hospitals, saving nearly 600,000 hours for clinical staff while transforming healthcare logistics and returning valuable time to patient care.]]></summary>
-        <author>
-            <name>Sri Elaprolu, Alla Simoneau, Paul Amadeo, and Laura Kulowski</name>
         </author>
     </entry>
 </feed>

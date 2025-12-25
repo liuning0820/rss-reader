@@ -664,26 +664,6 @@
           "wordCount": 34678,
           "title": "Train custom computer vision defect detection model using Amazon SageMaker",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/10/image-6-2-775x630.jpeg"
-        },
-        {
-          "id": "f7193b4b0f7d6663023bdf49fc313b2cdcf1ee0d",
-          "author": "Bhargs Srivathsan",
-          "description": "The AWS Customer Success Center of Excellence (CS COE) helps customers get tangible value from their AWS investments. We've seen a pattern: customers who build AI strategies that address people, process, and technology together succeed more often. In this post, we share practical considerations that can help close the AI value gap.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/",
-          "publishedOn": "2025-11-25T20:19:50.000Z",
-          "wordCount": 33208,
-          "title": "Practical implementation considerations to close the AI value gap",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/25/7-dim-112525-1-1-1179x630.png"
-        },
-        {
-          "id": "73c69e62b6fa9525d44e92ab6b746325573678bf",
-          "author": "Lingran Xia",
-          "description": "We're introducing bidirectional streaming for Amazon SageMaker AI Inference, which transforms inference from a transactional exchange into a continuous conversation. This post shows you how to build and deploy a container with bidirectional streaming capability to a SageMaker AI endpoint. We also demonstrate how you can bring your own container or use our partner Deepgram's pre-built models and containers on SageMaker AI to enable bi-directional streaming feature for real-time inference.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/",
-          "publishedOn": "2025-11-25T19:09:59.000Z",
-          "wordCount": 34181,
-          "title": "Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/25/ML-20070-1120x630.jpg"
         }
       ]
     }

@@ -564,16 +564,6 @@
           "wordCount": 33981,
           "title": "Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-19892-1-630x630.png"
-        },
-        {
-          "id": "2451d99a749267aeb5f6fa77cb09485829337f0d",
-          "author": "Dhawalkumar Patel",
-          "description": "We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/",
-          "publishedOn": "2025-11-26T22:28:29.000Z",
-          "wordCount": 35642,
-          "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-20137-1120x630.jpg"
         }
       ]
     }

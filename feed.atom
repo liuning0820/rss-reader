@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-26T10:19:51.932Z</updated>
+    <updated>2025-12-26T12:38:06.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -524,16 +524,6 @@
         <summary type="html"><![CDATA[In this post, we introduce Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod, new capabilities that can reduce time to first token by up to 40% and lower compute costs by up to 25% for long context prompts and multi-turn conversations. These features automatically manage distributed KV caching infrastructure and intelligent request routing, making it easier to deploy production-scale LLM inference workloads with enterprise-grade performance while significantly reducing operational overhead.]]></summary>
         <author>
             <name>Chaitanya Hazarey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply fine-grained access control with Bedrock AgentCore Gateway interceptors]]></title>
-        <id>2451d99a749267aeb5f6fa77cb09485829337f0d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/"/>
-        <updated>2025-11-26T22:28:29.000Z</updated>
-        <summary type="html"><![CDATA[We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.]]></summary>
-        <author>
-            <name>Dhawalkumar Patel</name>
         </author>
     </entry>
 </feed>

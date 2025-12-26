@@ -604,36 +604,6 @@
           "wordCount": 34216,
           "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/AWS_Blog_FeaturedImg_UCLA.png"
-        },
-        {
-          "id": "f06ea4613a841a3e6d072c4dbcbe2f77576ea604",
-          "author": "Chaim Rand, Pini Reisman, and Eliyah Weinberg",
-          "description": "This post is written by Chaim Rand, Principal Engineer, Pini Reisman, Software Senior Principal Engineer, and Eliyah Weinberg, Performance and Technology Innovation Engineer, at Mobileye. The Mobileye team would like to thank Sunita Nadampalli and Guy Almog from AWS for their contributions to this solution and this post. Mobileye is driving the global evolution toward […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mobileyes-rem-with-aws-graviton-a-focus-on-ml-inference-and-triton-integration/",
-          "publishedOn": "2025-11-26T19:50:03.000Z",
-          "wordCount": 33702,
-          "title": "Optimizing Mobileye’s REM™ with AWS Graviton: A focus on ML inference and Triton integration",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/Mobileye_REM-1260x591.png"
-        },
-        {
-          "id": "a77facfdd84d6cb02d9cbc395c324a66c4eaa259",
-          "author": "Tony Santiago",
-          "description": "This blog post introduces the new Amazon Nova model evaluation features in Amazon SageMaker AI. This release adds custom metrics support, LLM-based preference testing, log probability capture, metadata analysis, and multi-node scaling for large evaluations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-models-with-the-amazon-nova-evaluation-container-using-amazon-sagemaker-ai/",
-          "publishedOn": "2025-11-26T19:39:01.000Z",
-          "wordCount": 35945,
-          "title": "Evaluate models with the Amazon Nova evaluation container using Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/nova_evaluation.png"
-        },
-        {
-          "id": "a4318df1a8b1fa8a1b9e0b43e00af3650c1dfd6f",
-          "author": "Taimur Rashid",
-          "description": "In this post, we explore three essential strategies for successfully integrating AI into your organization: addressing organizational debt before it compounds, embracing distributed decision-making through the \"octopus organization\" model, and redefining management roles to align with AI-powered workflows. Organizations must invest in both technology and workforce preparation, focusing on streamlining processes, empowering teams with autonomous decision-making within defined parameters, and evolving each management layer from traditional oversight to mentorship, quality assurance, and strategic vision-setting.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-technology-workforce-changes-for-ai/",
-          "publishedOn": "2025-11-26T18:42:45.000Z",
-          "wordCount": 32194,
-          "title": "Beyond the technology: Workforce changes for AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/beyondtech.png"
         }
       ]
     }

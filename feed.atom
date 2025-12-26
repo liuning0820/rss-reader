@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-26T08:25:27.647Z</updated>
+    <updated>2025-12-26T10:19:51.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -534,36 +534,6 @@
         <summary type="html"><![CDATA[We are launching a new feature: gateway interceptors for Amazon Bedrock AgentCore Gateway. This powerful new capability provides fine-grained security, dynamic access control, and flexible schema management.]]></summary>
         <author>
             <name>Dhawalkumar Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Condé Nast accelerated contract processing and rights analysis with Amazon Bedrock]]></title>
-        <id>9590081f72238c183c4e5e7ea523a0602bee46a8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/"/>
-        <updated>2025-11-26T21:37:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Condé Nast used Amazon Bedrock and Anthropic’s Claude to accelerate their contract processing and rights analysis workstreams. The company’s extensive portfolio, spanning multiple brands and geographies, required managing an increasingly complex web of contracts, rights, and licensing agreements.]]></summary>
-        <author>
-            <name>Bob Boiko, Christopher Donnellan, Sarat Tatavarthi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide]]></title>
-        <id>8d6457a14755ebb520f0ae6e867fc9862ec791d9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/"/>
-        <updated>2025-11-26T21:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Available through the Amazon Bedrock bidirectional streaming API, Amazon Nova Sonic can connect to your business data and external tools and can be integrated directly with telephony systems. This post will introduce sample implementations for the most common telephony scenarios.]]></summary>
-        <author>
-            <name>Reilly Manton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[University of California Los Angeles delivers an immersive theater experience with AWS generative AI services]]></title>
-        <id>5f616e46ebd854aac0229efcce38563dca9cdc5e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/"/>
-        <updated>2025-11-26T21:20:45.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.]]></summary>
-        <author>
-            <name>Aditya Singh</name>
         </author>
     </entry>
 </feed>

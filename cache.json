@@ -574,36 +574,6 @@
           "wordCount": 35642,
           "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-20137-1120x630.jpg"
-        },
-        {
-          "id": "9590081f72238c183c4e5e7ea523a0602bee46a8",
-          "author": "Bob Boiko, Christopher Donnellan, Sarat Tatavarthi",
-          "description": "In this post, we explore how Condé Nast used Amazon Bedrock and Anthropic’s Claude to accelerate their contract processing and rights analysis workstreams. The company’s extensive portfolio, spanning multiple brands and geographies, required managing an increasingly complex web of contracts, rights, and licensing agreements.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/",
-          "publishedOn": "2025-11-26T21:37:27.000Z",
-          "wordCount": 33783,
-          "title": "How Condé Nast accelerated contract processing and rights analysis with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/AWS_Blog_FeaturedImg_18993.png"
-        },
-        {
-          "id": "8d6457a14755ebb520f0ae6e867fc9862ec791d9",
-          "author": "Reilly Manton",
-          "description": "Available through the Amazon Bedrock bidirectional streaming API, Amazon Nova Sonic can connect to your business data and external tools and can be integrated directly with telephony systems. This post will introduce sample implementations for the most common telephony scenarios.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/",
-          "publishedOn": "2025-11-26T21:21:54.000Z",
-          "wordCount": 33456,
-          "title": "Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ml-19810-1120x630.jpg"
-        },
-        {
-          "id": "5f616e46ebd854aac0229efcce38563dca9cdc5e",
-          "author": "Aditya Singh",
-          "description": "In this post, we will walk through the performance constraints and design choices by OARC and REMAP teams at UCLA, including how AWS serverless infrastructure, AWS Managed Services, and generative AI services supported the rapid design and deployment of our solution. We will also describe our use of Amazon SageMaker AI and how it can be used reliably in immersive live experiences.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/",
-          "publishedOn": "2025-11-26T21:20:45.000Z",
-          "wordCount": 34216,
-          "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/AWS_Blog_FeaturedImg_UCLA.png"
         }
       ]
     }

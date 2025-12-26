@@ -534,36 +534,6 @@
           "wordCount": 33286,
           "title": "Create an intelligent insurance underwriter agent powered by Amazon Nova 2 Lite and Amazon Quick Suite",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/08/insurance-underwriter-nova.jpg"
-        },
-        {
-          "id": "48aadf2953d203034bb9ec9578ca933c45876935",
-          "author": "Priyashree Roy",
-          "description": "In this post, we explore how Myriad Genetics partnered with the AWS Generative AI Innovation Center to transform their healthcare document processing pipeline using Amazon Bedrock and Amazon Nova foundation models, achieving 98% classification accuracy while reducing costs by 77% and processing time by 80%. We detail the technical implementation using AWS's open-source GenAI Intelligent Document Processing Accelerator, the optimization strategies for document classification and key information extraction, and the measurable business impact on Myriad's prior authorization workflows.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/",
-          "publishedOn": "2025-11-27T00:58:14.000Z",
-          "wordCount": 34535,
-          "title": "How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-19156-1-691x630.png"
-        },
-        {
-          "id": "0ff9e67f508a3557b66fe49dfaa565f54f3de1a1",
-          "author": "Lokesha Thimmegowda, Muppirala Venkata Krishna Kumar, Maraka Vishwadev",
-          "description": "In this post, CBRE and AWS demonstrate how they transformed property management by building a unified search and digital assistant using Amazon Bedrock, enabling professionals to access millions of documents and multiple databases through natural language queries. The solution combines Amazon Nova Pro for SQL generation and Claude Haiku for document interactions, achieving a 67% reduction in processing time while maintaining enterprise-grade security across more than eight million documents.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/",
-          "publishedOn": "2025-11-27T00:56:27.000Z",
-          "wordCount": 35466,
-          "title": "How CBRE powers unified property management search and digital assistant using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-19072-arch-2-1260x606.png"
-        },
-        {
-          "id": "a732d03112437b9f78d0be723d1330a6c9619f95",
-          "author": "Chaitanya Hazarey",
-          "description": "In this post, we introduce Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod, new capabilities that can reduce time to first token by up to 40% and lower compute costs by up to 25% for long context prompts and multi-turn conversations. These features automatically manage distributed KV caching infrastructure and intelligent request routing, making it easier to deploy production-scale LLM inference workloads with enterprise-grade performance while significantly reducing operational overhead.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2025-11-27T00:50:04.000Z",
-          "wordCount": 33981,
-          "title": "Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ML-19892-1-630x630.png"
         }
       ]
     }

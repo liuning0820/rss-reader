@@ -634,16 +634,6 @@
           "wordCount": 32194,
           "title": "Beyond the technology: Workforce changes for AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/beyondtech.png"
-        },
-        {
-          "id": "5de680e884153cc4b692edd29fec8972b2f69dba",
-          "author": "Nick McCarthy",
-          "description": "You can now achieve significant performance improvements when using Amazon Bedrock Custom Model Import, with reduced end-to-end latency, faster time-to-first-token, and improved throughput through advanced PyTorch compilation and CUDA graph optimizations. With Amazon Bedrock Custom Model Import you can to bring your own foundation models to Amazon Bedrock for deployment and inference at scale. In this post, we introduce how to use the improvements in Amazon Bedrock Custom Model Import.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-performance-for-amazon-bedrock-custom-model-import/",
-          "publishedOn": "2025-11-26T16:46:01.000Z",
-          "wordCount": 34052,
-          "title": "Enhanced performance for Amazon Bedrock Custom Model Import",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/11/26/ml-2006-1120x630.jpg"
         }
       ]
     }

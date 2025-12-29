@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-29T01:43:14.799Z</updated>
+    <updated>2025-12-29T03:47:00.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #503]]></title>
+        <id>https://sreweekly.com/?p=1719</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-503/"/>
+        <updated>2025-12-29T02:46:43.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood.   RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Programmatically creating an IDP solution with Amazon Bedrock Data Automation]]></title>
         <id>c4df355eb088c4a51168668c4f0a03ea09e2ebb5</id>

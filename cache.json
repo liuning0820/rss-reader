@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1719",
+          "author": "lex",
+          "description": "View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood.   RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-503/",
+          "publishedOn": "2025-12-29T02:46:43.000Z",
+          "wordCount": 1079,
+          "title": "SRE Weekly Issue #503",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1717",
           "author": "lex",
           "description": "View on sreweekly.com Eliminating Cold Starts 2: shard and conquer Cloudflare reduced their cold-start rate for Workers requests through sharding and consistent hashing, with an interesting solution for load shedding.   Harris Hancock — Cloudflare Monitoring & Observability: Using Logs, Metrics, Traces, and Alerts to Understand System Failures I appreciate the way this article also shares […]",

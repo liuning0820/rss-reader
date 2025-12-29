@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-29T12:40:29.362Z</updated>
+    <updated>2025-12-29T14:19:21.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Silent PC GPU upgrade]]></title>
+        <id>http://blog.thestateofme.com/?p=6614</id>
+        <link href="https://blog.thestateofme.com/2025/12/29/silent-pc-gpu-upgrade/"/>
+        <updated>2025-12-29T14:16:36.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Nvidia have ended Linux support for my ‘Pascal’ GTX 1050 Ti GPU. I’ve been able to fit an RTX 5050 card in its place, though the process was problematic due to driver issues. And I’m still concerned that it can only be limited to 110W when my passive cooling is rated up to 75W. […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #503]]></title>
         <id>https://sreweekly.com/?p=1719</id>

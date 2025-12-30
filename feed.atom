@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-30T14:18:46.972Z</updated>
+    <updated>2025-12-30T16:24:43.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -504,16 +504,6 @@
         <summary type="html"><![CDATA[Pupdate It’s been pretty cold and wet, so the boys are needing to wear their coats outside. Milo had a scan at the start of the month. Initially things were looking good, and the plan was to stretch out the next visit to three months time :) But then the technician noticed some lymph node […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #499]]></title>
-        <id>https://sreweekly.com/?p=1711</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-499/"/>
-        <updated>2025-12-01T02:56:18.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Fix-mas Countdown The folks at Uptime Labs and Advanced Capacity Labs have announced an advent calendar for this December. Note: In order to take part, you’ll need to provide an email address to subscribe. I gave that some serious thought before including this here, but ultimately, I have a lot of trust […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

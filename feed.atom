@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2025-12-30T22:18:00.024Z</updated>
+    <updated>2025-12-31T01:27:49.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -482,26 +482,6 @@
         <link href="https://blog.thestateofme.com/2025/12/04/milo-cancer-diary-part-21-chop-4/"/>
         <updated>2025-12-04T15:19:33.000Z</updated>
         <summary type="html"><![CDATA[Milo’s had a fantastic long remission – it’s been almost nine months since his last chemo. Long enough that we started hoping for a miracle, and that he might not relapse again. But… the good folk at North Downs Specialist Referrals (NDSR) were right to be concerned about his last scan, and get him back […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[November 2025]]></title>
-        <id>https://blog.thestateofme.com/?p=6551</id>
-        <link href="http://blog.thestateofme.com/2025/12/01/november-2025/"/>
-        <updated>2025-12-01T11:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate It’s been pretty cold and wet, so the boys are needing to wear their coats outside. Milo had a scan at the start of the month. Initially things were looking good, and the plan was to stretch out the next visit to three months time :) But then the technician noticed some lymph node […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[November 2025]]></title>
-        <id>http://blog.thestateofme.com/?p=6551</id>
-        <link href="https://blog.thestateofme.com/2025/12/01/november-2025/"/>
-        <updated>2025-12-01T11:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate It’s been pretty cold and wet, so the boys are needing to wear their coats outside. Milo had a scan at the start of the month. Initially things were looking good, and the plan was to stretch out the next visit to three months time :) But then the technician noticed some lymph node […]]]></summary>
         <author>
             <name>Chris Swan</name>
         </author>

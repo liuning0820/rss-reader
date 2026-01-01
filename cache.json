@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6606",
+          "author": "Chris Swan",
+          "description": "Pupdate It’s been quite dry over the Christmas break, which has encouraged some longer than usual walks that the boys have enjoyed. After a scan at the start of the month Milo has now almost completed the first cycle of his 4th modified ‘CHOP’ chemotherapy protocol. As before, low neutrophils mean we’re a little behind […]",
+          "link": "http://blog.thestateofme.com/2026/01/01/december-2025/",
+          "publishedOn": "2026-01-01T13:15:24.000Z",
+          "wordCount": 4851,
+          "title": "December 2025",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/pups_202512.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6606",
           "author": "Chris Swan",
@@ -16,6 +26,16 @@
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/pups_202512.jpg"
         },
         {
+          "id": "https://blog.thestateofme.com/?p=6614",
+          "author": "Chris Swan",
+          "description": "TL;DR Nvidia have ended Linux support for my ‘Pascal’ GTX 1050 Ti GPU. I’ve been able to fit an RTX 5050 card in its place, though the process was problematic due to driver issues. And I’m still concerned that it can only be limited to 110W when my passive cooling is rated up to 75W. […]",
+          "link": "http://blog.thestateofme.com/2025/12/29/silent-pc-gpu-upgrade/",
+          "publishedOn": "2025-12-29T14:16:36.000Z",
+          "wordCount": 4713,
+          "title": "Silent PC GPU upgrade",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/image.png"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6614",
           "author": "Chris Swan",
           "description": "TL;DR Nvidia have ended Linux support for my ‘Pascal’ GTX 1050 Ti GPU. I’ve been able to fit an RTX 5050 card in its place, though the process was problematic due to driver issues. And I’m still concerned that it can only be limited to 110W when my passive cooling is rated up to 75W. […]",
@@ -24,6 +44,16 @@
           "wordCount": 4782,
           "title": "Silent PC GPU upgrade",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/image.png"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6599",
+          "author": "Chris Swan",
+          "description": "Milo’s had a fantastic long remission – it’s been almost nine months since his last chemo. Long enough that we started hoping for a miracle, and that he might not relapse again. But… the good folk at North Downs Specialist Referrals (NDSR) were right to be concerned about his last scan, and get him back […]",
+          "link": "http://blog.thestateofme.com/2025/12/04/milo-cancer-diary-part-21-chop-4/",
+          "publishedOn": "2025-12-04T15:19:33.000Z",
+          "wordCount": 3990,
+          "title": "Milo cancer diary part 21 – CHOP #4",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/milo_lap.jpg"
         },
         {
           "id": "http://blog.thestateofme.com/?p=6599",

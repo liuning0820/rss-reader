@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-01T12:38:44.469Z</updated>
+    <updated>2026-01-01T14:17:44.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December 2025]]></title>
+        <id>http://blog.thestateofme.com/?p=6606</id>
+        <link href="https://blog.thestateofme.com/2026/01/01/december-2025/"/>
+        <updated>2026-01-01T13:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate It’s been quite dry over the Christmas break, which has encouraged some longer than usual walks that the boys have enjoyed. After a scan at the start of the month Milo has now almost completed the first cycle of his 4th modified ‘CHOP’ chemotherapy protocol. As before, low neutrophils mean we’re a little behind […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow]]></title>
         <id>d21adf41406310a4ae7e7ac1ca958e53e04f68e7</id>

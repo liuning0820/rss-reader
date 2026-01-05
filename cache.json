@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=6655",
+          "author": "Chris Swan",
+          "description": "CHOP #4 has worked, and Milo’s scan today shows that he’s in remission again (before even getting his Epirubicin). This cycle of chemo seemed to go better than previous protocols, until we got to the planned Epirubicin last week, and his neutrophils were too low. So we were back at North Downs Specialist Referals (NDSR) […]",
+          "link": "https://blog.thestateofme.com/2026/01/05/milo-cancer-diary-part-22-remission-again/",
+          "publishedOn": "2026-01-05T17:11:30.000Z",
+          "wordCount": 4148,
+          "title": "Milo cancer diary part 22 – remission again",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/01/milo_ndsr_20250105.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=6606",
           "author": "Chris Swan",

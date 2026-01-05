@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-05T16:24:47.242Z</updated>
+    <updated>2026-01-05T18:29:39.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 22 – remission again]]></title>
+        <id>http://blog.thestateofme.com/?p=6655</id>
+        <link href="https://blog.thestateofme.com/2026/01/05/milo-cancer-diary-part-22-remission-again/"/>
+        <updated>2026-01-05T17:11:30.000Z</updated>
+        <summary type="html"><![CDATA[CHOP #4 has worked, and Milo’s scan today shows that he’s in remission again (before even getting his Epirubicin). This cycle of chemo seemed to go better than previous protocols, until we got to the planned Epirubicin last week, and his neutrophils were too low. So we were back at North Downs Specialist Referals (NDSR) […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #504]]></title>
         <id>https://sreweekly.com/?p=1721</id>

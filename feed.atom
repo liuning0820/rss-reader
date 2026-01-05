@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-05T01:45:59.697Z</updated>
+    <updated>2026-01-05T03:53:15.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #504]]></title>
+        <id>https://sreweekly.com/?p=1721</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-504/"/>
+        <updated>2026-01-05T01:51:34.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare’s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[December 2025]]></title>
         <id>https://blog.thestateofme.com/?p=6606</id>

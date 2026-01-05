@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1721",
+          "author": "lex",
+          "description": "View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare’s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-504/",
+          "publishedOn": "2026-01-05T01:51:34.000Z",
+          "wordCount": 1108,
+          "title": "SRE Weekly Issue #504",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1719",
           "author": "lex",
           "description": "View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood.   RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to […]",

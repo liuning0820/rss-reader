@@ -544,16 +544,6 @@
           "wordCount": 33447,
           "title": "Streamline AI agent tool interactions: Connect API Gateway to AgentCore Gateway with MCP",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/04/ML-20114-image-1-1029x630.png"
-        },
-        {
-          "id": "660d8e65bed46c02e2bcb40a5b6fe41060ad3d2a",
-          "author": "Satyanarayana Adimula",
-          "description": "In this post, we demonstrate how to build an intelligent insurance underwriting agent that addresses three critical challenges: unifying siloed data across CRM systems and databases, providing explainable and auditable AI decisions for regulatory compliance, and enabling automated fraud detection with consistent underwriting rules. The solution combines Amazon Nova 2 Lite for transparent risk assessment, Amazon Bedrock AgentCore for managed MCP server infrastructure, and Amazon Quick Suite for natural language interactions—delivering a production-ready system that underwriters can deploy in under 30 minutes .",
-          "link": "https://aws.amazon.com/blogs/machine-learning/create-an-intelligent-insurance-underwriter-agent-powered-by-amazon-nova-2-lite-and-amazon-quick-suite/",
-          "publishedOn": "2025-12-08T16:30:37.000Z",
-          "wordCount": 33286,
-          "title": "Create an intelligent insurance underwriter agent powered by Amazon Nova 2 Lite and Amazon Quick Suite",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/08/insurance-underwriter-nova.jpg"
         }
       ]
     }

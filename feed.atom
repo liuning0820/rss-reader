@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-07T03:27:07.174Z</updated>
+    <updated>2026-01-07T04:38:52.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -504,16 +504,6 @@
         <summary type="html"><![CDATA[AgentCore Gateway now supports API GatewayAs organizations explore the possibilities of agentic applications, they continue to navigate challenges of using enterprise data as context in invocation requests to large language models (LLMs) in a manner that is secure and aligned with enterprise policies. This post covers these new capabilities and shows how to implement them.]]></summary>
         <author>
             <name>Sparsh Wadhwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an intelligent insurance underwriter agent powered by Amazon Nova 2 Lite and Amazon Quick Suite]]></title>
-        <id>660d8e65bed46c02e2bcb40a5b6fe41060ad3d2a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/create-an-intelligent-insurance-underwriter-agent-powered-by-amazon-nova-2-lite-and-amazon-quick-suite/"/>
-        <updated>2025-12-08T16:30:37.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build an intelligent insurance underwriting agent that addresses three critical challenges: unifying siloed data across CRM systems and databases, providing explainable and auditable AI decisions for regulatory compliance, and enabling automated fraud detection with consistent underwriting rules. The solution combines Amazon Nova 2 Lite for transparent risk assessment, Amazon Bedrock AgentCore for managed MCP server infrastructure, and Amazon Quick Suite for natural language interactions—delivering a production-ready system that underwriters can deploy in under 30 minutes .]]></summary>
-        <author>
-            <name>Satyanarayana Adimula</name>
         </author>
     </entry>
 </feed>

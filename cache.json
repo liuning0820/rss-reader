@@ -514,36 +514,6 @@
           "wordCount": 34896,
           "title": "Create AI-powered chat assistants for your enterprise with Amazon Quick Suite",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/09/ML-20069-1120x630.png"
-        },
-        {
-          "id": "c22af24726dc304105f49c3f0bcdff29f33080c9",
-          "author": "Kate Zimmerman",
-          "description": "Experts at the Generative AI Innovation Center share several strategies to help organizations excel with generative AI.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-delivers-generative-ai-to-the-public-sector-in-weeks-not-years/",
-          "publishedOn": "2025-12-08T17:23:32.000Z",
-          "wordCount": 33011,
-          "title": "How AWS delivers generative AI to the public sector in weeks, not years",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/08/AWS_Blog_FeaturedImg_PublicSectorAI.png"
-        },
-        {
-          "id": "c78d3f59c73db32f568ae01bf748ebaa42ec9cf8",
-          "author": "Jon Einkauf",
-          "description": "Today, we are pleased to announce a new integration between Amazon Quick Research and S&P Global. This integration brings both S&P Global Energy news, research, and insights and S&P Global Market Intelligence data to Quick Research customers in one deep research agent. In this post, we explore S&P Global’s data sets and the solution architecture of the integration with Quick Research.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/sp-global-data-integration-expands-amazon-quick-research-capabilities/",
-          "publishedOn": "2025-12-08T16:47:17.000Z",
-          "wordCount": 32570,
-          "title": "S&P Global Data integration expands Amazon Quick Research capabilities",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/08/ml-20016-1120x630.png"
-        },
-        {
-          "id": "0dbb46f845990d5e5b1d8f173a43507241465329",
-          "author": "Sparsh Wadhwa",
-          "description": "AgentCore Gateway now supports API GatewayAs organizations explore the possibilities of agentic applications, they continue to navigate challenges of using enterprise data as context in invocation requests to large language models (LLMs) in a manner that is secure and aligned with enterprise policies. This post covers these new capabilities and shows how to implement them.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-ai-agent-tool-interactions-connect-api-gateway-to-agentcore-gateway-with-mcp/",
-          "publishedOn": "2025-12-08T16:42:39.000Z",
-          "wordCount": 33447,
-          "title": "Streamline AI agent tool interactions: Connect API Gateway to AgentCore Gateway with MCP",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/04/ML-20114-image-1-1029x630.png"
         }
       ]
     }

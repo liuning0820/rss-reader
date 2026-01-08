@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-08T16:27:28.200Z</updated>
+    <updated>2026-01-08T18:26:26.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)]]></title>
+        <id>a7dfe1e94094d38939ce3b7e96e93f7342a79877</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/"/>
+        <updated>2026-01-08T18:25:01.000Z</updated>
+        <summary type="html"><![CDATA[This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), including the initial solution, capabilities, and early results. Part 2 covers focusing on scaling challenges and real-world implementation. Each article stands alone while collectively showing how AI transforms medical content management at scale.]]></summary>
+        <author>
+            <name>Liza Zinovyeva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails]]></title>
         <id>65b37fd270f9c562caaae082c8ddb253ba81b13d</id>

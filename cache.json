@@ -116,6 +116,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a7dfe1e94094d38939ce3b7e96e93f7342a79877",
+          "author": "Liza Zinovyeva",
+          "description": "This two-part series explores Flo Health's journey with generative AI for medical content verification. Part 1 examines our proof of concept (PoC), including the initial solution, capabilities, and early results. Part 2 covers focusing on scaling challenges and real-world implementation. Each article stands alone while collectively showing how AI transforms medical content management at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/",
+          "publishedOn": "2026-01-08T18:25:01.000Z",
+          "wordCount": 34326,
+          "title": "Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/19/ML-18088-image-1-1.png"
+        },
+        {
           "id": "65b37fd270f9c562caaae082c8ddb253ba81b13d",
           "author": "Himanshu Dixit",
           "description": "This post shows an automated PII detection and redaction solution using Amazon Bedrock Data Automation and Amazon Bedrock Guardrails through a use case of processing text and image content in high volumes of incoming emails and attachments. The solution features a complete email processing workflow with a React-based user interface for authorized personnel to more securely manage and review redacted email communications and attachments. We walk through the step-by-step solution implementation procedures used to deploy this solution. Finally, we discuss the solution benefits, including operational efficiency, scalability, security and compliance, and adaptability.",

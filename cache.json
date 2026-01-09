@@ -514,16 +514,6 @@
           "wordCount": 33717,
           "title": "Amazon Bedrock AgentCore Observability with Langfuse",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/AWS_Blog_FeaturedImg_18524.png"
-        },
-        {
-          "id": "9f7e81416e22d51d3752227159334cf7ddb240ec",
-          "author": "Sakthi Chellapparimanam",
-          "description": "This post shows how to implement automated smoke testing using Amazon Nova Act headless mode in CI/CD pipelines. We use SauceDemo, a sample ecommerce application, as our target for demonstration. We demonstrate setting up Amazon Nova Act for headless browser automation in CI/CD environments and creating smoke tests that validate key user workflows. We then show how to implement parallel execution to maximize testing efficiency, configure GitLab CI/CD for automatic test execution on every deployment, and apply best practices for maintainable and scalable test automation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/",
-          "publishedOn": "2025-12-10T19:04:24.000Z",
-          "wordCount": 34736,
-          "title": "Implement automated smoke testing using Amazon Nova Act headless mode",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/10/ml-20089-1120x630.jpg"
         }
       ]
     }

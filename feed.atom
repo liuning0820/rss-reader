@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-09T16:25:27.280Z</updated>
+    <updated>2026-01-09T18:29:27.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI]]></title>
+        <id>1eec6cc5fe6bb85b64b9784991b799b4b6ace3a2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/"/>
+        <updated>2026-01-09T18:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Quantized models can be seamlessly deployed on Amazon SageMaker AI using a few lines of code. In this post, we explore why quantization matters—how it enables lower-cost inference, supports deployment on resource-constrained hardware, and reduces both the financial and environmental impact of modern LLMs, while preserving most of their original performance. We also take a deep dive into the principles behind PTQ and demonstrate how to quantize the model of your choice and deploy it on Amazon SageMaker.]]></summary>
+        <author>
+            <name>Pranav Murthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Beekeeper optimized user personalization with Amazon Bedrock]]></title>
         <id>996c8e749710249bb316743404c7962277429942</id>

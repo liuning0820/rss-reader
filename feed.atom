@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-09T14:22:10.988Z</updated>
+    <updated>2026-01-09T16:25:27.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Beekeeper optimized user personalization with Amazon Bedrock]]></title>
+        <id>996c8e749710249bb316743404c7962277429942</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/"/>
+        <updated>2026-01-09T16:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Beekeeper’s automated leaderboard approach and human feedback loop system for dynamic LLM and prompt pair selection addresses the key challenges organizations face in navigating the rapidly evolving landscape of language models.]]></summary>
+        <author>
+            <name>Mike Koźmiński</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions]]></title>
+        <id>35a9688ba1e8df4779e755b1466771426d4a87c1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/"/>
+        <updated>2026-01-09T16:06:50.000Z</updated>
+        <summary type="html"><![CDATA[This post, developed through a strategic scientific partnership between AWS and the Instituto de Ciência e Tecnologia Itaú (ICTi), P&D hub maintained by Itaú Unibanco, the largest private bank in Latin America, explores the technical aspects of sentiment analysis for both text and audio. We present experiments comparing multiple machine learning (ML) models and services, discuss the trade-offs and pitfalls of each approach, and highlight how AWS services can be orchestrated to build robust, end-to-end solutions. We also offer insights into potential future directions, including more advanced prompt engineering for large language models (LLMs) and expanding the scope of audio-based analysis to capture emotional cues that text data alone might miss.]]></summary>
+        <author>
+            <name>Caique de Almeida, Guilherme Rinaldo, Paulo Finardi, Victor Costa Beraldo, Vinicius Caridá</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI]]></title>
+        <id>b7249358d75ee3e48d56fbbf6d768e8eb6a32a0c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/"/>
+        <updated>2026-01-09T16:03:36.000Z</updated>
+        <summary type="html"><![CDATA[This post provides a detailed architectural overview of how TrueLook built its AI-powered safety monitoring system using SageMaker AI, highlighting key technical decisions, pipeline design patterns, and MLOps best practices. You will gain valuable insights into designing scalable computer vision solutions on AWS, particularly around model training workflows, automated pipeline creation, and production deployment strategies for real-time inference.]]></summary>
+        <author>
+            <name>Pranav Murthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)]]></title>
         <id>a7dfe1e94094d38939ce3b7e96e93f7342a79877</id>

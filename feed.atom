@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-09T22:19:04.888Z</updated>
+    <updated>2026-01-10T01:26:26.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crossmodal search with Amazon Nova Multimodal Embeddings]]></title>
+        <id>5c494351347d6ff0cd410e37c98d5f35b02cf6bf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/"/>
+        <updated>2026-01-10T00:06:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Amazon Nova Multimodal Embeddings addresses the challenges of crossmodal search through a practical ecommerce use case. We examine the technical limitations of traditional approaches and demonstrate how Amazon Nova Multimodal Embeddings enables retrieval across text, images, and other modalities. You learn how to implement a crossmodal search system by generating embeddings, handling queries, and measuring performance. We provide working code examples and share how to add these capabilities to your applications.]]></summary>
+        <author>
+            <name>Tony Santiago</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI]]></title>
         <id>1eec6cc5fe6bb85b64b9784991b799b4b6ace3a2</id>

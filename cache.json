@@ -524,16 +524,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19180/nova-sonic-blog-final.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/12/ML-19180-1120x630.png"
-        },
-        {
-          "id": "9c282f1489927d6ecb8d028c8c80eed8b363f597",
-          "author": "Babs Khalidson",
-          "description": "This post walks through how Harmonic Security used Amazon SageMaker AI, Amazon Bedrock, and Amazon Nova Pro to fine-tune a ModernBERT model, achieving low-latency, accurate, and scalable data leakage detection.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-harmonic-security-improved-their-data-leakage-detection-system-with-low-latency-fine-tuned-models-using-amazon-sagemaker-amazon-bedrock-and-amazon-nova-pro/",
-          "publishedOn": "2025-12-11T18:28:15.000Z",
-          "wordCount": 34408,
-          "title": "How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/11/ml-18972-1120x630.png"
         }
       ]
     }

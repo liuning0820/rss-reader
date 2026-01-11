@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-11T04:45:13.626Z</updated>
+    <updated>2026-01-11T06:28:57.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -474,16 +474,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Depot: “Waiting for a runner” but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot’s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation – Part 1 A thoughtful evaluation of […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a voice-driven AWS assistant with Amazon Nova Sonic]]></title>
-        <id>5c57c432d3b604ead682e3c83eae76a193cf14e2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/"/>
-        <updated>2025-12-12T18:07:57.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to build a sophisticated voice-powered AWS operations assistant using Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This solution demonstrates how natural language voice interactions can transform cloud operations, making AWS services more accessible and operations more efficient.]]></summary>
-        <author>
-            <name>Jagdish Komakula</name>
         </author>
     </entry>
 </feed>

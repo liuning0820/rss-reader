@@ -509,21 +509,6 @@
           "wordCount": 34711,
           "title": "Applying data loading best practices for ML training with Amazon S3 clients",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/15/ml-19322-1120x630.png"
-        },
-        {
-          "id": "5c57c432d3b604ead682e3c83eae76a193cf14e2",
-          "author": "Jagdish Komakula",
-          "description": "In this post, we explore how to build a sophisticated voice-powered AWS operations assistant using Amazon Nova Sonic for speech processing and Strands Agents for multi-agent orchestration. This solution demonstrates how natural language voice interactions can transform cloud operations, making AWS services more accessible and operations more efficient.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/",
-          "publishedOn": "2025-12-12T18:07:57.000Z",
-          "wordCount": 32838,
-          "title": "Building a voice-driven AWS assistant with Amazon Nova Sonic",
-          "enclosure": {
-            "length": "5110118",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19180/nova-sonic-blog-final.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/12/ML-19180-1120x630.png"
         }
       ]
     }

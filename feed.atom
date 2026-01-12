@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-11T22:17:46.444Z</updated>
+    <updated>2026-01-12T01:42:51.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #505]]></title>
+        <id>https://sreweekly.com/?p=1723</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-505/"/>
+        <updated>2026-01-12T01:42:38.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Hopp: Paging at 2am? 🚨 Make incident triage feel like you’re at the same keyboard with Hopp. crisp, readable screen-sharing no more “can you zoom in?” click + type together bring the incident bridge into one session Start pair programming: https://www.gethopp.app/?via=sreweekly 2013–09–17 Outage Postmortem An incident write-up […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crossmodal search with Amazon Nova Multimodal Embeddings]]></title>
         <id>5c494351347d6ff0cd410e37c98d5f35b02cf6bf</id>

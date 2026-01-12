@@ -63,6 +63,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1723",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Hopp: Paging at 2am? 🚨 Make incident triage feel like you’re at the same keyboard with Hopp. crisp, readable screen-sharing no more “can you zoom in?” click + type together bring the incident bridge into one session Start pair programming: https://www.gethopp.app/?via=sreweekly 2013–09–17 Outage Postmortem An incident write-up […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-505/",
+          "publishedOn": "2026-01-12T01:42:38.000Z",
+          "wordCount": 1089,
+          "title": "SRE Weekly Issue #505",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1721",
           "author": "lex",
           "description": "View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare’s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction […]",

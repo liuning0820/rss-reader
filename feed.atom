@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-13T14:23:27.653Z</updated>
+    <updated>2026-01-13T16:28:57.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,16 +494,6 @@
         <summary type="html"><![CDATA[In this post, we present practical techniques and recommendations for optimizing throughput in ML training workloads that read data directly from Amazon S3 general purpose buckets.]]></summary>
         <author>
             <name>Alexander Arzhanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #501]]></title>
-        <id>https://sreweekly.com/?p=1715</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-501/"/>
-        <updated>2025-12-15T03:31:51.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Depot: “Waiting for a runner” but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot’s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation – Part 1 A thoughtful evaluation of […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

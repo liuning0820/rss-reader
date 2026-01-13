@@ -101,16 +101,6 @@
           "wordCount": 1073,
           "title": "SRE Weekly Issue #502",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1715",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Depot: “Waiting for a runner” but the runner is online? Depot debugs three cases where symptoms misled engineers. Workflow permissions, Azure authentication, and Dependabot’s security context all caused failures that looked like infrastructure problems. AI and the ironies of automation – Part 1 A thoughtful evaluation of […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-501/",
-          "publishedOn": "2025-12-15T03:31:51.000Z",
-          "wordCount": 1104,
-          "title": "SRE Weekly Issue #501",
-          "imageUrl": null
         }
       ]
     },

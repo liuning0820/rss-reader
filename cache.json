@@ -127,6 +127,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fac1072f2b23024e3770f0135a2d5b51c4037f88",
+          "author": "Andrew Shved",
+          "description": "In this post, we explore the architecture that AutoScout24 used to build their standardized AI development framework, enabling rapid deployment of secure and scalable AI agents.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/",
+          "publishedOn": "2026-01-14T21:24:09.000Z",
+          "wordCount": 33715,
+          "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/14/ml-19590-1120x630.png"
+        },
+        {
+          "id": "e39a43be26f9f4eb821cb27f270d266d7175ed49",
+          "author": "Ankur Mehrotra",
+          "description": "This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
+          "publishedOn": "2026-01-14T21:13:42.000Z",
+          "wordCount": 33608,
+          "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/14/ml-20052-1120x630.png"
+        },
+        {
           "id": "c7ac2465b4c67c86beedb423d1a9b8a22ee749d3",
           "author": "Zohreh Norouzi",
           "description": "In this post, we explore the security considerations and best practices for implementing Amazon Bedrock cross-Region inference profiles. Whether you're building a generative AI application or need to meet specific regional compliance requirements, this guide will help you understand the secure architecture of Amazon Bedrock CRIS and how to properly configure your implementation.",

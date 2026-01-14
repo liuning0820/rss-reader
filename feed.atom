@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-14T20:19:33.260Z</updated>
+    <updated>2026-01-14T22:20:07.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock]]></title>
+        <id>fac1072f2b23024e3770f0135a2d5b51c4037f88</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/"/>
+        <updated>2026-01-14T21:24:09.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore the architecture that AutoScout24 used to build their standardized AI development framework, enabling rapid deployment of secure and scalable AI agents.]]></summary>
+        <author>
+            <name>Andrew Shved</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities]]></title>
+        <id>e39a43be26f9f4eb821cb27f270d266d7175ed49</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/"/>
+        <updated>2026-01-14T21:13:42.000Z</updated>
+        <summary type="html"><![CDATA[This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.]]></summary>
+        <author>
+            <name>Ankur Mehrotra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securing Amazon Bedrock cross-Region inference: Geographic and global]]></title>
         <id>c7ac2465b4c67c86beedb423d1a9b8a22ee749d3</id>

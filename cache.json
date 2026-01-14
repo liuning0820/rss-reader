@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c7ac2465b4c67c86beedb423d1a9b8a22ee749d3",
+          "author": "Zohreh Norouzi",
+          "description": "In this post, we explore the security considerations and best practices for implementing Amazon Bedrock cross-Region inference profiles. Whether you're building a generative AI application or need to meet specific regional compliance requirements, this guide will help you understand the secure architecture of Amazon Bedrock CRIS and how to properly configure your implementation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/",
+          "publishedOn": "2026-01-13T23:13:18.000Z",
+          "wordCount": 34856,
+          "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/13/ml-19893-1120x630.png"
+        },
+        {
           "id": "c31ea44ff312c3c62e400c40bf90f09215443793",
           "author": "Breanne Warner",
           "description": "This post is co-written with Sunaina Kavi, AI/ML Product Manager at Omada Health. Omada Health, a longtime innovator in virtual healthcare delivery, launched a new nutrition experience in 2025, featuring OmadaSpark, an AI agent trained with robust clinical input that delivers real-time motivational interviewing and nutrition education. It was built on AWS. OmadaSpark was designed […]",

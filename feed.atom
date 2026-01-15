@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-15T14:23:00.878Z</updated>
+    <updated>2026-01-15T16:32:38.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the Amazon AMET Payments team accelerates test case generation with Strands Agents]]></title>
+        <id>aa8215b9fd11e364c558f210c113d6dff9682687</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/"/>
+        <updated>2026-01-15T15:55:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explain how we overcame the limitations of single-agent AI systems through a human-centric approach, implemented structured outputs to significantly reduce hallucinations and built a scalable solution now positioned for expansion across the AMET QA team and later across other QA teams in International Emerging Stores and Payments (IESP) Org.]]></summary>
+        <author>
+            <name>Jayashree R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a generative AI-powered business reporting solution with Amazon Bedrock]]></title>
+        <id>61f6abba0a2b6b621913a850779038bbb051310c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/"/>
+        <updated>2026-01-15T15:53:15.000Z</updated>
+        <summary type="html"><![CDATA[This post introduces generative AI guided business reporting—with a focus on writing achievements & challenges about your business—providing a smart, practical solution that helps simplify and accelerate internal communication and reporting.]]></summary>
+        <author>
+            <name>Nick Biso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safeguard generative AI applications with Amazon Bedrock Guardrails]]></title>
+        <id>9990930b35cb10d688de6d863f369c1fbc8da0d5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/"/>
+        <updated>2026-01-15T15:50:54.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how you can address these challenges by adding centralized safeguards to a custom multi-provider generative AI gateway using Amazon Bedrock Guardrails.]]></summary>
+        <author>
+            <name>Hasan Shojaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search]]></title>
+        <id>4f59b7073834a3ed84dafbb7f160ea0a2f47dbd5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/"/>
+        <updated>2026-01-15T15:45:02.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we describe how you can use Amazon Nova Multimodal Embeddings to retrieve specific video segments. We also review a real-world use case in which Nova Multimodal Embeddings achieved a recall success rate of 96.7% and a high-precision recall of 73.3% (returning the target content in the top two results) when tested against a library of 170 gaming creative assets. The model also demonstrates strong cross-language capabilities with minimal performance degradation across multiple languages.]]></summary>
+        <author>
+            <name>Jia Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock]]></title>
         <id>fac1072f2b23024e3770f0135a2d5b51c4037f88</id>

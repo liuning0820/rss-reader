@@ -480,16 +480,6 @@
           "wordCount": 32377,
           "title": "Track machine learning experiments with MLflow on Amazon SageMaker using Snowflake integration",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/17/ml-19053-1120x630.png"
-        },
-        {
-          "id": "05d4574859e6e3bab82cc881760dff28c5b8b3fb",
-          "author": "Segolene Dessertine-Panhard",
-          "description": "Picture this: Your enterprise has just deployed its first generative AI application. The initial results are promising, but as you plan to scale across departments, critical questions emerge. How will you enforce consistent security, prevent model bias, and maintain control as AI applications multiply?",
-          "link": "https://aws.amazon.com/blogs/machine-learning/governance-by-design-the-essential-guide-for-successful-ai-scaling/",
-          "publishedOn": "2025-12-16T21:18:54.000Z",
-          "wordCount": 32713,
-          "title": "Governance by design: The essential guide for successful AI scaling",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/16/AWS_Blog_FeaturedImg_20158.png"
         }
       ]
     }

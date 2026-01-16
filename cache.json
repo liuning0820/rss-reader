@@ -127,6 +127,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "15d576393120664fa4c40c263f47be5e211b1739",
+          "author": "Yunfei Bai",
+          "description": "In this post, we show you how fine-tuning enabled a 33% reduction in dangerous medication errors (Amazon Pharmacy), engineering 80% human effort reduction (Amazon Global Engineering Services), and content quality assessments improving 77% to 96% accuracy (Amazon A+). This post details the techniques behind these outcomes: from foundational methods like Supervised Fine-Tuning (SFT) (instruction tuning), and Proximal Policy Optimization (PPO), to Direct Preference Optimization (DPO) for human alignment, to cutting-edge reasoning optimizations such as Grouped-based Reinforcement Learning from Policy Optimization (GRPO), Direct Advantage Policy Optimization (DAPO), and Group Sequence Policy Optimization (GSPO) purpose-built for agentic systems.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/",
+          "publishedOn": "2026-01-16T15:51:21.000Z",
+          "wordCount": 35318,
+          "title": "Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/16/ml-19832-1120x630.png"
+        },
+        {
+          "id": "da8243dfca022c5917ecd7fa258d10be879d7887",
+          "author": "Rizwan Mushtaq",
+          "description": "Palo Alto Networks’ Device Security team wanted to detect early warning signs of potential production issues to provide more time to SMEs to react to these emerging problems. They partnered with the AWS Generative AI Innovation Center (GenAIIC) to develop an automated log classification pipeline powered by Amazon Bedrock. In this post, we discuss how Amazon Bedrock, through Anthropic’ s Claude Haiku model, and Amazon Titan Text Embeddings work together to automatically classify and analyze log data. We explore how this automated pipeline detects critical issues, examine the solution architecture, and share implementation insights that have delivered measurable operational improvements.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/",
+          "publishedOn": "2026-01-16T15:46:36.000Z",
+          "wordCount": 33208,
+          "title": "How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/16/ml-19362-1120x630.png"
+        },
+        {
+          "id": "b6ec152a3fb05dec678ba3412bdc45bb281dc347",
+          "author": "Noorbakht Khan",
+          "description": "The AWS AI League, launched by Amazon Web Services (AWS), expanded its reach to the Association of Southeast Asian Nations (ASEAN) last year, welcoming student participants from Singapore, Indonesia, Malaysia, Thailand, Vietnam, and the Philippines. In this blog post, you’ll hear directly from the AWS AI League champion, Blix D. Foryasen, as he shares his reflection on the challenges, breakthroughs, and key lessons discovered throughout the competition.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/",
+          "publishedOn": "2026-01-16T15:41:55.000Z",
+          "wordCount": 36319,
+          "title": "From beginner to champion: A student’s journey through the AWS AI League ASEAN finals",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/16/ml-19099-1120x630.png"
+        },
+        {
+          "id": "4b28f523eac21262a5d4fde88a3a54c206d8d5a1",
+          "author": "Prafful Gupta",
+          "description": "In this post, we demonstrate how to use a GitHub Actions workflow to automate the deployment of AI agents on AgentCore Runtime. This approach delivers a scalable solution with enterprise-level security controls, providing complete continuous integration and delivery (CI/CD) automation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/",
+          "publishedOn": "2026-01-16T15:37:37.000Z",
+          "wordCount": 33216,
+          "title": "Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/16/ml-19418-1120x630.png"
+        },
+        {
           "id": "aa8215b9fd11e364c558f210c113d6dff9682687",
           "author": "Jayashree R",
           "description": "In this post, we explain how we overcame the limitations of single-agent AI systems through a human-centric approach, implemented structured outputs to significantly reduce hallucinations and built a scalable solution now positioned for expansion across the AMET QA team and later across other QA teams in International Emerging Stores and Payments (IESP) Org.",

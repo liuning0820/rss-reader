@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6667",
+          "author": "Chris Swan",
+          "description": "TL;DR Coding is no longer the constraint. It’s now cheaper than ever to make software. But there are supply side constraints on innovation, and getting apps to market. Who dreams up something worth making? How do apps get in front of users? There’s also a demand side constraint on adoption – how do people learn […]",
+          "link": "https://blog.thestateofme.com/2026/01/18/agentic-product-development-and-theory-of-constraints/",
+          "publishedOn": "2026-01-18T17:20:57.000Z",
+          "wordCount": 4905,
+          "title": "Agentic Product Development and Theory of Constraints",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6655",
           "author": "Chris Swan",
           "description": "CHOP #4 has worked, and Milo’s scan today shows that he’s in remission again (before even getting his Epirubicin). This cycle of chemo seemed to go better than previous protocols, until we got to the planned Epirubicin last week, and his neutrophils were too low. So we were back at North Downs Specialist Referals (NDSR) […]",

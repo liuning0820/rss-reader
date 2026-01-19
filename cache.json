@@ -73,6 +73,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1725",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS & GCP Marketplaces. Start your free trial at costory.io What came first- the CNAME […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-506/",
+          "publishedOn": "2026-01-19T02:50:58.000Z",
+          "wordCount": 1134,
+          "title": "SRE Weekly Issue #506",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1723",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Hopp: Paging at 2am? 🚨 Make incident triage feel like you’re at the same keyboard with Hopp. crisp, readable screen-sharing no more “can you zoom in?” click + type together bring the incident bridge into one session Start pair programming: https://www.gethopp.app/?via=sreweekly 2013–09–17 Outage Postmortem An incident write-up […]",

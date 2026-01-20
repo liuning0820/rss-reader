@@ -167,6 +167,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "2ed187a8a1b2bf36865fc00ee7ddaec918acf080",
+          "author": "Dani Mitchell",
+          "description": "In this post, we'll guide you through building multimodal RAG applications. You'll learn how multimodal knowledge bases work, how to choose the right processing strategy based on your content type, and how to configure and implement multimodal retrieval using both the console and code examples.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-multimodal-retrieval-for-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2026-01-20T18:22:25.000Z",
+          "wordCount": 33635,
+          "title": "Introducing multimodal retrieval for Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/20/ml-20078-1120x630.png"
+        },
+        {
           "id": "15d576393120664fa4c40c263f47be5e211b1739",
           "author": "Yunfei Bai",
           "description": "In this post, we show you how fine-tuning enabled a 33% reduction in dangerous medication errors (Amazon Pharmacy), engineering 80% human effort reduction (Amazon Global Engineering Services), and content quality assessments improving 77% to 96% accuracy (Amazon A+). This post details the techniques behind these outcomes: from foundational methods like Supervised Fine-Tuning (SFT) (instruction tuning), and Proximal Policy Optimization (PPO), to Direct Preference Optimization (DPO) for human alignment, to cutting-edge reasoning optimizations such as Grouped-based Reinforcement Learning from Policy Optimization (GRPO), Direct Advantage Policy Optimization (DAPO), and Group Sequence Policy Optimization (GSPO) purpose-built for agentic systems.",

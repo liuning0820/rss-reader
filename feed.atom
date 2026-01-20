@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-20T14:28:28.797Z</updated>
+    <updated>2026-01-20T16:32:53.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to implement a predictive maintenance solution using Foundation Models (FMs) on Amazon Bedrock, with a case study of Amazon's manufacturing equipment within their fulfillment centers. The solution is highly adaptable and can be customized for other industries, including oil and gas, logistics, manufacturing, and healthcare.]]></summary>
         <author>
             <name>Carla Lorente</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #502]]></title>
-        <id>https://sreweekly.com/?p=1717</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-502/"/>
-        <updated>2025-12-22T03:13:23.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Eliminating Cold Starts 2: shard and conquer Cloudflare reduced their cold-start rate for Workers requests through sharding and consistent hashing, with an interesting solution for load shedding.   Harris Hancock — Cloudflare Monitoring & Observability: Using Logs, Metrics, Traces, and Alerts to Understand System Failures I appreciate the way this article also shares […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

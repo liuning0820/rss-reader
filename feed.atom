@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-21T20:28:24.753Z</updated>
+    <updated>2026-01-21T22:22:25.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore]]></title>
+        <id>0b51660e16f811c5a22252b8747c11cc16996246</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-01-21T21:39:42.000Z</updated>
+        <summary type="html"><![CDATA[This blog post explains how TR's Platform Engineering team, a geographically distributed unit overseeing TR's service availability, boosted its operational productivity by transitioning from manual to an automated agentic system using Amazon Bedrock AgentCore.]]></summary>
+        <author>
+            <name>Naveen Pollamreddi, Seth Krause</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory]]></title>
         <id>20a5fef0ed2b563bff956590a53cbf7c7e3d298f</id>

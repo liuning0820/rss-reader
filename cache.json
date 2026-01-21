@@ -510,16 +510,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20030/visa_shopping_agent_demo.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/23/ml-20030-1120x630.png"
-        },
-        {
-          "id": "779ab6d44a58dd4d0ffa25b3f4e472ec0d1916c2",
-          "author": "Ahmed Raafat",
-          "description": "This post explores Chain-of-Draft (CoD), an innovative prompting technique introduced in a Zoom AI Research paper Chain of Draft: Thinking Faster by Writing Less, that revolutionizes how models approach reasoning tasks. While Chain-of-Thought (CoT) prompting has been the go-to method for enhancing model reasoning, CoD offers a more efficient alternative that mirrors human problem-solving patterns—using concise, high-signal thinking steps rather than verbose explanations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/move-beyond-chain-of-thought-with-chain-of-draft-on-amazon-bedrock/",
-          "publishedOn": "2025-12-22T18:37:13.000Z",
-          "wordCount": 34161,
-          "title": "Move Beyond Chain-of-Thought with Chain-of-Draft on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/22/ml-19022-1120x630.png"
         }
       ]
     }

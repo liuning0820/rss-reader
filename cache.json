@@ -167,6 +167,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "63e36a500e63faad2183229de21c3ffff3bd7f47",
+          "author": "Benjamin Kleppe",
+          "description": "In this post, we show how bunq upgraded Finn, its in-house generative AI assistant, using Amazon Bedrock to transform user support and banking operations to be seamless, in multiple languages and time zones.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-bunq-handles-97-of-support-with-amazon-bedrock/",
+          "publishedOn": "2026-01-21T17:50:35.000Z",
+          "wordCount": 33254,
+          "title": "How bunq handles 97% of support with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/21/ml-19869-1120x630.png"
+        },
+        {
+          "id": "796f8dc4b204653fd4f32a190f60063b1fce4f1f",
+          "author": "Sebastian Bustillo",
+          "description": "In this post, we explore how to build a multi-agent video processing workflow using Strands Agents, Meta's Llama 4 models, and Amazon Bedrock to automatically analyze and understand video content through specialized AI agents working in coordination. To showcase the solution, we will use Amazon SageMaker AI to walk you through the code.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/using-strands-agents-to-create-a-multi-agent-solution-with-metas-llama-4-and-amazon-bedrock/",
+          "publishedOn": "2026-01-21T17:47:44.000Z",
+          "wordCount": 34260,
+          "title": "Using Strands Agents to create a multi-agent solution with Meta’s Llama 4 and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/21/ml-19330-1120x630.png"
+        },
+        {
           "id": "2ed187a8a1b2bf36865fc00ee7ddaec918acf080",
           "author": "Dani Mitchell",
           "description": "In this post, we'll guide you through building multimodal RAG applications. You'll learn how multimodal knowledge bases work, how to choose the right processing strategy based on your content type, and how to configure and implement multimodal retrieval using both the console and code examples.",

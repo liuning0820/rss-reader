@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6667",
@@ -475,16 +475,6 @@
           "wordCount": 34866,
           "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/24/ml-19976-1120x630.png"
-        },
-        {
-          "id": "57f66c1e4afeda64b781ca6bfd1b4688a6fcc535",
-          "author": "Anthony Liguori",
-          "description": "In this post, we explore how Mantle, Amazon's next-generation inference engine for Amazon Bedrock, implements a zero operator access (ZOA) design that eliminates any technical means for AWS operators to access customer data.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
-          "publishedOn": "2025-12-23T22:18:12.000Z",
-          "wordCount": 32007,
-          "title": "Exploring the zero operator access design of Mantle",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/23/ML-20238-image-1.jpeg"
         }
       ]
     }

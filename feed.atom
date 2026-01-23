@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-23T16:27:51.580Z</updated>
+    <updated>2026-01-23T18:30:40.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation]]></title>
+        <id>3fc55025795ce22c80df796cb9c300fc6d89dc98</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/"/>
+        <updated>2026-01-23T17:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore services are now being supported by various IaC frameworks such as AWS Cloud Development Kit (AWS CDK), Terraform and AWS CloudFormation Templates. This integration brings the power of IaC directly to AgentCore so developers can provision, configure, and manage their AI agent infrastructure. In this post, we use CloudFormation templates to build an end-to-end application for a weather activity planner.]]></summary>
+        <author>
+            <name>Chintan Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock]]></title>
+        <id>0fb7d44896fc0ed0135f73eeccfd201682f9ce91</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/"/>
+        <updated>2026-01-23T17:49:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how the Amazon Catalog Team built a self-learning system that continuously improves accuracy while reducing costs at scale using Amazon Bedrock.]]></summary>
+        <author>
+            <name>Tarik Arici</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How PDI built an enterprise-grade RAG system for AI applications with AWS]]></title>
         <id>599bc1f43ede80665082a67e9fdba9c98f679573</id>

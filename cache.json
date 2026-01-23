@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6667",
@@ -166,6 +166,31 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "3fc55025795ce22c80df796cb9c300fc6d89dc98",
+          "author": "Chintan Patel",
+          "description": "Amazon Bedrock AgentCore services are now being supported by various IaC frameworks such as AWS Cloud Development Kit (AWS CDK), Terraform and AWS CloudFormation Templates. This integration brings the power of IaC directly to AgentCore so developers can provision, configure, and manage their AI agent infrastructure. In this post, we use CloudFormation templates to build an end-to-end application for a weather activity planner.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/",
+          "publishedOn": "2026-01-23T17:54:02.000Z",
+          "wordCount": 32665,
+          "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
+          "enclosure": {
+            "length": "5553631",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19762/ML-19762-Agencore-CFN-Setup.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/23/ML-19762-1120x630.png"
+        },
+        {
+          "id": "0fb7d44896fc0ed0135f73eeccfd201682f9ce91",
+          "author": "Tarik Arici",
+          "description": "In this post, we demonstrate how the Amazon Catalog Team built a self-learning system that continuously improves accuracy while reducing costs at scale using Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/",
+          "publishedOn": "2026-01-23T17:49:37.000Z",
+          "wordCount": 34279,
+          "title": "How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/23/ml-19788-1120x630.png"
+        },
         {
           "id": "599bc1f43ede80665082a67e9fdba9c98f679573",
           "author": "Samit Kumbhani",

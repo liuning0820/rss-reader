@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-26T14:26:25.692Z</updated>
+    <updated>2026-01-26T16:31:45.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock]]></title>
+        <id>0719c2e26a963f0ae078edc3c2f6759029901ded</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/"/>
+        <updated>2026-01-26T16:16:25.000Z</updated>
+        <summary type="html"><![CDATA[This blog post describes how Totogi automates change request processing by partnering with the AWS Generative AI Innovation Center and using the rapid innovation capabilities of Amazon Bedrock.]]></summary>
+        <author>
+            <name>Nikhil Mathugar, Marc Breslow, Sudhanshu Sinha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #507]]></title>
         <id>https://sreweekly.com/?p=1728</id>

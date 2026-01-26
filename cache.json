@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1728",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-507/",
+          "publishedOn": "2026-01-26T02:18:41.000Z",
+          "wordCount": 1112,
+          "title": "SRE Weekly Issue #507",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1725",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS & GCP Marketplaces. Start your free trial at costory.io What came first- the CNAME […]",

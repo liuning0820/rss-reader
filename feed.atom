@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-26T16:31:45.357Z</updated>
+    <updated>2026-01-26T18:32:47.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a serverless AI Gateway architecture with AWS AppSync Events]]></title>
+        <id>fa46d998fbd41783bfacd7eae2d1277ff537960d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/"/>
+        <updated>2026-01-26T17:20:27.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we discuss how to use AppSync Events as the foundation of a capable, serverless, AI gateway architecture. We explore how it integrates with AWS services for comprehensive coverage of the capabilities offered in AI gateway architectures. Finally, we get you started on your journey with sample code you can launch in your account and begin building.]]></summary>
+        <author>
+            <name>Archie Cowan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock]]></title>
         <id>0719c2e26a963f0ae078edc3c2f6759029901ded</id>

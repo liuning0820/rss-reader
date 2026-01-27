@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6667",
@@ -130,16 +130,6 @@
           "publishedOn": "2026-01-05T01:51:34.000Z",
           "wordCount": 1108,
           "title": "SRE Weekly Issue #504",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1719",
-          "author": "lex",
-          "description": "View on sreweekly.com The Abstraction Debt in Infrastructure as Code Abstraction is meant to encapsulate complexity, but when done poorly, it creates opacity—a lack of visibility into what’s actually happening under the hood.   RoseSecurity Fun with incident data and statistical process control This article uses publicly available incident data and an open source tool to […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-503/",
-          "publishedOn": "2025-12-29T02:46:43.000Z",
-          "wordCount": 1079,
-          "title": "SRE Weekly Issue #503",
           "imageUrl": null
         }
       ]

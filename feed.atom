@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-27T16:28:04.755Z</updated>
+    <updated>2026-01-27T18:36:04.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay’s journey on GenAI evaluation]]></title>
+        <id>929921e36864449df32bf7a94b36b6d415bfa5db</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/"/>
+        <updated>2026-01-27T17:39:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk you through Pushpay's journey in building this solution and explore how Pushpay used Amazon Bedrock to create a custom generative AI evaluation framework for continuous quality assurance and establishing rapid iteration feedback loops on AWS.]]></summary>
+        <author>
+            <name>Roger Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore]]></title>
+        <id>60f3d6cfabcdfcd82e2beab156ef6f04dd8c07ce</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/"/>
+        <updated>2026-01-27T16:28:16.000Z</updated>
+        <summary type="html"><![CDATA[This blog post demonstrates how to build an intelligent contract management solution using Amazon Quick Suite as your primary contract management solution, augmented with Amazon Bedrock AgentCore for advanced multi-agent capabilities.]]></summary>
+        <author>
+            <name>Oliver Steffmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a serverless AI Gateway architecture with AWS AppSync Events]]></title>
         <id>fa46d998fbd41783bfacd7eae2d1277ff537960d</id>

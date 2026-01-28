@@ -64,26 +64,6 @@
           "wordCount": 4850,
           "title": "December 2025",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/pups_202512.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6614",
-          "author": "Chris Swan",
-          "description": "TL;DR Nvidia have ended Linux support for my ‘Pascal’ GTX 1050 Ti GPU. I’ve been able to fit an RTX 5050 card in its place, though the process was problematic due to driver issues. And I’m still concerned that it can only be limited to 110W when my passive cooling is rated up to 75W. […]",
-          "link": "http://blog.thestateofme.com/2025/12/29/silent-pc-gpu-upgrade/",
-          "publishedOn": "2025-12-29T14:16:36.000Z",
-          "wordCount": 4713,
-          "title": "Silent PC GPU upgrade",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/image.png"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6614",
-          "author": "Chris Swan",
-          "description": "TL;DR Nvidia have ended Linux support for my ‘Pascal’ GTX 1050 Ti GPU. I’ve been able to fit an RTX 5050 card in its place, though the process was problematic due to driver issues. And I’m still concerned that it can only be limited to 110W when my passive cooling is rated up to 75W. […]",
-          "link": "https://blog.thestateofme.com/2025/12/29/silent-pc-gpu-upgrade/",
-          "publishedOn": "2025-12-29T14:16:36.000Z",
-          "wordCount": 4782,
-          "title": "Silent PC GPU upgrade",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2025/12/image.png"
         }
       ]
     },

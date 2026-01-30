@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-30T20:27:17.731Z</updated>
+    <updated>2026-01-30T22:22:52.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI]]></title>
+        <id>6a585c5ed36947fd8379ffe5334bb735f4a49e02</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"/>
+        <updated>2026-01-30T21:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios, it’s crucial to understand whether a model is producing better outputs than a baseline or an earlier iteration. This is especially important for applications such as summarization, content generation, […]]]></summary>
+        <author>
+            <name>Surya Kari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates]]></title>
         <id>1d57febaff5a6878b936c3c00ac0d6c202985a6f</id>

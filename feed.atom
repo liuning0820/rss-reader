@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-01-29T22:25:32.494Z</updated>
+    <updated>2026-01-30T01:53:41.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling content review operations with multi-agent workflow]]></title>
+        <id>1001b2a4da4643d9607dc32ebaca169d965ce6b0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/"/>
+        <updated>2026-01-29T23:32:14.000Z</updated>
+        <summary type="html"><![CDATA[The agent-based approach we present is applicable to any type of enterprise content, from product documentation and knowledge bases to marketing materials and technical specifications. To demonstrate these concepts in action, we walk through a practical example of reviewing blog content for technical accuracy. These patterns and techniques can be directly adapted to various content review needs by adjusting the agent configurations, tools, and verification sources.]]></summary>
+        <author>
+            <name>Sarath Krishnan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay’s journey on GenAI evaluation]]></title>
         <id>929921e36864449df32bf7a94b36b6d415bfa5db</id>

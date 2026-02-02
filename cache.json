@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1731",
+          "author": "lex",
+          "description": "View on sreweekly.com SRE Weekly will be going on hiatus for 6 weeks, while I’m on leave caring for my partner after her kidney transplant surgery this week. It’s incredible that the National Kidney Registry’s Paired Exchange program allowed me to donate a kidney to help her even though we don’t have matching blood types! […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-508/",
+          "publishedOn": "2026-02-02T04:01:13.000Z",
+          "wordCount": 1161,
+          "title": "SRE Weekly Issue #508",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1728",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already […]",

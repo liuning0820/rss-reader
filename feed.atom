@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-02T02:00:56.131Z</updated>
+    <updated>2026-02-02T05:22:12.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #508]]></title>
+        <id>https://sreweekly.com/?p=1731</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-508/"/>
+        <updated>2026-02-02T04:01:13.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly will be going on hiatus for 6 weeks, while I’m on leave caring for my partner after her kidney transplant surgery this week. It’s incredible that the National Kidney Registry’s Paired Exchange program allowed me to donate a kidney to help her even though we don’t have matching blood types! […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI]]></title>
         <id>6a585c5ed36947fd8379ffe5334bb735f4a49e02</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-03T14:41:06.224Z</updated>
+    <updated>2026-02-03T16:50:42.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent]]></title>
+        <id>a50d44e4e1e0f99f9da1e53aaef12626306b9cc4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/"/>
+        <updated>2026-02-03T16:22:19.000Z</updated>
+        <summary type="html"><![CDATA[On November 21, 2025, Amazon SageMaker introduced a built-in data agent within Amazon SageMaker Unified Studio that transforms large-scale data analysis. In this post, we demonstrate, through a detailed case study of an epidemiologist conducting clinical cohort analysis, how SageMaker Data Agent can help reduce weeks of data preparation into days, and days of analysis development into hours—ultimately accelerating the path from clinical questions to research conclusions.]]></summary>
+        <author>
+            <name>Siddharth Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January 2026]]></title>
         <id>http://blog.thestateofme.com/?p=6684</id>

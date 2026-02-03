@@ -6,6 +6,26 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6684",
+          "author": "Chris Swan",
+          "description": "Pupdate The New Year had barely begun and we had a cold snap and some snow. Milo’s back in remission thankfully, though there have been a few hiccups with his treatment this time around. Some of that’s expected (low neutrophils), but the vets struggling to get canulas in due to vein scarring is new and […]",
+          "link": "https://blog.thestateofme.com/2026/02/03/january-2026/",
+          "publishedOn": "2026-02-03T14:04:02.000Z",
+          "wordCount": 4225,
+          "title": "January 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/01/pups_202601.jpg"
+        },
+        {
+          "id": "http://blog.thestateofme.com/?p=6686",
+          "author": "Chris Swan",
+          "description": "After previous trips to The Three Valleys and Espace Killy, Paradiski felt like a way to complete the set of long established multi location French ski areas. Inghams again Having organised the last few trips with Inghams, they were where I looked first, and in the end the provider I chose. Getting there Another flight […]",
+          "link": "https://blog.thestateofme.com/2026/02/03/skiing-in-paradiski-les-arcs-2000/",
+          "publishedOn": "2026-02-03T13:23:11.000Z",
+          "wordCount": 4969,
+          "title": "Skiing in Paradiski (Les Arcs 2000)",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/02/la_source_des_arcs.jpg"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6667",
           "author": "Chris Swan",
           "description": "TL;DR Coding is no longer the constraint. It’s now cheaper than ever to make software. But there are supply side constraints on innovation, and getting apps to market. Who dreams up something worth making? How do apps get in front of users? There’s also a demand side constraint on adoption – how do people learn […]",
@@ -90,16 +110,6 @@
           "publishedOn": "2026-01-12T01:42:38.000Z",
           "wordCount": 1089,
           "title": "SRE Weekly Issue #505",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1721",
-          "author": "lex",
-          "description": "View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare’s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-504/",
-          "publishedOn": "2026-01-05T01:51:34.000Z",
-          "wordCount": 1108,
-          "title": "SRE Weekly Issue #504",
           "imageUrl": null
         }
       ]

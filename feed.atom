@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-03T12:55:35.008Z</updated>
+    <updated>2026-02-03T14:41:06.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 2026]]></title>
+        <id>http://blog.thestateofme.com/?p=6684</id>
+        <link href="https://blog.thestateofme.com/2026/02/03/january-2026/"/>
+        <updated>2026-02-03T14:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The New Year had barely begun and we had a cold snap and some snow. Milo’s back in remission thankfully, though there have been a few hiccups with his treatment this time around. Some of that’s expected (low neutrophils), but the vets struggling to get canulas in due to vein scarring is new and […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skiing in Paradiski (Les Arcs 2000)]]></title>
+        <id>http://blog.thestateofme.com/?p=6686</id>
+        <link href="https://blog.thestateofme.com/2026/02/03/skiing-in-paradiski-les-arcs-2000/"/>
+        <updated>2026-02-03T13:23:11.000Z</updated>
+        <summary type="html"><![CDATA[After previous trips to The Three Valleys and Espace Killy, Paradiski felt like a way to complete the set of long established multi location French ski areas. Inghams again Having organised the last few trips with Inghams, they were where I looked first, and in the end the provider I chose. Getting there Another flight […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions]]></title>
         <id>cf565cf92b03540033273c6fffdc92969d0087f7</id>
@@ -494,16 +514,6 @@
         <summary type="html"><![CDATA[CHOP #4 has worked, and Milo’s scan today shows that he’s in remission again (before even getting his Epirubicin). This cycle of chemo seemed to go better than previous protocols, until we got to the planned Epirubicin last week, and his neutrophils were too low. So we were back at North Downs Specialist Referals (NDSR) […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #504]]></title>
-        <id>https://sreweekly.com/?p=1721</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-504/"/>
-        <updated>2026-01-05T01:51:34.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com Finding the grain of sand in a heap of Salt Salt is Cloudflare’s configuration management tool. How do you find the root cause of a configuration management failure when you have a peak of hundreds of changes in 15 minutes on thousands of servers? The result of this has been a reduction […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

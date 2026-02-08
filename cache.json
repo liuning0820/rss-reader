@@ -560,16 +560,6 @@
           "wordCount": 33144,
           "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml18827_Blog_FeaturedImg.png"
-        },
-        {
-          "id": "5c494351347d6ff0cd410e37c98d5f35b02cf6bf",
-          "author": "Tony Santiago",
-          "description": "In this post, we explore how Amazon Nova Multimodal Embeddings addresses the challenges of crossmodal search through a practical ecommerce use case. We examine the technical limitations of traditional approaches and demonstrate how Amazon Nova Multimodal Embeddings enables retrieval across text, images, and other modalities. You learn how to implement a crossmodal search system by generating embeddings, handling queries, and measuring performance. We provide working code examples and share how to add these capabilities to your applications.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/",
-          "publishedOn": "2026-01-10T00:06:16.000Z",
-          "wordCount": 33782,
-          "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/12/29/ML-20065-image-3-1260x575.jpeg"
         }
       ]
     }

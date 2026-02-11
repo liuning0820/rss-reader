@@ -610,16 +610,6 @@
           "wordCount": 34856,
           "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/13/ml-19893-1120x630.png"
-        },
-        {
-          "id": "c31ea44ff312c3c62e400c40bf90f09215443793",
-          "author": "Breanne Warner",
-          "description": "This post is co-written with Sunaina Kavi, AI/ML Product Manager at Omada Health. Omada Health, a longtime innovator in virtual healthcare delivery, launched a new nutrition experience in 2025, featuring OmadaSpark, an AI agent trained with robust clinical input that delivers real-time motivational interviewing and nutrition education. It was built on AWS. OmadaSpark was designed […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/",
-          "publishedOn": "2026-01-12T16:56:12.000Z",
-          "wordCount": 33144,
-          "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/09/09/ml18827_Blog_FeaturedImg.png"
         }
       ]
     }

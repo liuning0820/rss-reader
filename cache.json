@@ -137,6 +137,41 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "be1887b5f4f0866feaede47d3d566175fcdcde0b",
+          "author": "Farzin Bagheri",
+          "description": "This post shows you how to implement robust error handling strategies that can help improve application reliability and user experience when using Amazon Bedrock. We'll dive deep into strategies for optimizing performances for the application with these errors. Whether this is for a fairly new application or matured AI application, in this post you will be able to find the practical guidelines to operate with on these errors.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
+          "publishedOn": "2026-02-11T15:52:54.000Z",
+          "wordCount": 34899,
+          "title": "Mastering Amazon Bedrock throttling and service availability: A comprehensive guide",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/11/ml-20306-1-1120x630.png"
+        },
+        {
+          "id": "10fb792f3a66c39383789299c43e08084ad0ff23",
+          "author": "Aman Sharma",
+          "description": "This post shows you how to implement intelligent notification filtering using Amazon Bedrock and its gen-AI capabilities. You'll learn model selection strategies, cost optimization techniques, and architectural patterns for deploying gen-AI at IoT scale, based on Swann Communications deployment across millions of devices.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/",
+          "publishedOn": "2026-02-11T15:48:15.000Z",
+          "wordCount": 33442,
+          "title": "Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock",
+          "enclosure": {
+            "length": "9820024",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19700/Swann_NotifyMe.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/11/ml-19700-1120x630.png"
+        },
+        {
+          "id": "6e02fab300a72523f60ca44f5bc7b49afbe0c839",
+          "author": "Suyeol Yun, Jaeseon Ha, Subeen Pang, Jacob (Chanyeol) Choi",
+          "description": "LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/",
+          "publishedOn": "2026-02-11T15:45:30.000Z",
+          "wordCount": 34583,
+          "title": "How LinqAlpha assesses investment theses using Devil’s Advocate on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/11/ml-18403-1120x630.png"
+        },
+        {
           "id": "f7245e3ab31d8cad57235be544dd768a3c0e44aa",
           "author": "Bishesh Adhikari",
           "description": "In this post, we discuss how Amazon Nova in Amazon Bedrock can be used to implement an AI-powered image recognition solution that automates the detection and validation of module components, significantly reducing manual verification efforts and improving accuracy.",

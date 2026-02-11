@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-11T14:50:29.049Z</updated>
+    <updated>2026-02-11T17:02:16.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering Amazon Bedrock throttling and service availability: A comprehensive guide]]></title>
+        <id>be1887b5f4f0866feaede47d3d566175fcdcde0b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/"/>
+        <updated>2026-02-11T15:52:54.000Z</updated>
+        <summary type="html"><![CDATA[This post shows you how to implement robust error handling strategies that can help improve application reliability and user experience when using Amazon Bedrock. We'll dive deep into strategies for optimizing performances for the application with these errors. Whether this is for a fairly new application or matured AI application, in this post you will be able to find the practical guidelines to operate with on these errors.]]></summary>
+        <author>
+            <name>Farzin Bagheri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock]]></title>
+        <id>10fb792f3a66c39383789299c43e08084ad0ff23</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/"/>
+        <updated>2026-02-11T15:48:15.000Z</updated>
+        <summary type="html"><![CDATA[This post shows you how to implement intelligent notification filtering using Amazon Bedrock and its gen-AI capabilities. You'll learn model selection strategies, cost optimization techniques, and architectural patterns for deploying gen-AI at IoT scale, based on Swann Communications deployment across millions of devices.]]></summary>
+        <author>
+            <name>Aman Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How LinqAlpha assesses investment theses using Devil’s Advocate on Amazon Bedrock]]></title>
+        <id>6e02fab300a72523f60ca44f5bc7b49afbe0c839</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/"/>
+        <updated>2026-02-11T15:45:30.000Z</updated>
+        <summary type="html"><![CDATA[LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.]]></summary>
+        <author>
+            <name>Suyeol Yun, Jaeseon Ha, Subeen Pang, Jacob (Chanyeol) Choi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers]]></title>
         <id>f7245e3ab31d8cad57235be544dd768a3c0e44aa</id>

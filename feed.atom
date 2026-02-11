@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-11T18:59:35.349Z</updated>
+    <updated>2026-02-11T20:36:16.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart]]></title>
+        <id>8667a07c46c3bdd33880b97ba55f013885a0ff9d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-02-11T19:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re excited to announce that the NVIDIA Nemotron 3 Nano 30B model with  3B active parameters is now generally available in the Amazon SageMaker JumpStart model catalog. You can accelerate innovation and deliver tangible business value with Nemotron 3 Nano on Amazon Web Services (AWS) without having to manage model deployment complexities. You can power your generative AI applications with Nemotron capabilities using the managed deployment capabilities offered by SageMaker JumpStart.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering Amazon Bedrock throttling and service availability: A comprehensive guide]]></title>
         <id>be1887b5f4f0866feaede47d3d566175fcdcde0b</id>

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-12T18:59:50.771Z</updated>
+    <updated>2026-02-12T20:32:23.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI meets HR: Transforming talent acquisition with Amazon Bedrock]]></title>
+        <id>7a51f77a8eada98a7e72fad93f35be74cdcaa3fb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/"/>
+        <updated>2026-02-12T20:18:58.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to create an AI-powered recruitment system using Amazon Bedrock, Amazon Bedrock Knowledge Bases, AWS Lambda, and other AWS services to enhance job description creation, candidate communication, and interview preparation while maintaining human oversight.]]></summary>
+        <author>
+            <name>Sai Jeedigunta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build long-running MCP servers on Amazon Bedrock AgentCore with Strands Agents integration]]></title>
+        <id>536242dc72f3dad3422a2aee9002ca7a7a66ea04</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/"/>
+        <updated>2026-02-12T20:16:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we provide you with a comprehensive approach to achieve this. First, we introduce a context message strategy that maintains continuous communication between servers and clients during extended operations. Next, we develop an asynchronous task management framework that allows your AI agents to initiate long-running processes without blocking other operations. Finally, we demonstrate how to bring these strategies together with Amazon Bedrock AgentCore and Strands Agents to build production-ready AI agents that can handle complex, time-intensive operations reliably.]]></summary>
+        <author>
+            <name>Haochen Xie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart]]></title>
         <id>8667a07c46c3bdd33880b97ba55f013885a0ff9d</id>

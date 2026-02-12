@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-12T10:42:28.267Z</updated>
+    <updated>2026-02-12T13:03:06.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -614,16 +614,6 @@
         <summary type="html"><![CDATA[This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.]]></summary>
         <author>
             <name>Ankur Mehrotra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Amazon Bedrock cross-Region inference: Geographic and global]]></title>
-        <id>c7ac2465b4c67c86beedb423d1a9b8a22ee749d3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/"/>
-        <updated>2026-01-13T23:13:18.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore the security considerations and best practices for implementing Amazon Bedrock cross-Region inference profiles. Whether you're building a generative AI application or need to meet specific regional compliance requirements, this guide will help you understand the secure architecture of Amazon Bedrock CRIS and how to properly configure your implementation.]]></summary>
-        <author>
-            <name>Zohreh Norouzi</name>
         </author>
     </entry>
 </feed>

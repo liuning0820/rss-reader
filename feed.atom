@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-13T08:39:48.254Z</updated>
+    <updated>2026-02-13T10:36:56.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -614,26 +614,6 @@
         <summary type="html"><![CDATA[In this post, we describe how you can use Amazon Nova Multimodal Embeddings to retrieve specific video segments. We also review a real-world use case in which Nova Multimodal Embeddings achieved a recall success rate of 96.7% and a high-precision recall of 73.3% (returning the target content in the top two results) when tested against a library of 170 gaming creative assets. The model also demonstrates strong cross-language capabilities with minimal performance degradation across multiple languages.]]></summary>
         <author>
             <name>Jia Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock]]></title>
-        <id>fac1072f2b23024e3770f0135a2d5b51c4037f88</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/"/>
-        <updated>2026-01-14T21:24:09.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore the architecture that AutoScout24 used to build their standardized AI development framework, enabling rapid deployment of secure and scalable AI agents.]]></summary>
-        <author>
-            <name>Andrew Shved</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities]]></title>
-        <id>e39a43be26f9f4eb821cb27f270d266d7175ed49</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/"/>
-        <updated>2026-01-14T21:13:42.000Z</updated>
-        <summary type="html"><![CDATA[This post explores how new serverless model customization capabilities, elastic training, checkpointless training, and serverless MLflow work together to accelerate your AI development from months to days.]]></summary>
-        <author>
-            <name>Ankur Mehrotra</name>
         </author>
     </entry>
 </feed>

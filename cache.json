@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "0cbe16ca98bef589de7fcf6ba5ec623095bdb76d",
+          "author": "Bradley Wyman",
+          "description": "The release of Anthropic Claude Sonnet 4.5 in the AWS GovCloud (US) Region introduces a straightforward on-ramp for AI-assisted development for workloads with regulatory compliance requirements. In this post, we explore how to combine Claude Sonnet 4.5 on Amazon Bedrock in AWS GovCloud (US) with Claude Code, an agentic coding assistant released by Anthropic. This […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+          "publishedOn": "2026-02-16T17:45:27.000Z",
+          "wordCount": 33009,
+          "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/16/2026_featuredimages_19466.png"
+        },
+        {
           "id": "3f38f6a34e2d974de41c636f962d524cf61126a3",
           "author": "Joshua Samuel",
           "description": "Today, we are announcing three new capabilities that address these requirements: proxy configuration, browser profiles, and browser extensions. Together, these features give you fine-grained control over how your AI agents interact with the web. This post will walk through each capability with configuration examples and practical use cases to help you get started.",

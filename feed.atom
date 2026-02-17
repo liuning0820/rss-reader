@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-17T14:42:57.961Z</updated>
+    <updated>2026-02-17T16:55:02.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[In this post, we'll guide you through building multimodal RAG applications. You'll learn how multimodal knowledge bases work, how to choose the right processing strategy based on your content type, and how to configure and implement multimodal retrieval using both the console and code examples.]]></summary>
         <author>
             <name>Dani Mitchell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #506]]></title>
-        <id>https://sreweekly.com/?p=1725</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-506/"/>
-        <updated>2026-01-19T02:50:58.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Costory: You didn’t sign up to do FinOps.Costory automatically explains why your cloud costs change, and reports it straight to Slack.Built for SREs who want to code, not wrestle with spreadsheets.Now on AWS & GCP Marketplaces. Start your free trial at costory.io What came first- the CNAME […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

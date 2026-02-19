@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-19T14:43:28.336Z</updated>
+    <updated>2026-02-19T16:50:13.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build AI workflows on Amazon EKS with Union.ai and Flyte]]></title>
+        <id>d6aab1429cf51a49084dfa78df84652df04f13b6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/"/>
+        <updated>2026-02-19T16:28:21.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.]]></summary>
+        <author>
+            <name>ND Ngoka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Quick Suite now supports key pair authentication to Snowflake data source]]></title>
+        <id>315d596433d922e7884618b1cec9652fd21dcca5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/"/>
+        <updated>2026-02-19T16:06:41.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we will guide you through establishing data source connectivity between Amazon Quick Sight and Snowflake through secure key pair authentication.]]></summary>
+        <author>
+            <name>Vignessh Baskaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build unified intelligence with Amazon Bedrock AgentCore]]></title>
         <id>e90b7327079233769da24369d7573bd414a47521</id>

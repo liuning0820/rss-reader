@@ -97,6 +97,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d6aab1429cf51a49084dfa78df84652df04f13b6",
+          "author": "ND Ngoka",
+          "description": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernetes Service (Amazon EKS), integrating seamlessly with AWS services like Amazon Simple Storage Service (Amazon S3), Amazon Aurora, AWS Identity and Access Management (IAM), and Amazon CloudWatch. We explore the solution through an AI workflow example, using the new Amazon S3 Vectors service.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
+          "publishedOn": "2026-02-19T16:28:21.000Z",
+          "wordCount": 34449,
+          "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/19/ML-19776-1120x630.png"
+        },
+        {
+          "id": "315d596433d922e7884618b1cec9652fd21dcca5",
+          "author": "Vignessh Baskaran",
+          "description": "In this blog post, we will guide you through establishing data source connectivity between Amazon Quick Sight and Snowflake through secure key pair authentication.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/",
+          "publishedOn": "2026-02-19T16:06:41.000Z",
+          "wordCount": 32937,
+          "title": "Amazon Quick Suite now supports key pair authentication to Snowflake data source",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/19/bi-8236-1120x630.png"
+        },
+        {
           "id": "e90b7327079233769da24369d7573bd414a47521",
           "author": "Monica Jain",
           "description": "In this post, we demonstrate how to build unified intelligence systems using Amazon Bedrock AgentCore through our real-world implementation of the Customer Agent and Knowledge Engine (CAKE).",

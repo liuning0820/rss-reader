@@ -535,16 +535,6 @@
           "wordCount": 32416,
           "title": "How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/21/ml-19139-1120x630.png"
-        },
-        {
-          "id": "0b51660e16f811c5a22252b8747c11cc16996246",
-          "author": "Naveen Pollamreddi, Seth Krause",
-          "description": "This blog post explains how TR's Platform Engineering team, a geographically distributed unit overseeing TR's service availability, boosted its operational productivity by transitioning from manual to an automated agentic system using Amazon Bedrock AgentCore.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-01-21T21:39:42.000Z",
-          "wordCount": 33265,
-          "title": "How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/21/AWS_Blog_FeaturedImg_20007.png"
         }
       ]
     }

@@ -545,16 +545,6 @@
           "wordCount": 33265,
           "title": "How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/21/AWS_Blog_FeaturedImg_20007.png"
-        },
-        {
-          "id": "20a5fef0ed2b563bff956590a53cbf7c7e3d298f",
-          "author": "Jiarong Jiang",
-          "description": "In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/",
-          "publishedOn": "2026-01-21T19:45:04.000Z",
-          "wordCount": 34869,
-          "title": "Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/21/ml-20068-1-1120x630.png"
         }
       ]
     }

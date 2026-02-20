@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-20T06:54:02.307Z</updated>
+    <updated>2026-02-20T08:37:41.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[This blog post explains how TR's Platform Engineering team, a geographically distributed unit overseeing TR's service availability, boosted its operational productivity by transitioning from manual to an automated agentic system using Amazon Bedrock AgentCore.]]></summary>
         <author>
             <name>Naveen Pollamreddi, Seth Krause</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory]]></title>
-        <id>20a5fef0ed2b563bff956590a53cbf7c7e3d298f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/"/>
-        <updated>2026-01-21T19:45:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.]]></summary>
-        <author>
-            <name>Jiarong Jiang</name>
         </author>
     </entry>
 </feed>

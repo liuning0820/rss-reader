@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-20T18:43:08.903Z</updated>
+    <updated>2026-02-20T20:28:21.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads]]></title>
+        <id>96a1627efdc06412b2cdbcb4f67952843bf54492</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/"/>
+        <updated>2026-02-20T20:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and model hosting.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker AI in 2025, a year in review part 2: Improved observability and enhanced features for SageMaker AI model customization and hosting]]></title>
+        <id>f756ea282e66709ee5e3cc86e5b282b32f0f670c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/"/>
+        <updated>2026-02-20T20:26:30.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, Amazon SageMaker AI made several improvements designed to help you train, tune, and host generative AI workloads. In Part 1 of this series, we discussed Flexible Training Plans and price performance improvements made to inference components. In this post, we discuss enhancements made to observability, model customization, and model hosting. These improvements facilitate a whole new class of customer use cases to be hosted on SageMaker AI.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP)]]></title>
         <id>bb74441898c317f44a8aa3090000d225d9613175</id>

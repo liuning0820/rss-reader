@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-20T04:15:55.764Z</updated>
+    <updated>2026-02-20T06:54:02.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -524,26 +524,6 @@
         <summary type="html"><![CDATA[In this post, we walk you through the complete architecture to structure and store episodes, discuss the reflection module, and share compelling benchmarks that demonstrate significant improvements in agent task success rates.]]></summary>
         <author>
             <name>Jiarong Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How bunq handles 97% of support with Amazon Bedrock]]></title>
-        <id>63e36a500e63faad2183229de21c3ffff3bd7f47</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-bunq-handles-97-of-support-with-amazon-bedrock/"/>
-        <updated>2026-01-21T17:50:35.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how bunq upgraded Finn, its in-house generative AI assistant, using Amazon Bedrock to transform user support and banking operations to be seamless, in multiple languages and time zones.]]></summary>
-        <author>
-            <name>Benjamin Kleppe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Strands Agents to create a multi-agent solution with Meta’s Llama 4 and Amazon Bedrock]]></title>
-        <id>796f8dc4b204653fd4f32a190f60063b1fce4f1f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/using-strands-agents-to-create-a-multi-agent-solution-with-metas-llama-4-and-amazon-bedrock/"/>
-        <updated>2026-01-21T17:47:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how to build a multi-agent video processing workflow using Strands Agents, Meta's Llama 4 models, and Amazon Bedrock to automatically analyze and understand video content through specialized AI agents working in coordination. To showcase the solution, we will use Amazon SageMaker AI to walk you through the code.]]></summary>
-        <author>
-            <name>Sebastian Bustillo</name>
         </author>
     </entry>
 </feed>

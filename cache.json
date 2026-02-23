@@ -86,6 +86,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "03ce9f4b3515b2dd16a3a38287be6358160d13cc",
+          "author": "Matthew Lee",
+          "description": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
+          "publishedOn": "2026-02-23T17:31:45.000Z",
+          "wordCount": 33351,
+          "title": "How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ML-19358-1120x630.png"
+        },
+        {
+          "id": "f452a6551d9477051ffb821edb1d8fc3bbedf56a",
+          "author": "Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz",
+          "description": "In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2026-02-23T17:29:11.000Z",
+          "wordCount": 33124,
+          "title": "Accelerating AI model production at Hexagon with Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ml-19589-1120x630.png"
+        },
+        {
           "id": "7e5ad796bed46648b4fe0f9c0dbfac9cd6b1c766",
           "author": "Sanhita Sarkar",
           "description": "Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.",

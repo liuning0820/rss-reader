@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-23T14:42:30.661Z</updated>
+    <updated>2026-02-23T16:54:20.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI with multi-model framework using Hugging Face smolagents on AWS]]></title>
+        <id>7e5ad796bed46648b4fe0f9c0dbfac9cd6b1c766</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/"/>
+        <updated>2026-02-23T15:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.]]></summary>
+        <author>
+            <name>Sanhita Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads]]></title>
         <id>96a1627efdc06412b2cdbcb4f67952843bf54492</id>

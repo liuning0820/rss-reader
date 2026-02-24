@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6745",
+          "author": "Chris Swan",
+          "description": "TL;DR nFPM makes it very easy to put your binaries into a Debian .deb or RedHat Package Manager .rpm file. Background We’ve been using full stack Dart and Flutter at Atsign since the dawn of the company in 2019, so when NoPorts came along we released the binaries in tarballs (or zip files) from GitHub […]",
+          "link": "https://blog.thestateofme.com/2026/02/24/packaging-dart-binaries-as-deb-and-rpm-etc/",
+          "publishedOn": "2026-02-24T13:13:30.000Z",
+          "wordCount": null,
+          "title": "Packaging Dart binaries as .deb and .rpm etc.",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6684",
           "author": "Chris Swan",
           "description": "Pupdate The New Year had barely begun and we had a cold snap and some snow. Milo’s back in remission thankfully, though there have been a few hiccups with his treatment this time around. Some of that’s expected (low neutrophils), but the vets struggling to get canulas in due to vein scarring is new and […]",
@@ -60,16 +70,6 @@
           "publishedOn": "2026-02-02T04:01:13.000Z",
           "wordCount": 1161,
           "title": "SRE Weekly Issue #508",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1728",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: incident.io lives inside Slack and Microsoft Teams, breaking down emergencies into actionable steps to resolution. Alerts auto-create channels, ping the right people, log actions in real time, and generate postmortems with full context.Move fast when you break things and stay organized inside the tool your team already […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-507/",
-          "publishedOn": "2026-01-26T02:18:41.000Z",
-          "wordCount": 1112,
-          "title": "SRE Weekly Issue #507",
           "imageUrl": null
         }
       ]

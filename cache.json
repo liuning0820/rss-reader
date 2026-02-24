@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6745",
+          "author": "Chris Swan",
+          "description": "TL;DR nFPM makes it very easy to put your binaries into a Debian .deb or RedHat Package Manager .rpm file. Background We’ve been using full stack Dart and Flutter at Atsign since the dawn of the company in 2019, so when NoPorts came along we released the binaries in tarballs (or zip files) from GitHub […]",
+          "link": "http://blog.thestateofme.com/2026/02/24/packaging-dart-binaries-as-deb-and-rpm-etc/",
+          "publishedOn": "2026-02-24T13:13:30.000Z",
+          "wordCount": 4092,
+          "title": "Packaging Dart binaries as .deb and .rpm etc.",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6745",
           "author": "Chris Swan",
@@ -85,6 +95,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "5a530267af19ba99525397189d16214bb54387f6",
+          "author": "Kara Yang",
+          "description": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition for face and object detection, Amazon Neptune for relationship mapping, and Amazon Bedrock for AI-powered captioning.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
+          "publishedOn": "2026-02-24T18:22:26.000Z",
+          "wordCount": 33557,
+          "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19599-1120x630.png"
+        },
         {
           "id": "2ec43fe7e44c8ceaad0ccd466c69a01bfb1252bf",
           "author": "Bruno Pistone",

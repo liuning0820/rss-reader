@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-24T14:47:54.087Z</updated>
+    <updated>2026-02-24T17:04:02.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs]]></title>
+        <id>2ec43fe7e44c8ceaad0ccd466c69a01bfb1252bf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/"/>
+        <updated>2026-02-24T15:46:50.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy Optimization (GRPO) with veRL, a flexible and efficient training library for large language models (LLMs) that enables straightforward extension of diverse RL algorithms and seamless integration with existing LLM infrastructure, within a distributed Ray cluster managed by SageMaker training jobs. We walk through the complete implementation, covering data preparation, distributed training setup, and comprehensive observability, showcasing how this unified approach delivers both computational scale and developer experience for sophisticated RL training workloads.]]></summary>
+        <author>
+            <name>Bruno Pistone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate structured output from LLMs with Dottxt Outlines in AWS]]></title>
+        <id>5092e0bb8e9676f66fd549cc8435fceeb222c9c3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/"/>
+        <updated>2026-02-24T15:42:34.000Z</updated>
+        <summary type="html"><![CDATA[This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker.]]></summary>
+        <author>
+            <name>Clement Perrot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan]]></title>
+        <id>0b34c447d2a1aebf45620c1c5759bbeb5ea5d5be</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/"/>
+        <updated>2026-02-24T15:38:22.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkthrough of technical implementation steps, and cover quota management best practices to maximize the value of your AI Inference deployments. We also provide guidance on best practices for production deployments.]]></summary>
+        <author>
+            <name>Traci Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)]]></title>
+        <id>610d64b012573b6c36fa2c596c49212fcd7f4757</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/"/>
+        <updated>2026-02-24T15:33:51.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start building generative AI applications immediately.]]></summary>
+        <author>
+            <name>Hossam Basudan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Packaging Dart binaries as .deb and .rpm etc.]]></title>
         <id>http://blog.thestateofme.com/?p=6745</id>

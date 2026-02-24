@@ -86,6 +86,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "1d76b47b2cabc23cb671f0e8eabfe1fa3a73073b",
+          "author": "Laura Kulowski",
+          "description": "In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Generative AI Innovation Center to apply vision-language models that analyze construction video footage, extract operational details, and generate labeled training datasets at scale, to improve data preparation for autonomous construction equipment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/",
+          "publishedOn": "2026-02-23T23:20:37.000Z",
+          "wordCount": 32823,
+          "title": "Scaling data annotation using vision-language models to power physical AI systems",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ml-20346-1120x630.png"
+        },
+        {
           "id": "03ce9f4b3515b2dd16a3a38287be6358160d13cc",
           "author": "Matthew Lee",
           "description": "In this post, we explore how Sonrai, a life sciences AI company, partnered with AWS to build a robust MLOps framework using Amazon SageMaker AI that addresses these challenges while maintaining the traceability and reproducibility required in regulated environments.",

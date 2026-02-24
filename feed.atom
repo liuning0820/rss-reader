@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-23T22:38:30.684Z</updated>
+    <updated>2026-02-24T01:57:47.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling data annotation using vision-language models to power physical AI systems]]></title>
+        <id>1d76b47b2cabc23cb671f0e8eabfe1fa3a73073b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/"/>
+        <updated>2026-02-23T23:20:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we examine how Bedrock Robotics tackles this challenge. By joining the AWS Physical AI Fellowship, the startup partnered with the AWS Generative AI Innovation Center to apply vision-language models that analyze construction video footage, extract operational details, and generate labeled training datasets at scale, to improve data preparation for autonomous construction equipment.]]></summary>
+        <author>
+            <name>Laura Kulowski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Sonrai uses Amazon SageMaker AI to accelerate precision medicine trials]]></title>
         <id>03ce9f4b3515b2dd16a3a38287be6358160d13cc</id>

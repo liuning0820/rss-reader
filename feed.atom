@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-25T04:25:43.753Z</updated>
+    <updated>2026-02-25T06:59:38.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -564,16 +564,6 @@
         <summary type="html"><![CDATA[This blog post demonstrates how to build an intelligent contract management solution using Amazon Quick Suite as your primary contract management solution, augmented with Amazon Bedrock AgentCore for advanced multi-agent capabilities.]]></summary>
         <author>
             <name>Oliver Steffmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a serverless AI Gateway architecture with AWS AppSync Events]]></title>
-        <id>fa46d998fbd41783bfacd7eae2d1277ff537960d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/"/>
-        <updated>2026-01-26T17:20:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss how to use AppSync Events as the foundation of a capable, serverless, AI gateway architecture. We explore how it integrates with AWS services for comprehensive coverage of the capabilities offered in AI gateway architectures. Finally, we get you started on your journey with sample code you can launch in your account and begin building.]]></summary>
-        <author>
-            <name>Archie Cowan</name>
         </author>
     </entry>
 </feed>

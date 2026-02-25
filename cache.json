@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "61a60ca498d929c7ad189e9f5d619a92ba5ff859",
+          "author": "Danielle Robinson",
+          "description": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
+          "publishedOn": "2026-02-25T20:56:13.000Z",
+          "wordCount": 34210,
+          "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/25/ML-20205-1120x630.png"
+        },
+        {
           "id": "a924887ed9c94798cb934925ac949c00aea76df4",
           "author": "Dani Mitchell",
           "description": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee preferences and builds personalized experiences over time, while Amazon Bedrock AgentCore handles the heavy lifting of production deployment: Amazon Bedrock AgentCore Memory for maintaining both conversation context and long-term preferences without custom storage solutions, Amazon Bedrock AgentCore Identity for secure multi-IDP authentication, and Amazon Bedrock AgentCore Runtime for serverless scaling and session isolation. We will also use Amazon Bedrock Knowledge Bases for managed RAG and event data retrieval.",

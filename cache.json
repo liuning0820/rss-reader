@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6745",
@@ -599,16 +599,6 @@
           "wordCount": 35411,
           "title": "Build a serverless AI Gateway architecture with AWS AppSync Events",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/26/ml-19840-1120x630.png"
-        },
-        {
-          "id": "0719c2e26a963f0ae078edc3c2f6759029901ded",
-          "author": "Nikhil Mathugar, Marc Breslow, Sudhanshu Sinha",
-          "description": "This blog post describes how Totogi automates change request processing by partnering with the AWS Generative AI Innovation Center and using the rapid innovation capabilities of Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/",
-          "publishedOn": "2026-01-26T16:16:25.000Z",
-          "wordCount": 33436,
-          "title": "How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/26/ml-19043-1120x630.png"
         }
       ]
     }

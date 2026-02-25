@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-25T19:03:47.901Z</updated>
+    <updated>2026-02-25T20:33:29.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases]]></title>
+        <id>a924887ed9c94798cb934925ac949c00aea76df4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/"/>
+        <updated>2026-02-25T19:51:08.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee preferences and builds personalized experiences over time, while Amazon Bedrock AgentCore handles the heavy lifting of production deployment: Amazon Bedrock AgentCore Memory for maintaining both conversation context and long-term preferences without custom storage solutions, Amazon Bedrock AgentCore Identity for secure multi-IDP authentication, and Amazon Bedrock AgentCore Runtime for serverless scaling and session isolation. We will also use Amazon Bedrock Knowledge Bases for managed RAG and event data retrieval.]]></summary>
+        <author>
+            <name>Dani Mitchell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock]]></title>
         <id>5a530267af19ba99525397189d16214bb54387f6</id>

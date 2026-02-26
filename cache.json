@@ -589,26 +589,6 @@
           "wordCount": 32944,
           "title": "Scaling content review operations with multi-agent workflow",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/29/AWS_Blog_Content.png"
-        },
-        {
-          "id": "929921e36864449df32bf7a94b36b6d415bfa5db",
-          "author": "Roger Wang",
-          "description": "In this post, we walk you through Pushpay's journey in building this solution and explore how Pushpay used Amazon Bedrock to create a custom generative AI evaluation framework for continuous quality assurance and establishing rapid iteration feedback loops on AWS.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/",
-          "publishedOn": "2026-01-27T17:39:57.000Z",
-          "wordCount": 33752,
-          "title": "Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay’s journey on GenAI evaluation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/27/ml-19958-1120x630.png"
-        },
-        {
-          "id": "60f3d6cfabcdfcd82e2beab156ef6f04dd8c07ce",
-          "author": "Oliver Steffmann",
-          "description": "This blog post demonstrates how to build an intelligent contract management solution using Amazon Quick Suite as your primary contract management solution, augmented with Amazon Bedrock AgentCore for advanced multi-agent capabilities.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/",
-          "publishedOn": "2026-01-27T16:28:16.000Z",
-          "wordCount": 33405,
-          "title": "Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/27/ml-19870-1120x630.png"
         }
       ]
     }

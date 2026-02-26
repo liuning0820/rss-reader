@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-26T16:55:50.779Z</updated>
+    <updated>2026-02-26T18:50:41.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learnings from COBOL modernization in the real world]]></title>
+        <id>198c9799e640c51b0287b81ea3ae6400e4e0cea5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/"/>
+        <updated>2026-02-26T18:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.]]></summary>
+        <author>
+            <name>Dr. Asa Kalavade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback]]></title>
+        <id>56b7071fcad978cd7a0b21f92935baa1b153cbfd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/"/>
+        <updated>2026-02-26T17:48:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluation rather than imitation. We'll cover how RFT works, when to use it versus supervised fine-tuning, real-world applications from code generation to customer service, and implementation options ranging from fully managed Amazon Bedrock to multi-turn agentic workflows with Nova Forge. You'll also learn practical guidance on data preparation, reward function design, and best practices for achieving optimal results.]]></summary>
+        <author>
+            <name>Bharathan Balaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large model inference container – latest capabilities and performance enhancements]]></title>
+        <id>d3037eba588da28f924207de615e7ed509228ce3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/"/>
+        <updated>2026-02-26T17:45:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.]]></summary>
+        <author>
+            <name>Dmitry Soldatkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock]]></title>
         <id>61a60ca498d929c7ad189e9f5d619a92ba5ff859</id>

@@ -6,6 +6,16 @@
       "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
+          "id": "https://blog.thestateofme.com/?p=6754",
+          "author": "Chris Swan",
+          "description": "TL;DR GitHub Pages is a practical way to host a low volume repo for apt and yum/dnf. The relevant metadata can be generated using GitHub Actions, and the process can be triggered by a release from the source repo. Background In my last post I wrote about creating .deb and .rpm packages (for our Dart […]",
+          "link": "http://blog.thestateofme.com/2026/02/27/publishing-apt-and-yum-dnf-repos-on-github-pages/",
+          "publishedOn": "2026-02-27T13:40:20.000Z",
+          "wordCount": 4279,
+          "title": "Publishing apt and yum/dnf repos on GitHub Pages",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6745",
           "author": "Chris Swan",
           "description": "TL;DR nFPM makes it very easy to put your binaries into a Debian .deb or RedHat Package Manager .rpm file. Background We’ve been using full stack Dart and Flutter at Atsign since the dawn of the company in 2019, so when NoPorts came along we released the binaries in tarballs (or zip files) from GitHub […]",

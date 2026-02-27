@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-27T14:37:08.101Z</updated>
+    <updated>2026-02-27T16:38:07.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Publishing apt and yum/dnf repos on GitHub Pages]]></title>
+        <id>http://blog.thestateofme.com/?p=6754</id>
+        <link href="https://blog.thestateofme.com/2026/02/27/publishing-apt-and-yum-dnf-repos-on-github-pages/"/>
+        <updated>2026-02-27T13:40:20.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR GitHub Pages is a practical way to host a low volume repo for apt and yum/dnf. The relevant metadata can be generated using GitHub Actions, and the process can be triggered by a release from the source repo. Background In my last post I wrote about creating .deb and .rpm packages (for our Dart […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Publishing apt and yum/dnf repos on GitHub Pages]]></title>
         <id>https://blog.thestateofme.com/?p=6754</id>

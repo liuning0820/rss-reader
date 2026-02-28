@@ -629,16 +629,6 @@
           "wordCount": 33407,
           "title": "Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/27/ml-20101-1120x630.jpg"
-        },
-        {
-          "id": "1001b2a4da4643d9607dc32ebaca169d965ce6b0",
-          "author": "Sarath Krishnan",
-          "description": "The agent-based approach we present is applicable to any type of enterprise content, from product documentation and knowledge bases to marketing materials and technical specifications. To demonstrate these concepts in action, we walk through a practical example of reviewing blog content for technical accuracy. These patterns and techniques can be directly adapted to various content review needs by adjusting the agent configurations, tools, and verification sources.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/",
-          "publishedOn": "2026-01-29T23:32:14.000Z",
-          "wordCount": 32944,
-          "title": "Scaling content review operations with multi-agent workflow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/29/AWS_Blog_Content.png"
         }
       ]
     }

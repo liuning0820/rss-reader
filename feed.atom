@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-02-28T10:20:41.547Z</updated>
+    <updated>2026-02-28T12:40:56.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -604,16 +604,6 @@
         <summary type="html"><![CDATA[In this post, we walk through how global cross-Region inference routes requests and where your data resides, then show you how to configure the required AWS Identity and Access Management (IAM) permissions and invoke Claude 4.5 models using the global inference profile Amazon Resource Name (ARN). We also cover how to request quota increases for your workload. By the end, you'll have a working implementation of global cross-Region inference in af-south-1.]]></summary>
         <author>
             <name>Christian Kamwangala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling content review operations with multi-agent workflow]]></title>
-        <id>1001b2a4da4643d9607dc32ebaca169d965ce6b0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/"/>
-        <updated>2026-01-29T23:32:14.000Z</updated>
-        <summary type="html"><![CDATA[The agent-based approach we present is applicable to any type of enterprise content, from product documentation and knowledge bases to marketing materials and technical specifications. To demonstrate these concepts in action, we walk through a practical example of reviewing blog content for technical accuracy. These patterns and techniques can be directly adapted to various content review needs by adjusting the agent configurations, tools, and verification sources.]]></summary>
-        <author>
-            <name>Sarath Krishnan</name>
         </author>
     </entry>
 </feed>

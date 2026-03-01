@@ -619,16 +619,6 @@
           "wordCount": 33345,
           "title": "Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/30/AWS_Blog_FeaturedImg_ModelOps.png"
-        },
-        {
-          "id": "ccc21411040bd60cec81ac0718e06eac3f038d70",
-          "author": "Christian Kamwangala",
-          "description": "In this post, we walk through how global cross-Region inference routes requests and where your data resides, then show you how to configure the required AWS Identity and Access Management (IAM) permissions and invoke Claude 4.5 models using the global inference profile Amazon Resource Name (ARN). We also cover how to request quota increases for your workload. By the end, you'll have a working implementation of global cross-Region inference in af-south-1.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/scale-ai-in-south-africa-using-amazon-bedrock-global-cross-region-inference-with-anthropic-claude-4-5-models/",
-          "publishedOn": "2026-01-30T17:12:02.000Z",
-          "wordCount": 33407,
-          "title": "Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic Claude 4.5 models",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/27/ml-20101-1120x630.jpg"
         }
       ]
     }

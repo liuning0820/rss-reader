@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=6754",
@@ -609,16 +609,6 @@
           "wordCount": 35215,
           "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/07/17/ML-19175_FeaturedImg.png"
-        },
-        {
-          "id": "1d57febaff5a6878b936c3c00ac0d6c202985a6f",
-          "author": "Christian Kamwangala",
-          "description": "This post explores how you can use Amazon S3-based templates to simplify ModelOps workflows, walk through the key benefits compared to using Service Catalog approaches, and demonstrates how to create a custom ModelOps solution that integrates with GitHub and GitHub Actions—giving your team one-click provisioning of a fully functional ML environment.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/",
-          "publishedOn": "2026-01-30T17:18:57.000Z",
-          "wordCount": 33345,
-          "title": "Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/30/AWS_Blog_FeaturedImg_ModelOps.png"
         }
       ]
     }

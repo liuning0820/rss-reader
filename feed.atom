@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-01T05:15:48.748Z</updated>
+    <updated>2026-03-01T06:42:24.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -584,16 +584,6 @@
         <summary type="html"><![CDATA[Evaluating the performance of large language models (LLMs) goes beyond statistical metrics like perplexity or bilingual evaluation understudy (BLEU) scores. For most real-world generative AI scenarios, it’s crucial to understand whether a model is producing better outputs than a baseline or an earlier iteration. This is especially important for applications such as summarization, content generation, […]]]></summary>
         <author>
             <name>Surya Kari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates]]></title>
-        <id>1d57febaff5a6878b936c3c00ac0d6c202985a6f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/"/>
-        <updated>2026-01-30T17:18:57.000Z</updated>
-        <summary type="html"><![CDATA[This post explores how you can use Amazon S3-based templates to simplify ModelOps workflows, walk through the key benefits compared to using Service Catalog approaches, and demonstrates how to create a custom ModelOps solution that integrates with GitHub and GitHub Actions—giving your team one-click provisioning of a fully functional ML environment.]]></summary>
-        <author>
-            <name>Christian Kamwangala</name>
         </author>
     </entry>
 </feed>

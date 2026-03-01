@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6742",
+          "author": "Chris Swan",
+          "description": "Pupdate It’s been a pretty dank February, so the coats have mostly stayed on for walks. But the boys have been enjoying their usual doggy mischief. Milo is now half way through his 4th chemo protocol, and the second half has previous been easier as the pace slows down to vet visits every two weeks. […]",
+          "link": "https://blog.thestateofme.com/2026/03/01/february-2026/",
+          "publishedOn": "2026-03-01T14:47:50.000Z",
+          "wordCount": 4797,
+          "title": "February 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/02/pups_202602.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6754",
           "author": "Chris Swan",
           "description": "TL;DR GitHub Pages is a practical way to host a low volume repo for apt and yum/dnf. The relevant metadata can be generated using GitHub Actions, and the process can be triggered by a release from the source repo. Background In my last post I wrote about creating .deb and .rpm packages (for our Dart […]",

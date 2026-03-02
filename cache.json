@@ -136,6 +136,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5",
+          "author": "Yuan Wei",
+          "description": "In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer (VOC) classification task, benchmarked against open-source models.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
+          "publishedOn": "2026-03-02T19:32:47.000Z",
+          "wordCount": 33414,
+          "title": "Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ml-20456-1120x630.png"
+        },
+        {
+          "id": "214078cbb945cc88c6457194d6d9c3916f460755",
+          "author": "Sri Potluri",
+          "description": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-03-02T18:51:43.000Z",
+          "wordCount": 34273,
+          "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ml-18704-1120x630.png"
+        },
+        {
+          "id": "9fb138a73f395d36161642896dfce021092df571",
+          "author": "Daniel Khain",
+          "description": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, and monitor your deployment effectively to maintain the right balance between safety and user experience.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
+          "publishedOn": "2026-03-02T18:48:25.000Z",
+          "wordCount": 34115,
+          "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ML-20338-1120x630.png"
+        },
+        {
           "id": "198c9799e640c51b0287b81ea3ae6400e4e0cea5",
           "author": "Dr. Asa Kalavade",
           "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",

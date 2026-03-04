@@ -658,16 +658,6 @@
           "wordCount": 33523,
           "title": "Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/03/ml-20388-1120x630.png"
-        },
-        {
-          "id": "cf565cf92b03540033273c6fffdc92969d0087f7",
-          "author": "Rishi Srivastava, Scott Reynolds",
-          "description": "In this post, we illustrate how Clarus Care, a healthcare contact center solutions provider, worked with the AWS Generative AI Innovation Center (GenAIIC) team to develop a generative AI-powered contact center prototype. This solution enables conversational interaction and multi-intent resolution through an automated voicebot and chat interface. It also incorporates a scalable service model to support growth, human transfer capabilities--when requested or for urgent cases--and an analytics pipeline for performance insights.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/",
-          "publishedOn": "2026-02-02T16:34:21.000Z",
-          "wordCount": 34764,
-          "title": "How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/02/ml-19356-1120x630.png"
         }
       ]
     }

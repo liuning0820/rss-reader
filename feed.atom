@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-04T04:07:20.659Z</updated>
+    <updated>2026-03-04T06:43:10.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -634,16 +634,6 @@
         <summary type="html"><![CDATA[After previous trips to The Three Valleys and Espace Killy, Paradiski felt like a way to complete the set of long established multi location French ski areas. Inghams again Having organised the last few trips with Inghams, they were where I looked first, and in the end the provider I chose. Getting there Another flight […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions]]></title>
-        <id>cf565cf92b03540033273c6fffdc92969d0087f7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/"/>
-        <updated>2026-02-02T16:34:21.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we illustrate how Clarus Care, a healthcare contact center solutions provider, worked with the AWS Generative AI Innovation Center (GenAIIC) team to develop a generative AI-powered contact center prototype. This solution enables conversational interaction and multi-intent resolution through an automated voicebot and chat interface. It also incorporates a scalable service model to support growth, human transfer capabilities--when requested or for urgent cases--and an analytics pipeline for performance insights.]]></summary>
-        <author>
-            <name>Rishi Srivastava, Scott Reynolds</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-05T01:56:36.479Z</updated>
+    <updated>2026-03-05T04:13:16.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -624,26 +624,6 @@
         <summary type="html"><![CDATA[On November 21, 2025, Amazon SageMaker introduced a built-in data agent within Amazon SageMaker Unified Studio that transforms large-scale data analysis. In this post, we demonstrate, through a detailed case study of an epidemiologist conducting clinical cohort analysis, how SageMaker Data Agent can help reduce weeks of data preparation into days, and days of analysis development into hours—ultimately accelerating the path from clinical questions to research conclusions.]]></summary>
         <author>
             <name>Siddharth Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 2026]]></title>
-        <id>https://blog.thestateofme.com/?p=6684</id>
-        <link href="http://blog.thestateofme.com/2026/02/03/january-2026/"/>
-        <updated>2026-02-03T14:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The New Year had barely begun and we had a cold snap and some snow. Milo’s back in remission thankfully, though there have been a few hiccups with his treatment this time around. Some of that’s expected (low neutrophils), but the vets struggling to get canulas in due to vein scarring is new and […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 2026]]></title>
-        <id>http://blog.thestateofme.com/?p=6684</id>
-        <link href="https://blog.thestateofme.com/2026/02/03/january-2026/"/>
-        <updated>2026-02-03T14:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The New Year had barely begun and we had a cold snap and some snow. Milo’s back in remission thankfully, though there have been a few hiccups with his treatment this time around. Some of that’s expected (low neutrophils), but the vets struggling to get canulas in due to vein scarring is new and […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

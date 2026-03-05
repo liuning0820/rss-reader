@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-05T14:42:18.398Z</updated>
+    <updated>2026-03-05T18:01:38.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline]]></title>
+        <id>59f9abbdd3547603ba5e15348c7045c9c55f7963</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/"/>
+        <updated>2026-03-05T16:20:13.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through a multi-developer CI/CD pipeline for Amazon Lex that enables isolated development environments, automated testing, and streamlined deployments. We show you how to set up the solution and share real-world results from teams using this approach.]]></summary>
+        <author>
+            <name>Grazia Russo Lassner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints]]></title>
+        <id>8f03aeacf5a71d099ced2682e99809acc3a16821</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/"/>
+        <updated>2026-03-05T16:15:41.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk through deploying Llama 3.1 with SGLang on SageMaker using awslabs/ml-container-creator, then implementing a custom parser to integrate it with Strands agents.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embed Amazon Quick Suite chat agents in enterprise applications]]></title>
         <id>77e9975639aa1edccbbacdedc087b5dc5a79898f</id>

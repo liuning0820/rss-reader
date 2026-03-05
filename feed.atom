@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-05T06:49:32.991Z</updated>
+    <updated>2026-03-05T08:38:28.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -584,26 +584,6 @@
         <summary type="html"><![CDATA[Building upon our earlier work of marketing campaign image generation using Amazon Nova foundation models, in this post, we demonstrate how to enhance image generation by learning from previous marketing campaigns. We explore how to integrate Amazon Bedrock, AWS Lambda, and Amazon OpenSearch Serverless to create an advanced image generation system that uses reference campaigns to maintain brand guidelines, deliver consistent content, and enhance the effectiveness and efficiency of new campaign creation.]]></summary>
         <author>
             <name>Maria Fernanda Cortes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democratizing business intelligence: BGL’s journey with Claude Agent SDK and Amazon Bedrock AgentCore]]></title>
-        <id>18c4b4fe937d13cdc51b16e1de2462f500b9994b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/democratizing-business-intelligence-bgls-journey-with-claude-agent-sdk-and-amazon-bedrock-agentcore/"/>
-        <updated>2026-02-03T20:28:29.000Z</updated>
-        <summary type="html"><![CDATA[BGL is a leading provider of self-managed superannuation fund (SMSF) administration solutions that help individuals manage the complex compliance and reporting of their own or a client’s retirement savings, serving over 12,700 businesses across 15 countries. In this blog post, we explore how BGL built its production-ready AI agent using Claude Agent SDK and Amazon Bedrock AgentCore.]]></summary>
-        <author>
-            <name>Dustin Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Amazon Quick Suite custom action connectors to upload text files to Google Drive using OpenAPI specification]]></title>
-        <id>c56a66f29f163b347f6909b4bc7b26805324fbcd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/use-amazon-quick-suite-custom-action-connectors-to-upload-text-files-to-google-drive-using-openapi-specification/"/>
-        <updated>2026-02-03T19:14:30.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build a secure file upload solution by integrating Google Drive with Amazon Quick Suite custom connectors using Amazon API Gateway and AWS Lambda.]]></summary>
-        <author>
-            <name>Naimisha Pinna</name>
         </author>
     </entry>
 </feed>

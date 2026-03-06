@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-06T01:57:02.729Z</updated>
+    <updated>2026-03-06T04:10:57.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -594,16 +594,6 @@
         <summary type="html"><![CDATA[In this post, you will learn how to configure and use Amazon Nova Multimodal Embeddings for media asset search systems, product discovery experiences, and document retrieval applications.]]></summary>
         <author>
             <name>Yunyi Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating your marketing ideation with generative AI – Part 2: Generate custom marketing images from historical references]]></title>
-        <id>2030d00d5859b8e66ae9c052f9ea69d2ded5bb14</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-2-generate-custom-marketing-images-from-historical-references/"/>
-        <updated>2026-02-04T15:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Building upon our earlier work of marketing campaign image generation using Amazon Nova foundation models, in this post, we demonstrate how to enhance image generation by learning from previous marketing campaigns. We explore how to integrate Amazon Bedrock, AWS Lambda, and Amazon OpenSearch Serverless to create an advanced image generation system that uses reference campaigns to maintain brand guidelines, deliver consistent content, and enhance the effectiveness and efficiency of new campaign creation.]]></summary>
-        <author>
-            <name>Maria Fernanda Cortes</name>
         </author>
     </entry>
 </feed>

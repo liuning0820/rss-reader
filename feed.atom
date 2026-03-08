@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-08T04:16:10.337Z</updated>
+    <updated>2026-03-08T06:39:43.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -574,16 +574,6 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how to use the CLI and the SDK to create and manage SageMaker HyperPod clusters in your AWS account. We walk through a practical example and dive deeper into the user workflow and parameter choices.]]></summary>
         <author>
             <name>Nicolas Jourdan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluate generative AI models with an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI (Part 2)]]></title>
-        <id>3c132c9844c32b46f6d595599155be57cbfab50b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/"/>
-        <updated>2026-02-06T16:29:45.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore the Amazon Nova rubric-based judge feature: what a rubric-based judge is, how the judge is trained, what metrics to consider, and how to calibrate the judge. We chare notebook code of the Amazon Nova rubric-based LLM-as-a-judge methodology to evaluate and compare the outputs of two different LLMs using SageMaker training jobs.]]></summary>
-        <author>
-            <name>Surya Kari</name>
         </author>
     </entry>
 </feed>

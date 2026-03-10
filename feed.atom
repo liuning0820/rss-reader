@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-10T14:44:22.960Z</updated>
+    <updated>2026-03-10T16:54:13.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock]]></title>
+        <id>1ddff6acbfc1624a0069de1d46fde1b3c0f3c404</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/"/>
+        <updated>2026-03-10T15:42:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazon S3, and deploy to Amazon Bedrock using Custom Model Import for managed inference.]]></summary>
+        <author>
+            <name>Bashir Mohammed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock]]></title>
         <id>0033d79c2e4120d07a0a30ce63e53ccca50a2414</id>

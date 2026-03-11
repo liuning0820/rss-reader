@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "50a7172014425784fb45675c33833391e64c8ebb",
+          "author": "Nav Bhasin",
+          "description": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
+          "publishedOn": "2026-03-11T20:52:23.000Z",
+          "wordCount": 33032,
+          "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/11/ml-20583-1-1120x630.png"
+        },
+        {
           "id": "1ddff6acbfc1624a0069de1d46fde1b3c0f3c404",
           "author": "Bashir Mohammed",
           "description": "In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazon S3, and deploy to Amazon Bedrock using Custom Model Import for managed inference.",

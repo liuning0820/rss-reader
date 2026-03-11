@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6742",
@@ -564,16 +564,6 @@
           "wordCount": 32917,
           "title": "Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/10/ml-19206-1120x630.png"
-        },
-        {
-          "id": "7dc8875d8d7a1c33ec986f304e8cb2607b6cbd95",
-          "author": "Stefano Buliani",
-          "description": "This blog post dives deeper into the implementation architecture for the Automated Reasoning checks rewriting chatbot.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/",
-          "publishedOn": "2026-02-09T19:34:05.000Z",
-          "wordCount": 33111,
-          "title": "Automated Reasoning checks rewriting chatbot reference implementation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/09/ML-20387-1120x630.png"
         }
       ]
     }

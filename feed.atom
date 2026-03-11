@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-11T06:51:09.865Z</updated>
+    <updated>2026-03-11T08:38:20.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -534,16 +534,6 @@
         <summary type="html"><![CDATA[Amazon Nova Sonic delivers real-time, human-like voice conversations through the bidirectional streaming interface. In this post, you learn how Amazon Nova Sonic can solve some of the challenges faced by cascaded approaches, simplify building voice AI agents, and provide natural conversational capabilities. We also provide guidance on when to choose each approach to help you make informed decisions for your voice AI projects.]]></summary>
         <author>
             <name>Daniel Wirjo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Reasoning checks rewriting chatbot reference implementation]]></title>
-        <id>7dc8875d8d7a1c33ec986f304e8cb2607b6cbd95</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/"/>
-        <updated>2026-02-09T19:34:05.000Z</updated>
-        <summary type="html"><![CDATA[This blog post dives deeper into the implementation architecture for the Automated Reasoning checks rewriting chatbot.]]></summary>
-        <author>
-            <name>Stefano Buliani</name>
         </author>
     </entry>
 </feed>

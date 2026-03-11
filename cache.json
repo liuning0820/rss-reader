@@ -604,16 +604,6 @@
           "wordCount": 33825,
           "title": "Accelerate agentic application development with a full-stack starter template for Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/09/ml-20357-1120x630.png"
-        },
-        {
-          "id": "50297310b4ccc73ad36f8d84e12a1193d1735746",
-          "author": "Yoav Fishman",
-          "description": "This post walks through how agent-to-agent collaboration on Amazon Bedrock works in practice, using Amazon Nova 2 Lite for planning and Amazon Nova Act for browser interaction, to turn a fragile single-agent setup into a predictable multi-agent system.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/",
-          "publishedOn": "2026-02-09T16:00:28.000Z",
-          "wordCount": 33418,
-          "title": "Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/09/ml-20141.png"
         }
       ]
     }

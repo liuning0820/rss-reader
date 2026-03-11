@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-11T01:51:49.496Z</updated>
+    <updated>2026-03-11T04:08:11.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -574,16 +574,6 @@
         <summary type="html"><![CDATA[In this post, you will learn how to deploy Fullstack AgentCore Solution Template (FAST) to your Amazon Web Services (AWS) account, understand its architecture, and see how to extend it for your requirements. You will learn how to build your own agent while FAST handles authentication, infrastructure as code (IaC), deployment pipelines, and service integration.]]></summary>
         <author>
             <name>David Kaleko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems]]></title>
-        <id>50297310b4ccc73ad36f8d84e12a1193d1735746</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/"/>
-        <updated>2026-02-09T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[This post walks through how agent-to-agent collaboration on Amazon Bedrock works in practice, using Amazon Nova 2 Lite for planning and Amazon Nova Act for browser interaction, to turn a fragile single-agent setup into a predictable multi-agent system.]]></summary>
-        <author>
-            <name>Yoav Fishman</name>
         </author>
     </entry>
 </feed>

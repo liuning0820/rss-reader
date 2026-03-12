@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-12T20:32:14.464Z</updated>
+    <updated>2026-03-12T22:23:42.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption]]></title>
+        <id>2c48931233f251a9d27ea54990998190f1b7559b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/"/>
+        <updated>2026-03-12T21:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these work and how to set alarms, establish baselines, and proactively manage capacity using them.]]></summary>
+        <author>
+            <name>Zohreh Norouzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure AI agents with Policy in Amazon Bedrock AgentCore]]></title>
+        <id>349e4d8ef89a737bc650988a2a05d99ddc08b363</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/"/>
+        <updated>2026-03-12T21:16:50.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the agent's own reasoning. You will learn how to turn natural language descriptions of your business rules into Cedar policies, then use those policies to enforce fine-grained, identity-aware controls so that agents only access the tools and data that their users are authorized to use. You will also see how to apply Policy through AgentCore Gateway, intercepting and evaluating every agent-to-tool request at runtime.]]></summary>
+        <author>
+            <name>Bharathi Srinivasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multimodal embeddings at scale: AI data lake for media and entertainment workloads]]></title>
         <id>7c994dfa1981d115f890c8cc3d61c771d540e9f6</id>

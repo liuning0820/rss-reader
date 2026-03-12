@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-12T04:17:01.004Z</updated>
+    <updated>2026-03-12T06:52:50.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -514,36 +514,6 @@
         <summary type="html"><![CDATA[LinqAlpha is a Boston-based multi-agent AI system built specifically for institutional investors. The system supports and streamlines agentic workflows across company screening, primer generation, stock price catalyst mapping, and now, pressure-testing investment ideas through a new AI agent called Devil’s Advocate. In this post, we share how LinqAlpha uses Amazon Bedrock to build and scale Devil’s Advocate.]]></summary>
         <author>
             <name>Suyeol Yun, Jaeseon Ha, Subeen Pang, Jacob (Chanyeol) Choi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers]]></title>
-        <id>f7245e3ab31d8cad57235be544dd768a3c0e44aa</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/"/>
-        <updated>2026-02-10T18:34:09.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we discuss how Amazon Nova in Amazon Bedrock can be used to implement an AI-powered image recognition solution that automates the detection and validation of module components, significantly reducing manual verification efforts and improving accuracy.]]></summary>
-        <author>
-            <name>Bishesh Adhikari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iberdrola enhances IT operations using Amazon Bedrock AgentCore]]></title>
-        <id>22f6452381331057360af26952594cecb9a9c958</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/"/>
-        <updated>2026-02-10T18:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Iberdrola, one of the world’s largest utility companies, has embraced cutting-edge AI technology to revolutionize its IT operations in ServiceNow. Through its partnership with AWS, Iberdrola implemented different agentic architectures using Amazon Bedrock AgentCore, targeting three key areas: optimizing change request validation in the draft phase, enriching incident management with contextual intelligence, and simplifying change model selection using conversational AI. These innovations reduce bottlenecks, help teams accelerate ticket resolution, and deliver consistent and high-quality data handling throughout the organization.]]></summary>
-        <author>
-            <name>Talha Chattha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures]]></title>
-        <id>5579714f252a9c57c082877d563917a734ba4253</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/"/>
-        <updated>2026-02-10T18:29:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Nova Sonic delivers real-time, human-like voice conversations through the bidirectional streaming interface. In this post, you learn how Amazon Nova Sonic can solve some of the challenges faced by cascaded approaches, simplify building voice AI agents, and provide natural conversational capabilities. We also provide guidance on when to choose each approach to help you make informed decisions for your voice AI projects.]]></summary>
-        <author>
-            <name>Daniel Wirjo</name>
         </author>
     </entry>
 </feed>

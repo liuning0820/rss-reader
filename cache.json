@@ -96,6 +96,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "7c994dfa1981d115f890c8cc3d61c771d540e9f6",
+          "author": "Hammad Ausaf",
+          "description": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
+          "publishedOn": "2026-03-12T15:59:35.000Z",
+          "wordCount": 34237,
+          "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/09/l-ml-20012-featured.png"
+        },
+        {
+          "id": "f3b0210d594f74ddd852777305c2ba74342070c8",
+          "author": "Daniel Wirjo",
+          "description": "In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2. Using synthetic speech data to achieve superior transcription results for specialised applications, we'll walk through an end-to-end workflow that combines AWS infrastructure with the following popular open-source frameworks.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/",
+          "publishedOn": "2026-03-12T15:57:22.000Z",
+          "wordCount": 35951,
+          "title": "Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/12/ml-19906-1120x630.png"
+        },
+        {
           "id": "50a7172014425784fb45675c33833391e64c8ebb",
           "author": "Nav Bhasin",
           "description": "The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.",

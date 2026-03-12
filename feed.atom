@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-12T14:46:37.455Z</updated>
+    <updated>2026-03-12T16:56:44.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multimodal embeddings at scale: AI data lake for media and entertainment workloads]]></title>
+        <id>7c994dfa1981d115f890c8cc3d61c771d540e9f6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/"/>
+        <updated>2026-03-12T15:59:35.000Z</updated>
+        <summary type="html"><![CDATA[This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. You will learn how to move beyond manual tagging and keyword-based searches to enable semantic search that captures the full richness of video content.]]></summary>
+        <author>
+            <name>Hammad Ausaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation]]></title>
+        <id>f3b0210d594f74ddd852777305c2ba74342070c8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/"/>
+        <updated>2026-03-12T15:57:22.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2. Using synthetic speech data to achieve superior transcription results for specialised applications, we'll walk through an end-to-end workflow that combines AWS infrastructure with the following popular open-source frameworks.]]></summary>
+        <author>
+            <name>Daniel Wirjo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Operationalizing Agentic AI Part 1: A Stakeholder’s Guide]]></title>
         <id>50a7172014425784fb45675c33833391e64c8ebb</id>

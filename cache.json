@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b35f8e9d8c8db43a7d889abe56bb50d7bc4e70bd",
+          "author": "Xin Huang",
+          "description": "In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpoints.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/",
+          "publishedOn": "2026-03-13T19:27:04.000Z",
+          "wordCount": 33888,
+          "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/13/ml-20619-1120x630.png"
+        },
+        {
           "id": "2c48931233f251a9d27ea54990998190f1b7559b",
           "author": "Zohreh Norouzi",
           "description": "Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these work and how to set alarms, establish baselines, and proactively manage capacity using them.",

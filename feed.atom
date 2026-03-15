@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-15T10:27:20.959Z</updated>
+    <updated>2026-03-15T12:49:55.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -494,16 +494,6 @@
         <summary type="html"><![CDATA[The release of Anthropic Claude Sonnet 4.5 in the AWS GovCloud (US) Region introduces a straightforward on-ramp for AI-assisted development for workloads with regulatory compliance requirements. In this post, we explore how to combine Claude Sonnet 4.5 on Amazon Bedrock in AWS GovCloud (US) with Claude Code, an agentic coding assistant released by Anthropic. This […]]]></summary>
         <author>
             <name>Bradley Wyman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser]]></title>
-        <id>3f38f6a34e2d974de41c636f962d524cf61126a3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/"/>
-        <updated>2026-02-13T22:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are announcing three new capabilities that address these requirements: proxy configuration, browser profiles, and browser extensions. Together, these features give you fine-grained control over how your AI agents interact with the web. This post will walk through each capability with configuration examples and practical use cases to help you get started.]]></summary>
-        <author>
-            <name>Joshua Samuel</name>
         </author>
     </entry>
 </feed>

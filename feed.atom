@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-16T13:07:18.939Z</updated>
+    <updated>2026-03-16T14:56:58.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Workhuman built multi-tenant self-service reporting using Amazon Quick Sight embedded dashboards]]></title>
+        <id>3dc88b0ec5778d49301ddaede5884a0df7a25363</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/"/>
+        <updated>2026-03-16T14:48:16.000Z</updated>
+        <summary type="html"><![CDATA[This post explores how Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. We go through their architecture approach, implementation strategy, and the business outcomes they achieved—providing you with a practical blueprint for adding embedded analytics to your own software as a service (SaaS) applications.]]></summary>
+        <author>
+            <name>Kanniah Vagathupatti Jaikumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog]]></title>
+        <id>8a96c7cb5dc570f5d59161adcf3266c9edd86938</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/"/>
+        <updated>2026-03-16T14:42:46.000Z</updated>
+        <summary type="html"><![CDATA[This blog post provides step-by-step guidance on implementing an offline feature store using SageMaker Catalog within a SageMaker Unified Studio domain. By adopting a publish-subscribe pattern, data producers can use this solution to publish curated, versioned feature tables—while data consumers can securely discover, subscribe to, and reuse them for model development.]]></summary>
+        <author>
+            <name>Vijay Velpula</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM]]></title>
         <id>b35f8e9d8c8db43a7d889abe56bb50d7bc4e70bd</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-16T14:56:58.540Z</updated>
+    <updated>2026-03-16T16:58:47.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Disaggregated Inference on AWS powered by llm-d]]></title>
+        <id>e1f947e551966e923976a6785e6a549064b088d0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/"/>
+        <updated>2026-03-16T16:55:53.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.]]></summary>
+        <author>
+            <name>Vivek Gangasani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Workhuman built multi-tenant self-service reporting using Amazon Quick Sight embedded dashboards]]></title>
         <id>3dc88b0ec5778d49301ddaede5884a0df7a25363</id>

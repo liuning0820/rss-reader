@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "e1f947e551966e923976a6785e6a549064b088d0",
+          "author": "Vivek Gangasani",
+          "description": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their benefits and walk through how you can implement them on Amazon SageMaker HyperPod EKS to achieve significant improvements in inference performance, resource utilization, and operational efficiency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
+          "publishedOn": "2026-03-16T16:55:53.000Z",
+          "wordCount": 34400,
+          "title": "Introducing Disaggregated Inference on AWS powered by llm-d",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/16/ml-19901-1120x630.png"
+        },
+        {
           "id": "3dc88b0ec5778d49301ddaede5884a0df7a25363",
           "author": "Kanniah Vagathupatti Jaikumar",
           "description": "This post explores how Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. We go through their architecture approach, implementation strategy, and the business outcomes they achieved—providing you with a practical blueprint for adding embedded analytics to your own software as a service (SaaS) applications.",

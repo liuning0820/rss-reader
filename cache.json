@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6742",
@@ -95,6 +95,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "74879e3b430e3126536d61e6adc14f9cc47a34c7",
+          "author": "Nav Bhasin",
+          "description": "This is Part II of a two-part series from the AWS Generative AI Innovation Center. In Part II, we speak directly to the leaders who must turn that shared foundation into action. Each role carries a distinct set of responsibilities, risks, and leverage points. Whether you own a P&L, run enterprise architecture, lead security, govern data, or manage compliance, this section is written in the language of your job—because that's where agentic AI either succeeds or quietly dies.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/",
+          "publishedOn": "2026-03-16T17:55:54.000Z",
+          "wordCount": 33821,
+          "title": "Agentic AI in the Enterprise Part 2: Guidance by Persona",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/16/ml-20583-2-1120x630.png"
+        },
         {
           "id": "e1f947e551966e923976a6785e6a549064b088d0",
           "author": "Vivek Gangasani",

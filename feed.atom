@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-16T16:58:47.046Z</updated>
+    <updated>2026-03-16T18:58:36.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI in the Enterprise Part 2: Guidance by Persona]]></title>
+        <id>74879e3b430e3126536d61e6adc14f9cc47a34c7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/"/>
+        <updated>2026-03-16T17:55:54.000Z</updated>
+        <summary type="html"><![CDATA[This is Part II of a two-part series from the AWS Generative AI Innovation Center. In Part II, we speak directly to the leaders who must turn that shared foundation into action. Each role carries a distinct set of responsibilities, risks, and leverage points. Whether you own a P&L, run enterprise architecture, lead security, govern data, or manage compliance, this section is written in the language of your job—because that's where agentic AI either succeeds or quietly dies.]]></summary>
+        <author>
+            <name>Nav Bhasin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Disaggregated Inference on AWS powered by llm-d]]></title>
         <id>e1f947e551966e923976a6785e6a549064b088d0</id>

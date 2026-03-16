@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-16T20:36:23.942Z</updated>
+    <updated>2026-03-16T22:30:33.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production]]></title>
+        <id>54f8866c81d5b4739559467c85d97b8c96e68505</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/"/>
+        <updated>2026-03-16T20:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Today at NVIDIA GTC 2026, AWS and NVIDIA announced an expanded collaboration with new technology integrations to support growing AI compute demand and help you build and run AI solutions that are production-ready.]]></summary>
+        <author>
+            <name>David Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic AI in the Enterprise Part 2: Guidance by Persona]]></title>
         <id>74879e3b430e3126536d61e6adc14f9cc47a34c7</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-17T14:54:03.025Z</updated>
+    <updated>2026-03-17T17:01:33.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS AI League: Atos fine-tunes approach to AI education]]></title>
+        <id>8ab3e0585b921881693087d934be8e6f3e80d022</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/"/>
+        <updated>2026-03-17T15:51:08.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll explore how Atos used the AWS AI League to help accelerate AI education across 400+ participants, highlight the tangible benefits of gamified, experiential learning, and share actionable insights you can apply to your own AI enablement programs.]]></summary>
+        <author>
+            <name>Nick McCarthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production]]></title>
         <id>54f8866c81d5b4739559467c85d97b8c96e68505</id>

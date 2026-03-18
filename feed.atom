@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-18T05:24:28.750Z</updated>
+    <updated>2026-03-18T06:59:19.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -544,16 +544,6 @@
         <summary type="html"><![CDATA[In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.]]></summary>
         <author>
             <name>Yunfei Bai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharge regulated workloads with Claude Code and Amazon Bedrock]]></title>
-        <id>0cbe16ca98bef589de7fcf6ba5ec623095bdb76d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"/>
-        <updated>2026-02-16T17:45:27.000Z</updated>
-        <summary type="html"><![CDATA[The release of Anthropic Claude Sonnet 4.5 in the AWS GovCloud (US) Region introduces a straightforward on-ramp for AI-assisted development for workloads with regulatory compliance requirements. In this post, we explore how to combine Claude Sonnet 4.5 on Amazon Bedrock in AWS GovCloud (US) with Claude Code, an agentic coding assistant released by Anthropic. This […]]]></summary>
-        <author>
-            <name>Bradley Wyman</name>
         </author>
     </entry>
 </feed>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6742",
@@ -569,16 +569,6 @@
           "wordCount": 34931,
           "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/18/ml-20173-1120x630.png"
-        },
-        {
-          "id": "0cbe16ca98bef589de7fcf6ba5ec623095bdb76d",
-          "author": "Bradley Wyman",
-          "description": "The release of Anthropic Claude Sonnet 4.5 in the AWS GovCloud (US) Region introduces a straightforward on-ramp for AI-assisted development for workloads with regulatory compliance requirements. In this post, we explore how to combine Claude Sonnet 4.5 on Amazon Bedrock in AWS GovCloud (US) with Claude Code, an agentic coding assistant released by Anthropic. This […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
-          "publishedOn": "2026-02-16T17:45:27.000Z",
-          "wordCount": 33009,
-          "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/16/2026_featuredimages_19466.png"
         }
       ]
     }

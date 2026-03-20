@@ -669,16 +669,6 @@
           "wordCount": 34501,
           "title": "Build unified intelligence with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/01/20/ml-120135-1120x630.png"
-        },
-        {
-          "id": "42c450f9aa42b8e0c0aa51f521fa2292731ca4ea",
-          "author": "Yunfei Bai",
-          "description": "In this post, we present a comprehensive evaluation framework for Amazon agentic AI systems that addresses the complexity of agentic AI applications at Amazon through two core components: a generic evaluation workflow that standardizes assessment procedures across diverse agent implementations, and an agent evaluation library that provides systematic measurements and metrics in Amazon Bedrock AgentCore Evaluations, along with Amazon use case-specific evaluation approaches and metrics.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
-          "publishedOn": "2026-02-18T19:21:28.000Z",
-          "wordCount": 34931,
-          "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/18/ml-20173-1120x630.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-20T10:35:31.241Z</updated>
+    <updated>2026-03-20T12:55:36.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -634,16 +634,6 @@
         <summary type="html"><![CDATA[In this blog post, we will guide you through establishing data source connectivity between Amazon Quick Sight and Snowflake through secure key pair authentication.]]></summary>
         <author>
             <name>Vignessh Baskaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build unified intelligence with Amazon Bedrock AgentCore]]></title>
-        <id>e90b7327079233769da24369d7573bd414a47521</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-02-18T23:54:29.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build unified intelligence systems using Amazon Bedrock AgentCore through our real-world implementation of the Customer Agent and Knowledge Engine (CAKE).]]></summary>
-        <author>
-            <name>Monica Jain</name>
         </author>
     </entry>
 </feed>

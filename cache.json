@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6742",
@@ -609,26 +609,6 @@
           "wordCount": 34731,
           "title": "Agentic AI with multi-model framework using Hugging Face smolagents on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/23/ML-19944-1120x630.png"
-        },
-        {
-          "id": "96a1627efdc06412b2cdbcb4f67952843bf54492",
-          "author": "Dan Ferguson",
-          "description": "In 2025, Amazon SageMaker AI saw dramatic improvements to core infrastructure offerings along four dimensions: capacity, price performance, observability, and usability. In this series of posts, we discuss these various improvements and their benefits. In Part 1, we discuss capacity improvements with the launch of Flexible Training Plans. We also describe improvements to price performance for inference workloads. In Part 2, we discuss enhancements made to observability, model customization, and model hosting.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
-          "publishedOn": "2026-02-20T20:26:47.000Z",
-          "wordCount": 33975,
-          "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/20/p1-1-1120x630.png"
-        },
-        {
-          "id": "f756ea282e66709ee5e3cc86e5b282b32f0f670c",
-          "author": "Dan Ferguson",
-          "description": "In 2025, Amazon SageMaker AI made several improvements designed to help you train, tune, and host generative AI workloads. In Part 1 of this series, we discussed Flexible Training Plans and price performance improvements made to inference components. In this post, we discuss enhancements made to observability, model customization, and model hosting. These improvements facilitate a whole new class of customer use cases to be hosted on SageMaker AI.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/",
-          "publishedOn": "2026-02-20T20:26:30.000Z",
-          "wordCount": 33420,
-          "title": "Amazon SageMaker AI in 2025, a year in review part 2: Improved observability and enhanced features for SageMaker AI model customization and hosting",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/20/P2-1120x630.png"
         }
       ]
     }

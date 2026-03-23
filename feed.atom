@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-23T14:52:31.145Z</updated>
+    <updated>2026-03-23T16:54:48.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Reco transforms security alerts using Amazon Bedrock]]></title>
+        <id>73842de0f5dca6a61dfd991c60d754f9009c1b10</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/"/>
+        <updated>2026-03-23T16:46:54.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we show you how Reco implemented Amazon Bedrock to help transform security alerts and achieve significant improvements in incident response times.]]></summary>
+        <author>
+            <name>Tal Shapira, Tamir Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Amazon Bedrock AgentCore with Slack]]></title>
+        <id>d6a85497844f574664abee17d71937c64ed59a94</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/"/>
+        <updated>2026-03-23T16:38:56.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build a Slack integration using AWS Cloud Development Kit (AWS CDK). You will learn how to deploy the infrastructure with three specialized AWS Lambda functions, configure event subscriptions properly to handle Slack's security requirements, and implement conversation management patterns that work for many agent use cases.]]></summary>
+        <author>
+            <name>Salman Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcoming LLM hallucinations in regulated industries: Artificial Genius’s deterministic models on Amazon Nova]]></title>
+        <id>27aab006179d110b2df895fb622cf7f2b9685f7a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/"/>
+        <updated>2026-03-23T16:34:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on output, helping to enable safe, enterprise-grade adoption.]]></summary>
+        <author>
+            <name>Paul Burchard, Igor Halperin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #509]]></title>
         <id>https://sreweekly.com/?p=1733</id>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6742",
@@ -106,6 +106,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "73842de0f5dca6a61dfd991c60d754f9009c1b10",
+          "author": "Tal Shapira, Tamir Friedman",
+          "description": "In this blog post, we show you how Reco implemented Amazon Bedrock to help transform security alerts and achieve significant improvements in incident response times.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/",
+          "publishedOn": "2026-03-23T16:46:54.000Z",
+          "wordCount": 32553,
+          "title": "How Reco transforms security alerts using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/23/ml-18558-1120x630.png"
+        },
+        {
+          "id": "d6a85497844f574664abee17d71937c64ed59a94",
+          "author": "Salman Ahmed",
+          "description": "In this post, we demonstrate how to build a Slack integration using AWS Cloud Development Kit (AWS CDK). You will learn how to deploy the infrastructure with three specialized AWS Lambda functions, configure event subscriptions properly to handle Slack's security requirements, and implement conversation management patterns that work for many agent use cases.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/",
+          "publishedOn": "2026-03-23T16:38:56.000Z",
+          "wordCount": 33624,
+          "title": "Integrating Amazon Bedrock AgentCore with Slack",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/23/ml-19618-1120x630.png"
+        },
+        {
+          "id": "27aab006179d110b2df895fb622cf7f2b9685f7a",
+          "author": "Paul Burchard, Igor Halperin",
+          "description": "In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on output, helping to enable safe, enterprise-grade adoption.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/",
+          "publishedOn": "2026-03-23T16:34:37.000Z",
+          "wordCount": 35103,
+          "title": "Overcoming LLM hallucinations in regulated industries: Artificial Genius’s deterministic models on Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/23/ml-19714-1120x630.png"
+        },
         {
           "id": "98a5ab7866c563a5e27ba5851e15db677ef5c630",
           "author": "Aris Tsakpinis",

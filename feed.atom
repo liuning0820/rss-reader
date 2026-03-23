@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-23T02:04:40.472Z</updated>
+    <updated>2026-03-23T05:28:14.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #509]]></title>
+        <id>https://sreweekly.com/?p=1733</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-509/"/>
+        <updated>2026-03-23T03:51:27.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run NVIDIA Nemotron 3 Super on Amazon Bedrock]]></title>
         <id>98a5ab7866c563a5e27ba5851e15db677ef5c630</id>

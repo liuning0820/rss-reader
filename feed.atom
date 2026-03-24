@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-24T19:00:05.538Z</updated>
+    <updated>2026-03-24T20:38:57.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy SageMaker AI inference endpoints with set GPU capacity using training plans]]></title>
+        <id>898a34f7e635e154ed800d9d38f8ec52c33579aa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/"/>
+        <updated>2026-03-24T20:27:49.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through how to search for available p-family GPU capacity, create a training plan reservation for inference, and deploy a SageMaker AI inference endpoint on that reserved capacity. We follow a data scientist's journey as they reserve capacity for model evaluation and manage the endpoint throughout the reservation lifecycle.]]></summary>
+        <author>
+            <name>Kareem Syed-Mohammed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerating custom entity recognition with Claude tool use in Amazon Bedrock]]></title>
         <id>e924b1756ad3246a09fe12eecc77d483eedc4e6e</id>

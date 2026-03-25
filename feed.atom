@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-25T02:02:34.573Z</updated>
+    <updated>2026-03-25T05:21:40.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -634,16 +634,6 @@
         <summary type="html"><![CDATA[In this blog post, we demonstrate how Hexagon collaborated with Amazon Web Services to scale their AI model production by pretraining state-of-the-art segmentation models, using the model training infrastructure of Amazon SageMaker HyperPod.]]></summary>
         <author>
             <name>Johannes Maunz, Tobias Bösch Borgards, Bartlomiej Gralewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI with multi-model framework using Hugging Face smolagents on AWS]]></title>
-        <id>7e5ad796bed46648b4fe0f9c0dbfac9cd6b1c766</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/"/>
-        <updated>2026-02-23T15:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Hugging Face smolagents is an open source Python library designed to make it straightforward to build and run agents using a few lines of code. We will show you how to build an agentic AI solution by integrating Hugging Face smolagents with Amazon Web Services (AWS) managed services. You'll learn how to deploy a healthcare AI agent that demonstrates multi-model deployment options, vector-enhanced knowledge retrieval, and clinical decision support capabilities.]]></summary>
-        <author>
-            <name>Sanhita Sarkar</name>
         </author>
     </entry>
 </feed>

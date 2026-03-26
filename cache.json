@@ -600,46 +600,6 @@
           "wordCount": 33557,
           "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19599-1120x630.png"
-        },
-        {
-          "id": "2ec43fe7e44c8ceaad0ccd466c69a01bfb1252bf",
-          "author": "Bruno Pistone",
-          "description": "In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy Optimization (GRPO) with veRL, a flexible and efficient training library for large language models (LLMs) that enables straightforward extension of diverse RL algorithms and seamless integration with existing LLM infrastructure, within a distributed Ray cluster managed by SageMaker training jobs. We walk through the complete implementation, covering data preparation, distributed training setup, and comprehensive observability, showcasing how this unified approach delivers both computational scale and developer experience for sophisticated RL training workloads.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
-          "publishedOn": "2026-02-24T15:46:50.000Z",
-          "wordCount": 35436,
-          "title": "Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19690-1120x630.png"
-        },
-        {
-          "id": "5092e0bb8e9676f66fd549cc8435fceeb222c9c3",
-          "author": "Clement Perrot",
-          "description": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
-          "publishedOn": "2026-02-24T15:42:34.000Z",
-          "wordCount": 34112,
-          "title": "Generate structured output from LLMs with Dottxt Outlines in AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-19008-1120x630.png"
-        },
-        {
-          "id": "0b34c447d2a1aebf45620c1c5759bbeb5ea5d5be",
-          "author": "Traci Lim",
-          "description": "In this post, we are exciting to announce availability of Global CRIS for customers in Thailand, Malaysia, Singapore, Indonesia, and Taiwan and give a walkthrough of technical implementation steps, and cover quota management best practices to maximize the value of your AI Inference deployments. We also provide guidance on best practices for production deployments.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-          "publishedOn": "2026-02-24T15:38:22.000Z",
-          "wordCount": 34688,
-          "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-20127-1120x630.png"
-        },
-        {
-          "id": "610d64b012573b6c36fa2c596c49212fcd7f4757",
-          "author": "Hossam Basudan",
-          "description": "We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start building generative AI applications immediately.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/",
-          "publishedOn": "2026-02-24T15:33:51.000Z",
-          "wordCount": 32981,
-          "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic’s Claude models in the Middle East Regions (UAE and Bahrain)",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/24/ml-20333-1120x630.png"
         }
       ]
     }

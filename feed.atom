@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-25T22:33:26.439Z</updated>
+    <updated>2026-03-26T02:08:15.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -614,26 +614,6 @@
         <summary type="html"><![CDATA[We’re excited to announce the availability of Anthropic’s Claude Opus 4.6, Claude Sonnet 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 through Amazon Bedrock global cross-Region inference for customers operating in the Middle East. In this post, we guide you through the capabilities of each Anthropic Claude model variant, the key advantages of global cross-Region inference including improved resilience, real-world use cases you can implement, and a code example to help you start building generative AI applications immediately.]]></summary>
         <author>
             <name>Hossam Basudan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Packaging Dart binaries as .deb and .rpm etc.]]></title>
-        <id>https://blog.thestateofme.com/?p=6745</id>
-        <link href="http://blog.thestateofme.com/2026/02/24/packaging-dart-binaries-as-deb-and-rpm-etc/"/>
-        <updated>2026-02-24T13:13:30.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR nFPM makes it very easy to put your binaries into a Debian .deb or RedHat Package Manager .rpm file. Background We’ve been using full stack Dart and Flutter at Atsign since the dawn of the company in 2019, so when NoPorts came along we released the binaries in tarballs (or zip files) from GitHub […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Packaging Dart binaries as .deb and .rpm etc.]]></title>
-        <id>http://blog.thestateofme.com/?p=6745</id>
-        <link href="https://blog.thestateofme.com/2026/02/24/packaging-dart-binaries-as-deb-and-rpm-etc/"/>
-        <updated>2026-02-24T13:13:30.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR nFPM makes it very easy to put your binaries into a Debian .deb or RedHat Package Manager .rpm file. Background We’ve been using full stack Dart and Flutter at Atsign since the dawn of the company in 2019, so when NoPorts came along we released the binaries in tarballs (or zip files) from GitHub […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

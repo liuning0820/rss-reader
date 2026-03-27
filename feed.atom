@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-27T16:52:59.747Z</updated>
+    <updated>2026-03-27T18:53:07.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monki Gras 2026]]></title>
+        <id>http://blog.thestateofme.com/?p=6772</id>
+        <link href="https://blog.thestateofme.com/2026/03/27/monki-gras-2026/"/>
+        <updated>2026-03-27T17:23:27.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR 2026 was the best Monki Gras so far with a theme of ‘prepping craft’. A room full of techies, and a great gathering of friends, but not really a tech conference. It’s transcended tech, and become the place where the talks are about more important stuff. Monki What? Monki Gras is a London based […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)]]></title>
         <id>a8a8a5482cb738cb3789d6eadefdb2ddcb54bca7</id>

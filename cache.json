@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6789",
+          "author": "Chris Swan",
+          "description": "TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]",
+          "link": "https://blog.thestateofme.com/2026/03/28/qcon-london-2026/",
+          "publishedOn": "2026-03-28T16:31:41.000Z",
+          "wordCount": 4612,
+          "title": "QCon London 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/20yqcon.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6772",
           "author": "Chris Swan",
           "description": "TL;DR 2026 was the best Monki Gras so far with a theme of ‘prepping craft’. A room full of techies, and a great gathering of friends, but not really a tech conference. It’s transcended tech, and become the place where the talks are about more important stuff. Monki What? Monki Gras is a London based […]",

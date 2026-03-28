@@ -590,36 +590,6 @@
           "wordCount": 34115,
           "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ML-20338-1120x630.png"
-        },
-        {
-          "id": "198c9799e640c51b0287b81ea3ae6400e4e0cea5",
-          "author": "Dr. Asa Kalavade",
-          "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
-          "publishedOn": "2026-02-26T18:16:43.000Z",
-          "wordCount": 32589,
-          "title": "Learnings from COBOL modernization in the real world",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/2026_featuredimages_20620.png"
-        },
-        {
-          "id": "56b7071fcad978cd7a0b21f92935baa1b153cbfd",
-          "author": "Bharathan Balaji",
-          "description": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluation rather than imitation. We'll cover how RFT works, when to use it versus supervised fine-tuning, real-world applications from code generation to customer service, and implementation options ranging from fully managed Amazon Bedrock to multi-turn agentic workflows with Nova Forge. You'll also learn practical guidance on data preparation, reward function design, and best practices for achieving optimal results.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
-          "publishedOn": "2026-02-26T17:48:37.000Z",
-          "wordCount": 35303,
-          "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/ml-20340-1120x630.png"
-        },
-        {
-          "id": "d3037eba588da28f924207de615e7ed509228ce3",
-          "author": "Dmitry Soldatkin",
-          "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabilities for customers hosting LLMs on AWS. These releases focus on reducing operational complexity while delivering measurable performance gains across popular model architectures.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-          "publishedOn": "2026-02-26T17:45:59.000Z",
-          "wordCount": 33325,
-          "title": "Large model inference container – latest capabilities and performance enhancements",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/02/26/ml-20229-1120x630.png"
         }
       ]
     }

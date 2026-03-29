@@ -44,26 +44,6 @@
           "wordCount": 4797,
           "title": "February 2026",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/02/pups_202602.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6754",
-          "author": "Chris Swan",
-          "description": "TL;DR GitHub Pages is a practical way to host a low volume repo for apt and yum/dnf. The relevant metadata can be generated using GitHub Actions, and the process can be triggered by a release from the source repo. Background In my last post I wrote about creating .deb and .rpm packages (for our Dart […]",
-          "link": "https://blog.thestateofme.com/2026/02/27/publishing-apt-and-yum-dnf-repos-on-github-pages/",
-          "publishedOn": "2026-02-27T13:40:20.000Z",
-          "wordCount": 4202,
-          "title": "Publishing apt and yum/dnf repos on GitHub Pages",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6754",
-          "author": "Chris Swan",
-          "description": "TL;DR GitHub Pages is a practical way to host a low volume repo for apt and yum/dnf. The relevant metadata can be generated using GitHub Actions, and the process can be triggered by a release from the source repo. Background In my last post I wrote about creating .deb and .rpm packages (for our Dart […]",
-          "link": "http://blog.thestateofme.com/2026/02/27/publishing-apt-and-yum-dnf-repos-on-github-pages/",
-          "publishedOn": "2026-02-27T13:40:20.000Z",
-          "wordCount": 4279,
-          "title": "Publishing apt and yum/dnf repos on GitHub Pages",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         }
       ]
     },

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-30T15:01:21.605Z</updated>
+    <updated>2026-03-30T16:53:36.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Ring scales global customer support with Amazon Bedrock Knowledge Bases]]></title>
+        <id>8d0175755dd42e3a8c6bd714eef93135a814dd7c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/"/>
+        <updated>2026-03-30T15:29:02.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you'll learn how Ring implemented metadata-driven filtering for Region-specific content, separated content management into ingestion, evaluation and promotion workflows, and achieved cost savings while scaling up.]]></summary>
+        <author>
+            <name>Gopinath Jagadesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagine marketing at Volkswagen Group with generative AI]]></title>
+        <id>d98382fa738b60ab454c7d32bc6d298d2e939b54</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/"/>
+        <updated>2026-03-30T15:24:17.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore the challenges that Volkswagen Group faced in producing brand-compliant marketing assets at scale. We walk through how we built a generative AI solution that generates photorealistic vehicle images, validates technical accuracy at the component level, and helps enforce brand guideline compliance alignment across the ten brands.]]></summary>
+        <author>
+            <name>Liam Byrne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data]]></title>
+        <id>7df48194a0a1d899b5d42da58fe162b27ce19bbb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/"/>
+        <updated>2026-03-30T15:20:24.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how to use Amazon SageMaker AI to build and deploy a deep learning model for detecting solar flares using data from the European Space Agency's STIX instrument.]]></summary>
+        <author>
+            <name>Ian Lunsford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0]]></title>
+        <id>f006ebf80cf44b9fe1aac49fdf2e47a96c5d48a2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/"/>
+        <updated>2026-03-30T15:17:26.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through two use cases that help enhance the user viewing experience using agentic AI tools and frameworks including Strands Agents SDK, Amazon Bedrock AgentCore, and Amazon Nova Sonic 2.0. This agentic AI system uses a Model Context Protocol (MCP) to deliver a personal entertainment concierge that understands user preferences through natural dialogue.]]></summary>
+        <author>
+            <name>Wei Teh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #510]]></title>
         <id>https://sreweekly.com/?p=1736</id>

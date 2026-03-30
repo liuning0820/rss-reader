@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1736",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Clickhouse: AI isn’t replacing SREs. It’s changing how they work. The near future of observability isn’t autonomous agents, it’s collaboration. ClickHouse’s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-510/",
+          "publishedOn": "2026-03-30T02:43:07.000Z",
+          "wordCount": 1094,
+          "title": "SRE Weekly Issue #510",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1733",
           "author": "lex",
           "description": "View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and […]",

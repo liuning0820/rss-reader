@@ -77,6 +77,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a451a689f9bbaf416832e5e1cc2c61cf1e1176f6",
+          "author": "Akarsha Sehwag",
+          "description": "In this post, we introduce Amazon Bedrock AgentCore Evaluations, a fully managed service for assessing AI agent performance across the development lifecycle. We walk through how the service measures agent accuracy across multiple quality dimensions. We explain the two evaluation approaches for development and production and share practical guidance for building agents you can deploy with confidence.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
+          "publishedOn": "2026-03-31T22:11:23.000Z",
+          "wordCount": 36512,
+          "title": "Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/31/ml-20076-1120x630.png"
+        },
+        {
           "id": "1b30d718d4831bfee928f9a87fe73a608b40afb8",
           "author": "Salman Ahmed",
           "description": "In this post, you learn how to build a FinOps agent using Amazon Bedrock AgentCore that helps your finance team manage AWS costs across multiple accounts. This conversational agent consolidates data from AWS Cost Explorer, AWS Budgets, and AWS Compute Optimizer into a single interface, so your team can ask questions like \"What are my top cost drivers this month?\" and receive immediate answers.",

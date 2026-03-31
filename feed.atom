@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-31T20:39:52.124Z</updated>
+    <updated>2026-03-31T22:32:26.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build reliable AI agents with Amazon Bedrock AgentCore Evaluations]]></title>
+        <id>a451a689f9bbaf416832e5e1cc2c61cf1e1176f6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/"/>
+        <updated>2026-03-31T22:11:23.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce Amazon Bedrock AgentCore Evaluations, a fully managed service for assessing AI agent performance across the development lifecycle. We walk through how the service measures agent accuracy across multiple quality dimensions. We explain the two evaluation approaches for development and production and share practical guidance for building agents you can deploy with confidence.]]></summary>
+        <author>
+            <name>Akarsha Sehwag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a FinOps agent using Amazon Bedrock AgentCore]]></title>
         <id>1b30d718d4831bfee928f9a87fe73a608b40afb8</id>

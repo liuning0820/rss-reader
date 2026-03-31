@@ -77,6 +77,41 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "1b30d718d4831bfee928f9a87fe73a608b40afb8",
+          "author": "Salman Ahmed",
+          "description": "In this post, you learn how to build a FinOps agent using Amazon Bedrock AgentCore that helps your finance team manage AWS costs across multiple accounts. This conversational agent consolidates data from AWS Cost Explorer, AWS Budgets, and AWS Compute Optimizer into a single interface, so your team can ask questions like \"What are my top cost drivers this month?\" and receive immediate answers.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-03-31T17:57:16.000Z",
+          "wordCount": 33617,
+          "title": "Build a FinOps agent using Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/31/ml-20248-1120x630.png"
+        },
+        {
+          "id": "c7f4686c4cc0b7c5792ee48abc74cf0ed237c30d",
+          "author": "Ravi Kumar",
+          "description": "In this post, we show you how to build a similar system for your organization. You will learn the architecture decisions, implementation details, and deployment process that can help you automate your own compliance workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
+          "publishedOn": "2026-03-31T17:52:15.000Z",
+          "wordCount": 34023,
+          "title": "Building an AI powered system for compliance evidence collection",
+          "enclosure": {
+            "length": "19096872",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20249/ML20249-video-1-interactive-chat-evidence-collection.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/31/ml-20249-1120x630.png"
+        },
+        {
+          "id": "b588a237b83153c2e28dd0f5bdcc6bf6f1d463e7",
+          "author": "Vinicius Pedroni",
+          "description": "In this post, we demonstrate how to implement agentic QA automation through QA Studio, a reference solution built with Amazon Nova Act. You will see how to define tests in natural language that adapt automatically to UI changes, explore the serverless architecture that executes tests reliably at scale, and get step-by-step deployment guidance for your AWS environment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
+          "publishedOn": "2026-03-31T17:46:50.000Z",
+          "wordCount": 32634,
+          "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/31/ml-20250-1120x630.png"
+        },
+        {
           "id": "f1745a907f234b94b9fe10d57f04a50f33f4e281",
           "author": "Swami Sivasubramanian",
           "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers and partners report that AWS Security Agent compresses penetration testing timelines from weeks to hours and the AWS DevOps Agent supports 3–5x faster incident resolution.",

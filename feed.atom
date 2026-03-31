@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-03-31T16:54:38.175Z</updated>
+    <updated>2026-03-31T18:59:35.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a FinOps agent using Amazon Bedrock AgentCore]]></title>
+        <id>1b30d718d4831bfee928f9a87fe73a608b40afb8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/"/>
+        <updated>2026-03-31T17:57:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you learn how to build a FinOps agent using Amazon Bedrock AgentCore that helps your finance team manage AWS costs across multiple accounts. This conversational agent consolidates data from AWS Cost Explorer, AWS Budgets, and AWS Compute Optimizer into a single interface, so your team can ask questions like "What are my top cost drivers this month?" and receive immediate answers.]]></summary>
+        <author>
+            <name>Salman Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI powered system for compliance evidence collection]]></title>
+        <id>c7f4686c4cc0b7c5792ee48abc74cf0ed237c30d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/"/>
+        <updated>2026-03-31T17:52:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how to build a similar system for your organization. You will learn the architecture decisions, implementation details, and deployment process that can help you automate your own compliance workflows.]]></summary>
+        <author>
+            <name>Ravi Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act]]></title>
+        <id>b588a237b83153c2e28dd0f5bdcc6bf6f1d463e7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/"/>
+        <updated>2026-03-31T17:46:50.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to implement agentic QA automation through QA Studio, a reference solution built with Amazon Nova Act. You will see how to define tests in natural language that adapt automatically to UI changes, explore the serverless architecture that executes tests reliably at scale, and get step-by-step deployment guidance for your AWS environment.]]></summary>
+        <author>
+            <name>Vinicius Pedroni</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS launches frontier agents for security testing and cloud operations]]></title>
         <id>f1745a907f234b94b9fe10d57f04a50f33f4e281</id>

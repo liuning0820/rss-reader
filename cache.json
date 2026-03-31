@@ -77,6 +77,31 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "f1745a907f234b94b9fe10d57f04a50f33f4e281",
+          "author": "Swami Sivasubramanian",
+          "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers and partners report that AWS Security Agent compresses penetration testing timelines from weeks to hours and the AWS DevOps Agent supports 3–5x faster incident resolution.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+          "publishedOn": "2026-03-31T16:25:32.000Z",
+          "wordCount": 32431,
+          "title": "AWS launches frontier agents for security testing and cloud operations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/31/ml-20771-1120x630.png"
+        },
+        {
+          "id": "38ad3186f957d57ffd3442bc78e0c4ad13e594ae",
+          "author": "Segolene Dessertine-Panhard",
+          "description": "Traditional frameworks designed for static deployments cannot address the dynamic interactions that define agentic workloads. AI Risk Intelligence (AIRI), from AWS Generative AI Innovation Center, provides the automated rigor required to govern agents at enterprise scale—a fundamental reimagining of how security, operations, and governance work together systemically.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
+          "publishedOn": "2026-03-31T15:36:17.000Z",
+          "wordCount": 33223,
+          "title": "Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
+          "enclosure": {
+            "length": "20890757",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20584/AIRITeaserShort.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/30/ai-risk-intelligence-1218x630.png"
+        },
+        {
           "id": "8d0175755dd42e3a8c6bd714eef93135a814dd7c",
           "author": "Gopinath Jagadesan",
           "description": "In this post, you'll learn how Ring implemented metadata-driven filtering for Region-specific content, separated content management into ingestion, evaluation and promotion workflows, and achieved cost savings while scaling up.",

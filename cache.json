@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6806",
+          "author": "Chris Swan",
+          "description": "Pupdate We’ve (finally) had some warm and sunny days, so the coats have mostly been off for walks :) Bath Half $daughter0 is in her final year of her degree at Bath, and after getting into running last year she decided to run the Bath Half with some friends. That provided a good excuse for […]",
+          "link": "http://blog.thestateofme.com/2026/04/01/march-2026/",
+          "publishedOn": "2026-04-01T17:57:55.000Z",
+          "wordCount": 4246,
+          "title": "March 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/pups_202603.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6806",
           "author": "Chris Swan",
@@ -16,6 +26,16 @@
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/pups_202603.jpg"
         },
         {
+          "id": "https://blog.thestateofme.com/?p=6789",
+          "author": "Chris Swan",
+          "description": "TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]",
+          "link": "http://blog.thestateofme.com/2026/03/28/qcon-london-2026/",
+          "publishedOn": "2026-03-28T16:31:41.000Z",
+          "wordCount": 4675,
+          "title": "QCon London 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/20yqcon.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6789",
           "author": "Chris Swan",
           "description": "TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]",
@@ -24,6 +44,16 @@
           "wordCount": 4612,
           "title": "QCon London 2026",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/20yqcon.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6772",
+          "author": "Chris Swan",
+          "description": "TL;DR 2026 was the best Monki Gras so far with a theme of ‘prepping craft’. A room full of techies, and a great gathering of friends, but not really a tech conference. It’s transcended tech, and become the place where the talks are about more important stuff. Monki What? Monki Gras is a London based […]",
+          "link": "http://blog.thestateofme.com/2026/03/27/monki-gras-2026/",
+          "publishedOn": "2026-03-27T17:23:27.000Z",
+          "wordCount": 4606,
+          "title": "Monki Gras 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/puttty.jpg.jpg"
         },
         {
           "id": "http://blog.thestateofme.com/?p=6772",

@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6806",
+          "author": "Chris Swan",
+          "description": "Pupdate We’ve (finally) had some warm and sunny days, so the coats have mostly been off for walks :) Bath Half $daughter0 is in her final year of her degree at Bath, and after getting into running last year she decided to run the Bath Half with some friends. That provided a good excuse for […]",
+          "link": "https://blog.thestateofme.com/2026/04/01/march-2026/",
+          "publishedOn": "2026-04-01T17:57:55.000Z",
+          "wordCount": 4239,
+          "title": "March 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/03/pups_202603.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6789",
           "author": "Chris Swan",
           "description": "TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]",
@@ -76,6 +86,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "1e606707f888c0ebc529f39719ee8554d2d7e964",
+          "author": "Nishant Dhiman",
+          "description": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
+          "publishedOn": "2026-04-01T18:57:01.000Z",
+          "wordCount": 34283,
+          "title": "Automating competitive price intelligence with Amazon Nova Act",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/01/ml-20133-1120x630.png"
+        },
         {
           "id": "a451a689f9bbaf416832e5e1cc2c61cf1e1176f6",
           "author": "Akarsha Sehwag",

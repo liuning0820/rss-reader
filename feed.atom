@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-01T07:17:19.633Z</updated>
+    <updated>2026-04-01T09:01:45.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -614,16 +614,6 @@
         <summary type="html"><![CDATA[In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP server in Tines to retrieve data from various tools, such as AWS CloudTrail, Okta, and VirusTotal, to remediate security events using Quick Suite.]]></summary>
         <author>
             <name>Jonah Craig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action]]></title>
-        <id>f9440a66ce67c0bf41d017c8b67e1c92a3d5d6b5</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/"/>
-        <updated>2026-03-02T19:32:47.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer (VOC) classification task, benchmarked against open-source models.]]></summary>
-        <author>
-            <name>Yuan Wei</name>
         </author>
     </entry>
 </feed>

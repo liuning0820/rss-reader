@@ -660,26 +660,6 @@
           "wordCount": 33414,
           "title": "Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ml-20456-1120x630.png"
-        },
-        {
-          "id": "214078cbb945cc88c6457194d6d9c3916f460755",
-          "author": "Sri Potluri",
-          "description": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
-          "publishedOn": "2026-03-02T18:51:43.000Z",
-          "wordCount": 34273,
-          "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ml-18704-1120x630.png"
-        },
-        {
-          "id": "9fb138a73f395d36161642896dfce021092df571",
-          "author": "Daniel Khain",
-          "description": "In this post, we will show you how to configure Amazon Bedrock Guardrails for efficient performance, implement best practices to protect your applications, and monitor your deployment effectively to maintain the right balance between safety and user experience.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
-          "publishedOn": "2026-03-02T18:48:25.000Z",
-          "wordCount": 34115,
-          "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/02/ML-20338-1120x630.png"
         }
       ]
     }

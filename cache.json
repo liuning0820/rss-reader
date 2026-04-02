@@ -117,6 +117,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fe875468636d5ac9e36df34c2c854b67105f5912",
+          "author": "Ishan Singh",
+          "description": "In this post, we explore how ActorSimulator in Strands Evaluations SDK addresses the challenge with structured user simulation that integrates into your evaluation pipeline.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/",
+          "publishedOn": "2026-04-02T17:34:02.000Z",
+          "wordCount": 33866,
+          "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20556-1120x630.png"
+        },
+        {
           "id": "1c65854b644a83432e2546e6f2562a515a630b51",
           "author": "Haotian An",
           "description": "This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM using Amazon SageMaker HyperPod. This joint solution cut training time from 6 months to just 5 days while enabling analysis of seismic volumes larger than previously possible.",

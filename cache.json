@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6806",
@@ -670,36 +670,6 @@
           "wordCount": 35457,
           "title": "How Ricoh built a scalable intelligent document processing solution on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/04/ml-19747-1120x630.png"
-        },
-        {
-          "id": "4474a7de670873c4ce044cd6293375ae874eeddb",
-          "author": "Amandine Annoye",
-          "description": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
-          "publishedOn": "2026-03-03T16:23:30.000Z",
-          "wordCount": 33687,
-          "title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-19300-1120x630.png"
-        },
-        {
-          "id": "bac610ff2bd913d55f3af2f907c355be87542443",
-          "author": "Deepak Dalakoti",
-          "description": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
-          "publishedOn": "2026-03-03T16:18:30.000Z",
-          "wordCount": 33919,
-          "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-19734-1120x630.png"
-        },
-        {
-          "id": "09209e0e7d7a52416b2d2a4398f50bc3380a5b00",
-          "author": "Jonah Craig",
-          "description": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP server in Tines to retrieve data from various tools, such as AWS CloudTrail, Okta, and VirusTotal, to remediate security events using Quick Suite.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
-          "publishedOn": "2026-03-03T16:15:06.000Z",
-          "wordCount": 32968,
-          "title": "How Tines enhances security analysis with Amazon Quick Suite",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/03/ml-20134-1120x630.png"
         }
       ]
     }

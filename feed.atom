@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-02T02:06:17.207Z</updated>
+    <updated>2026-04-02T05:40:07.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -634,36 +634,6 @@
         <summary type="html"><![CDATA[This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Accelerator as a foundation, transforming their document processing from a custom-engineering bottleneck into a scalable, repeatable service.]]></summary>
         <author>
             <name>Jeremy Jacobson, Rado Fulek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1]]></title>
-        <id>4474a7de670873c4ce044cd6293375ae874eeddb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/"/>
-        <updated>2026-03-03T16:23:30.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.]]></summary>
-        <author>
-            <name>Amandine Annoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock]]></title>
-        <id>bac610ff2bd913d55f3af2f907c355be87542443</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/"/>
-        <updated>2026-03-03T16:18:30.000Z</updated>
-        <summary type="html"><![CDATA[This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.]]></summary>
-        <author>
-            <name>Deepak Dalakoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Tines enhances security analysis with Amazon Quick Suite]]></title>
-        <id>09209e0e7d7a52416b2d2a4398f50bc3380a5b00</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/"/>
-        <updated>2026-03-03T16:15:06.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP server in Tines to retrieve data from various tools, such as AWS CloudTrail, Okta, and VirusTotal, to remediate security events using Quick Suite.]]></summary>
-        <author>
-            <name>Jonah Craig</name>
         </author>
     </entry>
 </feed>

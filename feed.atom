@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-02T10:49:35.437Z</updated>
+    <updated>2026-04-02T13:09:08.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract]]></title>
+        <id>26dce02ed0faf5612b7162b5bbd73bfc1d59687c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/"/>
+        <updated>2026-04-02T12:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.]]></summary>
+        <author>
+            <name>Jeremy Little, Chris Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persist session state with filesystem configuration and execute shell commands]]></title>
+        <id>0bd95d10452b2c44cb693abbe133dd35f356b8ba</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/"/>
+        <updated>2026-04-02T12:52:07.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.]]></summary>
+        <author>
+            <name>Evandro Franco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automating competitive price intelligence with Amazon Nova Act]]></title>
         <id>1e606707f888c0ebc529f39719ee8554d2d7e964</id>

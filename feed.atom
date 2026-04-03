@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-03T07:04:47.741Z</updated>
+    <updated>2026-04-03T08:51:16.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -674,16 +674,6 @@
         <summary type="html"><![CDATA[In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these capabilities for both single-call and multi-call analytics use cases.]]></summary>
         <author>
             <name>Francisco Calderon Rodriguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Ricoh built a scalable intelligent document processing solution on AWS]]></title>
-        <id>fb0905ad6886947e18542d876e8c2133d0ba5f89</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/"/>
-        <updated>2026-03-04T20:42:45.000Z</updated>
-        <summary type="html"><![CDATA[This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Accelerator as a foundation, transforming their document processing from a custom-engineering bottleneck into a scalable, repeatable service.]]></summary>
-        <author>
-            <name>Jeremy Jacobson, Rado Fulek</name>
         </author>
     </entry>
 </feed>

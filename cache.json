@@ -710,16 +710,6 @@
           "wordCount": 33175,
           "title": "Unlock powerful call center analytics with Amazon Nova foundation models",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/04/ml-18030-1120x630.png"
-        },
-        {
-          "id": "fb0905ad6886947e18542d876e8c2133d0ba5f89",
-          "author": "Jeremy Jacobson, Rado Fulek",
-          "description": "This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Accelerator as a foundation, transforming their document processing from a custom-engineering bottleneck into a scalable, repeatable service.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/",
-          "publishedOn": "2026-03-04T20:42:45.000Z",
-          "wordCount": 35457,
-          "title": "How Ricoh built a scalable intelligent document processing solution on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/04/ml-19747-1120x630.png"
         }
       ]
     }

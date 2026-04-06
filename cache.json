@@ -73,6 +73,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1740",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don’t. They’re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-511/",
+          "publishedOn": "2026-04-06T02:15:32.000Z",
+          "wordCount": 1040,
+          "title": "SRE Weekly Issue #511",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1736",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Clickhouse: AI isn’t replacing SREs. It’s changing how they work. The near future of observability isn’t autonomous agents, it’s collaboration. ClickHouse’s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read […]",

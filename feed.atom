@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-06T16:43:23.999Z</updated>
+    <updated>2026-04-06T18:56:01.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build AI-powered employee onboarding agents with Amazon Quick]]></title>
+        <id>c4b3cc442350a2b8fa21d74a633d942bbc24da1d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/"/>
+        <updated>2026-04-06T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through building a custom HR onboarding agent with Quick. We show how to configure an agent that understands your organization’s processes, connects to your HR systems, and automates common tasks, such as answering new-hire questions and tracking document completion.]]></summary>
+        <author>
+            <name>Pegah Ojaghi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI]]></title>
+        <id>a3099ac05668413af10c59fe313b0a0cb8a0d4aa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/"/>
+        <updated>2026-04-06T17:54:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through how we fine-tuned Qwen 2.5 7B Instruct for tool calling using RLVR. We cover dataset preparation across three distinct agent behaviors, reward function design with tiered scoring, training configuration and results interpretation, evaluation on held-out data with unseen tools, and deployment.]]></summary>
+        <author>
+            <name>Lauren Mullennex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions]]></title>
+        <id>51a43e05f36531e4c51d1b24bd1c2f6e70a1f90f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/"/>
+        <updated>2026-04-06T17:49:32.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to implement a generative AI agentic assistant that uses both semantic and text-based search using Amazon Bedrock, Amazon Bedrock AgentCore, Strands Agents and Amazon OpenSearch.]]></summary>
+        <author>
+            <name>Arpit Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI]]></title>
+        <id>7216c8112ee88a842ea7b4265928b7017ae86260</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/"/>
+        <updated>2026-04-06T17:48:54.000Z</updated>
+        <summary type="html"><![CDATA[This blog post demonstrates how Windward helps enhance and accelerate alert investigation processes by combining geospatial intelligence with generative AI, enabling analysts to focus on decision-making rather than data collection.]]></summary>
+        <author>
+            <name>Nikita Kozodoi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connecting MCP servers to Amazon Bedrock AgentCore Gateway using Authorization Code flow]]></title>
         <id>8c4b3e236eb8bf594f5e9442a360b6265fc50004</id>

@@ -116,6 +116,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c4b3cc442350a2b8fa21d74a633d942bbc24da1d",
+          "author": "Pegah Ojaghi",
+          "description": "In this post, we walk through building a custom HR onboarding agent with Quick. We show how to configure an agent that understands your organization’s processes, connects to your HR systems, and automates common tasks, such as answering new-hire questions and tracking document completion.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+          "publishedOn": "2026-04-06T18:00:06.000Z",
+          "wordCount": 34271,
+          "title": "Build AI-powered employee onboarding agents with Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/ml-19834-1120x630.png"
+        },
+        {
+          "id": "a3099ac05668413af10c59fe313b0a0cb8a0d4aa",
+          "author": "Lauren Mullennex",
+          "description": "In this post, we walk through how we fine-tuned Qwen 2.5 7B Instruct for tool calling using RLVR. We cover dataset preparation across three distinct agent behaviors, reward function design with tiered scoring, training configuration and results interpretation, evaluation on held-out data with unseen tools, and deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+          "publishedOn": "2026-04-06T17:54:00.000Z",
+          "wordCount": 33881,
+          "title": "Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/ml-20015-1120x630.png"
+        },
+        {
+          "id": "51a43e05f36531e4c51d1b24bd1c2f6e70a1f90f",
+          "author": "Arpit Gupta",
+          "description": "In this post, we show how to implement a generative AI agentic assistant that uses both semantic and text-based search using Amazon Bedrock, Amazon Bedrock AgentCore, Strands Agents and Amazon OpenSearch.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+          "publishedOn": "2026-04-06T17:49:32.000Z",
+          "wordCount": 34458,
+          "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/ml-18738-1120x630.png"
+        },
+        {
+          "id": "7216c8112ee88a842ea7b4265928b7017ae86260",
+          "author": "Nikita Kozodoi",
+          "description": "This blog post demonstrates how Windward helps enhance and accelerate alert investigation processes by combining geospatial intelligence with generative AI, enabling analysts to focus on decision-making rather than data collection.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/",
+          "publishedOn": "2026-04-06T17:48:54.000Z",
+          "wordCount": 32983,
+          "title": "From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/ml-18948-1120x630.png"
+        },
+        {
           "id": "8c4b3e236eb8bf594f5e9442a360b6265fc50004",
           "author": "Arko Dutta",
           "description": "Amazon Bedrock AgentCore Gateway provides a centralized layer for managing how AI agents connect to tools and MCP servers across your organization. In this post, we walk through how to configure AgentCore Gateway to connect to an OAuth-protected MCP server using the Authorization Code flow.",

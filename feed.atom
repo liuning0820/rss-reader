@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-07T15:05:05.078Z</updated>
+    <updated>2026-04-07T16:55:54.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building real-time conversational podcasts with Amazon Nova 2 Sonic]]></title>
+        <id>7e1604bebed8710613b18f0a0f01ca7c53914508</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/"/>
+        <updated>2026-04-07T16:29:11.000Z</updated>
+        <summary type="html"><![CDATA[This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating the streaming capabilities of Nova Sonic, stage-aware content filtering, and real-time audio generation.]]></summary>
+        <author>
+            <name>Madhavi Evana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-to-SQL solution powered by Amazon Bedrock]]></title>
+        <id>018bc0596e0f48845bb01ac8e0b7e4d08fb6602a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/"/>
+        <updated>2026-04-07T16:28:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how to build a natural text-to-SQL solution using Amazon Bedrock that transforms business questions into database queries and returns actionable answers.]]></summary>
+        <author>
+            <name>Monica Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build AI-powered employee onboarding agents with Amazon Quick]]></title>
         <id>c4b3cc442350a2b8fa21d74a633d942bbc24da1d</id>

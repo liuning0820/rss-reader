@@ -116,6 +116,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "105134ae0a251deebb4b6f30757ebf9139378b27",
+          "author": "Ba'Carri Johnson",
+          "description": "With Amazon Bedrock Projects, you can attribute inference costs to specific workloads and analyze them in AWS Cost Explorer and AWS Data Exports. In this post, you will learn how to set up Projects end-to-end, from designing a tagging strategy to analyzing costs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/",
+          "publishedOn": "2026-04-07T23:32:00.000Z",
+          "wordCount": 32617,
+          "title": "Manage AI costs with Amazon Bedrock Projects",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/07/ml-20677-1120x630.png"
+        },
+        {
           "id": "7e1604bebed8710613b18f0a0f01ca7c53914508",
           "author": "Madhavi Evana",
           "description": "This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating the streaming capabilities of Nova Sonic, stage-aware content filtering, and real-time audio generation.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-07T22:35:42.439Z</updated>
+    <updated>2026-04-08T02:11:14.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manage AI costs with Amazon Bedrock Projects]]></title>
+        <id>105134ae0a251deebb4b6f30757ebf9139378b27</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/"/>
+        <updated>2026-04-07T23:32:00.000Z</updated>
+        <summary type="html"><![CDATA[With Amazon Bedrock Projects, you can attribute inference costs to specific workloads and analyze them in AWS Cost Explorer and AWS Data Exports. In this post, you will learn how to set up Projects end-to-end, from designing a tagging strategy to analyzing costs.]]></summary>
+        <author>
+            <name>Ba'Carri Johnson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building real-time conversational podcasts with Amazon Nova 2 Sonic]]></title>
         <id>7e1604bebed8710613b18f0a0f01ca7c53914508</id>

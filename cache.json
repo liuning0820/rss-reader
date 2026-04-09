@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6806",
@@ -115,6 +115,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0b68fb49f6a084b3383633311e7892a1cb1081eb",
+          "author": "Saurabh Trikande",
+          "description": "This post shows you how to manage FM transitions in Amazon Bedrock, so you can make sure your AI applications remain operational as models evolve. We discuss the three lifecycle states, how to plan migrations with the new extended access feature, and practical strategies to transition your applications to newer models without disruption.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/",
+          "publishedOn": "2026-04-09T17:33:28.000Z",
+          "wordCount": 33229,
+          "title": "Understanding Amazon Bedrock model lifecycle",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/09/ML-19718-THUMBNAIL.jpg"
+        },
+        {
+          "id": "3f19bed60e801f394bcf1bb23adf8920f84fd039",
+          "author": "Preethi C N",
+          "description": "Today, we're announcing AWS Agent Registry (preview) in AgentCore, a single place to discover, share, and reuse AI agents, tools, and agent skills across your enterprise.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
+          "publishedOn": "2026-04-09T17:28:20.000Z",
+          "wordCount": 32723,
+          "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/09/ml-20825-1120x630.png"
+        },
+        {
+          "id": "4ebd6f69bbc9b32a4e0686b243d4f64076a626af",
+          "author": "Sundar Raghavan",
+          "description": "This post walks you through three steps: starting a session and generating the Live View URL, rendering the stream in your React application, and wiring up an AI agent that drives the browser while your users watch. At the end, you will have a working sample application you can clone and run.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-04-09T17:06:07.000Z",
+          "wordCount": 33823,
+          "title": "Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/09/ml-20716-1120x630.png"
+        },
         {
           "id": "f3d7c75c035fc0f9ece6f077ddf091fd61c25664",
           "author": "Evandro Franco",

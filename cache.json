@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6806",
@@ -759,16 +759,6 @@
           "wordCount": 33032,
           "title": "Operationalizing Agentic AI Part 1: A Stakeholder’s Guide",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/11/ml-20583-1-1120x630.png"
-        },
-        {
-          "id": "1ddff6acbfc1624a0069de1d46fde1b3c0f3c404",
-          "author": "Bashir Mohammed",
-          "description": "In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazon S3, and deploy to Amazon Bedrock using Custom Model Import for managed inference.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/",
-          "publishedOn": "2026-03-10T15:42:16.000Z",
-          "wordCount": 33125,
-          "title": "Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/10/ML-19994-1120x630.png"
         }
       ]
     }

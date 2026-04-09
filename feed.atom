@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-09T02:04:52.767Z</updated>
+    <updated>2026-04-09T05:47:30.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,16 +724,6 @@
         <summary type="html"><![CDATA[The AWS Generative AI Innovation Center has helped 1,000+ customers move AI into production, delivering millions in documented productivity gains. In this post, we share guidance for leaders across the C-suite: CTOs, CISOs, CDOs, and Chief Data Science/AI officers, as well as business owners and compliance leads.]]></summary>
         <author>
             <name>Nav Bhasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock]]></title>
-        <id>1ddff6acbfc1624a0069de1d46fde1b3c0f3c404</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/"/>
-        <updated>2026-03-10T15:42:16.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to fine-tune a Llama model using Oumi on Amazon EC2 (with the option to create synthetic data using Oumi), store artifacts in Amazon S3, and deploy to Amazon Bedrock using Custom Model Import for managed inference.]]></summary>
-        <author>
-            <name>Bashir Mohammed</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-12T18:44:48.894Z</updated>
+    <updated>2026-04-12T20:33:37.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #512]]></title>
+        <id>https://sreweekly.com/?p=1742</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-512/"/>
+        <updated>2026-04-12T20:31:10.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Archera: AI workloads are unpredictable, which makes cloud commitments feel like a gamble. Archera insures your commitments against underutilization, so you can push coverage higher without the risk of getting stuck. If usage drops, Archera covers the downside. Commitment Release Guarantee included. Start Saving Ashby taught us […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Amazon Bedrock model lifecycle]]></title>
         <id>0b68fb49f6a084b3383633311e7892a1cb1081eb</id>

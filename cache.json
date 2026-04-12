@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6806",
@@ -739,16 +739,6 @@
           "wordCount": 34864,
           "title": "Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/16/ML-20017-1120x630.png"
-        },
-        {
-          "id": "b35f8e9d8c8db43a7d889abe56bb50d7bc4e70bd",
-          "author": "Xin Huang",
-          "description": "In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpoints.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/",
-          "publishedOn": "2026-03-13T19:27:04.000Z",
-          "wordCount": 33888,
-          "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/13/ml-20619-1120x630.png"
         }
       ]
     }

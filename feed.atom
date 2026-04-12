@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-12T07:11:16.340Z</updated>
+    <updated>2026-04-12T08:44:48.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,16 +704,6 @@
         <summary type="html"><![CDATA[This blog post provides step-by-step guidance on implementing an offline feature store using SageMaker Catalog within a SageMaker Unified Studio domain. By adopting a publish-subscribe pattern, data producers can use this solution to publish curated, versioned feature tables—while data consumers can securely discover, subscribe to, and reuse them for model development.]]></summary>
         <author>
             <name>Vijay Velpula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM]]></title>
-        <id>b35f8e9d8c8db43a7d889abe56bb50d7bc4e70bd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/"/>
-        <updated>2026-03-13T19:27:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explain how P-EAGLE works, how we integrated it into vLLM starting from v0.16.0 (PR#32887), and how to serve it with our pre-trained checkpoints.]]></summary>
-        <author>
-            <name>Xin Huang</name>
         </author>
     </entry>
 </feed>

@@ -126,6 +126,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b3e2531907f114ceb2527ac00dee671543f1646a",
+          "author": "Manoj Gupta",
+          "description": "This post demonstrates how Lambda enables scalable, cost-effective reward functions for Amazon Nova customization. You'll learn to choose between Reinforcement Learning via Verifiable Rewards (RLVR) for objectively verifiable tasks and Reinforcement Learning via AI Feedback (RLAIF) for subjective evaluation, design multi-dimensional reward systems that help you prevent reward hacking, optimize Lambda functions for training scale, and monitor reward distributions with Amazon CloudWatch. Working code examples and deployment guidance are included to help you start experimenting.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/",
+          "publishedOn": "2026-04-13T16:01:18.000Z",
+          "wordCount": 35235,
+          "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/13/ml-20419-1120x630.png"
+        },
+        {
           "id": "0b68fb49f6a084b3383633311e7892a1cb1081eb",
           "author": "Saurabh Trikande",
           "description": "This post shows you how to manage FM transitions in Amazon Bedrock, so you can make sure your AI applications remain operational as models evolve. We discuss the three lifecycle states, how to plan migrations with the new extended access feature, and practical strategies to transition your applications to newer models without disruption.",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-15T07:58:34.039Z</updated>
+    <updated>2026-04-15T09:41:55.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,16 +724,6 @@
         <summary type="html"><![CDATA[In this post, we’ll explore how Atos used the AWS AI League to help accelerate AI education across 400+ participants, highlight the tangible benefits of gamified, experiential learning, and share actionable insights you can apply to your own AI enablement programs.]]></summary>
         <author>
             <name>Nick McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production]]></title>
-        <id>54f8866c81d5b4739559467c85d97b8c96e68505</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/"/>
-        <updated>2026-03-16T20:51:16.000Z</updated>
-        <summary type="html"><![CDATA[Today at NVIDIA GTC 2026, AWS and NVIDIA announced an expanded collaboration with new technology integrations to support growing AI compute demand and help you build and run AI solutions that are production-ready.]]></summary>
-        <author>
-            <name>David Brown</name>
         </author>
     </entry>
 </feed>

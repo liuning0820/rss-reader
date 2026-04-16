@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-16T17:11:24.005Z</updated>
+    <updated>2026-04-16T19:09:26.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cost-efficient custom text-to-SQL using Amazon Nova Micro and Amazon Bedrock on-demand inference]]></title>
+        <id>3285aaae5bfdcdbe889382b739d2e5467c8c708a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/"/>
+        <updated>2026-04-16T17:43:03.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate two approaches to fine-tune Amazon Nova Micro for custom SQL dialect generation to deliver both cost efficiency and production ready performance.]]></summary>
+        <author>
+            <name>Zeek Granston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform retail with AWS generative AI services]]></title>
+        <id>80f7fd0af81b0b4406e7e6ddf0b05e570d18ac12</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/"/>
+        <updated>2026-04-16T17:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost revenue, operational overhead, and customer frustration. Meanwhile, consumers increasingly expect immersive, interactive shopping experiences that bridge the gap between online and in-store retail. Retailers implementing virtual try-on […]]]></summary>
+        <author>
+            <name>Bhavya Chugh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance]]></title>
+        <id>7a82b6db37e7c94bfa798957792496f08155ac41</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/"/>
+        <updated>2026-04-16T17:34:42.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you'll learn why probabilistic AI validation falls short in regulated industries and how Automated Reasoning checks use formal verification to deliver mathematically proven results. You'll also see how customers across six industries use this technology to produce formally verified, auditable AI outputs, and how to get started.]]></summary>
+        <author>
+            <name>Nafi Diallo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create rich, custom tooltips in Amazon Quick Sight]]></title>
         <id>a8723004387fe9d339acd04255652fade6f41bdf</id>

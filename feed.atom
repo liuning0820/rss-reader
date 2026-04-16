@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-16T02:30:28.179Z</updated>
+    <updated>2026-04-16T05:59:53.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -744,16 +744,6 @@
         <summary type="html"><![CDATA[In this post, you will learn how to migrate from Nova 1 to Nova 2 on Amazon Bedrock. We cover model mapping, API changes, code examples using the Converse API, guidance on configuring new capabilities, and a summary of use cases. We conclude with a migration checklist to help you plan and execute your transition.]]></summary>
         <author>
             <name>Adewale Akinfaderin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AI League: Atos fine-tunes approach to AI education]]></title>
-        <id>8ab3e0585b921881693087d934be8e6f3e80d022</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/"/>
-        <updated>2026-03-17T15:51:08.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we’ll explore how Atos used the AWS AI League to help accelerate AI education across 400+ participants, highlight the tangible benefits of gamified, experiential learning, and share actionable insights you can apply to your own AI enablement programs.]]></summary>
-        <author>
-            <name>Nick McCarthy</name>
         </author>
     </entry>
 </feed>

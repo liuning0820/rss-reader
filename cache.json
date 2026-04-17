@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6806",
@@ -125,6 +125,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "c9ac866657809e09892962c2d01fc39033160fad",
+          "author": "Ba'Carri Johnson",
+          "description": "In this post, we share how Amazon Bedrock's granular cost attribution works and walk through example cost tracking scenarios.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
+          "publishedOn": "2026-04-17T22:04:15.000Z",
+          "wordCount": 34124,
+          "title": "Introducing granular cost attribution for Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/17/ml-20614-featured-image.png"
+        },
         {
           "id": "c3109b215fc7add9071d9015751a3675c046d33e",
           "author": "Amit Kalawat",

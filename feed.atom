@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-17T02:26:39.171Z</updated>
+    <updated>2026-04-17T06:01:36.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,66 +714,6 @@
         <summary type="html"><![CDATA[In this post, we will show you how to enforce data residency when deploying Amazon Quick Microsoft Teams extensions across multiple AWS Regions. You will learn how to configure multi-Region Amazon Quick extensions that automatically route users to AWS Region-appropriate resources, helping keep compliance with GDPR and other data sovereignty requirements.]]></summary>
         <author>
             <name>Ramon Diez Lejarazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kick off Nova customization experiments using Nova Forge SDK]]></title>
-        <id>6b8cc568889d0f4ca05a40860ac31ae5320e929f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/"/>
-        <updated>2026-03-18T16:16:24.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.]]></summary>
-        <author>
-            <name>Mahima Chaudhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise AI]]></title>
-        <id>0eb4b8b0e717206baab9a8c16615d224e0a50335</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/"/>
-        <updated>2026-03-18T16:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are launching Nova Forge SDK that makes LLM customization accessible, empowering teams to harness the full potential of language models without the challenges of dependency management, image selection, and recipe configuration and eventually lowering the barrier of entry.]]></summary>
-        <author>
-            <name>Mahima Chaudhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating AI agents for production: A practical guide to Strands Evals]]></title>
-        <id>035cbfc5b87df5dcdfadc4acab3238bf13642263</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/"/>
-        <updated>2026-03-18T15:54:09.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to evaluate AI agents systematically using Strands Evals. We walk through the core concepts, built-in evaluators, multi-turn simulation capabilities and practical approaches and patterns for integration.]]></summary>
-        <author>
-            <name>Ishan Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI-Powered A/B testing engine using Amazon Bedrock]]></title>
-        <id>17571fb3bc748f70e21326102370be87f1a18fda</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-a-b-testing-engine-using-amazon-bedrock/"/>
-        <updated>2026-03-18T15:31:40.000Z</updated>
-        <summary type="html"><![CDATA[This post shows you how to build an AI-powered A/B testing engine using Amazon Bedrock, Amazon Elastic Container Service, Amazon DynamoDB, and the Model Context Protocol (MCP). The system improves traditional A/B testing by analyzing user context  to make smarter variant assignment decisions during the experiment.]]></summary>
-        <author>
-            <name>Vijit Vashishtha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bark.com and AWS collaborated to build a scalable video generation solution]]></title>
-        <id>01cfac78fd79c19075f755515dce2564c7294926</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/"/>
-        <updated>2026-03-18T15:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Working with the AWS Generative AI Innovation Center, Bark developed an AI-powered content generation solution that demonstrated a substantial reduction in production time in experimental trials while improving content quality scores. In this post, we walk you through the technical architecture we built, the key design decisions that contributed to success, and the measurable results achieved, giving you a blueprint for implementing similar solutions.]]></summary>
-        <author>
-            <name>Zainab Afolabi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrate from Amazon Nova 1 to Amazon Nova 2 on Amazon Bedrock]]></title>
-        <id>9d0fa592c50217e2700e8bbd511284e68b03fa66</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/migrate-from-amazon-nova-1-to-amazon-nova-2-on-amazon-bedrock/"/>
-        <updated>2026-03-18T15:13:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn how to migrate from Nova 1 to Nova 2 on Amazon Bedrock. We cover model mapping, API changes, code examples using the Converse API, guidance on configuring new capabilities, and a summary of use cases. We conclude with a migration checklist to help you plan and execute your transition.]]></summary>
-        <author>
-            <name>Adewale Akinfaderin</name>
         </author>
     </entry>
 </feed>

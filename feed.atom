@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-18T02:09:23.301Z</updated>
+    <updated>2026-04-18T05:40:06.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,56 +714,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run NVIDIA Nemotron 3 Super on Amazon Bedrock]]></title>
-        <id>98a5ab7866c563a5e27ba5851e15db677ef5c630</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/"/>
-        <updated>2026-03-19T17:25:44.000Z</updated>
-        <summary type="html"><![CDATA[This post explores the technical characteristics of the Nemotron 3 Super model and discusses potential application use cases. It also provides technical guidance to get started using this model for your generative AI applications within the Amazon Bedrock environment.]]></summary>
-        <author>
-            <name>Aris Tsakpinis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel]]></title>
-        <id>ce3b98c8cfbba1dc541b2338f6ea5ffdd000c2ff</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/"/>
-        <updated>2026-03-19T16:45:50.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore our approach to video generation through VRAG, transforming natural language text prompts and images into grounded, high-quality videos. Through this fully automated solution, you can generate realistic, AI-powered video sequences from structured text and image inputs, streamlining the video creation process.]]></summary>
-        <author>
-            <name>Nick Biso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation]]></title>
-        <id>42ad05cc36bb08f2e16a154b15a6913e621e5408</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/"/>
-        <updated>2026-03-19T16:45:42.000Z</updated>
-        <summary type="html"><![CDATA[This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG offers an efficient, and reliable solution for generating AI videos.]]></summary>
-        <author>
-            <name>Nick Biso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance]]></title>
-        <id>8c54b43ae1b60a0d01b0a238ac2a4ad72724ce20</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/"/>
-        <updated>2026-03-19T14:32:11.000Z</updated>
-        <summary type="html"><![CDATA[SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to monitor, troubleshoot, and improve your production endpoints.]]></summary>
-        <author>
-            <name>Dan Ferguson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enforce data residency with Amazon Quick extensions for Microsoft Teams]]></title>
-        <id>40a655753a7cf661b994e1fbed5df5e41c2a3023</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/"/>
-        <updated>2026-03-19T14:20:04.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we will show you how to enforce data residency when deploying Amazon Quick Microsoft Teams extensions across multiple AWS Regions. You will learn how to configure multi-Region Amazon Quick extensions that automatically route users to AWS Region-appropriate resources, helping keep compliance with GDPR and other data sovereignty requirements.]]></summary>
-        <author>
-            <name>Ramon Diez Lejarazu</name>
         </author>
     </entry>
 </feed>

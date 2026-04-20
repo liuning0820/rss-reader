@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-20T19:02:14.454Z</updated>
+    <updated>2026-04-20T20:42:31.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances]]></title>
+        <id>6d12fea669550478eb5032ee6cae180b352b2058</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/"/>
+        <updated>2026-04-20T19:38:10.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B, offering organizations a cost-effective and high-performing option.]]></summary>
+        <author>
+            <name>Hazim Qudah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ToolSimulator: scalable tool testing for AI agents]]></title>
         <id>884d4f37b9f2bd14ead05e29c5a4553ca6280f40</id>

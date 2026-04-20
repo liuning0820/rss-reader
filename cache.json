@@ -136,6 +136,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6d12fea669550478eb5032ee6cae180b352b2058",
+          "author": "Hazim Qudah",
+          "description": "Today, we are thrilled to announce the availability of G7e instances powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs on Amazon SageMaker AI. You can provision nodes with 1, 2, 4, and 8 RTX PRO 6000 GPU instances, with each GPU providing 96 GB of GDDR7 memory. This launch provides the capability to use a single-node GPU, G7e.2xlarge instance to host powerful open source foundation models (FMs) like GPT-OSS-120B, Nemotron-3-Super-120B-A12B (NVFP4 variant), and Qwen3.5-35B-A3B, offering organizations a cost-effective and high-performing option.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
+          "publishedOn": "2026-04-20T19:38:10.000Z",
+          "wordCount": 33534,
+          "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/20/ml-20676-1120x630.png"
+        },
+        {
           "id": "884d4f37b9f2bd14ead05e29c5a4553ca6280f40",
           "author": "Darren Wang",
           "description": "You can use ToolSimulator, an LLM-powered tool simulation framework within Strands Evals, to thoroughly and safely test AI agents that rely on external tools, at scale. Instead of risking live API calls that expose personally identifiable information (PII), trigger unintended actions, or settling for static mocks that break with multi-turn workflows, you can use ToolSimulator's large language model (LLM)-powered simulations to validate your agents. Available today as part of the Strands Evals Software Development Kit (SDK), ToolSimulator helps you catch integration bugs early, test edge cases comprehensively, and ship production-ready agents with confidence.",

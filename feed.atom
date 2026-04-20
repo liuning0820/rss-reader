@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-20T17:01:27.442Z</updated>
+    <updated>2026-04-20T19:02:14.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ToolSimulator: scalable tool testing for AI agents]]></title>
+        <id>884d4f37b9f2bd14ead05e29c5a4553ca6280f40</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/"/>
+        <updated>2026-04-20T17:06:26.000Z</updated>
+        <summary type="html"><![CDATA[You can use ToolSimulator, an LLM-powered tool simulation framework within Strands Evals, to thoroughly and safely test AI agents that rely on external tools, at scale. Instead of risking live API calls that expose personally identifiable information (PII), trigger unintended actions, or settling for static mocks that break with multi-turn workflows, you can use ToolSimulator's large language model (LLM)-powered simulations to validate your agents. Available today as part of the Strands Evals Software Development Kit (SDK), ToolSimulator helps you catch integration bugs early, test edge cases comprehensively, and ship production-ready agents with confidence.]]></summary>
+        <author>
+            <name>Darren Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic]]></title>
         <id>e889239f697236f59c3d180b7f1e2e885997df75</id>

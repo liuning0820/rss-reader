@@ -73,6 +73,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1744",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io’s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-513/",
+          "publishedOn": "2026-04-20T02:03:38.000Z",
+          "wordCount": 1121,
+          "title": "SRE Weekly Issue #513",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1742",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Archera: AI workloads are unpredictable, which makes cloud commitments feel like a gamble. Archera insures your commitments against underutilization, so you can push coverage higher without the risk of getting stuck. If usage drops, Archera covers the downside. Commitment Release Guarantee included. Start Saving Ashby taught us […]",

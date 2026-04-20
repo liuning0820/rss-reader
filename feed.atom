@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-20T13:25:08.088Z</updated>
+    <updated>2026-04-20T17:01:27.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic]]></title>
+        <id>e889239f697236f59c3d180b7f1e2e885997df75</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/"/>
+        <updated>2026-04-20T15:03:28.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we'll show you how to build a complete omnichannel ordering system using Amazon Bedrock AgentCore, an agentic platform, to build, deploy, and operate highly effective AI agents securely at scale using any framework and foundation model and Amazon Nova 2 Sonic.]]></summary>
+        <author>
+            <name>Sergio Barraza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #513]]></title>
         <id>https://sreweekly.com/?p=1744</id>

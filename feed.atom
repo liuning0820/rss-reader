@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-21T19:08:32.953Z</updated>
+    <updated>2026-04-21T20:50:37.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock]]></title>
+        <id>117db1edd857ba5c9c35e70f029bc37ed8701033</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/"/>
+        <updated>2026-04-21T19:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Today, we're excited to announce Claude Cowork in Amazon Bedrock. You can now run Cowork and Claude Code Desktop through Amazon Bedrock, directly or using an LLM gateway. In this post, we walk through how Claude Cowork integrates with Amazon Bedrock and show an example of how knowledge workers use it in practice.]]></summary>
+        <author>
+            <name>Sofian Hamiti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[End-to-end lineage with DVC and Amazon SageMaker AI MLflow apps]]></title>
         <id>3206a244cebc9891ea506d52f6808fc81e996ba2</id>

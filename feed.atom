@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-21T15:10:43.703Z</updated>
+    <updated>2026-04-21T16:59:14.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[End-to-end lineage with DVC and Amazon SageMaker AI MLflow apps]]></title>
+        <id>3206a244cebc9891ea506d52f6808fc81e996ba2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps/"/>
+        <updated>2026-04-21T16:43:03.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to combine DVC (Data Version Control), Amazon SageMaker AI, and Amazon SageMaker AI MLflow Apps to build end-to-end ML model lineage. We walk through two deployable patterns — dataset-level lineage and record-level lineage — that you can run in your own AWS account using the companion notebooks.]]></summary>
+        <author>
+            <name>Manuwai Korber</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances]]></title>
         <id>6d12fea669550478eb5032ee6cae180b352b2058</id>
@@ -744,16 +754,6 @@
         <summary type="html"><![CDATA[In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on output, helping to enable safe, enterprise-grade adoption.]]></summary>
         <author>
             <name>Paul Burchard, Igor Halperin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #509]]></title>
-        <id>https://sreweekly.com/?p=1733</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-509/"/>
-        <updated>2026-03-23T03:51:27.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com SRE Weekly is back! My partner is doing well, and thanks for all the kind words and well-wishes. A message from our sponsor, Costory : Tracking cloud and AI costs across AWS, GCP, and Datadog shouldn’t require three dashboards and a spreadsheet.Costory correlates cost, usage, and deployment data. Explains what changed and […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

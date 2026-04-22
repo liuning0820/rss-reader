@@ -126,6 +126,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "087fb9d1e91f5fccb04e0f5e1a898329b2181373",
+          "author": "Mona Mona",
+          "description": "Today, Amazon SageMaker AI  supports optimized generative AI inference recommendations. By delivering validated, optimal deployment configurations with performance metrics, Amazon SageMaker AI keeps your model developers focused on building accurate models, not managing infrastructure.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+          "publishedOn": "2026-04-22T19:15:08.000Z",
+          "wordCount": 34178,
+          "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/22/ml-20661-1120x630.png"
+        },
+        {
+          "id": "423f8f66368486cd02862223fb732bd4b347e575",
+          "author": "Madhu Parthasarathy",
+          "description": "Today, we're introducing new capabilities that further streamline the agent building experience, removing the infrastructure barriers that slow teams down at every stage of agent development from the first prototype through production deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-04-22T19:13:56.000Z",
+          "wordCount": 32487,
+          "title": "Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/22/ml-20892-1120x630.png"
+        },
+        {
           "id": "d00642a9c894666de6b2542253c4a9a009945f33",
           "author": "Shawn Tsai",
           "description": "Company-wise memory in Amazon Bedrock, powered by Amazon Neptune and Mem0, provides AI agents with persistent, company-specific context—enabling them to learn, adapt, and respond intelligently across multiple interactions. TrendMicro, one of the largest antivirus software companies in the world, developed the Trend’s Companion chatbot, so their customers can explore information through natural, conversational interactions",

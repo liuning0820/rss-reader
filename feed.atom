@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-22T15:10:57.293Z</updated>
+    <updated>2026-04-22T16:57:14.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0]]></title>
+        <id>d00642a9c894666de6b2542253c4a9a009945f33</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0/"/>
+        <updated>2026-04-22T15:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Company-wise memory in Amazon Bedrock, powered by Amazon Neptune and Mem0, provides AI agents with persistent, company-specific context—enabling them to learn, adapt, and respond intelligently across multiple interactions. TrendMicro, one of the largest antivirus software companies in the world, developed the Trend’s Companion chatbot, so their customers can explore information through natural, conversational interactions]]></summary>
+        <author>
+            <name>Shawn Tsai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock]]></title>
         <id>117db1edd857ba5c9c35e70f029bc37ed8701033</id>

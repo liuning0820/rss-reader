@@ -814,16 +814,6 @@
           "wordCount": 33976,
           "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/24/ml-20083-1120x630.png"
-        },
-        {
-          "id": "e924b1756ad3246a09fe12eecc77d483eedc4e6e",
-          "author": "Kimo El Mehri",
-          "description": "This post introduces Claude Tool use in Amazon Bedrock which uses the power of large language models (LLMs) to perform dynamic, adaptable entity recognition without extensive setup or training.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
-          "publishedOn": "2026-03-24T17:56:00.000Z",
-          "wordCount": 33512,
-          "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/24/ml-17616-1120x630.png"
         }
       ]
     }

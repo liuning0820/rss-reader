@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-23T02:28:47.585Z</updated>
+    <updated>2026-04-23T06:04:10.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -764,16 +764,6 @@
         <summary type="html"><![CDATA[In this post, we walk through how to search for available p-family GPU capacity, create a training plan reservation for inference, and deploy a SageMaker AI inference endpoint on that reserved capacity. We follow a data scientist's journey as they reserve capacity for model evaluation and manage the endpoint throughout the reservation lifecycle.]]></summary>
         <author>
             <name>Kareem Syed-Mohammed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating custom entity recognition with Claude tool use in Amazon Bedrock]]></title>
-        <id>e924b1756ad3246a09fe12eecc77d483eedc4e6e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/"/>
-        <updated>2026-03-24T17:56:00.000Z</updated>
-        <summary type="html"><![CDATA[This post introduces Claude Tool use in Amazon Bedrock which uses the power of large language models (LLMs) to perform dynamic, adaptable entity recognition without extensive setup or training.]]></summary>
-        <author>
-            <name>Kimo El Mehri</name>
         </author>
     </entry>
 </feed>

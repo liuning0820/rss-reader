@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6806",
@@ -819,16 +819,6 @@
           "wordCount": 34288,
           "title": "Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/25/ml-20002-1120x630.png"
-        },
-        {
-          "id": "828ea7dab9a7ccecb3fa6f33f6b4a4637db21d27",
-          "author": "Shreyas Subramanian",
-          "description": "In this post, we walk through the end-to-end workflow of using RFT on Amazon Bedrock with OpenAI-compatible APIs: from setting up authentication, to deploying a Lambda-based reward function, to kicking off a training job and running on-demand inference on your fine-tuned model.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/",
-          "publishedOn": "2026-03-25T17:30:56.000Z",
-          "wordCount": 34135,
-          "title": "Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/25/ml-20593-1120x630.png"
         }
       ]
     }

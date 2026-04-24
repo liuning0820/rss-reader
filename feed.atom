@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-24T16:53:16.085Z</updated>
+    <updated>2026-04-24T18:48:27.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Workforce AI Agents with Visier and Amazon Quick]]></title>
+        <id>9386aea02beb72f2777ea324ce5244aae6195912</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/"/>
+        <updated>2026-04-24T18:04:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how connecting the Visier Workforce AI platform with Amazon Quick through Model Context Protocol (MCP) gives every knowledge worker a unified agentic workspace to ask questions in. Visier helps ground the workspace in live workforce data and the organizational context that surrounds it while letting your users act on the conversational results without switching tools.]]></summary>
+        <author>
+            <name>Vishnu Elangovan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Quick for marketing: From scattered data to strategic action]]></title>
         <id>49d576f44192fa1062b5204b64ff4b1c8a50a821</id>

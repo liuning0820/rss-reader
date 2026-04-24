@@ -126,6 +126,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9386aea02beb72f2777ea324ce5244aae6195912",
+          "author": "Vishnu Elangovan",
+          "description": "In this post, we show how connecting the Visier Workforce AI platform with Amazon Quick through Model Context Protocol (MCP) gives every knowledge worker a unified agentic workspace to ask questions in. Visier helps ground the workspace in live workforce data and the organizational context that surrounds it while letting your users act on the conversational results without switching tools.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/",
+          "publishedOn": "2026-04-24T18:04:20.000Z",
+          "wordCount": 35240,
+          "title": "Building Workforce AI Agents with Visier and Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/24/visier.png"
+        },
+        {
           "id": "49d576f44192fa1062b5204b64ff4b1c8a50a821",
           "author": "Zach Conley",
           "description": "Amazon Quick changes how you work. You can set it up in minutes and by the end of the day, you will wonder how you ever worked without it. Quick connects with your applications, tools, and data, creating a personal knowledge graph that learns your priorities, preferences, and network.",

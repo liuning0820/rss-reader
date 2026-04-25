@@ -779,36 +779,6 @@
           "wordCount": 33550,
           "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/26/ml-20638-1120x630.png"
-        },
-        {
-          "id": "28cc42011f351e7e3ddd8889d2733feb45536978",
-          "author": "Pradip Kumar Pandey",
-          "description": "In this post, we walk you through how to implement a fully automated, context-aware AI solution using a serverless architecture on AWS. This solution helps organizations looking to deploy responsible AI systems, align with compliance requirements for vulnerable populations, and help maintain appropriate and trustworthy AI responses across diverse user groups without compromising performance or governance.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/",
-          "publishedOn": "2026-03-26T17:26:23.000Z",
-          "wordCount": 33720,
-          "title": "Building age-responsive, context-aware AI with Amazon Bedrock Guardrails",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/26/ml-19593-1120x630.png"
-        },
-        {
-          "id": "43b6115178e5b94e191780672f6d450b26f7bca9",
-          "author": "Hazim Qudah",
-          "description": "Last year, AWS announced an integration between Amazon SageMaker Unified Studio and Amazon S3 general purpose buckets. This integration makes it straightforward for teams to use unstructured data stored in Amazon Simple Storage Service (Amazon S3) for machine learning (ML) and data analytics use cases. In this post, we show how to integrate S3 general purpose buckets with Amazon SageMaker Catalog to fine-tune Llama 3.2 11B Vision Instruct for visual question answering (VQA) using Amazon SageMaker Unified Studio.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/",
-          "publishedOn": "2026-03-26T17:20:26.000Z",
-          "wordCount": 34197,
-          "title": "Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/26/ml-19677-1120x630.png"
-        },
-        {
-          "id": "11160d92be5b4b75d5e233157a53e882c442a936",
-          "author": "Praveen Gadi",
-          "description": "Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
-          "publishedOn": "2026-03-26T17:10:20.000Z",
-          "wordCount": 33038,
-          "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/26/ml-18776-1120x630.png"
         }
       ]
     }

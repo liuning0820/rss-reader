@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-25T02:11:26.058Z</updated>
+    <updated>2026-04-25T05:46:25.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -724,36 +724,6 @@
         <summary type="html"><![CDATA[Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude Opus 4.5, Opus 4.6, Sonnet 4.5, Sonnet 4.6, and Haiku 4.5) and Amazon (Nova 2 Lite) models directly in the Auckland Region with cross region inference. In this post, we explore how cross-Region inference works from the New Zealand Region, the models available through geographic and global routing, and how to get started with your first API call. We]]></summary>
         <author>
             <name>Zohreh Norouzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building age-responsive, context-aware AI with Amazon Bedrock Guardrails]]></title>
-        <id>28cc42011f351e7e3ddd8889d2733feb45536978</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/"/>
-        <updated>2026-03-26T17:26:23.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk you through how to implement a fully automated, context-aware AI solution using a serverless architecture on AWS. This solution helps organizations looking to deploy responsible AI systems, align with compliance requirements for vulnerable populations, and help maintain appropriate and trustworthy AI responses across diverse user groups without compromising performance or governance.]]></summary>
-        <author>
-            <name>Pradip Kumar Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3]]></title>
-        <id>43b6115178e5b94e191780672f6d450b26f7bca9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/"/>
-        <updated>2026-03-26T17:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Last year, AWS announced an integration between Amazon SageMaker Unified Studio and Amazon S3 general purpose buckets. This integration makes it straightforward for teams to use unstructured data stored in Amazon Simple Storage Service (Amazon S3) for machine learning (ML) and data analytics use cases. In this post, we show how to integrate S3 general purpose buckets with Amazon SageMaker Catalog to fine-tune Llama 3.2 11B Vision Instruct for visual question answering (VQA) using Amazon SageMaker Unified Studio.]]></summary>
-        <author>
-            <name>Hazim Qudah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI]]></title>
-        <id>11160d92be5b4b75d5e233157a53e882c442a936</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/"/>
-        <updated>2026-03-26T17:10:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to announce the new Bidirectional Streaming API for Amazon Polly, enabling streamlined real-time text-to-speech (TTS) synthesis where you can start sending text and receiving audio simultaneously. This new API is built for conversational AI applications that generate text or audio incrementally, like responses from large language models (LLMs), where users must begin synthesizing audio before the full text is available.]]></summary>
-        <author>
-            <name>Praveen Gadi</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-25T10:40:56.895Z</updated>
+    <updated>2026-04-25T12:59:54.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -714,16 +714,6 @@
         <summary type="html"><![CDATA[TL;DR 2026 was the best Monki Gras so far with a theme of ‘prepping craft’. A room full of techies, and a great gathering of friends, but not really a tech conference. It’s transcended tech, and become the place where the talks are about more important stuff. Monki What? Monki Gras is a London based […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)]]></title>
-        <id>a8a8a5482cb738cb3789d6eadefdb2ddcb54bca7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/"/>
-        <updated>2026-03-26T23:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude Opus 4.5, Opus 4.6, Sonnet 4.5, Sonnet 4.6, and Haiku 4.5) and Amazon (Nova 2 Lite) models directly in the Auckland Region with cross region inference. In this post, we explore how cross-Region inference works from the New Zealand Region, the models available through geographic and global routing, and how to get started with your first API call. We]]></summary>
-        <author>
-            <name>Zohreh Norouzi</name>
         </author>
     </entry>
 </feed>

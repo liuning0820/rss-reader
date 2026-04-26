@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-26T02:34:18.789Z</updated>
+    <updated>2026-04-26T06:04:58.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -692,26 +692,6 @@
         <link href="https://blog.thestateofme.com/2026/03/28/qcon-london-2026/"/>
         <updated>2026-03-28T16:31:41.000Z</updated>
         <summary type="html"><![CDATA[TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monki Gras 2026]]></title>
-        <id>https://blog.thestateofme.com/?p=6772</id>
-        <link href="http://blog.thestateofme.com/2026/03/27/monki-gras-2026/"/>
-        <updated>2026-03-27T17:23:27.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR 2026 was the best Monki Gras so far with a theme of ‘prepping craft’. A room full of techies, and a great gathering of friends, but not really a tech conference. It’s transcended tech, and become the place where the talks are about more important stuff. Monki What? Monki Gras is a London based […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monki Gras 2026]]></title>
-        <id>http://blog.thestateofme.com/?p=6772</id>
-        <link href="https://blog.thestateofme.com/2026/03/27/monki-gras-2026/"/>
-        <updated>2026-03-27T17:23:27.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR 2026 was the best Monki Gras so far with a theme of ‘prepping craft’. A room full of techies, and a great gathering of friends, but not really a tech conference. It’s transcended tech, and become the place where the talks are about more important stuff. Monki What? Monki Gras is a London based […]]]></summary>
         <author>
             <name>Chris Swan</name>
         </author>

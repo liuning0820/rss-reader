@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-27T17:19:48.984Z</updated>
+    <updated>2026-04-27T19:17:22.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automate repetitive tasks with Amazon Quick Flows]]></title>
+        <id>6ae80e59379c95045e0118d004d39ff308c471fe</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/"/>
+        <updated>2026-04-27T17:52:05.000Z</updated>
+        <summary type="html"><![CDATA[This post shows you how to build your first AI-powered workflow, using Amazon Quick, starting with a financial analysis tool and progressing to an advanced employee onboarding automation.]]></summary>
+        <author>
+            <name>Jed Lechner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases]]></title>
+        <id>28d4a6e919c3acb15b7e35808ea50ddc643fb191</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases/"/>
+        <updated>2026-04-27T17:51:41.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore an automated solution that detects S3 events and triggers ingestion jobs while respecting service quotas and providing comprehensive monitoring. This serverless solution uses an event-driven architecture to keep your knowledge base current without overwhelming the Amazon Bedrock APIs.]]></summary>
+        <author>
+            <name>Manideep Reddy Gillela</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Strands Agents with SageMaker AI models and MLflow]]></title>
         <id>46836051e9aa04ee8a09dbdafbea7e00e6e4a574</id>

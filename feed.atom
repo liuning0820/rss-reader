@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-26T22:35:43.312Z</updated>
+    <updated>2026-04-27T02:36:15.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #514]]></title>
+        <id>https://sreweekly.com/?p=1746</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-514/"/>
+        <updated>2026-04-27T01:32:25.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com How we built a real-world evaluation platform for autonomous SRE agents at scale Finally! Someone actually explaining how they test their SRE agent. Having a testing methodology is table stakes. Showing their work helps us decide whether we can trust the tool. With so many SRE agents floating around, it’s quite surprising […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Workforce AI Agents with Visier and Amazon Quick]]></title>
         <id>9386aea02beb72f2777ea324ce5244aae6195912</id>

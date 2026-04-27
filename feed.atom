@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-27T15:45:18.900Z</updated>
+    <updated>2026-04-27T17:19:48.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build Strands Agents with SageMaker AI models and MLflow]]></title>
+        <id>46836051e9aa04ee8a09dbdafbea7e00e6e4a574</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/"/>
+        <updated>2026-04-27T16:50:41.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we demonstrate how to build AI agents using Strands Agents SDK with models deployed on SageMaker AI endpoints. You will learn how to deploy foundation models from SageMaker JumpStart, integrate them with Strands Agents, and establish production-grade observability using SageMaker Serverless MLflow for agent tracing. We also cover how to implement A/B testing across multiple model variants and evaluate agent performance using MLflow metrics and show how you can build, deploy, and continuously improve AI agents on infrastructure you control.]]></summary>
+        <author>
+            <name>Dheeraj Hegde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Popsa used Amazon Nova to inspire customers with personalised title suggestions]]></title>
+        <id>095271b0536a82bed52daf382555f7ac1ff32371</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/"/>
+        <updated>2026-04-27T16:45:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how we applied Amazon Bedrock and the Amazon Nova family of models to reimagine our Title Suggestion feature. By combining metadata, computer vision, and retrieval-augmented generative AI, we now automatically generate creative, brand-aligned titles and subtitles across 12 languages. Using the unified API of Amazon Bedrock, Anthropic’s Claude 3 Haiku, and Amazon Nova Lite and Pro, we improved quality, reduced cost, and cut response times. This resulted in higher customer satisfaction, measurable uplifts in engagement and purchase rates, and over 5.5 million personalised titles generated in 2025.]]></summary>
+        <author>
+            <name>Bradley Grantham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #514]]></title>
         <id>https://sreweekly.com/?p=1746</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-27T02:36:15.926Z</updated>
+    <updated>2026-04-27T06:25:36.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -684,26 +684,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Clickhouse: AI isn’t replacing SREs. It’s changing how they work. The near future of observability isn’t autonomous agents, it’s collaboration. ClickHouse’s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QCon London 2026]]></title>
-        <id>https://blog.thestateofme.com/?p=6789</id>
-        <link href="http://blog.thestateofme.com/2026/03/28/qcon-london-2026/"/>
-        <updated>2026-03-28T16:31:41.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QCon London 2026]]></title>
-        <id>http://blog.thestateofme.com/?p=6789</id>
-        <link href="https://blog.thestateofme.com/2026/03/28/qcon-london-2026/"/>
-        <updated>2026-03-28T16:31:41.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR QCon is one of my favourite events, and I’ve been to a lot of them over the years. 2026 was the best yet, so kudos to the programme committee and C4media organisers. The most fun bit was hosting the security track, where I got to run a mini security conference within the conference, with […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

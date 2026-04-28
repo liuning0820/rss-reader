@@ -71,16 +71,6 @@
           "wordCount": 1040,
           "title": "SRE Weekly Issue #511",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1736",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Clickhouse: AI isn’t replacing SREs. It’s changing how they work. The near future of observability isn’t autonomous agents, it’s collaboration. ClickHouse’s ClickStack Notebooks bring SREs and AI into a shared investigative workspace, combining human intuition with structured, reliable tooling to debug faster and think more clearly. Read […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-510/",
-          "publishedOn": "2026-03-30T02:43:07.000Z",
-          "wordCount": 1094,
-          "title": "SRE Weekly Issue #510",
-          "imageUrl": null
         }
       ]
     },
@@ -95,6 +85,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "a34c8c1d01d656c161b24788457bea8d5c10eb3e",
+          "author": "Dan Ferguson",
+          "description": "Today, we are excited to announce the day zero availability of NVIDIA Nemotron 3 Nano Omni on Amazon SageMaker JumpStart. In this post, we walk through the model architecture and key capabilities of Nemotron 3 Nano Omni, explore the enterprise use cases it unlocks, and show you how to deploy and run inference using Amazon SageMaker JumpStart.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2026-04-28T16:40:34.000Z",
+          "wordCount": 32710,
+          "title": "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/28/ml-20974.png"
+        },
         {
           "id": "6ae80e59379c95045e0118d004d39ff308c471fe",
           "author": "Jed Lechner",

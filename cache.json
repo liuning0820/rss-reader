@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "838b1e174e795ca2e4fdf42fdbd7a3fb7e68a7e7",
+          "author": "Noor Randhawa",
+          "description": "In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Management (IAM)-based access control for AgentCore Memory.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/",
+          "publishedOn": "2026-04-29T19:31:54.000Z",
+          "wordCount": 33621,
+          "title": "Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/24/ML-20833-image-2-1260x393.png"
+        },
+        {
           "id": "adbaf43f80038e41c14feafe4df0a1fdde902dda",
           "author": "Ravi Narang, Rithvik Bobbili",
           "description": "In this post, you'll learn how Vanguard built their Virtual Analyst solution by focusing on eight guiding principles of AI-ready data, the AWS services that powered their implementation, and the measurable business outcomes they achieved.",

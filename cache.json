@@ -749,46 +749,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20584/AIRITeaserShort.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/30/ai-risk-intelligence-1218x630.png"
-        },
-        {
-          "id": "8d0175755dd42e3a8c6bd714eef93135a814dd7c",
-          "author": "Gopinath Jagadesan",
-          "description": "In this post, you'll learn how Ring implemented metadata-driven filtering for Region-specific content, separated content management into ingestion, evaluation and promotion workflows, and achieved cost savings while scaling up.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
-          "publishedOn": "2026-03-30T15:29:02.000Z",
-          "wordCount": 33805,
-          "title": "How Ring scales global customer support with Amazon Bedrock Knowledge Bases",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/30/ml-19682-1120x630.png"
-        },
-        {
-          "id": "d98382fa738b60ab454c7d32bc6d298d2e939b54",
-          "author": "Liam Byrne",
-          "description": "In this post, we explore the challenges that Volkswagen Group faced in producing brand-compliant marketing assets at scale. We walk through how we built a generative AI solution that generates photorealistic vehicle images, validates technical accuracy at the component level, and helps enforce brand guideline compliance alignment across the ten brands.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
-          "publishedOn": "2026-03-30T15:24:17.000Z",
-          "wordCount": 34128,
-          "title": "Reimagine marketing at Volkswagen Group with generative AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/24/ML-18778-comparison-1260x433.png"
-        },
-        {
-          "id": "7df48194a0a1d899b5d42da58fe162b27ce19bbb",
-          "author": "Ian Lunsford",
-          "description": "In this post, we show you how to use Amazon SageMaker AI to build and deploy a deep learning model for detecting solar flares using data from the European Space Agency's STIX instrument.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/",
-          "publishedOn": "2026-03-30T15:20:24.000Z",
-          "wordCount": 34639,
-          "title": "Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/30/ml-19354-1120x630.png"
-        },
-        {
-          "id": "f006ebf80cf44b9fe1aac49fdf2e47a96c5d48a2",
-          "author": "Wei Teh",
-          "description": "In this post, we walk through two use cases that help enhance the user viewing experience using agentic AI tools and frameworks including Strands Agents SDK, Amazon Bedrock AgentCore, and Amazon Nova Sonic 2.0. This agentic AI system uses a Model Context Protocol (MCP) to deliver a personal entertainment concierge that understands user preferences through natural dialogue.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/",
-          "publishedOn": "2026-03-30T15:17:26.000Z",
-          "wordCount": 34158,
-          "title": "Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/03/30/ml-19121-1120x630.png"
         }
       ]
     }

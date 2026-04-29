@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5a3be641e680894e6d69d29e4d195d10acd541ec",
+          "author": "Ariana Lopez",
+          "description": "This post was co-written with Yash Munsadwala, Adam Hood, Justin Guse, and Hector Hernandez from PwC. Contract analysis often consumes significant time for legal, compliance, and procurement teams, especially when important insights are buried in lengthy, unstructured agreements. As contract volumes grow, finding specific clauses and assessing extracted terms can become increasingly difficult to scale. […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/",
+          "publishedOn": "2026-04-29T21:19:39.000Z",
+          "wordCount": 33899,
+          "title": "Extracting contract insights with PwC’s AI-driven annotation on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/27/AIDA_FeaturePhotoForBlog-1260x578.png"
+        },
+        {
           "id": "838b1e174e795ca2e4fdf42fdbd7a3fb7e68a7e7",
           "author": "Noor Randhawa",
           "description": "In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Management (IAM)-based access control for AgentCore Memory.",

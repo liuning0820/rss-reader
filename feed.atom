@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-29T21:01:57.049Z</updated>
+    <updated>2026-04-29T22:54:39.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extracting contract insights with PwC’s AI-driven annotation on AWS]]></title>
+        <id>5a3be641e680894e6d69d29e4d195d10acd541ec</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/"/>
+        <updated>2026-04-29T21:19:39.000Z</updated>
+        <summary type="html"><![CDATA[This post was co-written with Yash Munsadwala, Adam Hood, Justin Guse, and Hector Hernandez from PwC. Contract analysis often consumes significant time for legal, compliance, and procurement teams, especially when important insights are buried in lengthy, unstructured agreements. As contract volumes grow, finding specific clauses and assessing extracted terms can become increasingly difficult to scale. […]]]></summary>
+        <author>
+            <name>Ariana Lopez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory]]></title>
         <id>838b1e174e795ca2e4fdf42fdbd7a3fb7e68a7e7</id>

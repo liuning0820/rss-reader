@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-29T10:02:48.726Z</updated>
+    <updated>2026-04-29T13:50:43.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building AI-ready data: Vanguard’s Virtual Analyst journey]]></title>
+        <id>adbaf43f80038e41c14feafe4df0a1fdde902dda</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/"/>
+        <updated>2026-04-29T11:56:33.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you'll learn how Vanguard built their Virtual Analyst solution by focusing on eight guiding principles of AI-ready data, the AWS services that powered their implementation, and the measurable business outcomes they achieved.]]></summary>
+        <author>
+            <name>Ravi Narang, Rithvik Bobbili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime]]></title>
+        <id>1071447f36d429aeb344691ca4944835c66d3075</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/"/>
+        <updated>2026-04-29T11:52:16.000Z</updated>
+        <summary type="html"><![CDATA[This post shows you how to deploy a serverless MCP proxy on Amazon Bedrock AgentCore Runtime that gives you a programmable layer to implement proper governance, controls, and observability aligned with an organization's security policies.]]></summary>
+        <author>
+            <name>Nizar Kheir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toronto]]></title>
         <id>http://blog.thestateofme.com/?p=6824</id>

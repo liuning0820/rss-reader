@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-29T06:21:02.501Z</updated>
+    <updated>2026-04-29T10:02:48.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Toronto]]></title>
+        <id>http://blog.thestateofme.com/?p=6824</id>
+        <link href="https://blog.thestateofme.com/2026/04/29/toronto/"/>
+        <updated>2026-04-29T08:09:05.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Toronto is a fantastic city, with plenty to keep us entertained over our 6 night stay. Why Toronto? We’d originally talked about returning to Halifax Nova Scotia, which we last visited in 2000; and then $wife announced that she’d like to go somewhere new. Getting there We picked flights with Air Canada on their […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic]]></title>
         <id>d563fd7276acb902e1438c6d5c90dddb8bfd215a</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-30T02:44:59.503Z</updated>
+    <updated>2026-04-30T06:25:01.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -694,56 +694,6 @@
         <summary type="html"><![CDATA[In this post, we introduce Amazon Bedrock AgentCore Evaluations, a fully managed service for assessing AI agent performance across the development lifecycle. We walk through how the service measures agent accuracy across multiple quality dimensions. We explain the two evaluation approaches for development and production and share practical guidance for building agents you can deploy with confidence.]]></summary>
         <author>
             <name>Akarsha Sehwag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a FinOps agent using Amazon Bedrock AgentCore]]></title>
-        <id>1b30d718d4831bfee928f9a87fe73a608b40afb8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/"/>
-        <updated>2026-03-31T17:57:16.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you learn how to build a FinOps agent using Amazon Bedrock AgentCore that helps your finance team manage AWS costs across multiple accounts. This conversational agent consolidates data from AWS Cost Explorer, AWS Budgets, and AWS Compute Optimizer into a single interface, so your team can ask questions like "What are my top cost drivers this month?" and receive immediate answers.]]></summary>
-        <author>
-            <name>Salman Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an AI powered system for compliance evidence collection]]></title>
-        <id>c7f4686c4cc0b7c5792ee48abc74cf0ed237c30d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/"/>
-        <updated>2026-03-31T17:52:15.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to build a similar system for your organization. You will learn the architecture decisions, implementation details, and deployment process that can help you automate your own compliance workflows.]]></summary>
-        <author>
-            <name>Ravi Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act]]></title>
-        <id>b588a237b83153c2e28dd0f5bdcc6bf6f1d463e7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/"/>
-        <updated>2026-03-31T17:46:50.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to implement agentic QA automation through QA Studio, a reference solution built with Amazon Nova Act. You will see how to define tests in natural language that adapt automatically to UI changes, explore the serverless architecture that executes tests reliably at scale, and get step-by-step deployment guidance for your AWS environment.]]></summary>
-        <author>
-            <name>Vinicius Pedroni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS launches frontier agents for security testing and cloud operations]]></title>
-        <id>f1745a907f234b94b9fe10d57f04a50f33f4e281</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/"/>
-        <updated>2026-03-31T16:25:32.000Z</updated>
-        <summary type="html"><![CDATA[I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent called frontier agents. These autonomous systems work independently to achieve goals, scale massively to tackle concurrent tasks, and run persistently for hours or days without constant human oversight. Together, these agents are changing the way we secure and operate software. In preview, customers and partners report that AWS Security Agent compresses penetration testing timelines from weeks to hours and the AWS DevOps Agent supports 3–5x faster incident resolution.]]></summary>
-        <author>
-            <name>Swami Sivasubramanian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era]]></title>
-        <id>38ad3186f957d57ffd3442bc78e0c4ad13e594ae</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/"/>
-        <updated>2026-03-31T15:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Traditional frameworks designed for static deployments cannot address the dynamic interactions that define agentic workloads. AI Risk Intelligence (AIRI), from AWS Generative AI Innovation Center, provides the automated rigor required to govern agents at enterprise scale—a fundamental reimagining of how security, operations, and governance work together systemically.]]></summary>
-        <author>
-            <name>Segolene Dessertine-Panhard</name>
         </author>
     </entry>
 </feed>

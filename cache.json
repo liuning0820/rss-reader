@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6824",
@@ -105,6 +105,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "5459255c913c10193537dcf6b74cbf451eb01a19",
+          "author": "Hemanth Kumar Jayakumar",
+          "description": "In this post, we take a deeper look at how RLAIF or RL with LLM-as-a-judge works with Amazon Nova models effectively.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/",
+          "publishedOn": "2026-04-30T20:07:25.000Z",
+          "wordCount": 34396,
+          "title": "Reinforcement fine-tuning with LLM-as-a-judge",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/30/ml-20696.png"
+        },
         {
           "id": "a0a4e38a7a30e37fedf9965a5ccf34de8be1aa66",
           "author": "Long Chen",

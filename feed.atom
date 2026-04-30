@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-04-30T19:17:26.179Z</updated>
+    <updated>2026-04-30T20:57:43.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement fine-tuning with LLM-as-a-judge]]></title>
+        <id>5459255c913c10193537dcf6b74cbf451eb01a19</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/"/>
+        <updated>2026-04-30T20:07:25.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we take a deeper look at how RLAIF or RL with LLM-as-a-judge works with Amazon Nova models effectively.]]></summary>
+        <author>
+            <name>Hemanth Kumar Jayakumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production]]></title>
         <id>a0a4e38a7a30e37fedf9965a5ccf34de8be1aa66</id>

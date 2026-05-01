@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6850",
+          "author": "Chris Swan",
+          "description": "Pupdate It’s been mostly warm and dry, so plenty of opportunities for longer walks :) Milo is now on the final cycle of his 4th chemo protocol, and it’s proceeding OK. Toronto We started the month in Toronto, which was a really fun trip deserving it’s own post. Eyes My cataracts are gone, and I […]",
+          "link": "http://blog.thestateofme.com/2026/05/01/april-2026/",
+          "publishedOn": "2026-05-01T08:32:21.000Z",
+          "wordCount": 4344,
+          "title": "April 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/04/pups_202604.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6850",
           "author": "Chris Swan",

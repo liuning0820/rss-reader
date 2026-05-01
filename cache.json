@@ -117,6 +117,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "82b5fb7c2a3b22e7b9220004277066d1f3105f61",
+          "author": "Anantha Choppalli, Ahil Gunasekaran, Taher Paratha",
+          "description": "In this post, we walk through the full journey, from setting up your migration workspace in AWS Transform to subscribing to partner agents through AWS Marketplace to unlocking Amazon Quick capabilities that change how your organization consumes data.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/",
+          "publishedOn": "2026-05-01T18:29:06.000Z",
+          "wordCount": 33470,
+          "title": "AWS Transform now automates BI migration to Amazon Quick in days",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/01/ml-20713.png"
+        },
+        {
           "id": "5459255c913c10193537dcf6b74cbf451eb01a19",
           "author": "Hemanth Kumar Jayakumar",
           "description": "In this post, we take a deeper look at how RLAIF or RL with LLM-as-a-judge works with Amazon Nova models effectively.",

@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6850",
+          "author": "Chris Swan",
+          "description": "Pupdate It’s been mostly warm and dry, so plenty of opportunities for longer walks :) Milo is now on the final cycle of his 4th chemo protocol, and it’s proceeding OK. Toronto We started the month in Toronto, which was a really fun trip deserving it’s own post. Eyes My cataracts are gone, and I […]",
+          "link": "https://blog.thestateofme.com/2026/05/01/april-2026/",
+          "publishedOn": "2026-05-01T08:32:21.000Z",
+          "wordCount": 4343,
+          "title": "April 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/04/pups_202604.jpg"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6824",
           "author": "Chris Swan",
           "description": "TL;DR Toronto is a fantastic city, with plenty to keep us entertained over our 6 night stay. Why Toronto? We’d originally talked about returning to Halifax Nova Scotia, which we last visited in 2000; and then $wife announced that she’d like to go somewhere new. Getting there We picked flights with Air Canada on their […]",
@@ -770,16 +780,6 @@
           "wordCount": 34236,
           "title": "Persist session state with filesystem configuration and execute shell commands",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20668-1120x630.png"
-        },
-        {
-          "id": "1e606707f888c0ebc529f39719ee8554d2d7e964",
-          "author": "Nishant Dhiman",
-          "description": "This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
-          "publishedOn": "2026-04-01T18:57:01.000Z",
-          "wordCount": 34283,
-          "title": "Automating competitive price intelligence with Amazon Nova Act",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/01/ml-20133-1120x630.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-01T06:34:39.813Z</updated>
+    <updated>2026-05-01T09:43:34.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April 2026]]></title>
+        <id>http://blog.thestateofme.com/?p=6850</id>
+        <link href="https://blog.thestateofme.com/2026/05/01/april-2026/"/>
+        <updated>2026-05-01T08:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate It’s been mostly warm and dry, so plenty of opportunities for longer walks :) Milo is now on the final cycle of his 4th chemo protocol, and it’s proceeding OK. Toronto We started the month in Toronto, which was a really fun trip deserving it’s own post. Eyes My cataracts are gone, and I […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苏东坡]]></title>
         <id>https://liuning0820.github.io/2026/05/01/%E8%8B%8F%E4%B8%9C%E5%9D%A1.html</id>
@@ -724,16 +734,6 @@
         <summary type="html"><![CDATA[In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.]]></summary>
         <author>
             <name>Evandro Franco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating competitive price intelligence with Amazon Nova Act]]></title>
-        <id>1e606707f888c0ebc529f39719ee8554d2d7e964</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/"/>
-        <updated>2026-04-01T18:57:01.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how to build an automated competitive price intelligence system that streamlines manual workflows, supporting teams to make data-driven pricing decisions with real-time market insights.]]></summary>
-        <author>
-            <name>Nishant Dhiman</name>
         </author>
     </entry>
 </feed>

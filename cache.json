@@ -760,46 +760,6 @@
           "wordCount": 33866,
           "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20556-1120x630.png"
-        },
-        {
-          "id": "1c65854b644a83432e2546e6f2562a515a630b51",
-          "author": "Haotian An",
-          "description": "This post describes how TGS achieved near-linear scaling for distributed training and expanded context windows for their Vision Transformer-based SFM using Amazon SageMaker HyperPod. This joint solution cut training time from 6 months to just 5 days while enabling analysis of seismic volumes larger than previously possible.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
-          "publishedOn": "2026-04-02T13:30:57.000Z",
-          "wordCount": 33819,
-          "title": "Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20370-1120x630.png"
-        },
-        {
-          "id": "63914b8f7a4b3b849864247648567acd69c82c9c",
-          "author": "Evandro Franco",
-          "description": "In this post, we show you how to configure AWS Network Firewall to restrict AgentCore resources to an allowlist of approved internet domains. This post focuses on domain-level filtering using SNI inspection — the first layer of a defense-in-depth approach.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
-          "publishedOn": "2026-04-02T13:28:19.000Z",
-          "wordCount": 34451,
-          "title": "Control which domains your AI agents can access",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20452-1120x630.png"
-        },
-        {
-          "id": "26dce02ed0faf5612b7162b5bbd73bfc1d59687c",
-          "author": "Jeremy Little, Chris Day",
-          "description": "Through a strategic partnership with the AWS Generative AI Innovation Center (GenAIIC), Rocket Close developed an intelligent document processing solution that has significantly reduced processing time, making the process 15 times faster. The solution, which uses Amazon Textract for OCR processing and Amazon Bedrock for foundation models (FMs), achieves a strong 90% overall accuracy in document segmentation, classification, and field extraction.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
-          "publishedOn": "2026-04-02T12:59:31.000Z",
-          "wordCount": 33617,
-          "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-19763-1120x630.png"
-        },
-        {
-          "id": "0bd95d10452b2c44cb693abbe133dd35f356b8ba",
-          "author": "Evandro Franco",
-          "description": "In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
-          "publishedOn": "2026-04-02T12:52:07.000Z",
-          "wordCount": 34236,
-          "title": "Persist session state with filesystem configuration and execute shell commands",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20668-1120x630.png"
         }
       ]
     }

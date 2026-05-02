@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-02T02:33:04.860Z</updated>
+    <updated>2026-05-02T06:04:45.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -704,16 +704,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don’t. They’re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulate realistic users to evaluate multi-turn AI agents in Strands Evals]]></title>
-        <id>fe875468636d5ac9e36df34c2c854b67105f5912</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/"/>
-        <updated>2026-04-02T17:34:02.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how ActorSimulator in Strands Evaluations SDK addresses the challenge with structured user simulation that integrates into your evaluation pipeline.]]></summary>
-        <author>
-            <name>Ishan Singh</name>
         </author>
     </entry>
 </feed>

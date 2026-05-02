@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6850",
@@ -750,16 +750,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/FLASH-3089/Consent+Screen.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/06/flash-3089-1120x630.png"
-        },
-        {
-          "id": "fe875468636d5ac9e36df34c2c854b67105f5912",
-          "author": "Ishan Singh",
-          "description": "In this post, we explore how ActorSimulator in Strands Evaluations SDK addresses the challenge with structured user simulation that integrates into your evaluation pipeline.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/",
-          "publishedOn": "2026-04-02T17:34:02.000Z",
-          "wordCount": 33866,
-          "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/02/ml-20556-1120x630.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-03T22:38:17.646Z</updated>
+    <updated>2026-05-04T02:41:15.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #515]]></title>
+        <id>https://sreweekly.com/?p=1748</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-515/"/>
+        <updated>2026-05-04T01:55:08.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, atscaleconference.com: Building scalable, high-performance infrastructure for AI is one of today’s toughest challenges. Join @Scale: Systems & Reliability on June 25 in Bellevue, WA to learn how leading engineers are solving it. Secure your seat today! The Silent Failure of Reliability Metrics at Scale: Lessons Learned from […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Transform now automates BI migration to Amazon Quick in days]]></title>
         <id>82b5fb7c2a3b22e7b9220004277066d1f3105f61</id>

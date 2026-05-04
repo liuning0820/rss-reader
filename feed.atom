@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-04T19:26:00.984Z</updated>
+    <updated>2026-05-04T21:06:50.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]]]></summary>
         <author>
             <name>Bharathi Srinivasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VLANs on Sodola managed switches]]></title>
+        <id>https://blog.thestateofme.com/?p=6865</id>
+        <link href="http://blog.thestateofme.com/2026/05/04/vlans-on-sodola-managed-switches/"/>
+        <updated>2026-05-04T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

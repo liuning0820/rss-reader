@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6865",
+          "author": "Chris Swan",
+          "description": "TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]",
+          "link": "http://blog.thestateofme.com/2026/05/04/vlans-on-sodola-managed-switches/",
+          "publishedOn": "2026-05-04T17:13:02.000Z",
+          "wordCount": 4137,
+          "title": "VLANs on Sodola managed switches",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/05/sodola_vlans.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6865",
           "author": "Chris Swan",

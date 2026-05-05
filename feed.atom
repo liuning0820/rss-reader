@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-05T13:49:23.979Z</updated>
+    <updated>2026-05-05T15:50:53.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS]]></title>
+        <id>bc2f8cf830dae5c300c42de5b746021ef2e585cf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/"/>
+        <updated>2026-05-05T15:27:30.000Z</updated>
+        <summary type="html"><![CDATA[AI agents in production require secure access to external services. Amazon Bedrock AgentCore Identity, available as a standalone service, secures how your AI agents access external services whether they run on compute platforms like Amazon ECS, Amazon EKS, AWS Lambda, or on-premises. This post implements Authorization Code Grant (3-legged OAuth) on Amazon ECS with secure session binding and scoped tokens.]]></summary>
+        <author>
+            <name>Julian Grüber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligence-driven message defense and insights using Amazon Bedrock]]></title>
+        <id>bb1fd10e428b20b509186f57b8100c36b13b55bd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/"/>
+        <updated>2026-05-05T15:20:54.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn how you can use Amazon Nova Foundation Models in Amazon Bedrock to apply generative AI techniques for both business protection and enhancement. You can identify obvious and disguised attempts at direct contact while gaining valuable insights into customer sentiment and service improvement opportunities.]]></summary>
+        <author>
+            <name>Tyler Huehmer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions]]></title>
         <id>60d160056df6505b0c2dcad394f16535ce73b8a8</id>
@@ -804,16 +824,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock AgentCore Gateway provides a centralized layer for managing how AI agents connect to tools and MCP servers across your organization. In this post, we walk through how to configure AgentCore Gateway to connect to an OAuth-protected MCP server using the Authorization Code flow.]]></summary>
         <author>
             <name>Arko Dutta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #511]]></title>
-        <id>https://sreweekly.com/?p=1740</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-511/"/>
-        <updated>2026-04-06T02:15:32.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Depot: CI was designed for humans who context-switch while waiting. Agents don’t. They’re just blocked. Depot CEO Kyle Galbraith on how they re-imagined Depot CI to close the loop: run against local patches, rerun a single job, SSH into the runner to check reality. Per-second billing, no […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

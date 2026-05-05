@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-04T22:55:39.313Z</updated>
+    <updated>2026-05-05T02:34:44.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Business leaders across industries rely on operational dashboards as the shared source of truth that their teams execute against daily. But dashboards are built to answer known questions. When teams need to explore further, ad-hoc, multi-dimensional, or unforeseen questions, they hit a bottleneck. They wait hours or days for BI teams to build new views […]]]></summary>
         <author>
             <name>Salim Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the agent quality loop: AgentCore Optimization now in preview]]></title>
+        <id>7dbb6ffe39567fe894de1d5ab0f9d846ce289fad</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/"/>
+        <updated>2026-05-04T17:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]]]></summary>
+        <author>
+            <name>Bharathi Srinivasan</name>
         </author>
     </entry>
     <entry>

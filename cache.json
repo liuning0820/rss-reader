@@ -160,6 +160,16 @@
           "id": "7dbb6ffe39567fe894de1d5ab0f9d846ce289fad",
           "author": "Bharathi Srinivasan",
           "description": "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/",
+          "publishedOn": "2026-05-04T17:13:42.000Z",
+          "wordCount": 32831,
+          "title": "Introducing the agent quality loop: AgentCore Optimization now in preview",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/ml-20827.png"
+        },
+        {
+          "id": "7dbb6ffe39567fe894de1d5ab0f9d846ce289fad",
+          "author": "Bharathi Srinivasan",
+          "description": "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]",
           "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-performance-loop-agentcore-optimization-now-in-preview/",
           "publishedOn": "2026-05-04T17:13:42.000Z",
           "wordCount": 32831,

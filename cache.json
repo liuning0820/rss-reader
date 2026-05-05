@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6865",
@@ -136,6 +136,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "9ce18f255d3613201d9c06da84f23b743118e82a",
+          "author": "Aamna Najmi",
+          "description": "Hapag-Lloyd's Digital Customer Experience and Engineering team, distributed between Hamburg and Gdańsk, drives digital innovation by developing and maintaining customer-facing web and mobile products. In this post, we walk you through our generative AI–powered feedback analysis solution built using Amazon Bedrock, Elasticsearch, and open-source frameworks like LangChain and LangGraph",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/",
+          "publishedOn": "2026-05-05T16:55:42.000Z",
+          "wordCount": 33737,
+          "title": "How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-19061.png"
+        },
+        {
+          "id": "54d298de7b88ead08bf3dc325017027205c00514",
+          "author": "Sandeep Raveesh-Babu",
+          "description": "Today, we’re excited to announce that Amazon SageMaker AI MLflow Apps now support MLflow version 3.10, bringing enhanced capabilities for generative AI development and streamlined experiment tracking to your generative AI workflows. Building on the foundations established with Amazon SageMaker AI MLflow Apps, this latest version introduces powerful new features for observability, evaluation, and generative […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-05-05T16:55:18.000Z",
+          "wordCount": 32318,
+          "title": "Streamlining generative AI development with MLflow v3.10 on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/20877-launch.png"
+        },
+        {
+          "id": "b16806fe3bc31dc8d40116e628210bf2bd258179",
+          "author": "Evandro Franco",
+          "description": "We’re announcing OS Level Actions for AgentCore Browser. This new capability unblocks these scenarios by exposing direct OS control through the InvokeBrowser API, so agents can interact with content visible on the screen, not only what's accessible through the browser's web layer. By combining full-desktop screenshots with mouse and keyboard control at the OS level, agents can observe native UI, reason about it, and act on it within the same session. This post walks through how OS Level Actions work, what actions are supported, and how to get started.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/",
+          "publishedOn": "2026-05-05T16:54:35.000Z",
+          "wordCount": 33584,
+          "title": "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-20810.png"
+        },
         {
           "id": "bc2f8cf830dae5c300c42de5b746021ef2e585cf",
           "author": "Julian Grüber",

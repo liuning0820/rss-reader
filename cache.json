@@ -137,6 +137,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "f2e77f0d028a15bd3c291d77ca604445eb30adad",
+          "author": "Ray Wang",
+          "description": "Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To reduce costs and maintain accuracy, Tomofun turned to EC2 Inf2 instances powered by AWS Inferentia2, the Amazon purpose-built AI chips. In this post, we walk through the following sections in detail.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/",
+          "publishedOn": "2026-05-06T15:37:08.000Z",
+          "wordCount": 33413,
+          "title": "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/06/ml-19636.png"
+        },
+        {
           "id": "9ce18f255d3613201d9c06da84f23b743118e82a",
           "author": "Aamna Najmi",
           "description": "Hapag-Lloyd's Digital Customer Experience and Engineering team, distributed between Hamburg and Gdańsk, drives digital innovation by developing and maintaining customer-facing web and mobile products. In this post, we walk you through our generative AI–powered feedback analysis solution built using Amazon Bedrock, Elasticsearch, and open-source frameworks like LangChain and LangGraph",

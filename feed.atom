@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-07T10:21:50.758Z</updated>
+    <updated>2026-05-07T14:02:32.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agents that transact: Introducing Amazon Bedrock AgentCore Payments, built with Coinbase and Stripe]]></title>
+        <id>59d806f0513d8b0ce39cdf6f6348684b067a1251</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/"/>
+        <updated>2026-05-07T12:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to instantly access and pay for what they use. AgentCore Payments was developed in partnership with Coinbase and Stripe.]]></summary>
+        <author>
+            <name>Preethi C N</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2]]></title>
         <id>f2e77f0d028a15bd3c291d77ca604445eb30adad</id>
@@ -794,16 +804,6 @@
         <summary type="html"><![CDATA[In this post, we explore where RFT is most effective, using the GSM8K mathematical reasoning dataset as a concrete example. We then walk through best practices for dataset preparation and reward function design, show how to monitor training progress using Amazon Bedrock metrics, and conclude with practical hyperparameter tuning guidelines informed by experiments across multiple models and use cases.]]></summary>
         <author>
             <name>Nick McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage AI costs with Amazon Bedrock Projects]]></title>
-        <id>105134ae0a251deebb4b6f30757ebf9139378b27</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/"/>
-        <updated>2026-04-07T23:32:00.000Z</updated>
-        <summary type="html"><![CDATA[With Amazon Bedrock Projects, you can attribute inference costs to specific workloads and analyze them in AWS Cost Explorer and AWS Data Exports. In this post, you will learn how to set up Projects end-to-end, from designing a tagging strategy to analyzing costs.]]></summary>
-        <author>
-            <name>Ba'Carri Johnson</name>
         </author>
     </entry>
 </feed>

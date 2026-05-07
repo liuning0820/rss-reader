@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6865",
@@ -136,6 +136,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "59d806f0513d8b0ce39cdf6f6348684b067a1251",
+          "author": "Preethi C N",
+          "description": "Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to instantly access and pay for what they use. AgentCore Payments was developed in partnership with Coinbase and Stripe.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+          "publishedOn": "2026-05-07T12:55:17.000Z",
+          "wordCount": 33190,
+          "title": "Agents that transact: Introducing Amazon Bedrock AgentCore Payments, built with Coinbase and Stripe",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/06/images-ml-20991-featured.png"
+        },
         {
           "id": "f2e77f0d028a15bd3c291d77ca604445eb30adad",
           "author": "Ray Wang",
@@ -835,16 +845,6 @@
           "wordCount": 35646,
           "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/08/ml-20097-1120x630.png"
-        },
-        {
-          "id": "105134ae0a251deebb4b6f30757ebf9139378b27",
-          "author": "Ba'Carri Johnson",
-          "description": "With Amazon Bedrock Projects, you can attribute inference costs to specific workloads and analyze them in AWS Cost Explorer and AWS Data Exports. In this post, you will learn how to set up Projects end-to-end, from designing a tagging strategy to analyzing costs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/",
-          "publishedOn": "2026-04-07T23:32:00.000Z",
-          "wordCount": 32617,
-          "title": "Manage AI costs with Amazon Bedrock Projects",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/07/ml-20677-1120x630.png"
         }
       ]
     }

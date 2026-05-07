@@ -845,26 +845,6 @@
           "wordCount": 32617,
           "title": "Manage AI costs with Amazon Bedrock Projects",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/07/ml-20677-1120x630.png"
-        },
-        {
-          "id": "7e1604bebed8710613b18f0a0f01ca7c53914508",
-          "author": "Madhavi Evana",
-          "description": "This post walks through building an automated podcast generator that creates engaging conversations between two AI hosts on any topic, demonstrating the streaming capabilities of Nova Sonic, stage-aware content filtering, and real-time audio generation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
-          "publishedOn": "2026-04-07T16:29:11.000Z",
-          "wordCount": 33719,
-          "title": "Building real-time conversational podcasts with Amazon Nova 2 Sonic",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/07/ml-19828-1120x630.png"
-        },
-        {
-          "id": "018bc0596e0f48845bb01ac8e0b7e4d08fb6602a",
-          "author": "Monica Jain",
-          "description": "In this post, we show you how to build a natural text-to-SQL solution using Amazon Bedrock that transforms business questions into database queries and returns actionable answers.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/",
-          "publishedOn": "2026-04-07T16:28:20.000Z",
-          "wordCount": 34388,
-          "title": "Text-to-SQL solution powered by Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/07/ml-20289-1120x630.png"
         }
       ]
     }

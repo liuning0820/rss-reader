@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-08T11:11:34.663Z</updated>
+    <updated>2026-05-08T13:28:12.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI]]></title>
+        <id>50e2458aad69afd7ee49fba03244612fe5aa647b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/"/>
+        <updated>2026-05-08T13:20:30.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we'll explore how we built a proof-of-concept that converts natural language queries into executable seismic workflows while providing a question-answering capability for Halliburton's Seismic Engine tools and documentation. We'll cover the technical details of the solution, share evaluation results showing workflow acceleration of up to 95%, and discuss key learnings that can help other organizations enhance their complex technical workflows with generative AI.]]></summary>
+        <author>
+            <name>Yuan Tian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans]]></title>
         <id>8ba537027d8912392020ef68e4931e628fea0ddc</id>

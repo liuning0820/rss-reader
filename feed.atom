@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-11T17:52:30.405Z</updated>
+    <updated>2026-05-11T19:43:14.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account]]></title>
+        <id>c29f5fd7e22722c1f437ab939e992d616a983c08</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/"/>
+        <updated>2026-05-11T18:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.]]></summary>
+        <author>
+            <name>Dani Mitchell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manufacturing intelligence with Amazon Nova Multimodal Embeddings]]></title>
         <id>eac73bc7cf82f5e18f0720bf8791e9d949f18122</id>

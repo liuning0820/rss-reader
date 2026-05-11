@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-10T22:43:26.113Z</updated>
+    <updated>2026-05-11T02:55:11.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #516]]></title>
+        <id>https://sreweekly.com/?p=1754</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-516/"/>
+        <updated>2026-05-11T01:39:21.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Paging is just 10% of your incident workflow. incident.io’s 4-step framework turns migration into a forcing function for the other 90%: cut alert noise, fix service ownership, and build the on-call program your team actually deserves. Not all index scans are equal: How we cut query […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI]]></title>
         <id>50e2458aad69afd7ee49fba03244612fe5aa647b</id>

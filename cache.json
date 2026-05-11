@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6865",
@@ -146,6 +146,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "77e0c68e2390ba4ce8d268116b6c8907e190f75f",
+          "author": "Manoj Selvakumar",
+          "description": "In this post, you will learn how to set up the Exa integration in Strands Agents, understand the two core tools it exposes, and walk through real-world use cases that show how agents use web search to complete multi-step tasks.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
+          "publishedOn": "2026-05-11T21:58:16.000Z",
+          "wordCount": 35095,
+          "title": "Building web search-enabled agents with Strands and Exa",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-19612.png"
+        },
         {
           "id": "c29f5fd7e22722c1f437ab939e992d616a983c08",
           "author": "Dani Mitchell",

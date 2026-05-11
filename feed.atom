@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-11T14:45:05.020Z</updated>
+    <updated>2026-05-11T17:52:30.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing intelligence with Amazon Nova Multimodal Embeddings]]></title>
+        <id>eac73bc7cf82f5e18f0720bf8791e9d949f18122</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/"/>
+        <updated>2026-05-11T17:08:24.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.]]></summary>
+        <author>
+            <name>Adewale Akinfaderin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours]]></title>
+        <id>9d8096ec7dcd70fc7184dbfb24b0824313bf962b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/"/>
+        <updated>2026-05-11T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by Amazon Bedrock.]]></summary>
+        <author>
+            <name>Philipp Pavlov, Dmytro Romantsov, Evgeny Mironenko, Gowri Suryanarayana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions]]></title>
+        <id>209a6be873032a8fd00210fef88ce9acbc7db797</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/"/>
+        <updated>2026-05-11T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data professionals deliver trusted AI-powered insights at enterprise scale.]]></summary>
+        <author>
+            <name>Shekhar Kopuri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #516]]></title>
         <id>https://sreweekly.com/?p=1754</id>

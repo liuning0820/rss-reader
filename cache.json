@@ -147,6 +147,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "eac73bc7cf82f5e18f0720bf8791e9d949f18122",
+          "author": "Adewale Akinfaderin",
+          "description": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
+          "publishedOn": "2026-05-11T17:08:24.000Z",
+          "wordCount": 34621,
+          "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-20830.png"
+        },
+        {
+          "id": "9d8096ec7dcd70fc7184dbfb24b0824313bf962b",
+          "author": "Philipp Pavlov, Dmytro Romantsov, Evgeny Mironenko, Gowri Suryanarayana",
+          "description": "In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
+          "publishedOn": "2026-05-11T17:03:00.000Z",
+          "wordCount": 34408,
+          "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-18722.png"
+        },
+        {
+          "id": "209a6be873032a8fd00210fef88ce9acbc7db797",
+          "author": "Shekhar Kopuri",
+          "description": "Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data professionals deliver trusted AI-powered insights at enterprise scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
+          "publishedOn": "2026-05-11T15:56:33.000Z",
+          "wordCount": 34145,
+          "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-21014.png"
+        },
+        {
           "id": "50e2458aad69afd7ee49fba03244612fe5aa647b",
           "author": "Yuan Tian",
           "description": "In this post, we'll explore how we built a proof-of-concept that converts natural language queries into executable seismic workflows while providing a question-answering capability for Halliburton's Seismic Engine tools and documentation. We'll cover the technical details of the solution, share evaluation results showing workflow acceleration of up to 95%, and discuss key learnings that can help other organizations enhance their complex technical workflows with generative AI.",

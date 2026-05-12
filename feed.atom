@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-12T06:34:28.348Z</updated>
+    <updated>2026-05-12T10:29:05.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -804,16 +804,6 @@
         <summary type="html"><![CDATA[This post demonstrates how Lambda enables scalable, cost-effective reward functions for Amazon Nova customization. You'll learn to choose between Reinforcement Learning via Verifiable Rewards (RLVR) for objectively verifiable tasks and Reinforcement Learning via AI Feedback (RLAIF) for subjective evaluation, design multi-dimensional reward systems that help you prevent reward hacking, optimize Lambda functions for training scale, and monitor reward distributions with Amazon CloudWatch. Working code examples and deployment guidance are included to help you start experimenting.]]></summary>
         <author>
             <name>Manoj Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #512]]></title>
-        <id>https://sreweekly.com/?p=1742</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-512/"/>
-        <updated>2026-04-12T20:31:10.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Archera: AI workloads are unpredictable, which makes cloud commitments feel like a gamble. Archera insures your commitments against underutilization, so you can push coverage higher without the risk of getting stuck. If usage drops, Archera covers the downside. Commitment Release Guarantee included. Start Saving Ashby taught us […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

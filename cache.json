@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6877",
+          "author": "Chris Swan",
+          "description": "Milo is five today, which he’s mostly celebrating by snoozing on the office sofa behind me. He’s nearing the end of his fourth (modified) CHOP protocol, with just over 4 weeks and 3 more vet visits to go. Since going into remission at the start of the year things have proceeded mostly uneventfully, which is […]",
+          "link": "https://blog.thestateofme.com/2026/05/12/milo-cancer-diary-part-23-five/",
+          "publishedOn": "2026-05-12T16:02:40.000Z",
+          "wordCount": 3905,
+          "title": "Milo cancer diary part 23 – Five",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/05/milo_5.jpg"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=6865",
           "author": "Chris Swan",
           "description": "TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]",
@@ -136,6 +146,41 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "fe640da140d398812aa67a4a0b0020a58aa197ea",
+          "author": "Balaji Kumar Gopalakrishnan",
+          "description": "In this post, we demonstrate how Amazon FinTech teams are using Amazon Bedrock and other AWS services to build a scalable AI application to transform how regulatory inquiries are handled. Each team using this solution creates and maintains its own dedicated knowledge base, populated with that team's specific documents and reference materials.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
+          "publishedOn": "2026-05-12T16:41:33.000Z",
+          "wordCount": 34114,
+          "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/30/image-1-14-1119x630.png"
+        },
+        {
+          "id": "b61799ead8efbe461abfddd7ecedda5876301974",
+          "author": "Grace Lang",
+          "description": "In this post, we'll show you how our multi-document discovery feature solves this problem. It serves as an automated pre-processing step, analyzing unknown documents, clustering them by type, and generating schemas ready for the IDP Accelerator. You'll learn how the new capability uses visual embeddings for automatic clustering and agents for schema generation. We'll also walk you through running the solution on your own document collections.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/",
+          "publishedOn": "2026-05-12T15:54:08.000Z",
+          "wordCount": 33940,
+          "title": "Automate schema generation for intelligent document processing",
+          "enclosure": {
+            "length": "115893573",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-20447/multidoc_discovery.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/12/ml-20447.png"
+        },
+        {
+          "id": "540dba46045344eff31cc9473cc6f6f34abb6aae",
+          "author": "Shukhrat Khodjaev",
+          "description": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-05-12T15:48:52.000Z",
+          "wordCount": 34593,
+          "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/12/ml-20303.png"
+        },
         {
           "id": "77e0c68e2390ba4ce8d268116b6c8907e190f75f",
           "author": "Manoj Selvakumar",

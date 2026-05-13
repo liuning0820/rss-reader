@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fd77696bc2cb871f504b0871d4d9462a56b8669d",
+          "author": "ND Ngoka",
+          "description": "This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/",
+          "publishedOn": "2026-05-13T18:00:06.000Z",
+          "wordCount": 35434,
+          "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/13/ml-19858.png"
+        },
+        {
           "id": "7af88abc651a35a1deb778524126f517717c5670",
           "author": "Zihang Huang",
           "description": "Building end-to-end live streaming applications with real-time voice interaction presents several challenges. This post introduces a solution based on Amazon Nova 2 Sonic (Nova Sonic) and Amazon Kinesis Video Streams WebRTC (WebRTC) that addresses these challenges. In this post, we’ll walk through the solution architecture, implementation patterns, and two real-world scenario examples.",

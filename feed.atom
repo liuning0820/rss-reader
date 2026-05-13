@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-13T17:59:07.759Z</updated>
+    <updated>2026-05-13T20:03:43.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build financial document processing with Pulse AI and Amazon Bedrock]]></title>
+        <id>fd77696bc2cb871f504b0871d4d9462a56b8669d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/"/>
+        <updated>2026-05-13T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.]]></summary>
+        <author>
+            <name>ND Ngoka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC]]></title>
         <id>7af88abc651a35a1deb778524126f517717c5670</id>

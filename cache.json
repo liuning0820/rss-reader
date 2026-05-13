@@ -147,6 +147,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "7af88abc651a35a1deb778524126f517717c5670",
+          "author": "Zihang Huang",
+          "description": "Building end-to-end live streaming applications with real-time voice interaction presents several challenges. This post introduces a solution based on Amazon Nova 2 Sonic (Nova Sonic) and Amazon Kinesis Video Streams WebRTC (WebRTC) that addresses these challenges. In this post, we’ll walk through the solution architecture, implementation patterns, and two real-world scenario examples.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/",
+          "publishedOn": "2026-05-13T17:46:19.000Z",
+          "wordCount": 33479,
+          "title": "Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/13/ml-20027.png"
+        },
+        {
+          "id": "a35b6a5c47967d58bb4ca032fed533a7fb206f0a",
+          "author": "Amit Arora",
+          "description": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/",
+          "publishedOn": "2026-05-13T17:33:16.000Z",
+          "wordCount": 33744,
+          "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/13/ml-20700.png"
+        },
+        {
+          "id": "697873040685abb0645311a069aa848064426519",
+          "author": "Genta Watanabe",
+          "description": "In this post, we demonstrate how to build a secure, complete LLM fine-tuning workflow that integrates Unity Catalog with Amazon SageMaker AI using Amazon EMR Serverless for preprocessing. The solution shows how to securely access governed data, maintain lineage across services, fine-tune the Ministral-3-3B-Instruct model, and register trained artifacts back into Unity Catalog. With this approach, you can continue using your existing services while preserving central governance, tracking data lineage without compromising security or compliance requirements.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/",
+          "publishedOn": "2026-05-13T17:22:42.000Z",
+          "wordCount": 34661,
+          "title": "Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/13/ml-19973.png"
+        },
+        {
           "id": "fe640da140d398812aa67a4a0b0020a58aa197ea",
           "author": "Balaji Kumar Gopalakrishnan",
           "description": "In this post, we demonstrate how Amazon FinTech teams are using Amazon Bedrock and other AWS services to build a scalable AI application to transform how regulatory inquiries are handled. Each team using this solution creates and maintains its own dedicated knowledge base, populated with that team's specific documents and reference materials.",

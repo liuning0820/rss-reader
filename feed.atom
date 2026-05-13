@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-13T02:52:22.461Z</updated>
+    <updated>2026-05-13T06:45:25.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -834,16 +834,6 @@
         <summary type="html"><![CDATA[With the new Spring AI AgentCore SDK, you can build production-ready AI agents and run them on the highly scalable AgentCore Runtime. The Spring AI AgentCore SDK is an open source library that brings Amazon Bedrock AgentCore capabilities into Spring AI. In this post, we build an AI agent starting with a chat endpoint, then adding streaming responses, conversation memory, and tools for web browsing and code execution.]]></summary>
         <author>
             <name>Andrei Shakirin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build effective reward functions with AWS Lambda for Amazon Nova model customization]]></title>
-        <id>b3e2531907f114ceb2527ac00dee671543f1646a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/"/>
-        <updated>2026-04-13T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how Lambda enables scalable, cost-effective reward functions for Amazon Nova customization. You'll learn to choose between Reinforcement Learning via Verifiable Rewards (RLVR) for objectively verifiable tasks and Reinforcement Learning via AI Feedback (RLAIF) for subjective evaluation, design multi-dimensional reward systems that help you prevent reward hacking, optimize Lambda functions for training scale, and monitor reward distributions with Amazon CloudWatch. Working code examples and deployment guidance are included to help you start experimenting.]]></summary>
-        <author>
-            <name>Manoj Gupta</name>
         </author>
     </entry>
 </feed>

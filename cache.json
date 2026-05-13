@@ -885,16 +885,6 @@
           "wordCount": 33709,
           "title": "Spring AI SDK for Amazon Bedrock AgentCore is now Generally Available",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/14/ml-19946-1120x630.png"
-        },
-        {
-          "id": "b3e2531907f114ceb2527ac00dee671543f1646a",
-          "author": "Manoj Gupta",
-          "description": "This post demonstrates how Lambda enables scalable, cost-effective reward functions for Amazon Nova customization. You'll learn to choose between Reinforcement Learning via Verifiable Rewards (RLVR) for objectively verifiable tasks and Reinforcement Learning via AI Feedback (RLAIF) for subjective evaluation, design multi-dimensional reward systems that help you prevent reward hacking, optimize Lambda functions for training scale, and monitor reward distributions with Amazon CloudWatch. Working code examples and deployment guidance are included to help you start experimenting.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/",
-          "publishedOn": "2026-04-13T16:01:18.000Z",
-          "wordCount": 35235,
-          "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/13/ml-20419-1120x630.png"
         }
       ]
     }

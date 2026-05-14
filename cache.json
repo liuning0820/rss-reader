@@ -875,46 +875,6 @@
           "wordCount": 32950,
           "title": "Rede Mater Dei de Saúde: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/15/ml-20233-1120x630.png"
-        },
-        {
-          "id": "5f40d75485df1173620aeb8cfda36ec10516a8bf",
-          "author": "Nitin Eusebius",
-          "description": "In this post, we introduce the Generative AI Path-to-Value (P2V) framework, a structured approach to help you move generative AI initiatives from concept to production and sustained value creation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/",
-          "publishedOn": "2026-04-14T18:19:43.000Z",
-          "wordCount": 35056,
-          "title": "Navigating the generative AI journey: The Path-to-Value framework from AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/14/ml-18780-1120x630.png"
-        },
-        {
-          "id": "c1a89539e1b017078d4a4c7201d0c5a41dd755f0",
-          "author": "Dan Ferguson",
-          "description": "We're excited to announce the launch of Amazon SageMaker JumpStart optimized deployments. SageMaker JumpStart improved deployments address the need for rich and straightforward deployment customization on SageMaker JumpStart by offering pre-defined deployment configurations, designed for specific use cases. Customers maintain the same level of visibility into the details of their proposed deployments, but now deployments are optimized for their specific use case and performance constraint.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart/",
-          "publishedOn": "2026-04-14T18:14:54.000Z",
-          "wordCount": 32058,
-          "title": "Use-case based deployments on SageMaker JumpStart",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/14/flash-3087-1120x630.png"
-        },
-        {
-          "id": "44fc6f771f43b4b1d80403dbfbd0ff5ae44c0583",
-          "author": "Vinay Arora",
-          "description": "This post explores how Amazon SageMaker HyperPod provides a comprehensive solution for inference workloads. We walk you through the platform’s key capabilities for dynamic scaling, simplified deployment, and intelligent resource management. By the end of this post, you’ll understand how to use the HyperPod automated infrastructure, cost optimization features, and performance enhancements to reduce your total cost of ownership by up to 40% while accelerating your generative AI deployments from concept to production.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2026-04-14T18:09:22.000Z",
-          "wordCount": 33440,
-          "title": "Best practices to run inference on Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/14/ml-20174-new-1120x630.png"
-        },
-        {
-          "id": "e06e1c436db77444ce7fa3738a13112abe77e6e8",
-          "author": "David Lord, Taylor Lord, Shiva Prasad, Anup Banasavalli Hiriyanagowda, Nikhil Chandra",
-          "description": "In this post, we walk through how Guidesly built Jack AI on AWS using AWS Lambda, AWS Step Functions, Amazon Simple Storage Service (Amazon S3), Amazon Relational Database Service (Amazon RDS), Amazon SageMaker AI, and Amazon Bedrock to ingest trip media, enrich it with context, apply computer vision and generative AI, and publish marketing-ready content across multiple channels—securely, reliably, and at scale.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws/",
-          "publishedOn": "2026-04-14T18:02:56.000Z",
-          "wordCount": 34689,
-          "title": "How Guidesly built AI-generated trip reports for outdoor guides on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/14/ml-19315-1120x630.png"
         }
       ]
     }

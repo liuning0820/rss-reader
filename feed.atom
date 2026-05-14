@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-14T02:54:48.415Z</updated>
+    <updated>2026-05-14T06:43:45.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -824,46 +824,6 @@
         <summary type="html"><![CDATA[This post is cowritten by Renata Salvador Grande, Gabriel Bueno and Paulo Laurentys at Rede Mater Dei de Saúde. The growing adoption of multi-agent AI systems is redefining critical operations in healthcare. In large hospital networks, where thousands of decisions directly impact cash flow, service delivery times, and the risk of claim denials, the ability […]]]></summary>
         <author>
             <name>Renata Salvador Grande</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the generative AI journey: The Path-to-Value framework from AWS]]></title>
-        <id>5f40d75485df1173620aeb8cfda36ec10516a8bf</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/"/>
-        <updated>2026-04-14T18:19:43.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce the Generative AI Path-to-Value (P2V) framework, a structured approach to help you move generative AI initiatives from concept to production and sustained value creation.]]></summary>
-        <author>
-            <name>Nitin Eusebius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use-case based deployments on SageMaker JumpStart]]></title>
-        <id>c1a89539e1b017078d4a4c7201d0c5a41dd755f0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart/"/>
-        <updated>2026-04-14T18:14:54.000Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the launch of Amazon SageMaker JumpStart optimized deployments. SageMaker JumpStart improved deployments address the need for rich and straightforward deployment customization on SageMaker JumpStart by offering pre-defined deployment configurations, designed for specific use cases. Customers maintain the same level of visibility into the details of their proposed deployments, but now deployments are optimized for their specific use case and performance constraint.]]></summary>
-        <author>
-            <name>Dan Ferguson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices to run inference on Amazon SageMaker HyperPod]]></title>
-        <id>44fc6f771f43b4b1d80403dbfbd0ff5ae44c0583</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/"/>
-        <updated>2026-04-14T18:09:22.000Z</updated>
-        <summary type="html"><![CDATA[This post explores how Amazon SageMaker HyperPod provides a comprehensive solution for inference workloads. We walk you through the platform’s key capabilities for dynamic scaling, simplified deployment, and intelligent resource management. By the end of this post, you’ll understand how to use the HyperPod automated infrastructure, cost optimization features, and performance enhancements to reduce your total cost of ownership by up to 40% while accelerating your generative AI deployments from concept to production.]]></summary>
-        <author>
-            <name>Vinay Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Guidesly built AI-generated trip reports for outdoor guides on AWS]]></title>
-        <id>e06e1c436db77444ce7fa3738a13112abe77e6e8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws/"/>
-        <updated>2026-04-14T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk through how Guidesly built Jack AI on AWS using AWS Lambda, AWS Step Functions, Amazon Simple Storage Service (Amazon S3), Amazon Relational Database Service (Amazon RDS), Amazon SageMaker AI, and Amazon Bedrock to ingest trip media, enrich it with context, apply computer vision and generative AI, and publish marketing-ready content across multiple channels—securely, reliably, and at scale.]]></summary>
-        <author>
-            <name>David Lord, Taylor Lord, Shiva Prasad, Anup Banasavalli Hiriyanagowda, Nikhil Chandra</name>
         </author>
     </entry>
 </feed>

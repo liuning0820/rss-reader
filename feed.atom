@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-15T02:55:08.901Z</updated>
+    <updated>2026-05-15T06:53:20.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -834,36 +834,6 @@
         <summary type="html"><![CDATA[In this post, you'll learn why probabilistic AI validation falls short in regulated industries and how Automated Reasoning checks use formal verification to deliver mathematically proven results. You'll also see how customers across six industries use this technology to produce formally verified, auditable AI outputs, and how to get started.]]></summary>
         <author>
             <name>Nafi Diallo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create rich, custom tooltips in Amazon Quick Sight]]></title>
-        <id>a8723004387fe9d339acd04255652fade6f41bdf</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/"/>
-        <updated>2026-04-15T15:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Today, we're announcing sheet tooltips in Amazon Quick Sight. Dashboard authors can now design custom tooltip layouts using free-form layout sheets. These layouts combine charts, key performance indicator (KPI) metrics, text, and other visuals into a single tooltip that renders dynamically when readers hover over data points.]]></summary>
-        <author>
-            <name>Meshan Khosla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM]]></title>
-        <id>83b0ce4781b5d810e22a4e8fb323b3b5a61b417f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/"/>
-        <updated>2026-04-15T15:20:58.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn how speculative decoding works and why it helps reduce cost per generated token on AWS Trainium2.]]></summary>
-        <author>
-            <name>Yahav Biran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rede Mater Dei de Saúde: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore]]></title>
-        <id>11ec105b962f80607892fb9a97b910ffe685ccf8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-04-15T15:15:23.000Z</updated>
-        <summary type="html"><![CDATA[This post is cowritten by Renata Salvador Grande, Gabriel Bueno and Paulo Laurentys at Rede Mater Dei de Saúde. The growing adoption of multi-agent AI systems is redefining critical operations in healthcare. In large hospital networks, where thousands of decisions directly impact cash flow, service delivery times, and the risk of claim denials, the ability […]]]></summary>
-        <author>
-            <name>Renata Salvador Grande</name>
         </author>
     </entry>
 </feed>

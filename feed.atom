@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-15T14:01:55.983Z</updated>
+    <updated>2026-05-15T17:24:57.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3]]></title>
+        <id>f270f272f6bc396acf406601280c4a0c78e855f9</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/"/>
+        <updated>2026-05-15T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level permissions across chat and automated workflows.]]></summary>
+        <author>
+            <name>Josh DeMuth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve bot accuracy with Amazon Lex Assisted NLU]]></title>
         <id>8ca4ef14b8e3a282c2b33aaf6a0c8346143e6b89</id>

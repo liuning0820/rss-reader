@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-17T06:42:05.990Z</updated>
+    <updated>2026-05-17T09:44:30.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -774,26 +774,6 @@
         <summary type="html"><![CDATA[In this post, we share how Amazon Bedrock's granular cost attribution works and walk through example cost tracking scenarios.]]></summary>
         <author>
             <name>Ba'Carri Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock]]></title>
-        <id>c3109b215fc7add9071d9015751a3675c046d33e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/"/>
-        <updated>2026-04-17T19:43:38.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and reduces latency by 50% while maintaining the nuanced routing quality that the task demands.]]></summary>
-        <author>
-            <name>Amit Kalawat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power video semantic search with Amazon Nova Multimodal Embeddings]]></title>
-        <id>b63bbfd9083c1321d397c553cbe028ad9a4c9bfb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/"/>
-        <updated>2026-04-17T19:43:35.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.]]></summary>
-        <author>
-            <name>Amit Kalawat</name>
         </author>
     </entry>
 </feed>

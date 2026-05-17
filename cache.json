@@ -825,26 +825,6 @@
           "wordCount": 34124,
           "title": "Introducing granular cost attribution for Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/17/ml-20614-featured-image.png"
-        },
-        {
-          "id": "c3109b215fc7add9071d9015751a3675c046d33e",
-          "author": "Amit Kalawat",
-          "description": "In this post, we show you how to use Model Distillation, a model customization technique on Amazon Bedrock, to transfer routing intelligence from a large teacher model (Amazon Nova Premier) into a much smaller student model (Amazon Nova Micro). This approach cuts inference cost by over 95% and reduces latency by 50% while maintaining the nuanced routing quality that the task demands.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/",
-          "publishedOn": "2026-04-17T19:43:38.000Z",
-          "wordCount": 33475,
-          "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/17/ml-20640-p2-1120x630.png"
-        },
-        {
-          "id": "b63bbfd9083c1321d397c553cbe028ad9a4c9bfb",
-          "author": "Amit Kalawat",
-          "description": "In this post, we show you how to build a video semantic search solution on Amazon Bedrock using Nova Multimodal Embeddings that intelligently understands user intent and retrieves accurate video results across all signal types simultaneously. We also share a reference implementation you can deploy and explore with your own content.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
-          "publishedOn": "2026-04-17T19:43:35.000Z",
-          "wordCount": 34916,
-          "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/17/ml-20640-p1-1-1120x630.png"
         }
       ]
     }

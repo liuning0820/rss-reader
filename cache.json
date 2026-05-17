@@ -815,16 +815,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-20200/InCarOdering.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/20/ml-20200-1120x630.png"
-        },
-        {
-          "id": "c9ac866657809e09892962c2d01fc39033160fad",
-          "author": "Ba'Carri Johnson",
-          "description": "In this post, we share how Amazon Bedrock's granular cost attribution works and walk through example cost tracking scenarios.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
-          "publishedOn": "2026-04-17T22:04:15.000Z",
-          "wordCount": 34124,
-          "title": "Introducing granular cost attribution for Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/17/ml-20614-featured-image.png"
         }
       ]
     }

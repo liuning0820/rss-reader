@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-18T15:27:44.388Z</updated>
+    <updated>2026-05-18T17:59:01.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aderant transforms cloud operations with Amazon Quick]]></title>
+        <id>1e63fa867d483bcbf284ba4b491b95808559ba0c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/"/>
+        <updated>2026-05-18T17:26:40.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how Aderant used the AI-powered capabilities of Amazon Quick to unify search across six vendor systems and automate documentation workflows, achieving 90 percent faster search times and 75 percent documentation acceleration, and how others can apply these approaches to their operations.]]></summary>
+        <author>
+            <name>Angela Mapes, Adam Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Atlassian Confluence Cloud with Amazon Quick]]></title>
+        <id>c9ba5991a8c82d739b707aee5f3f1b2ea654e7e7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/"/>
+        <updated>2026-05-18T15:37:55.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn how to set up the Confluence Cloud integration with Quick. This includes creating a knowledge base for semantic search, setting up Actions to query and manage Confluence pages, and organizing resources in Quick Spaces. Quick integrates with your current enterprise technology stack, from internal knowledge repositories and corporate intranets to business-critical applications and AWS data services.]]></summary>
+        <author>
+            <name>Bharath Chekuri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build custom code-based evaluators in Amazon Bedrock AgentCore]]></title>
         <id>6d9debe50dc9d0456ff11a3c3fdd68e27ea6be48</id>

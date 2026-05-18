@@ -157,6 +157,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6d9debe50dc9d0456ff11a3c3fdd68e27ea6be48",
+          "author": "Bharathi Srinivasan",
+          "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-05-18T15:07:15.000Z",
+          "wordCount": 35045,
+          "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/18/ml-20799.png"
+        },
+        {
           "id": "f270f272f6bc396acf406601280c4a0c78e855f9",
           "author": "Josh DeMuth",
           "description": "In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level permissions across chat and automated workflows.",

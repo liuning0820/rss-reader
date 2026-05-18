@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-18T11:51:28.358Z</updated>
+    <updated>2026-05-18T15:27:44.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build custom code-based evaluators in Amazon Bedrock AgentCore]]></title>
+        <id>6d9debe50dc9d0456ff11a3c3fdd68e27ea6be48</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/"/>
+        <updated>2026-05-18T15:07:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.]]></summary>
+        <author>
+            <name>Bharathi Srinivasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #517]]></title>
         <id>https://sreweekly.com/?p=1756</id>

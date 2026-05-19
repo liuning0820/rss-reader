@@ -147,6 +147,51 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a007926ce6dfd1f982cc054f423e1f4dde87db62",
+          "author": "Lana Zhang",
+          "description": "In this post, you’ll learn how to use Amazon Nova Sonic, Amazon Bedrock AgentCore, and Strands BidiAgent to build scalable, maintainable voice agents that handle these challenges efficiently, resulting in more responsive and intelligent customer interactions. We’ll explore three popular architectural patterns for voice agents, highlighting their trade-offs and best practices for minimizing latency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/",
+          "publishedOn": "2026-05-19T15:26:37.000Z",
+          "wordCount": 34232,
+          "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/19/ml-20826.png"
+        },
+        {
+          "id": "5348cad2e70ca25297f0f845bcd16ff1a57ba0df",
+          "author": "Biswanath Mukherjee",
+          "description": "In this post, we demonstrate how you can extend the conversational memory of Kiro CLI by implementing a custom Model Context Protocol (MCP) server that integrates with Amazon Bedrock AgentCore Memory. You can use Kiro CLI to interact with AI agents of Kiro directly from your terminal. Amazon Bedrock AgentCore Memory is a fully managed service that allows AI agents to retain information from past interactions, creating more intelligent and context-aware conversations. By implementing a custom MCP server, you can provide Kiro CLI with tools to store and retrieve conversation context, monitor memory usage, and manage the underlying Bedrock Agent Core Memory infrastructure.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/",
+          "publishedOn": "2026-05-19T15:23:22.000Z",
+          "wordCount": 33292,
+          "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
+          "enclosure": {
+            "length": "54579229",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-19844/ml_19844_blog_video_final.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/19/ml-19844.png"
+        },
+        {
+          "id": "fc875c4cc1129199a18a842d50eb77eced603a25",
+          "author": "Dhaval Shah",
+          "description": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
+          "publishedOn": "2026-05-19T15:20:33.000Z",
+          "wordCount": 34147,
+          "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/19/ml-21005.png"
+        },
+        {
+          "id": "56036d9bff1e85f48dc668103ae8ac6cbc592074",
+          "author": "Shreyas Subramanian",
+          "description": "In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
+          "publishedOn": "2026-05-19T15:17:00.000Z",
+          "wordCount": 35313,
+          "title": "Implementing programmatic tool calling on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/19/ml-20707.png"
+        },
+        {
           "id": "91a36f94ed1b134b00058ab6c6f56bafa097aa89",
           "author": "Adewale Akinfaderin",
           "description": "In this post, you learn how to prompt Amazon Nova 2 Lite for content moderation using structured and free-form approaches, grounded in the MLCommons AILuminate Assessment Standard. The prompting techniques use the AILuminate taxonomy as an example, but they work equally well with your own custom moderation policy. You can swap in your own category definitions and the prompt structure stays the same. We also benchmark the content moderation capabilities of Amazon Nova 2 Lite against several foundation models (FMs) on three public datasets.",

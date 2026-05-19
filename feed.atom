@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-19T11:14:45.497Z</updated>
+    <updated>2026-05-19T14:56:18.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -804,16 +804,6 @@
         <summary type="html"><![CDATA[In this post, we'll show you how to build a complete omnichannel ordering system using Amazon Bedrock AgentCore, an agentic platform, to build, deploy, and operate highly effective AI agents securely at scale using any framework and foundation model and Amazon Nova 2 Sonic.]]></summary>
         <author>
             <name>Sergio Barraza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #513]]></title>
-        <id>https://sreweekly.com/?p=1744</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-513/"/>
-        <updated>2026-04-20T02:03:38.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: “Lifting and shifting” noise to new tools just buys a different UI for the same burnout. incident.io’s migration framework prioritizes service cataloging and inventory to fix ownership, preventing team friction during the transition to a scalable on-call system. Organizational Second Hit Syndrome A previously unpublished article […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

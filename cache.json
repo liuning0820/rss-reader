@@ -885,21 +885,6 @@
           "wordCount": 34019,
           "title": "ToolSimulator: scalable tool testing for AI agents",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/20/ml-20730-1120x630.png"
-        },
-        {
-          "id": "e889239f697236f59c3d180b7f1e2e885997df75",
-          "author": "Sergio Barraza",
-          "description": "In this post, we'll show you how to build a complete omnichannel ordering system using Amazon Bedrock AgentCore, an agentic platform, to build, deploy, and operate highly effective AI agents securely at scale using any framework and foundation model and Amazon Nova 2 Sonic.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
-          "publishedOn": "2026-04-20T15:03:28.000Z",
-          "wordCount": 34114,
-          "title": "Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-          "enclosure": {
-            "length": "20640404",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-20200/InCarOdering.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/20/ml-20200-1120x630.png"
         }
       ]
     }

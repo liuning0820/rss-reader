@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-20T14:57:57.790Z</updated>
+    <updated>2026-05-20T18:14:17.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals]]></title>
+        <id>85ee8064d78b7e2eb292ea7dfad1672dce8f9fcc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/"/>
+        <updated>2026-05-20T18:01:29.000Z</updated>
+        <summary type="html"><![CDATA[If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually grounded in the source image. A text-only evaluator cannot tell you whether a caption faithfully describes an image, whether an extracted invoice total matches the document, or whether a screen summary […]]]></summary>
+        <author>
+            <name>Sangmin Woo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build real-time voice applications with Amazon SageMaker AI and vLLM]]></title>
+        <id>a97b72f3276192b5269abb69f6ce4b33e1f6abd2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/"/>
+        <updated>2026-05-20T17:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Voice agents, live captioning, contact center analytics, and accessibility tools all depend on real-time speech-to-text, where your application streams audio in and receives transcription back simultaneously over a single persistent connection. Traditional request-response inference falls short here because transcription cannot begin until the entire audio recording has been received, adding latency that breaks the real-time […]]]></summary>
+        <author>
+            <name>Christian Kamwangala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation]]></title>
         <id>a007926ce6dfd1f982cc054f423e1f4dde87db62</id>

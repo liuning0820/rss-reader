@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-20T23:10:28.365Z</updated>
+    <updated>2026-05-21T03:29:40.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints]]></title>
+        <id>8b614eb758f78b6727cdd5102ecb6b2a4a6b9d5a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/"/>
+        <updated>2026-05-20T23:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]]]></summary>
+        <author>
+            <name>Marc Karp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals]]></title>
         <id>85ee8064d78b7e2eb292ea7dfad1672dce8f9fcc</id>

@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "92b1cd1c4538001853f2b69f6e49e699ed03cd3c",
+          "author": "Priya Padate",
+          "description": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases while avoiding complex studies, leading to diagnostic delays and increased costs. Research across 62 hospitals analyzing 2.2 million studies found […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
+          "publishedOn": "2026-05-21T19:11:09.000Z",
+          "wordCount": 35010,
+          "title": "Intelligent radiology workflow optimization with AI agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/21/20471.png"
+        },
+        {
           "id": "715423b6d610c7eda8534f75b363198753c168b7",
           "author": "Sangeetha Kamatkar",
           "description": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the AWS API MCP Server, creating a conversational AI assistant that translates natural language into AWS Command Line Interface (AWS CLI) commands, without the need to switch between tools during critical moments.",

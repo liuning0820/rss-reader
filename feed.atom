@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-21T17:54:56.963Z</updated>
+    <updated>2026-05-21T19:50:39.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intelligent radiology workflow optimization with AI agents]]></title>
+        <id>92b1cd1c4538001853f2b69f6e49e699ed03cd3c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/"/>
+        <updated>2026-05-21T19:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current workload, fatigue levels, and case complexity. This creates a persistent challenge: radiologists cherry-pick easier, higher-value cases while avoiding complex studies, leading to diagnostic delays and increased costs. Research across 62 hospitals analyzing 2.2 million studies found […]]]></summary>
+        <author>
+            <name>Priya Padate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime]]></title>
         <id>715423b6d610c7eda8534f75b363198753c168b7</id>

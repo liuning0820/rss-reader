@@ -870,31 +870,6 @@
           "wordCount": 32391,
           "title": "Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/22/ml-19529-1120x630.png"
-        },
-        {
-          "id": "117db1edd857ba5c9c35e70f029bc37ed8701033",
-          "author": "Sofian Hamiti",
-          "description": "Today, we're excited to announce Claude Cowork in Amazon Bedrock. You can now run Cowork and Claude Code Desktop through Amazon Bedrock, directly or using an LLM gateway. In this post, we walk through how Claude Cowork integrates with Amazon Bedrock and show an example of how knowledge workers use it in practice.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/",
-          "publishedOn": "2026-04-21T19:13:49.000Z",
-          "wordCount": 32316,
-          "title": "From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock",
-          "enclosure": {
-            "length": "23644237",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20855/demo-speed.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/21/ml-20855-1120x630.png"
-        },
-        {
-          "id": "3206a244cebc9891ea506d52f6808fc81e996ba2",
-          "author": "Manuwai Korber",
-          "description": "In this post, we show how to combine DVC (Data Version Control), Amazon SageMaker AI, and Amazon SageMaker AI MLflow Apps to build end-to-end ML model lineage. We walk through two deployable patterns — dataset-level lineage and record-level lineage — that you can run in your own AWS account using the companion notebooks.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps/",
-          "publishedOn": "2026-04-21T16:43:03.000Z",
-          "wordCount": 34533,
-          "title": "End-to-end lineage with DVC and Amazon SageMaker AI MLflow apps",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/21/ml-20309-1120x630.png"
         }
       ]
     }

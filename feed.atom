@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-22T07:41:40.199Z</updated>
+    <updated>2026-05-22T10:47:53.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -864,16 +864,6 @@
         <summary type="html"><![CDATA[In this post, we'll explore how multimodal BioFMs work, showcase real-world applications in drug discovery and clinical development, and contextualize how AWS enables organizations to build and deploy multimodal BioFMs.]]></summary>
         <author>
             <name>Kristin Ambrosini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch]]></title>
-        <id>cdfa138c37a74975a4c38d8001d275d553382a02</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/"/>
-        <updated>2026-04-22T21:05:01.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk through building a scalable, event-driven transcription pipeline that automatically processes audio files uploaded to Amazon Simple Storage Service (Amazon S3), and show you how to use Amazon EC2 Spot Instances and buffered streaming inference to further reduce costs.]]></summary>
-        <author>
-            <name>Gleb Geinke</name>
         </author>
     </entry>
 </feed>

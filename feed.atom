@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-24T22:55:42.643Z</updated>
+    <updated>2026-05-25T03:36:47.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #518]]></title>
+        <id>https://sreweekly.com/?p=1758</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-518/"/>
+        <updated>2026-05-25T01:28:18.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, BigPanda: When a P1 fires, scope, impact, and cause should be instant. Instead you’re 10 minutes in, pinging people across tools and teams to understand what’s happening. BigPanda surfaces the full picture the moment an incident starts so you fix, not hunt. Reduce incident toil When AI […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Nova Act is now HIPAA eligible]]></title>
         <id>80e204b679c9e0521be9f5997175bd65c590dedf</id>

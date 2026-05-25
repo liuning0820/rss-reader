@@ -83,6 +83,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1758",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, BigPanda: When a P1 fires, scope, impact, and cause should be instant. Instead you’re 10 minutes in, pinging people across tools and teams to understand what’s happening. BigPanda surfaces the full picture the moment an incident starts so you fix, not hunt. Reduce incident toil When AI […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-518/",
+          "publishedOn": "2026-05-25T01:28:18.000Z",
+          "wordCount": 1138,
+          "title": "SRE Weekly Issue #518",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1756",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, BigPanda: No single team sees the full incident anymore. Today’s P1s break across services, teams, and infrastructure. Instead of chasing dashboards, waiting on tribal knowledge, or piecing together signals from siloed systems, BigPanda surfaces the complete picture to pinpoint root cause faster. See BigPanda for SREs Why […]",

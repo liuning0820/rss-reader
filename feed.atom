@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-26T07:41:52.279Z</updated>
+    <updated>2026-05-26T15:20:11.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -834,16 +834,6 @@
         <summary type="html"><![CDATA[In this post, we share how we applied Amazon Bedrock and the Amazon Nova family of models to reimagine our Title Suggestion feature. By combining metadata, computer vision, and retrieval-augmented generative AI, we now automatically generate creative, brand-aligned titles and subtitles across 12 languages. Using the unified API of Amazon Bedrock, Anthropic’s Claude 3 Haiku, and Amazon Nova Lite and Pro, we improved quality, reduced cost, and cut response times. This resulted in higher customer satisfaction, measurable uplifts in engagement and purchase rates, and over 5.5 million personalised titles generated in 2025.]]></summary>
         <author>
             <name>Bradley Grantham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #514]]></title>
-        <id>https://sreweekly.com/?p=1746</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-514/"/>
-        <updated>2026-04-27T01:32:25.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com How we built a real-world evaluation platform for autonomous SRE agents at scale Finally! Someone actually explaining how they test their SRE agent. Having a testing methodology is table stakes. Showing their work helps us decide whether we can trust the tool. With so many SRE agents floating around, it’s quite surprising […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

@@ -121,16 +121,6 @@
           "wordCount": 1111,
           "title": "SRE Weekly Issue #515",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1746",
-          "author": "lex",
-          "description": "View on sreweekly.com How we built a real-world evaluation platform for autonomous SRE agents at scale Finally! Someone actually explaining how they test their SRE agent. Having a testing methodology is table stakes. Showing their work helps us decide whether we can trust the tool. With so many SRE agents floating around, it’s quite surprising […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-514/",
-          "publishedOn": "2026-04-27T01:32:25.000Z",
-          "wordCount": 1078,
-          "title": "SRE Weekly Issue #514",
-          "imageUrl": null
         }
       ]
     },

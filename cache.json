@@ -147,6 +147,76 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "dc350e17b74543c6687934ca36d89008d40ff1f2",
+          "author": "Madhu Samhitha Vangara",
+          "description": "Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per provider, stablecoin support for cost-effective microtransactions that make sub-cent transactions economically viable, and configurable spending guardrails that give you fine-grained control over agent budgets and transaction limits. In this post, we walk you through a technical deep dive of AgentCore payments.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
+          "publishedOn": "2026-05-26T17:57:18.000Z",
+          "wordCount": 35509,
+          "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/21056_2.png"
+        },
+        {
+          "id": "0df86b70eb4f20cd341be912ea99e301d3007fc0",
+          "author": "Kanishk Mahajan",
+          "description": "In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrators integrated with Amazon Bedrock AgentCore Memory and Amazon Bedrock AgentCore Observability.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-05-26T17:41:26.000Z",
+          "wordCount": 33238,
+          "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/20165.png"
+        },
+        {
+          "id": "026eb4a79133bd5c4ede829dd42a1da906ef8aa9",
+          "author": "Kanishk Mahajan",
+          "description": "In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable execution paths using an integrated architecture that combines NVIDIA NIM for GPU-accelerated inference. Amazon Bedrock AgentCore provides managed runtime, shared memory and built-in observability and Strands Agents provide serverless multi-agent orchestration. This approach supports performance, scalability, and operational insight in production environments. While the example focuses on marketing content review, the same pattern applies to digital assistants, review automation, and retrieval-augmented generation pipelines.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-05-26T17:39:46.000Z",
+          "wordCount": 33354,
+          "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/20164.png"
+        },
+        {
+          "id": "9c1943d11395620b84aae512de06d25cbb34ff2f",
+          "author": "Shweta Keshavanarayana",
+          "description": "In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure checks every 15 minutes, summarizing CloudWatch metrics, logs, and alarms across multiple AWS accounts. The agent delivers actionable reports directly to Slack and responds to natural language queries about your infrastructure state. Throughout, we explore three human-in-the-loop patterns that maintain appropriate oversight while maximizing automation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/",
+          "publishedOn": "2026-05-26T17:22:48.000Z",
+          "wordCount": 34646,
+          "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/20132.png"
+        },
+        {
+          "id": "f8dfc8319e899b1512d6b4b3a290b0bf1fc1bbff",
+          "author": "Rajakumar Sampathkumar",
+          "description": "Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you try to orchestrate multiple API calls, manage conversation state, and create agents that can reason on their own. I’ve seen straightforward AI ideas balloon into sprawling projects that demand […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/",
+          "publishedOn": "2026-05-26T16:28:08.000Z",
+          "wordCount": 34158,
+          "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/21/ML-19684.png"
+        },
+        {
+          "id": "88ab3a2e69b14f5e9ceec9bfe3cb7981fdc42e77",
+          "author": "Satyanarayana Adimula",
+          "description": "When hundreds to thousands of users are onboarded to an enterprise AI platform, business leaders and platform owners need visibility into who is using the platform, whether users are satisfied with the answers they receive, and which capabilities are driving the most engagement. Without a centralized observability solution, this data is scattered across multiple AWS […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/",
+          "publishedOn": "2026-05-26T16:09:06.000Z",
+          "wordCount": 33434,
+          "title": "Build an enterprise observability solution for Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/21/20929.png"
+        },
+        {
+          "id": "7af56eb5f65dba0a125620f4895355e873a4833d",
+          "author": "Art Chan",
+          "description": "In this post, we explore how the Amazon Quick document and visualization creation capabilities work, what you can build with them, and how professionals across roles are using them to reclaim hours of their workweek. From technical execution to strategic judgment Most professional roles carry an unspoken assumption that a significant portion of your time […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/",
+          "publishedOn": "2026-05-26T15:59:16.000Z",
+          "wordCount": 33941,
+          "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/21/20925.png"
+        },
+        {
           "id": "80e204b679c9e0521be9f5997175bd65c590dedf",
           "author": "Abiola Babsalaam",
           "description": "In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started.",

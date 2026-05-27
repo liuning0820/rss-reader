@@ -900,46 +900,6 @@
           "wordCount": 32710,
           "title": "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/28/ml-20974.png"
-        },
-        {
-          "id": "6ae80e59379c95045e0118d004d39ff308c471fe",
-          "author": "Jed Lechner",
-          "description": "This post shows you how to build your first AI-powered workflow, using Amazon Quick, starting with a financial analysis tool and progressing to an advanced employee onboarding automation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/",
-          "publishedOn": "2026-04-27T17:52:05.000Z",
-          "wordCount": 34511,
-          "title": "Automate repetitive tasks with Amazon Quick Flows",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/27/ML-19871.png"
-        },
-        {
-          "id": "28d4a6e919c3acb15b7e35808ea50ddc643fb191",
-          "author": "Manideep Reddy Gillela",
-          "description": "In this post, we explore an automated solution that detects S3 events and triggers ingestion jobs while respecting service quotas and providing comprehensive monitoring. This serverless solution uses an event-driven architecture to keep your knowledge base current without overwhelming the Amazon Bedrock APIs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases/",
-          "publishedOn": "2026-04-27T17:51:41.000Z",
-          "wordCount": 34101,
-          "title": "Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/27/ml-18250.png"
-        },
-        {
-          "id": "46836051e9aa04ee8a09dbdafbea7e00e6e4a574",
-          "author": "Dheeraj Hegde",
-          "description": "In this post, we demonstrate how to build AI agents using Strands Agents SDK with models deployed on SageMaker AI endpoints. You will learn how to deploy foundation models from SageMaker JumpStart, integrate them with Strands Agents, and establish production-grade observability using SageMaker Serverless MLflow for agent tracing. We also cover how to implement A/B testing across multiple model variants and evaluate agent performance using MLflow metrics and show how you can build, deploy, and continuously improve AI agents on infrastructure you control.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/",
-          "publishedOn": "2026-04-27T16:50:41.000Z",
-          "wordCount": 34358,
-          "title": "Build Strands Agents with SageMaker AI models and MLflow",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/27/ml-19842-feature-image.png"
-        },
-        {
-          "id": "095271b0536a82bed52daf382555f7ac1ff32371",
-          "author": "Bradley Grantham",
-          "description": "In this post, we share how we applied Amazon Bedrock and the Amazon Nova family of models to reimagine our Title Suggestion feature. By combining metadata, computer vision, and retrieval-augmented generative AI, we now automatically generate creative, brand-aligned titles and subtitles across 12 languages. Using the unified API of Amazon Bedrock, Anthropic’s Claude 3 Haiku, and Amazon Nova Lite and Pro, we improved quality, reduced cost, and cut response times. This resulted in higher customer satisfaction, measurable uplifts in engagement and purchase rates, and over 5.5 million personalised titles generated in 2025.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/",
-          "publishedOn": "2026-04-27T16:45:37.000Z",
-          "wordCount": 33220,
-          "title": "How Popsa used Amazon Nova to inspire customers with personalised title suggestions",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/27/ml-19401-feaure-image.png"
         }
       ]
     }

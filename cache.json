@@ -147,6 +147,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "f4a3590f6bc8b3272df157882e15fb74869d0f7e",
+          "author": "Dayuan Jiang",
+          "description": "In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered and the solutions that reduced costs by up to 97% while improving operational efficiency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-05-27T20:06:34.000Z",
+          "wordCount": 33381,
+          "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20255.png"
+        },
+        {
+          "id": "0b1c36d906945b3a2f7ba41575b6808fdf29ebc0",
+          "author": "Luca Vignali",
+          "description": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural decisions, implementation challenges, and measurable results that can guide your own data-to-insights transformation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/",
+          "publishedOn": "2026-05-27T20:01:06.000Z",
+          "wordCount": 34226,
+          "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20194.png"
+        },
+        {
+          "id": "8a39bdaaca01ff281c876dd6f199d21b54b8a83c",
+          "author": "Anusha Thatipelli",
+          "description": "In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Marketing and Global Services) organization. You will learn about: the two-layer architecture that separates batch processing from real-time interaction, the specialized AI agents that power intelligent routing and validation, key engineering patterns for production deployment, and how to build similar solutions with AWS services.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-05-27T18:51:45.000Z",
+          "wordCount": 34517,
+          "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20454.png"
+        },
+        {
+          "id": "d0b1371079177ae4116061428da47e9102c667ee",
+          "author": "Nicolle Belaunde",
+          "description": "As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, but without orchestration, users carry the cognitive load of choosing between them. At AWS Sales, this meant more than 20 domain-specific agents deployed across the global organization, with representatives context-switching between systems instead of […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-05-27T18:00:07.000Z",
+          "wordCount": 35284,
+          "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20754.png"
+        },
+        {
           "id": "dc350e17b74543c6687934ca36d89008d40ff1f2",
           "author": "Madhu Samhitha Vangara",
           "description": "Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per provider, stablecoin support for cost-effective microtransactions that make sub-cent transactions economically viable, and configurable spending guardrails that give you fine-grained control over agent budgets and transaction limits. In this post, we walk you through a technical deep dive of AgentCore payments.",

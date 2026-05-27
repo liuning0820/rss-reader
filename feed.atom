@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-27T17:17:15.590Z</updated>
+    <updated>2026-05-27T20:11:41.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building AI agents for business support using Amazon Bedrock AgentCore]]></title>
+        <id>f4a3590f6bc8b3272df157882e15fb74869d0f7e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/"/>
+        <updated>2026-05-27T20:06:34.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered and the solutions that reduced costs by up to 97% while improving operational efficiency.]]></summary>
+        <author>
+            <name>Dayuan Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users]]></title>
+        <id>0b1c36d906945b3a2f7ba41575b6808fdf29ebc0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/"/>
+        <updated>2026-05-27T20:01:06.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural decisions, implementation challenges, and measurable results that can guide your own data-to-insights transformation.]]></summary>
+        <author>
+            <name>Luca Vignali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore]]></title>
+        <id>8a39bdaaca01ff281c876dd6f199d21b54b8a83c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-05-27T18:51:45.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Marketing and Global Services) organization. You will learn about: the two-layer architecture that separates batch processing from real-time interaction, the specialized AI agents that power intelligent routing and validation, key engineering patterns for production deployment, and how to build similar solutions with AWS services.]]></summary>
+        <author>
+            <name>Anusha Thatipelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powering agentic AI sales strategy with Amazon Bedrock AgentCore]]></title>
+        <id>d0b1371079177ae4116061428da47e9102c667ee</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-05-27T18:00:07.000Z</updated>
+        <summary type="html"><![CDATA[As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, but without orchestration, users carry the cognitive load of choosing between them. At AWS Sales, this meant more than 20 domain-specific agents deployed across the global organization, with representatives context-switching between systems instead of […]]]></summary>
+        <author>
+            <name>Nicolle Belaunde</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical deep dive: AgentCore payments and innovation in agentic commerce]]></title>
         <id>dc350e17b74543c6687934ca36d89008d40ff1f2</id>

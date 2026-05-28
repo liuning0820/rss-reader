@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-28T21:53:01.436Z</updated>
+    <updated>2026-05-28T23:13:49.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Training Azerbaijani language models on Amazon SageMaker AI]]></title>
+        <id>3ebe0c6408072a34c4ad72fea1b55ffc0a0817b3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/"/>
+        <updated>2026-05-28T21:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The challenge: adapting foundation models (FMs) to a morphologically rich language with limited training data and no existing blueprint for efficient LLM training in Azerbaijani. In a six-week collaboration, Azercell worked with the AWS Generative AI Innovation Center to establish a production-ready framework on Amazon SageMaker AI.]]></summary>
+        <author>
+            <name>Aleksei Iancheruk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a custom portal with embedded Amazon SageMaker AI MLflow Apps]]></title>
         <id>0c61c378409ffe976a99c7874458b13cb1d9d314</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-29T11:26:12.320Z</updated>
+    <updated>2026-05-29T15:20:54.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -504,6 +504,16 @@
         <summary type="html"><![CDATA[In this post, we demonstrate how Amazon FinTech teams are using Amazon Bedrock and other AWS services to build a scalable AI application to transform how regulatory inquiries are handled. Each team using this solution creates and maintains its own dedicated knowledge base, populated with that team's specific documents and reference materials.]]></summary>
         <author>
             <name>Balaji Kumar Gopalakrishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 23 – Five]]></title>
+        <id>https://blog.thestateofme.com/?p=6877</id>
+        <link href="http://blog.thestateofme.com/2026/05/12/milo-cancer-diary-part-23-five/"/>
+        <updated>2026-05-12T16:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Milo is five today, which he’s mostly celebrating by snoozing on the office sofa behind me. He’s nearing the end of his fourth (modified) CHOP protocol, with just over 4 weeks and 3 more vet visits to go. Since going into remission at the start of the year things have proceeded mostly uneventfully, which is […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

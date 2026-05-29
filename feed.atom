@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-29T03:24:10.894Z</updated>
+    <updated>2026-05-29T07:52:22.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -914,16 +914,6 @@
         <summary type="html"><![CDATA[This post was co-written with Yash Munsadwala, Adam Hood, Justin Guse, and Hector Hernandez from PwC. Contract analysis often consumes significant time for legal, compliance, and procurement teams, especially when important insights are buried in lengthy, unstructured agreements. As contract volumes grow, finding specific clauses and assessing extracted terms can become increasingly difficult to scale. […]]]></summary>
         <author>
             <name>Ariana Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory]]></title>
-        <id>838b1e174e795ca2e4fdf42fdbd7a3fb7e68a7e7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/"/>
-        <updated>2026-04-29T19:31:54.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn how to design namespace hierarchies, choose the right retrieval patterns, and implement AWS Identity and Access Management (IAM)-based access control for AgentCore Memory.]]></summary>
-        <author>
-            <name>Noor Randhawa</name>
         </author>
     </entry>
 </feed>

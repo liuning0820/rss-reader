@@ -960,26 +960,6 @@
           "wordCount": 33621,
           "title": "Organizing Agents’ memory at scale: Namespace design patterns in AgentCore Memory",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/24/ML-20833-image-2-1260x393.png"
-        },
-        {
-          "id": "adbaf43f80038e41c14feafe4df0a1fdde902dda",
-          "author": "Ravi Narang, Rithvik Bobbili",
-          "description": "In this post, you'll learn how Vanguard built their Virtual Analyst solution by focusing on eight guiding principles of AI-ready data, the AWS services that powered their implementation, and the measurable business outcomes they achieved.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/",
-          "publishedOn": "2026-04-29T11:56:33.000Z",
-          "wordCount": 33408,
-          "title": "Building AI-ready data: Vanguard’s Virtual Analyst journey",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/29/ml-19986.png"
-        },
-        {
-          "id": "1071447f36d429aeb344691ca4944835c66d3075",
-          "author": "Nizar Kheir",
-          "description": "This post shows you how to deploy a serverless MCP proxy on Amazon Bedrock AgentCore Runtime that gives you a programmable layer to implement proper governance, controls, and observability aligned with an organization's security policies.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/",
-          "publishedOn": "2026-04-29T11:52:16.000Z",
-          "wordCount": 34768,
-          "title": "Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/29/ml-20371.png"
         }
       ]
     }

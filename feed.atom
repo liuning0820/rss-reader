@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-29T23:09:08.452Z</updated>
+    <updated>2026-05-30T02:52:04.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality]]></title>
+        <id>e9638f6dde6eb511cb0d3380be63a779737316a6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/"/>
+        <updated>2026-05-29T23:36:58.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity for LLMs served on Amazon SageMaker AI endpoints with inference components.]]></summary>
+        <author>
+            <name>Sandeep Raveesh-Babu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Training Azerbaijani language models on Amazon SageMaker AI]]></title>
         <id>3ebe0c6408072a34c4ad72fea1b55ffc0a0817b3</id>

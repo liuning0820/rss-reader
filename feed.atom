@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-05-30T19:10:18.205Z</updated>
+    <updated>2026-05-30T20:53:18.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,26 +844,6 @@
         <summary type="html"><![CDATA[In this post, we walk through the full journey, from setting up your migration workspace in AWS Transform to subscribing to partner agents through AWS Marketplace to unlocking Amazon Quick capabilities that change how your organization consumes data.]]></summary>
         <author>
             <name>Anantha Choppalli, Ahil Gunasekaran, Taher Paratha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 2026]]></title>
-        <id>https://blog.thestateofme.com/?p=6850</id>
-        <link href="http://blog.thestateofme.com/2026/05/01/april-2026/"/>
-        <updated>2026-05-01T08:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate It’s been mostly warm and dry, so plenty of opportunities for longer walks :) Milo is now on the final cycle of his 4th chemo protocol, and it’s proceeding OK. Toronto We started the month in Toronto, which was a really fun trip deserving it’s own post. Eyes My cataracts are gone, and I […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 2026]]></title>
-        <id>http://blog.thestateofme.com/?p=6850</id>
-        <link href="https://blog.thestateofme.com/2026/05/01/april-2026/"/>
-        <updated>2026-05-01T08:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate It’s been mostly warm and dry, so plenty of opportunities for longer walks :) Milo is now on the final cycle of his 4th chemo protocol, and it’s proceeding OK. Toronto We started the month in Toronto, which was a really fun trip deserving it’s own post. Eyes My cataracts are gone, and I […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

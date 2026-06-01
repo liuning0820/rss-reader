@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1765",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, BigPanda: What if you could predict which changes will cause incidents? BigPanda analyzes every change, including ones marked safe, to surface the real risk and impact before deployment. Next time, routine changes don’t become your next P1. See BigPanda for SREs The Problem with AI-Generated Post-Incident Reviews […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-519/",
+          "publishedOn": "2026-06-01T02:22:16.000Z",
+          "wordCount": 1057,
+          "title": "SRE Weekly Issue #519",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1758",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, BigPanda: When a P1 fires, scope, impact, and cause should be instant. Instead you’re 10 minutes in, pinging people across tools and teams to understand what’s happening. BigPanda surfaces the full picture the moment an incident starts so you fix, not hunt. Reduce incident toil When AI […]",

@@ -91,16 +91,6 @@
           "wordCount": 1173,
           "title": "SRE Weekly Issue #516",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1748",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, atscaleconference.com: Building scalable, high-performance infrastructure for AI is one of today’s toughest challenges. Join @Scale: Systems & Reliability on June 25 in Bellevue, WA to learn how leading engineers are solving it. Secure your seat today! The Silent Failure of Reliability Metrics at Scale: Lessons Learned from […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-515/",
-          "publishedOn": "2026-05-04T01:55:08.000Z",
-          "wordCount": 1111,
-          "title": "SRE Weekly Issue #515",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-03T03:53:49.798Z</updated>
+    <updated>2026-06-03T08:53:06.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -854,116 +854,6 @@
         <summary type="html"><![CDATA[In this post, you will learn how you can use Amazon Nova Foundation Models in Amazon Bedrock to apply generative AI techniques for both business protection and enhancement. You can identify obvious and disguised attempts at direct contact while gaining valuable insights into customer sentiment and service improvement opportunities.]]></summary>
         <author>
             <name>Tyler Huehmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions]]></title>
-        <id>60d160056df6505b0c2dcad394f16535ce73b8a8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/"/>
-        <updated>2026-05-04T17:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Business leaders across industries rely on operational dashboards as the shared source of truth that their teams execute against daily. But dashboards are built to answer known questions. When teams need to explore further, ad-hoc, multi-dimensional, or unforeseen questions, they hit a bottleneck. They wait hours or days for BI teams to build new views […]]]></summary>
-        <author>
-            <name>Salim Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing agent quality optimization in AgentCore, now in preview]]></title>
-        <id>7dbb6ffe39567fe894de1d5ab0f9d846ce289fad</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/"/>
-        <updated>2026-05-04T17:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]]]></summary>
-        <author>
-            <name>Bharathi Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the agent quality loop: AgentCore Optimization now in preview]]></title>
-        <id>7dbb6ffe39567fe894de1d5ab0f9d846ce289fad</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/"/>
-        <updated>2026-05-04T17:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]]]></summary>
-        <author>
-            <name>Bharathi Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the agent performance loop: AgentCore Optimization now in preview]]></title>
-        <id>7dbb6ffe39567fe894de1d5ab0f9d846ce289fad</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-performance-loop-agentcore-optimization-now-in-preview/"/>
-        <updated>2026-05-04T17:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]]]></summary>
-        <author>
-            <name>Bharathi Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLANs on Sodola managed switches]]></title>
-        <id>https://blog.thestateofme.com/?p=6865</id>
-        <link href="http://blog.thestateofme.com/2026/05/04/vlans-on-sodola-managed-switches/"/>
-        <updated>2026-05-04T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLANs on Sodola managed switches]]></title>
-        <id>http://blog.thestateofme.com/?p=6865</id>
-        <link href="https://blog.thestateofme.com/2026/05/04/vlans-on-sodola-managed-switches/"/>
-        <updated>2026-05-04T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent-guided workflows to accelerate model customization in Amazon SageMaker AI]]></title>
-        <id>5a13a1edc84510ca328c5e8f007e5ebc9c8437f9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/"/>
-        <updated>2026-05-04T17:10:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker AI now offers an agentic experience that changes this. Developers describe their use case using natural language, and the AI coding agent streamlines the entire journey, from use case definition and data preparation through technique selection, evaluation, and deployment. In this post, we walk you through the model customization lifecycle using SageMaker AI agent skills.]]></summary>
-        <author>
-            <name>Lauren Mullennex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate dashboards from natural language prompts in Amazon Quick]]></title>
-        <id>048bd6011fe6d0f8421b1544f9b792131017973e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/"/>
-        <updated>2026-05-04T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Building meaningful dashboards demands hours of manual setup, even for experienced BI professionals. Amazon Quick now generates complete multi-sheet dashboards from natural language prompts, taking you from one or more datasets to a production-ready analysis in minutes. Data analysts building recurring operations reports, program managers preparing a leadership review, or engineers exploring a new dataset can […]]]></summary>
-        <author>
-            <name>Salim Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick]]></title>
-        <id>38e6dcb48dad100caa8f52d7ec3509588883bff1</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/"/>
-        <updated>2026-05-04T16:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Quick introduces Amazon S3 Tables (Apache Iceberg tables) as a new data source. With this feature, customers can directly query and visualize Apache Iceberg tables stored in an Amazon S3 table bucket without the need for intermediate data layers. In this post, we explored how Amazon Quick’s new Amazon S3 Tables data source enables near real-time analytics while streamlining modern data architectures.]]></summary>
-        <author>
-            <name>Raji Sivasubramaniam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Dataset Q&A: Expanding natural language querying for structured datasets in Amazon Quick]]></title>
-        <id>984de3e9e72d5e27182953257bda1d3517b866d4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick/"/>
-        <updated>2026-05-04T16:08:12.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you learn how to get started with Dataset Q&A, explore real-world use cases with hands-on examples, and discover advanced capabilities like auto-discovery across all your data assets and multi-dataset querying in a single conversation.]]></summary>
-        <author>
-            <name>Surendran Raju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints]]></title>
-        <id>218063b165a877c1e3c594db59cfb74b2722aff8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/"/>
-        <updated>2026-05-04T16:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Today, Amazon SageMaker AI introduces capacity aware instance pool for new and existing inference endpoints. You define a prioritized list of instance types, and SageMaker AI automatically works through your list whenever capacity is constrained at creation, during scale-out, and during scale-in. Your endpoint provisions on available AI Infrastructure without manual intervention. This capability is available for Single Model Endpoints, Inference Component-based endpoints, and Asynchronous Inference endpoints.]]></summary>
-        <author>
-            <name>Kareem Syed-Mohammed</name>
         </author>
     </entry>
 </feed>

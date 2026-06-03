@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6877",
@@ -24,26 +24,6 @@
           "wordCount": 3905,
           "title": "Milo cancer diary part 23 – Five",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/05/milo_5.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6865",
-          "author": "Chris Swan",
-          "description": "TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]",
-          "link": "http://blog.thestateofme.com/2026/05/04/vlans-on-sodola-managed-switches/",
-          "publishedOn": "2026-05-04T17:13:02.000Z",
-          "wordCount": 4137,
-          "title": "VLANs on Sodola managed switches",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/05/sodola_vlans.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6865",
-          "author": "Chris Swan",
-          "description": "TL;DR There’s an aspect to the web user interface of Sodola switches that’s far from obvious, and not documented :/ When setting up trunk ports it’s necessary to select all the VLANs that will be carried, and the default is only to select VLAN 1. Background I’m starting to accumulate a small selection of things […]",
-          "link": "https://blog.thestateofme.com/2026/05/04/vlans-on-sodola-managed-switches/",
-          "publishedOn": "2026-05-04T17:13:02.000Z",
-          "wordCount": 4141,
-          "title": "VLANs on Sodola managed switches",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/05/sodola_vlans.jpg"
         }
       ]
     },
@@ -914,96 +894,6 @@
           "wordCount": 34526,
           "title": "Intelligence-driven message defense and insights using Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-18644.png"
-        },
-        {
-          "id": "60d160056df6505b0c2dcad394f16535ce73b8a8",
-          "author": "Salim Khan",
-          "description": "Business leaders across industries rely on operational dashboards as the shared source of truth that their teams execute against daily. But dashboards are built to answer known questions. When teams need to explore further, ad-hoc, multi-dimensional, or unforeseen questions, they hit a bottleneck. They wait hours or days for BI teams to build new views […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/",
-          "publishedOn": "2026-05-04T17:46:32.000Z",
-          "wordCount": 34614,
-          "title": "Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/20808-1.png"
-        },
-        {
-          "id": "7dbb6ffe39567fe894de1d5ab0f9d846ce289fad",
-          "author": "Bharathi Srinivasan",
-          "description": "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/",
-          "publishedOn": "2026-05-04T17:13:42.000Z",
-          "wordCount": 32828,
-          "title": "Introducing agent quality optimization in AgentCore, now in preview",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-20827-1.png"
-        },
-        {
-          "id": "7dbb6ffe39567fe894de1d5ab0f9d846ce289fad",
-          "author": "Bharathi Srinivasan",
-          "description": "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/",
-          "publishedOn": "2026-05-04T17:13:42.000Z",
-          "wordCount": 32831,
-          "title": "Introducing the agent quality loop: AgentCore Optimization now in preview",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/ml-20827.png"
-        },
-        {
-          "id": "7dbb6ffe39567fe894de1d5ab0f9d846ce289fad",
-          "author": "Bharathi Srinivasan",
-          "description": "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. Agent quality quietly degrades. In most teams, the improvement […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-performance-loop-agentcore-optimization-now-in-preview/",
-          "publishedOn": "2026-05-04T17:13:42.000Z",
-          "wordCount": 32831,
-          "title": "Introducing the agent performance loop: AgentCore Optimization now in preview",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/20827.png"
-        },
-        {
-          "id": "5a13a1edc84510ca328c5e8f007e5ebc9c8437f9",
-          "author": "Lauren Mullennex",
-          "description": "Amazon SageMaker AI now offers an agentic experience that changes this. Developers describe their use case using natural language, and the AI coding agent streamlines the entire journey, from use case definition and data preparation through technique selection, evaluation, and deployment. In this post, we walk you through the model customization lifecycle using SageMaker AI agent skills.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/",
-          "publishedOn": "2026-05-04T17:10:46.000Z",
-          "wordCount": 33834,
-          "title": "Agent-guided workflows to accelerate model customization in Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/ml-20721.png"
-        },
-        {
-          "id": "048bd6011fe6d0f8421b1544f9b792131017973e",
-          "author": "Salim Khan",
-          "description": "Building meaningful dashboards demands hours of manual setup, even for experienced BI professionals. Amazon Quick now generates complete multi-sheet dashboards from natural language prompts, taking you from one or more datasets to a production-ready analysis in minutes. Data analysts building recurring operations reports, program managers preparing a leadership review, or engineers exploring a new dataset can […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/",
-          "publishedOn": "2026-05-04T16:51:37.000Z",
-          "wordCount": 32506,
-          "title": "Generate dashboards from natural language prompts in Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/20708_0504-2.png"
-        },
-        {
-          "id": "38e6dcb48dad100caa8f52d7ec3509588883bff1",
-          "author": "Raji Sivasubramaniam",
-          "description": "Amazon Quick introduces Amazon S3 Tables (Apache Iceberg tables) as a new data source. With this feature, customers can directly query and visualize Apache Iceberg tables stored in an Amazon S3 table bucket without the need for intermediate data layers. In this post, we explored how Amazon Quick’s new Amazon S3 Tables data source enables near real-time analytics while streamlining modern data architectures.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/",
-          "publishedOn": "2026-05-04T16:12:37.000Z",
-          "wordCount": 33523,
-          "title": "From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/22/ML-20936-1-1260x543.png"
-        },
-        {
-          "id": "984de3e9e72d5e27182953257bda1d3517b866d4",
-          "author": "Surendran Raju",
-          "description": "In this post, you learn how to get started with Dataset Q&A, explore real-world use cases with hands-on examples, and discover advanced capabilities like auto-discovery across all your data assets and multi-dataset querying in a single conversation.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick/",
-          "publishedOn": "2026-05-04T16:08:12.000Z",
-          "wordCount": 34634,
-          "title": "Introducing Dataset Q&A: Expanding natural language querying for structured datasets in Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/04/29/ML-20685-image-6-867x630.png"
-        },
-        {
-          "id": "218063b165a877c1e3c594db59cfb74b2722aff8",
-          "author": "Kareem Syed-Mohammed",
-          "description": "Today, Amazon SageMaker AI introduces capacity aware instance pool for new and existing inference endpoints. You define a prioritized list of instance types, and SageMaker AI automatically works through your list whenever capacity is constrained at creation, during scale-out, and during scale-in. Your endpoint provisions on available AI Infrastructure without manual intervention. This capability is available for Single Model Endpoints, Inference Component-based endpoints, and Asynchronous Inference endpoints.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/",
-          "publishedOn": "2026-05-04T16:05:02.000Z",
-          "wordCount": 34114,
-          "title": "Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/04/20949.png"
         }
       ]
     }

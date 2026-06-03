@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-03T19:45:58.214Z</updated>
+    <updated>2026-06-03T22:26:47.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to build self-driving AI operations on Amazon Bedrock at scale]]></title>
+        <id>30ad631313e8e37126316f1efe5196505e5e1fad</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/"/>
+        <updated>2026-06-03T20:14:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your own environment.]]></summary>
+        <author>
+            <name>Sushovan Basak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart]]></title>
         <id>de22639bed6185d9adbdb395e6b153abecc7209d</id>

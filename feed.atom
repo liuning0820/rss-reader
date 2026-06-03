@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-03T14:25:40.360Z</updated>
+    <updated>2026-06-03T19:45:58.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart]]></title>
+        <id>de22639bed6185d9adbdb395e6b153abecc7209d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-06-03T17:55:37.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets.]]></summary>
+        <author>
+            <name>Vivek Gangasani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing container cold start times using SOCI index on DLAMI and DLC]]></title>
+        <id>f4fa8745223b1df75f002f62b314caab0b3f2f97</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/"/>
+        <updated>2026-06-03T16:26:35.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and how to quickly and efficiently use this tool in your workloads today.]]></summary>
+        <author>
+            <name>Ohad Katz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI]]></title>
+        <id>c71acc97e8909137d930f33e3f37d666f8241532</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/"/>
+        <updated>2026-06-03T15:56:50.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality.]]></summary>
+        <author>
+            <name>Amin Dashti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The art and science of hyperparameter optimization on Amazon Nova Forge]]></title>
         <id>03c94dd9be4411cedfaa179ddf0fa555a76415d3</id>

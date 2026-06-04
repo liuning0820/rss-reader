@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-03T22:26:47.654Z</updated>
+    <updated>2026-06-04T03:48:40.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -874,26 +874,6 @@
         <summary type="html"><![CDATA[We’re announcing OS Level Actions for AgentCore Browser. This new capability unblocks these scenarios by exposing direct OS control through the InvokeBrowser API, so agents can interact with content visible on the screen, not only what's accessible through the browser's web layer. By combining full-desktop screenshots with mouse and keyboard control at the OS level, agents can observe native UI, reason about it, and act on it within the same session. This post walks through how OS Level Actions work, what actions are supported, and how to get started.]]></summary>
         <author>
             <name>Evandro Franco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS]]></title>
-        <id>bc2f8cf830dae5c300c42de5b746021ef2e585cf</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/"/>
-        <updated>2026-05-05T15:27:30.000Z</updated>
-        <summary type="html"><![CDATA[AI agents in production require secure access to external services. Amazon Bedrock AgentCore Identity, available as a standalone service, secures how your AI agents access external services whether they run on compute platforms like Amazon ECS, Amazon EKS, AWS Lambda, or on-premises. This post implements Authorization Code Grant (3-legged OAuth) on Amazon ECS with secure session binding and scoped tokens.]]></summary>
-        <author>
-            <name>Julian Grüber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligence-driven message defense and insights using Amazon Bedrock]]></title>
-        <id>bb1fd10e428b20b509186f57b8100c36b13b55bd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/"/>
-        <updated>2026-05-05T15:20:54.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn how you can use Amazon Nova Foundation Models in Amazon Bedrock to apply generative AI techniques for both business protection and enhancement. You can identify obvious and disguised attempts at direct contact while gaining valuable insights into customer sentiment and service improvement opportunities.]]></summary>
-        <author>
-            <name>Tyler Huehmer</name>
         </author>
     </entry>
 </feed>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6877",
@@ -914,26 +914,6 @@
           "wordCount": 33584,
           "title": "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-20810.png"
-        },
-        {
-          "id": "bc2f8cf830dae5c300c42de5b746021ef2e585cf",
-          "author": "Julian Grüber",
-          "description": "AI agents in production require secure access to external services. Amazon Bedrock AgentCore Identity, available as a standalone service, secures how your AI agents access external services whether they run on compute platforms like Amazon ECS, Amazon EKS, AWS Lambda, or on-premises. This post implements Authorization Code Grant (3-legged OAuth) on Amazon ECS with secure session binding and scoped tokens.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/",
-          "publishedOn": "2026-05-05T15:27:30.000Z",
-          "wordCount": 34528,
-          "title": "Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-20517.png"
-        },
-        {
-          "id": "bb1fd10e428b20b509186f57b8100c36b13b55bd",
-          "author": "Tyler Huehmer",
-          "description": "In this post, you will learn how you can use Amazon Nova Foundation Models in Amazon Bedrock to apply generative AI techniques for both business protection and enhancement. You can identify obvious and disguised attempts at direct contact while gaining valuable insights into customer sentiment and service improvement opportunities.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/",
-          "publishedOn": "2026-05-05T15:20:54.000Z",
-          "wordCount": 34526,
-          "title": "Intelligence-driven message defense and insights using Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/05/ml-18644.png"
         }
       ]
     }

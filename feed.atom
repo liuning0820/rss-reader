@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-04T16:51:58.933Z</updated>
+    <updated>2026-06-04T20:02:26.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart]]></title>
+        <id>3c59132d34807765ea69ea90bc87801eb0233363</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-06-04T16:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to build self-driving AI operations on Amazon Bedrock at scale]]></title>
         <id>30ad631313e8e37126316f1efe5196505e5e1fad</id>

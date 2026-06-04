@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-04T03:48:40.714Z</updated>
+    <updated>2026-06-04T08:18:25.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,36 +844,6 @@
         <summary type="html"><![CDATA[Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To reduce costs and maintain accuracy, Tomofun turned to EC2 Inf2 instances powered by AWS Inferentia2, the Amazon purpose-built AI chips. In this post, we walk through the following sections in detail.]]></summary>
         <author>
             <name>Ray Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights]]></title>
-        <id>9ce18f255d3613201d9c06da84f23b743118e82a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/"/>
-        <updated>2026-05-05T16:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Hapag-Lloyd's Digital Customer Experience and Engineering team, distributed between Hamburg and Gdańsk, drives digital innovation by developing and maintaining customer-facing web and mobile products. In this post, we walk you through our generative AI–powered feedback analysis solution built using Amazon Bedrock, Elasticsearch, and open-source frameworks like LangChain and LangGraph]]></summary>
-        <author>
-            <name>Aamna Najmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlining generative AI development with MLflow v3.10 on Amazon SageMaker AI]]></title>
-        <id>54d298de7b88ead08bf3dc325017027205c00514</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/"/>
-        <updated>2026-05-05T16:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to announce that Amazon SageMaker AI MLflow Apps now support MLflow version 3.10, bringing enhanced capabilities for generative AI development and streamlined experiment tracking to your generative AI workflows. Building on the foundations established with Amazon SageMaker AI MLflow Apps, this latest version introduces powerful new features for observability, evaluation, and generative […]]]></summary>
-        <author>
-            <name>Sandeep Raveesh-Babu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing OS Level Actions in Amazon Bedrock AgentCore Browser]]></title>
-        <id>b16806fe3bc31dc8d40116e628210bf2bd258179</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/"/>
-        <updated>2026-05-05T16:54:35.000Z</updated>
-        <summary type="html"><![CDATA[We’re announcing OS Level Actions for AgentCore Browser. This new capability unblocks these scenarios by exposing direct OS control through the InvokeBrowser API, so agents can interact with content visible on the screen, not only what's accessible through the browser's web layer. By combining full-desktop screenshots with mouse and keyboard control at the OS level, agents can observe native UI, reason about it, and act on it within the same session. This post walks through how OS Level Actions work, what actions are supported, and how to get started.]]></summary>
-        <author>
-            <name>Evandro Franco</name>
         </author>
     </entry>
 </feed>

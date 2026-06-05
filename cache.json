@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6901",
+          "author": "Chris Swan",
+          "description": "TL;DR Conway’s Law tells us that organisations create systems that mirror their communication systems. Jamie Dobson coin’s ‘Miell’s Law’ in a post about the work of our mutual friend (and his colleague) Ian Miell in his forthcoming book ‘Follow the Money‘: Organisations that design systems are constrained to produce systems that reflect the financial structures […]",
+          "link": "http://blog.thestateofme.com/2026/06/05/miells-law-and-token-budgets/",
+          "publishedOn": "2026-06-05T10:01:38.000Z",
+          "wordCount": 4272,
+          "title": "Miell’s Law and Token Budgets",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6901",
           "author": "Chris Swan",
@@ -14,6 +24,16 @@
           "wordCount": 4354,
           "title": "Miell’s Law and Token Budgets",
           "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6886",
+          "author": "Chris Swan",
+          "description": "Pupdate It was Milo’s 5th birthday on the 12th, which meant a post about how he’s getting on. Sadly Max has also needed to visit the vets, with (we think) back ache, which might be the dreaded Intervertebral Disc Disease (IVDD). He’s been on reduced activity, so shorter walks, but thankfully seems pretty much back […]",
+          "link": "http://blog.thestateofme.com/2026/06/05/may-2026/",
+          "publishedOn": "2026-06-05T08:19:56.000Z",
+          "wordCount": 4402,
+          "title": "May 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/05/pups_202605.jpg"
         },
         {
           "id": "http://blog.thestateofme.com/?p=6886",

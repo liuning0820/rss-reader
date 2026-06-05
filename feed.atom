@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-05T03:34:18.297Z</updated>
+    <updated>2026-06-05T08:04:09.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to instantly access and pay for what they use. AgentCore Payments was developed in partnership with Coinbase and Stripe.]]></summary>
         <author>
             <name>Preethi C N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2]]></title>
-        <id>f2e77f0d028a15bd3c291d77ca604445eb30adad</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/"/>
-        <updated>2026-05-06T15:37:08.000Z</updated>
-        <summary type="html"><![CDATA[Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To reduce costs and maintain accuracy, Tomofun turned to EC2 Inf2 instances powered by AWS Inferentia2, the Amazon purpose-built AI chips. In this post, we walk through the following sections in detail.]]></summary>
-        <author>
-            <name>Ray Wang</name>
         </author>
     </entry>
 </feed>

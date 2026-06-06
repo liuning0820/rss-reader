@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6901",
@@ -914,16 +914,6 @@
           "wordCount": 35070,
           "title": "Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/07/ml-20356.png"
-        },
-        {
-          "id": "59d806f0513d8b0ce39cdf6f6348684b067a1251",
-          "author": "Preethi C N",
-          "description": "Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to instantly access and pay for what they use. AgentCore Payments was developed in partnership with Coinbase and Stripe.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
-          "publishedOn": "2026-05-07T12:55:17.000Z",
-          "wordCount": 33190,
-          "title": "Agents that transact: Introducing Amazon Bedrock AgentCore Payments, built with Coinbase and Stripe",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/06/images-ml-20991-featured.png"
         }
       ]
     }

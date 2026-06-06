@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-05T23:05:50.440Z</updated>
+    <updated>2026-06-06T02:55:00.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -874,16 +874,6 @@
         <summary type="html"><![CDATA[In this post, you will learn how to implement reinforcement learning with verifiable rewards (RLVR) to introduce verification and transparency into reward signals to improve training performance. This approach works best when outputs can be objectively verified for correctness, such as in mathematical reasoning, code generation, or symbolic manipulation tasks. You will also learn how to layer techniques like Group Relative Policy Optimization (GRPO) and few-shot examples to further improve results. You’ll use the GSM8K dataset (Grade School Math 8K: a collection of grade school math problems) to improve math problem solving accuracy, but the techniques used here can be adapted to a wide variety of other use cases.]]></summary>
         <author>
             <name>Surya Kari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agents that transact: Introducing Amazon Bedrock AgentCore Payments, built with Coinbase and Stripe]]></title>
-        <id>59d806f0513d8b0ce39cdf6f6348684b067a1251</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/"/>
-        <updated>2026-05-07T12:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to instantly access and pay for what they use. AgentCore Payments was developed in partnership with Coinbase and Stripe.]]></summary>
-        <author>
-            <name>Preethi C N</name>
         </author>
     </entry>
 </feed>

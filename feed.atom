@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-06T23:00:48.938Z</updated>
+    <updated>2026-06-07T03:40:58.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, incident.io: Paging is just 10% of your incident workflow. incident.io’s 4-step framework turns migration into a forcing function for the other 90%: cut alert noise, fix service ownership, and build the on-call program your team actually deserves. Not all index scans are equal: How we cut query […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI]]></title>
-        <id>50e2458aad69afd7ee49fba03244612fe5aa647b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/"/>
-        <updated>2026-05-08T13:20:30.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll explore how we built a proof-of-concept that converts natural language queries into executable seismic workflows while providing a question-answering capability for Halliburton's Seismic Engine tools and documentation. We'll cover the technical details of the solution, share evaluation results showing workflow acceleration of up to 95%, and discuss key learnings that can help other organizations enhance their complex technical workflows with generative AI.]]></summary>
-        <author>
-            <name>Yuan Tian</name>
         </author>
     </entry>
 </feed>

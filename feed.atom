@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-07T23:02:54.808Z</updated>
+    <updated>2026-06-08T03:49:07.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #520]]></title>
+        <id>https://sreweekly.com/?p=1767</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-520/"/>
+        <updated>2026-06-08T01:21:57.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, BigPanda: Your team solved this incident last month. Why is it back? Because you fixed the symptom, not the cause. BigPanda surfaces the pattern behind repeat incidents and tells you what to fix so the next on-call doesn’t fight the same P1. Prevent incidents proactively AI Agents […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Miell’s Law and Token Budgets]]></title>
         <id>https://blog.thestateofme.com/?p=6901</id>

@@ -111,16 +111,6 @@
           "wordCount": 1078,
           "title": "SRE Weekly Issue #517",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1754",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, incident.io: Paging is just 10% of your incident workflow. incident.io’s 4-step framework turns migration into a forcing function for the other 90%: cut alert noise, fix service ownership, and build the on-call program your team actually deserves. Not all index scans are equal: How we cut query […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-516/",
-          "publishedOn": "2026-05-11T01:39:21.000Z",
-          "wordCount": 1173,
-          "title": "SRE Weekly Issue #516",
-          "imageUrl": null
         }
       ]
     },

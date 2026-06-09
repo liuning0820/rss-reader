@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-09T18:01:08.196Z</updated>
+    <updated>2026-06-09T21:45:22.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI]]></title>
+        <id>9c5e30c4c32932fd704366ee1ae231cfbc1ac5de</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/"/>
+        <updated>2026-06-09T20:07:24.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how to train robot policies for the Unitree H1 humanoid with NVIDIA Isaac Lab on Amazon SageMaker AI across two compute options: Amazon SageMaker HyperPod and Amazon SageMaker Training Jobs.]]></summary>
+        <author>
+            <name>Roy Allela</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake]]></title>
         <id>ea8d5dfaa5a40a9341dacf4afadd40b10d76a591</id>

@@ -929,51 +929,6 @@
           "wordCount": 35095,
           "title": "Building web search-enabled agents with Strands and Exa",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-19612.png"
-        },
-        {
-          "id": "c29f5fd7e22722c1f437ab939e992d616a983c08",
-          "author": "Dani Mitchell",
-          "description": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
-          "publishedOn": "2026-05-11T18:43:03.000Z",
-          "wordCount": 33021,
-          "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
-          "enclosure": {
-            "length": "1901983",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-20969/figure2.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-20969.png"
-        },
-        {
-          "id": "eac73bc7cf82f5e18f0720bf8791e9d949f18122",
-          "author": "Adewale Akinfaderin",
-          "description": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
-          "publishedOn": "2026-05-11T17:08:24.000Z",
-          "wordCount": 34621,
-          "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-20830.png"
-        },
-        {
-          "id": "9d8096ec7dcd70fc7184dbfb24b0824313bf962b",
-          "author": "Philipp Pavlov, Dmytro Romantsov, Evgeny Mironenko, Gowri Suryanarayana",
-          "description": "In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
-          "publishedOn": "2026-05-11T17:03:00.000Z",
-          "wordCount": 34408,
-          "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-18722.png"
-        },
-        {
-          "id": "209a6be873032a8fd00210fef88ce9acbc7db797",
-          "author": "Shekhar Kopuri",
-          "description": "Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data professionals deliver trusted AI-powered insights at enterprise scale.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
-          "publishedOn": "2026-05-11T15:56:33.000Z",
-          "wordCount": 34145,
-          "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/11/ml-21014.png"
         }
       ]
     }

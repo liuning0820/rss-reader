@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-10T23:23:12.256Z</updated>
+    <updated>2026-06-11T03:43:30.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How frontier teams are reinventing AI-native development]]></title>
+        <id>f1e12b17d9aaf865e54f3075144de7467d6112f3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/"/>
+        <updated>2026-06-11T00:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases more than 10x.]]></summary>
+        <author>
+            <name>Swami Sivasubramanian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations]]></title>
         <id>8c909e8c55a38a67515c9c8459441dccd019c247</id>

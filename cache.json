@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "450aed0718885588470f2760f194aeea50c70497",
+          "author": "Tim Shear",
+          "description": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
+          "publishedOn": "2026-06-11T19:40:33.000Z",
+          "wordCount": 34336,
+          "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/02/ML-18264.png"
+        },
+        {
           "id": "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe",
           "author": "Ishan Singh",
           "description": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example.",

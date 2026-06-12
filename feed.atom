@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-12T03:43:03.863Z</updated>
+    <updated>2026-06-12T08:22:50.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -874,46 +874,6 @@
         <summary type="html"><![CDATA[In this post, you will configure Chrome enterprise policies to restrict a browser agent to a specific website, observe the policy enforcement through session recording, and demonstrate custom root CA certificates using a public test site. The walkthrough produces a working solution that researches Amazon Bedrock AgentCore documentation while operating under enterprise browser restrictions.]]></summary>
         <author>
             <name>Sundar Raghavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build financial document processing with Pulse AI and Amazon Bedrock]]></title>
-        <id>fd77696bc2cb871f504b0871d4d9462a56b8669d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/"/>
-        <updated>2026-05-13T18:00:06.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates how to build a documentation extraction and model fine-tuning pipeline that addresses challenges when processing the complex financial documents. By combining Pulse AI's advanced document understanding capabilities with the powerful AI services of Amazon Bedrock, organizations can achieve enterprise-grade accuracy and extract contextually relevant financial insights at scale.]]></summary>
-        <author>
-            <name>ND Ngoka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC]]></title>
-        <id>7af88abc651a35a1deb778524126f517717c5670</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/"/>
-        <updated>2026-05-13T17:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Building end-to-end live streaming applications with real-time voice interaction presents several challenges. This post introduces a solution based on Amazon Nova 2 Sonic (Nova Sonic) and Amazon Kinesis Video Streams WebRTC (WebRTC) that addresses these challenges. In this post, we’ll walk through the solution architecture, implementation patterns, and two real-world scenario examples.]]></summary>
-        <author>
-            <name>Zihang Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments]]></title>
-        <id>a35b6a5c47967d58bb4ca032fed533a7fb206f0a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/"/>
-        <updated>2026-05-13T17:33:16.000Z</updated>
-        <summary type="html"><![CDATA[The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.]]></summary>
-        <author>
-            <name>Amit Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI]]></title>
-        <id>697873040685abb0645311a069aa848064426519</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/"/>
-        <updated>2026-05-13T17:22:42.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate how to build a secure, complete LLM fine-tuning workflow that integrates Unity Catalog with Amazon SageMaker AI using Amazon EMR Serverless for preprocessing. The solution shows how to securely access governed data, maintain lineage across services, fine-tune the Ministral-3-3B-Instruct model, and register trained artifacts back into Unity Catalog. With this approach, you can continue using your existing services while preserving central governance, tracking data lineage without compromising security or compliance requirements.]]></summary>
-        <author>
-            <name>Genta Watanabe</name>
         </author>
     </entry>
 </feed>

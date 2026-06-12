@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-11T23:19:40.983Z</updated>
+    <updated>2026-06-12T03:43:03.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -224,6 +224,16 @@
         <summary type="html"><![CDATA[Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.]]></summary>
         <author>
             <name>Dan Ferguson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate model quota request and operational issue triage on Amazon Bedrock]]></title>
+        <id>30ad631313e8e37126316f1efe5196505e5e1fad</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-model-quota-request-and-operational-issue-triage-on-amazon-bedrock/"/>
+        <updated>2026-06-03T20:14:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjusts alarm thresholds, classifies alarms by category, automatically creates context-aware support cases, helps prevent duplicate cases when an unresolved case of the same alarm category is already active, and delivers contextualized notifications to AI SRE teams. We walk through the solution architecture and how you can deploy it in your own environment.]]></summary>
+        <author>
+            <name>Sushovan Basak</name>
         </author>
     </entry>
     <entry>

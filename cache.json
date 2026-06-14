@@ -904,16 +904,6 @@
           "wordCount": 35045,
           "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/18/ml-20799.png"
-        },
-        {
-          "id": "f270f272f6bc396acf406601280c4a0c78e855f9",
-          "author": "Josh DeMuth",
-          "description": "In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level permissions across chat and automated workflows.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
-          "publishedOn": "2026-05-15T15:41:00.000Z",
-          "wordCount": 35621,
-          "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/15/ml-20551.png"
         }
       ]
     }

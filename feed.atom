@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-14T23:06:41.030Z</updated>
+    <updated>2026-06-15T04:03:54.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #521]]></title>
+        <id>https://sreweekly.com/?p=1774</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-521/"/>
+        <updated>2026-06-15T01:50:24.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Bronto: Stuck with slow queries and scattered logs? What if you could easily retain all of your telemetry data in one place for a full year without sky-high bills? Now with Bronto, it’s possible. Connect the dots faster across TBs of always hot, full fidelity data. Try […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Supercharger: How Rocket Close optimized title operations with agentic AI]]></title>
         <id>b1919d1f9b442a21587d936141e9bfbe66e31144</id>

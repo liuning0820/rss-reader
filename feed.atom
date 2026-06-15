@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-15T12:07:54.475Z</updated>
+    <updated>2026-06-15T18:22:40.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agent Failure Detection and Root Cause Analysis with Strands Evals]]></title>
+        <id>73a07b2595b53de69a7cc5f3c60790b57b634eae</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/"/>
+        <updated>2026-06-15T18:07:59.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk you through calling the detector functions to diagnose real agent failures. You learn how to interpret their structured output: categorized failures with confidence scores, causal chains linking root causes to downstream symptoms, and fix recommendations specifying whether a change belongs in your system prompt or tool definitions. You also learn how to integrate detection into your evaluation pipeline for automated diagnosis on every test run.]]></summary>
+        <author>
+            <name>Po-Shin Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build context-rich research agents with Deep Agents and Bedrock AgentCore]]></title>
+        <id>cb7aad4c1804e8d7d81a4454c42962ae28d631e1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/"/>
+        <updated>2026-06-15T13:56:33.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you'll build a competitive research agent that demonstrates this pattern end to end. This walkthrough targets developers building multi-step AI workflows who need isolated execution environments for their agents. In Part 2 of the notebook, you can deploy this same agent to Bedrock AgentCore Runtime using the AgentCore CLI, so it runs as a managed, session-isolated service.]]></summary>
+        <author>
+            <name>Sundar Raghavan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #521]]></title>
         <id>https://sreweekly.com/?p=1774</id>

@@ -116,6 +116,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "73a07b2595b53de69a7cc5f3c60790b57b634eae",
+          "author": "Po-Shin Chen",
+          "description": "In this post, we walk you through calling the detector functions to diagnose real agent failures. You learn how to interpret their structured output: categorized failures with confidence scores, causal chains linking root causes to downstream symptoms, and fix recommendations specifying whether a change belongs in your system prompt or tool definitions. You also learn how to integrate detection into your evaluation pipeline for automated diagnosis on every test run.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
+          "publishedOn": "2026-06-15T18:07:59.000Z",
+          "wordCount": 34278,
+          "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/ml-21169.png"
+        },
+        {
+          "id": "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
+          "author": "Sundar Raghavan",
+          "description": "In this post, you'll build a competitive research agent that demonstrates this pattern end to end. This walkthrough targets developers building multi-step AI workflows who need isolated execution environments for their agents. In Part 2 of the notebook, you can deploy this same agent to Bedrock AgentCore Runtime using the AgentCore CLI, so it runs as a managed, session-isolated service.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+          "publishedOn": "2026-06-15T13:56:33.000Z",
+          "wordCount": 33932,
+          "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/ML-20818-1.png"
+        },
+        {
           "id": "b1919d1f9b442a21587d936141e9bfbe66e31144",
           "author": "Anton Selin",
           "description": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution features, the rationale for the technology stack, lessons learned, and the business impact at Rocket Close.",

@@ -91,16 +91,6 @@
           "wordCount": 1138,
           "title": "SRE Weekly Issue #518",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1756",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, BigPanda: No single team sees the full incident anymore. Today’s P1s break across services, teams, and infrastructure. Instead of chasing dashboards, waiting on tribal knowledge, or piecing together signals from siloed systems, BigPanda surfaces the complete picture to pinpoint root cause faster. See BigPanda for SREs Why […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-517/",
-          "publishedOn": "2026-05-18T02:29:57.000Z",
-          "wordCount": 1078,
-          "title": "SRE Weekly Issue #517",
-          "imageUrl": null
         }
       ]
     },

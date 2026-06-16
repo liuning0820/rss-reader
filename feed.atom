@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-16T09:24:31.060Z</updated>
+    <updated>2026-06-16T15:06:50.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -894,16 +894,6 @@
         <summary type="html"><![CDATA[In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.]]></summary>
         <author>
             <name>Bharathi Srinivasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #517]]></title>
-        <id>https://sreweekly.com/?p=1756</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-517/"/>
-        <updated>2026-05-18T02:29:57.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, BigPanda: No single team sees the full incident anymore. Today’s P1s break across services, teams, and infrastructure. Instead of chasing dashboards, waiting on tribal knowledge, or piecing together signals from siloed systems, BigPanda surfaces the complete picture to pinpoint root cause faster. See BigPanda for SREs Why […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

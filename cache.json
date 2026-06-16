@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "45998be9fc18ed01687fad71ff74cc8866b5386e",
+          "author": "Mona Mona",
+          "description": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+          "publishedOn": "2026-06-16T20:16:02.000Z",
+          "wordCount": 33308,
+          "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ml-21172.png"
+        },
+        {
           "id": "69902708fb3d875dac63deee451bde43d0b5e0fa",
           "author": "Andy Peng",
           "description": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting specifications, and deploy a highly optimized real-time SageMaker AI endpoint to accelerate your generative AI applications.",

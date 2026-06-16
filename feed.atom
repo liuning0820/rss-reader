@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-16T15:06:50.159Z</updated>
+    <updated>2026-06-16T19:32:09.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI]]></title>
+        <id>69902708fb3d875dac63deee451bde43d0b5e0fa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/"/>
+        <updated>2026-06-16T17:47:09.000Z</updated>
+        <summary type="html"><![CDATA[This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting specifications, and deploy a highly optimized real-time SageMaker AI endpoint to accelerate your generative AI applications.]]></summary>
+        <author>
+            <name>Andy Peng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Gemma 4 models on Amazon Bedrock]]></title>
         <id>095a11831dc2d12393669df01b1fde1455267c2b</id>

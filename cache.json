@@ -106,6 +106,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6071082886fecd4bbf0b392be615d8751f9f12eb",
+          "author": "Dan Ferguson",
+          "description": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+          "publishedOn": "2026-06-17T20:56:36.000Z",
+          "wordCount": 33069,
+          "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/21184.png"
+        },
+        {
+          "id": "6b08d80b1bb401fe91c0af0339f8b2e32d9406da",
+          "author": "Spencer Martenson",
+          "description": "Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+          "publishedOn": "2026-06-17T20:35:39.000Z",
+          "wordCount": 33035,
+          "title": "Get back hours every day with autonomous agents in Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21220.png"
+        },
+        {
           "id": "31f102ff202da7a1d7f28522d921743dcf39776f",
           "author": "Mai-Lan Tomsen Bukovec",
           "description": "Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, and streams, and in institutional knowledge that has never been written down. You want to trust the decisions made by your AI agents, but that can't happen until agents have context. Imagine what becomes possible when we give agents a safe way to access the context they need to deliver trusted decisions. This is why at the AWS Summit New York City, we’re announcing a series of innovations that deliver intelligence for your data and AI agents at scale.",

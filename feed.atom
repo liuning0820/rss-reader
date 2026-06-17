@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-17T20:08:58.519Z</updated>
+    <updated>2026-06-17T23:21:25.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker AI Async Inference now supports inline request payloads]]></title>
+        <id>6071082886fecd4bbf0b392be615d8751f9f12eb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/"/>
+        <updated>2026-06-17T20:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Service (Amazon S3) before each invocation.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get back hours every day with autonomous agents in Amazon Quick]]></title>
+        <id>6b08d80b1bb401fe91c0af0339f8b2e32d9406da</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/"/>
+        <updated>2026-06-17T20:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.]]></summary>
+        <author>
+            <name>Spencer Martenson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Context intelligence for your data and AI agents at scale]]></title>
         <id>31f102ff202da7a1d7f28522d921743dcf39776f</id>

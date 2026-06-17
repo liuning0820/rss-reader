@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "be3b2966e30bd6b9ecf8c5fe631e9336f36449b6",
+          "author": "Sandeep Singh",
+          "description": "Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any point in your agentic AI applications without creating guardrail resources. In this post, we walk through how the InvokeGuardrailChecks API works and how to use it to build safe, multi-turn agentic AI applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+          "publishedOn": "2026-06-16T22:46:46.000Z",
+          "wordCount": 34364,
+          "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/21237-1.png"
+        },
+        {
           "id": "45998be9fc18ed01687fad71ff74cc8866b5386e",
           "author": "Mona Mona",
           "description": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.",
@@ -934,26 +944,6 @@
           "wordCount": 33444,
           "title": "Aderant transforms cloud operations with Amazon Quick",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/18/ML-20523.png"
-        },
-        {
-          "id": "c9ba5991a8c82d739b707aee5f3f1b2ea654e7e7",
-          "author": "Bharath Chekuri",
-          "description": "In this post, you will learn how to set up the Confluence Cloud integration with Quick. This includes creating a knowledge base for semantic search, setting up Actions to query and manage Confluence pages, and organizing resources in Quick Spaces. Quick integrates with your current enterprise technology stack, from internal knowledge repositories and corporate intranets to business-critical applications and AWS data services.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/",
-          "publishedOn": "2026-05-18T15:37:55.000Z",
-          "wordCount": 35076,
-          "title": "Integrate Atlassian Confluence Cloud with Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/18/ml-19951.png"
-        },
-        {
-          "id": "6d9debe50dc9d0456ff11a3c3fdd68e27ea6be48",
-          "author": "Bharathi Srinivasan",
-          "description": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-05-18T15:07:15.000Z",
-          "wordCount": 35045,
-          "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/18/ml-20799.png"
         }
       ]
     }

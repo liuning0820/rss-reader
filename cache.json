@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "af29741e1b609d97137038ce98e464c22ddaf506",
+          "author": "Madhu Parthasarathy",
+          "description": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
+          "publishedOn": "2026-06-17T15:29:36.000Z",
+          "wordCount": 34357,
+          "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/21242.png"
+        },
+        {
           "id": "be3b2966e30bd6b9ecf8c5fe631e9336f36449b6",
           "author": "Sandeep Singh",
           "description": "Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any point in your agentic AI applications without creating guardrail resources. In this post, we walk through how the InvokeGuardrailChecks API works and how to use it to build safe, multi-turn agentic AI applications.",

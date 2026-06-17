@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-17T13:39:05.174Z</updated>
+    <updated>2026-06-17T16:53:01.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning]]></title>
+        <id>af29741e1b609d97137038ce98e464c22ddaf506</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/"/>
+        <updated>2026-06-17T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.]]></summary>
+        <author>
+            <name>Madhu Parthasarathy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API]]></title>
         <id>be3b2966e30bd6b9ecf8c5fe631e9336f36449b6</id>

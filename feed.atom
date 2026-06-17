@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-17T16:53:01.624Z</updated>
+    <updated>2026-06-17T20:08:58.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Context intelligence for your data and AI agents at scale]]></title>
+        <id>31f102ff202da7a1d7f28522d921743dcf39776f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/"/>
+        <updated>2026-06-17T17:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, and streams, and in institutional knowledge that has never been written down. You want to trust the decisions made by your AI agents, but that can't happen until agents have context. Imagine what becomes possible when we give agents a safe way to access the context they need to deliver trusted decisions. This is why at the AWS Summit New York City, we’re announcing a series of innovations that deliver intelligence for your data and AI agents at scale.]]></summary>
+        <author>
+            <name>Mai-Lan Tomsen Bukovec</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning]]></title>
         <id>af29741e1b609d97137038ce98e464c22ddaf506</id>

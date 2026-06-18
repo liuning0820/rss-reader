@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-18T20:22:42.074Z</updated>
+    <updated>2026-06-18T23:42:58.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch]]></title>
+        <id>eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/"/>
+        <updated>2026-06-18T23:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.]]></summary>
+        <author>
+            <name>Apoorva Chandra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes]]></title>
         <id>be9a03852fc0c60a62e1fc0565d44b2b17381671</id>

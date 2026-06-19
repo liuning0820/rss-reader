@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-19T10:22:23.587Z</updated>
+    <updated>2026-06-19T15:09:53.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Web Search on Amazon Bedrock AgentCore]]></title>
+        <id>1e6011feb7a9539e025946c40b2ccf72108b05ae</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-06-19T14:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of code.]]></summary>
+        <author>
+            <name>Veda Raman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick]]></title>
+        <id>c7547b285777b009f8bb60f1abb1888be2f1e73a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/"/>
+        <updated>2026-06-19T14:05:04.000Z</updated>
+        <summary type="html"><![CDATA[This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.]]></summary>
+        <author>
+            <name>Ebbey Thomas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch]]></title>
         <id>eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7</id>
@@ -874,16 +894,6 @@
         <summary type="html"><![CDATA[This solution combines the power of Amazon Bedrock AgentCore, Strands Agents, and Amazon Quick transforms to deliver a secure, scalable, and intelligent system for building and operating AI agents while transforming data into actionable business insights.]]></summary>
         <author>
             <name>Aravind Hariharaputran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints]]></title>
-        <id>8b614eb758f78b6727cdd5102ecb6b2a4a6b9d5a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/"/>
-        <updated>2026-05-20T23:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker AI by changing only your endpoint URL. You don’t need a custom client, a SigV4 wrapper, or code rewrites. Overview With this launch, SageMaker AI endpoints […]]]></summary>
-        <author>
-            <name>Marc Karp</name>
         </author>
     </entry>
 </feed>

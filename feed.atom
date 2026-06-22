@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-22T16:51:38.166Z</updated>
+    <updated>2026-06-22T20:44:04.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments]]></title>
+        <id>52be35df08b05af08b291c3c21eae9e9df45e6a0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/"/>
+        <updated>2026-06-22T17:53:40.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn how Ampersend built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. AI agents autonomously route tasks to the most effective model, pay per request, and operate within spending budgets. You will also see how the two-hop payment pattern works end-to-end and how to get started with your own implementation.]]></summary>
+        <author>
+            <name>Guy Bachar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embed the world: Multimodal AI for searchable aerial imagery at scale]]></title>
         <id>feae5d9d32840b5cd91ba2baf9be1daf82e1283d</id>

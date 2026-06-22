@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-22T11:48:47.002Z</updated>
+    <updated>2026-06-22T16:51:38.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Embed the world: Multimodal AI for searchable aerial imagery at scale]]></title>
+        <id>feae5d9d32840b5cd91ba2baf9be1daf82e1283d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/"/>
+        <updated>2026-06-22T16:32:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through the problem space, our architecture on Amazon Bedrock and Amazon OpenSearch Serverless, the evaluation methodology we built on OpenStreetMap ground truth, four experiments that compared embedding models, fusion strategies, captioning, and search methods, and the practical guidance you can apply when building a similar system. You’ll learn which design choices move the needle for geospatial semantic search, including why Amazon Nova Multimodal Embeddings delivered the highest F1 scores across both benchmark queries in our evaluation. The work described here evolved into Vexcel Intelligence, a searchable imagery product.]]></summary>
+        <author>
+            <name>Gilbert V Lepadatu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running ComfyUI workflows on Amazon SageMaker AI processing jobs]]></title>
+        <id>b3cb23e1dc653e54e53dd83c0760b95019053bf8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/"/>
+        <updated>2026-06-22T16:28:46.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk you through how to deploy ComfyUI workflows on Amazon SageMaker AI processing jobs to generate hundreds of high-quality images in a single batch. You learn how to set up the infrastructure using AWS Cloud Development Kit (AWS CDK), configure GPU-accelerated processing, and automate image generation at scale. You can then adapt this solution to your ComfyUI workflows specific to your needs. We will guide you through a practical, step-by-step process to automate ComfyUI workflows to generate hundreds of high-quality images in a single batch empowering you to scale your creative pipeline.]]></summary>
+        <author>
+            <name>Nick Biso</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #522]]></title>
         <id>https://sreweekly.com/?p=1776</id>

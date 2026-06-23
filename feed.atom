@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-23T14:43:01.743Z</updated>
+    <updated>2026-06-23T17:50:45.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a protein research copilot with Amazon Bedrock AgentCore]]></title>
+        <id>a65ba055bb41fa9b00170b01a872633b24c9741c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-06-23T16:39:34.000Z</updated>
+        <summary type="html"><![CDATA[This post shows you how to build a conversational protein research assistant that combines three capabilities: Natural language query parsing to extract structured search parameters, vector similarity search over protein embeddings using a specialized language model and ai-generated scientific summaries of search results.]]></summary>
+        <author>
+            <name>Yuan Tian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore]]></title>
+        <id>78965789e8e2a82a105cf681e9dac7d46cae2995</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-06-23T15:43:59.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple clinics and hospitals.]]></summary>
+        <author>
+            <name>Ashley Chen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments]]></title>
         <id>52be35df08b05af08b291c3c21eae9e9df45e6a0</id>

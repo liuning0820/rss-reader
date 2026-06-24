@@ -117,6 +117,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "7e4fe18fc52d6fa2c7637bd2c4a496a3ae55e4c2",
+          "author": "Rob Carnell",
+          "description": "In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million documents, reducing processing time from years to just a few months while achieving 95%+ redaction accuracy.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
+          "publishedOn": "2026-06-24T18:24:50.000Z",
+          "wordCount": 33293,
+          "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/ML-19309.png"
+        },
+        {
+          "id": "1d2ea05ede59ced27e2539d9d423a21734963e2f",
+          "author": "Jimin Kim",
+          "description": "In this post, you will learn how to build a voice agent that handles appointment reminder conversations using Amazon Nova 2 Sonic and Amazon Bedrock AgentCore. The agent authenticates patients by voice, manages appointments (confirm, cancel, or reschedule), collects pre-visit health information, and escalates to human staff when needed. You handle routine calls at scale, which can help reduce no-show rates. This sample focuses on the agentic side of the problem: voice conversation and tool orchestration. A browser-based interface is included for testing. To connect the agent to actual phone lines for outbound dialing, you would integrate a telephony service such as Amazon Connect Customer.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
+          "publishedOn": "2026-06-24T18:20:27.000Z",
+          "wordCount": 34318,
+          "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/ML-19583.png"
+        },
+        {
+          "id": "5849bdade13aee362ced95466a4398350e8b7f47",
+          "author": "Ying Wang",
+          "description": "In this post, you will learn how to build an end-to-end integration between Snowflake semantic views and Amazon Quick. The sample data is user review data for a media company. You start by loading movie review data from Amazon Simple Storage Service (Amazon S3) into Snowflake, define a semantic view in SQL to add business meaning, explore it with natural-language queries through Cortex Analyst, and then generate an Amazon Quick dataset and dashboard. The dataset can be created manually or with a provided automation script. By the end, your BI team or AI team can ask natural-language questions against a governed data layer and trust that every response reflects the same business logic.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/",
+          "publishedOn": "2026-06-24T18:19:35.000Z",
+          "wordCount": 34498,
+          "title": "AI-powered BI with Snowflake and Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/09/ML-20803-2.png"
+        },
+        {
           "id": "1dc7723ff4e6ee2d06a80f8861b8d24f05532975",
           "author": "Bojan Jakimovski",
           "description": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang up, damaging brand reputation and driving up support costs.",

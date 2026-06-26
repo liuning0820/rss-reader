@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-26T14:19:54.949Z</updated>
+    <updated>2026-06-26T17:44:42.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build interactive PDF text extraction from Amazon S3]]></title>
+        <id>7c2058ee7f519e8f9d0569ec0096d6fa0be8e649</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/"/>
+        <updated>2026-06-26T14:47:45.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic document access. You’ll walk through the architecture, set up the server, and run interactive document queries. Along the way, you’ll compare this approach with Amazon Textract so you can decide which tool fits your workload.]]></summary>
+        <author>
+            <name>Phani Parcha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS]]></title>
+        <id>8e13c0521604f6b21ac21ba24bb2b7bd15a6545f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/"/>
+        <updated>2026-06-26T14:42:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the AWS services that support the solution. We also share measurable outcomes Cara has delivered for enterprise brokerages.]]></summary>
+        <author>
+            <name>Amaan Babul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production-grade AI agents for financial compliance: Lessons from Stripe]]></title>
+        <id>98c598ce0a0a272f8ef48b636b3c3fa6e09df7ed</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/"/>
+        <updated>2026-06-26T14:38:01.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a dedicated agent service. We also discuss the role of human oversight in maintaining accountability, and key lessons about task decomposition, orchestration patterns, and cost optimization through prompt caching. By the end, you will understand how to design agentic systems that scale compliance operations without compromising quality or auditability.]]></summary>
+        <author>
+            <name>Christopher Phillippi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services]]></title>
         <id>eda3331addbbed45b312b41d1b282123a9d1d3b5</id>

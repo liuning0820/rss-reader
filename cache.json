@@ -915,26 +915,6 @@
           "wordCount": 34226,
           "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20194.png"
-        },
-        {
-          "id": "8a39bdaaca01ff281c876dd6f199d21b54b8a83c",
-          "author": "Anusha Thatipelli",
-          "description": "In this post, we share how we built NarrateAI using Amazon Bedrock AgentCore to deliver business intelligence at scale for the AWS SMGS (Sales, Marketing and Global Services) organization. You will learn about: the two-layer architecture that separates batch processing from real-time interaction, the specialized AI agents that power intelligent routing and validation, key engineering patterns for production deployment, and how to build similar solutions with AWS services.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-05-27T18:51:45.000Z",
-          "wordCount": 34517,
-          "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20454.png"
-        },
-        {
-          "id": "d0b1371079177ae4116061428da47e9102c667ee",
-          "author": "Nicolle Belaunde",
-          "description": "As agent adoption scaled, we saw a common pattern emerge across enterprises, including our own sales organization: specialized agents deliver value, but without orchestration, users carry the cognitive load of choosing between them. At AWS Sales, this meant more than 20 domain-specific agents deployed across the global organization, with representatives context-switching between systems instead of […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-05-27T18:00:07.000Z",
-          "wordCount": 35284,
-          "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/27/20754.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-26T07:49:30.153Z</updated>
+    <updated>2026-06-26T10:48:46.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,36 +844,6 @@
         <summary type="html"><![CDATA[This post demonstrates that integration in action by automating one of the most labor-intensive workflows in financial services: anti-money laundering (AML) alert triage. You will build a triage workflow using Amazon Quick Flows and Snowflake Cortex, connected through the Amazon Quick Model Context Protocol (MCP) integration. In our testing environment, automated workflows built using Amazon Quick reduced alert investigation time from 30-90 minutes to under 5 minutes. Actual results may vary based on alert complexity and data volume.]]></summary>
         <author>
             <name>Nidhi Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process financial documents using Amazon Bedrock Data Automation]]></title>
-        <id>c4ff1d9dffae5b286038688e60ba97a13b216adb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/"/>
-        <updated>2026-05-27T21:28:53.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Amazon Bedrock Data Automation can accurately extract information from four common types of financial documents: bank statements, W-2 forms, 1099-B tax forms, and vendor contracts. We highlight the complexity in the documents, detail the custom extraction created in Amazon Bedrock Data Automation, and describe the outcomes of the extraction process.]]></summary>
-        <author>
-            <name>Shivanshu Upadhyay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building AI agents for business support using Amazon Bedrock AgentCore]]></title>
-        <id>f4a3590f6bc8b3272df157882e15fb74869d0f7e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/"/>
-        <updated>2026-05-27T20:06:34.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered and the solutions that reduced costs by up to 97% while improving operational efficiency.]]></summary>
-        <author>
-            <name>Dayuan Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users]]></title>
-        <id>0b1c36d906945b3a2f7ba41575b6808fdf29ebc0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/"/>
-        <updated>2026-05-27T20:01:06.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through the architectural decisions, implementation challenges, and measurable results that can guide your own data-to-insights transformation.]]></summary>
-        <author>
-            <name>Luca Vignali</name>
         </author>
     </entry>
 </feed>

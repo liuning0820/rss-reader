@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b8cb09c8c030ed3f59ef78ee5fefe89a545d01c0",
+          "author": "Enrique Salgado Hernández",
+          "description": "In this post, we cover best practices for implementing an effective backup strategy for BI assets in Quick Sight. We start by covering the options for selecting the assets to include in your backup, then explain the high-level APIs available for that purpose, and finalize with sample code to help you get started quickly.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/",
+          "publishedOn": "2026-06-29T18:15:14.000Z",
+          "wordCount": 36083,
+          "title": "Implement a backup strategy for Amazon Quick Sight BI assets",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/29/ml-20472.png"
+        },
+        {
           "id": "3a48407f30718965ac0a24f9004a09479b0671ab",
           "author": "Sanghwa Na",
           "description": "In this post, we show how pairing Amazon Nova 2 Lite with Anthropic’s Claude Sonnet 4.6 delivers an efficient solution for digitizing scanned documents at scale. We built a two-model pipeline on Amazon Bedrock for digitizing scanned yearbook pages. Amazon Nova 2 Lite handles native multimodal extraction in a single call: detecting photos, extracting visible names with coordinates, and returning page-level metadata. Claude Sonnet 4.6 then performs spatial reasoning to match names to faces based on page layout.",

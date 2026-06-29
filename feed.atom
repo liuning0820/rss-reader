@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-29T18:06:47.635Z</updated>
+    <updated>2026-06-29T21:24:07.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Implement a backup strategy for Amazon Quick Sight BI assets]]></title>
+        <id>b8cb09c8c030ed3f59ef78ee5fefe89a545d01c0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/"/>
+        <updated>2026-06-29T18:15:14.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we cover best practices for implementing an effective backup strategy for BI assets in Quick Sight. We start by covering the options for selecting the assets to include in your backup, then explain the high-level APIs available for that purpose, and finalize with sample code to help you get started quickly.]]></summary>
+        <author>
+            <name>Enrique Salgado Hernández</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pair Nova 2 Lite with Claude for cost-optimized document processing]]></title>
         <id>3a48407f30718965ac0a24f9004a09479b0671ab</id>

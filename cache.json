@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6901",
@@ -52,6 +52,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1778",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Buildkite: More places to run, more scale to manage and maintain, usually means more blind spots; not here. Buildkite’s control plane holds the live state of every job, agent and queue, regardless of throughput size. See what’s running, what’s waiting and why with immediate insight → https://buildkite.com/platform/pipelines/ […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-523/",
+          "publishedOn": "2026-06-29T01:43:37.000Z",
+          "wordCount": 1250,
+          "title": "SRE Weekly Issue #523",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1776",
           "author": "lex",

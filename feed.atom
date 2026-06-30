@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-06-30T17:50:17.666Z</updated>
+    <updated>2026-06-30T19:51:54.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model]]></title>
+        <id>990284443dcdbd44e2886dc2de82d05f3818fc51</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/"/>
+        <updated>2026-06-30T18:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional […]]]></summary>
+        <author>
+            <name>Aamna Najmi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol]]></title>
         <id>c4e3d1519548e6dfd58647f6cec13eed83c79a30</id>

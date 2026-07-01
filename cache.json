@@ -875,41 +875,6 @@
           "wordCount": 34639,
           "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/05/26/ML-20412-1.jpg"
-        },
-        {
-          "id": "522d8f9e769a522edf4722e21949ac3e5df9e7b1",
-          "author": "Swara Gandhi",
-          "description": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured secret from Secrets Manager and retain full control over how it is managed. With this ability, you can extend your organization’s existing secrets governance processes to AgentCore. You can provide an existing, preconfigured AWS Secrets Manager secret to use with your credential provider resources. You retain full control over its encryption configuration, rotation, replication, tags, and resource policies, just as you would manage other secrets in Secrets Manager. You can also choose a secret from another AWS account within the same AWS Region, though cross-Region secret sharing isn’t supported. This also supports secrets brought in through AWS Secrets Manager external connectors, enabling integration with third-party secret managers.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
-          "publishedOn": "2026-06-01T22:16:28.000Z",
-          "wordCount": 33283,
-          "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/01/21022.png"
-        },
-        {
-          "id": "d503a1df1651c125d69885aaf137eef6b6f68154",
-          "author": "Anu Kaggadasapura Nagaraja",
-          "description": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sarcoma as the research domain and draws on publicly available datasets from PubMed and other open biomedical repositories. It covers the end-to-end workflow: defining a research objective, configuring data sources, reviewing the AI-generated research plan, running the investigation, and iterating on results using the revision and versioning system.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
-          "publishedOn": "2026-06-01T21:54:16.000Z",
-          "wordCount": 33855,
-          "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
-          "enclosure": {
-            "length": "199170834",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-20129/Rare+Cancer+Research+Demo+.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/01/20129.png"
-        },
-        {
-          "id": "2fecd39b5e19602790e6b02fc5e977377ee92cae",
-          "author": "Bharat Sandhu",
-          "description": "GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy them in production applications and agents today, on Bedrock’s high performance inference engine.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
-          "publishedOn": "2026-06-01T21:31:12.000Z",
-          "wordCount": 32737,
-          "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/01/21096.png"
         }
       ]
     }

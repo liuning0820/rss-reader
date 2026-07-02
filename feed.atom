@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-02T03:22:29.213Z</updated>
+    <updated>2026-07-02T07:28:49.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -864,36 +864,6 @@
         <summary type="html"><![CDATA[In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a small language model (SLM). The example uses Amazon SageMaker AI training jobs, so you can focus on training code instead of managing your own training infrastructure. You also learn how to evaluate tool-calling accuracy and compare a base model to several fine-tuned variants, so you can make data-driven decisions about model quality.]]></summary>
         <author>
             <name>Amin Dashti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The art and science of hyperparameter optimization on Amazon Nova Forge]]></title>
-        <id>03c94dd9be4411cedfaa179ddf0fa555a76415d3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/"/>
-        <updated>2026-06-02T17:39:03.000Z</updated>
-        <summary type="html"><![CDATA[Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right is harder than it looks. This post walks through how to navigate that balance, from selecting the right customization strategy for your data and task, to configuring the training parameters that most influence outcomes, like learning rate, batch size, and checkpointing. We also cover the common mistakes that lead to wasted training runs and how to catch them early, so you can improve domain performance without degrading general capabilities or burning through compute on avoidable failures. By the end, you will know how to improve domain performance without degrading general capabilities and how to avoid the expensive failures that come from getting the balance wrong.]]></summary>
-        <author>
-            <name>Nishant Dhiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Object detection with Amazon Nova 2 Lite]]></title>
-        <id>021729c96076a0da5df567811d8cb3814da1feee</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/"/>
-        <updated>2026-06-02T17:31:11.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll walk through implementing object detection with Amazon Nova 2 Lite. You'll learn how to deploy an object detection application using Amazon Bedrock, AWS Lambda, and Amazon API Gateway. You'll also learn how to craft effective prompts, process structured JSON output, and visualize results. We explore practical applications across manufacturing, agriculture, and logistics.]]></summary>
-        <author>
-            <name>Robert Stolz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore]]></title>
-        <id>6b8b9a50ecee365036b0065bad09a8208c1d2ce3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/"/>
-        <updated>2026-06-02T15:45:11.000Z</updated>
-        <summary type="html"><![CDATA[This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process]]></summary>
-        <author>
-            <name>Itay Atas</name>
         </author>
     </entry>
 </feed>

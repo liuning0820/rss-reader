@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-02T16:03:56.011Z</updated>
+    <updated>2026-07-02T19:20:35.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Amazon Bedrock catches AI-generated phishing]]></title>
+        <id>395d0b963ef226d44d24b8de1b8d6428970e860f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/"/>
+        <updated>2026-07-02T17:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a new challenge for security teams managing email systems, significantly raising the risk because of their advanced sophistication. Modern social engineers use generative AI and open source intelligence (OSINT) to craft thousands of unique messages […]]]></summary>
+        <author>
+            <name>Radha Panchap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best practices for multi-turn reinforcement learning in Amazon SageMaker AI]]></title>
+        <id>7e400a6b907735c3f5b62e1203c543bf320b85bc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/"/>
+        <updated>2026-07-02T17:50:23.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an external evaluation, design a reward aligned with the end task, manage what changes once the agent runs for multiple turns, and monitor the metrics that tell you when to iterate.]]></summary>
+        <author>
+            <name>Sapana Chaudhary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)]]></title>
         <id>c45b7ae7b1a106476a375b45d8f9fddc7b2e8dfe</id>

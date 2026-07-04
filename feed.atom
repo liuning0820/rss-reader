@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-04T02:41:16.532Z</updated>
+    <updated>2026-07-04T06:44:54.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -824,16 +824,6 @@
         <summary type="html"><![CDATA[Pupdate It was Milo’s 5th birthday on the 12th, which meant a post about how he’s getting on. Sadly Max has also needed to visit the vets, with (we think) back ache, which might be the dreaded Intervertebral Disc Disease (IVDD). He’s been on reduced activity, so shorter walks, but thankfully seems pretty much back […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart]]></title>
-        <id>3c59132d34807765ea69ea90bc87801eb0233363</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/"/>
-        <updated>2026-06-04T16:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.]]></summary>
-        <author>
-            <name>Dan Ferguson</name>
         </author>
     </entry>
 </feed>

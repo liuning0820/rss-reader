@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6901",
@@ -865,16 +865,6 @@
           "wordCount": 34104,
           "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/08/ml-21086.png"
-        },
-        {
-          "id": "3c59132d34807765ea69ea90bc87801eb0233363",
-          "author": "Dan Ferguson",
-          "description": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-          "publishedOn": "2026-06-04T16:59:08.000Z",
-          "wordCount": 32660,
-          "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/03/21170.png"
         }
       ]
     }

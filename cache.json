@@ -4,28 +4,7 @@
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
       "siteUrl": "https://blog.thestateofme.com",
-      "articles": [
-        {
-          "id": "https://blog.thestateofme.com/?p=6901",
-          "author": "Chris Swan",
-          "description": "TL;DR Conway’s Law tells us that organisations create systems that mirror their communication systems. Jamie Dobson coin’s ‘Miell’s Law’ in a post about the work of our mutual friend (and his colleague) Ian Miell in his forthcoming book ‘Follow the Money‘: Organisations that design systems are constrained to produce systems that reflect the financial structures […]",
-          "link": "http://blog.thestateofme.com/2026/06/05/miells-law-and-token-budgets/",
-          "publishedOn": "2026-06-05T10:01:38.000Z",
-          "wordCount": 4272,
-          "title": "Miell’s Law and Token Budgets",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6901",
-          "author": "Chris Swan",
-          "description": "TL;DR Conway’s Law tells us that organisations create systems that mirror their communication systems. Jamie Dobson coin’s ‘Miell’s Law’ in a post about the work of our mutual friend (and his colleague) Ian Miell in his forthcoming book ‘Follow the Money‘: Organisations that design systems are constrained to produce systems that reflect the financial structures […]",
-          "link": "https://blog.thestateofme.com/2026/06/05/miells-law-and-token-budgets/",
-          "publishedOn": "2026-06-05T10:01:38.000Z",
-          "wordCount": 4354,
-          "title": "Miell’s Law and Token Budgets",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "SRE WEEKLY",

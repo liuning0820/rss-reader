@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-06T21:26:18.290Z</updated>
+    <updated>2026-07-06T23:04:13.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Hugging Face to Amazon SageMaker Studio in one click]]></title>
+        <id>36aa20434afd5b9e42aa8e0699f10369d99e0974</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/"/>
+        <updated>2026-07-06T22:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.]]></summary>
+        <author>
+            <name>Hazim Qudah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching models to forget: Selective unlearning with Amazon Nova]]></title>
+        <id>e451c5cb5932ddbe103cc2baf499c9ded6565a70</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/"/>
+        <updated>2026-07-06T22:23:45.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while preserving model quality. We also provide pointers for customers who want to apply these preference optimization techniques to their own experiments.]]></summary>
+        <author>
+            <name>Qian Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run MiniMax models on Amazon Bedrock]]></title>
         <id>3080a7799ade422bbe55136044702a7b0a6a88bb</id>

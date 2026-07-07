@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-07T10:52:33.831Z</updated>
+    <updated>2026-07-07T14:27:30.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[In this post, we walk you through the Nova Sonic Test Harness, an open source framework that we built to solve both problems. It serves as a rapid iteration tool for tuning system prompts and tool configurations (run a conversation, see results, adjust, repeat) and as a comprehensive evaluation framework for validating voice agent quality at scale. It runs complete multi-turn conversations with Amazon Nova Sonic automatically, evaluates them using LLM-as-judge techniques, and can even detect cases where the model’s audio output doesn’t match its text output (audio hallucinations). No microphone required.]]></summary>
         <author>
             <name>Osman Ipek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #520]]></title>
-        <id>https://sreweekly.com/?p=1767</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-520/"/>
-        <updated>2026-06-08T01:21:57.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, BigPanda: Your team solved this incident last month. Why is it back? Because you fixed the symptom, not the cause. BigPanda surfaces the pattern behind repeat incidents and tells you what to fix so the next on-call doesn’t fight the same P1. Prevent incidents proactively AI Agents […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

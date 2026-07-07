@@ -76,6 +76,106 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "409394474ab357ccdfc613e2a53e689059030023",
+          "author": "Ramon Lopez",
+          "description": "In this post, we walk through what Dataset Enrichment is, how it differs from legacy Topics, and provide three migration scenarios with step-by-step guidance so you can move your business context into the dataset layer with confidence.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
+          "publishedOn": "2026-07-07T17:07:57.000Z",
+          "wordCount": 35670,
+          "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ml-21217.png"
+        },
+        {
+          "id": "d879d15113bd3dfbac581c534668d78a570620c1",
+          "author": "Ying Wang",
+          "description": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sight datasets and perform runtime joins at query time. Instead of flattening tables ahead of time, you keep each table as its own Quick Sight dataset and declare how those datasets relate to one another inside a Quick Sight Topic.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+          "publishedOn": "2026-07-07T17:07:49.000Z",
+          "wordCount": 33676,
+          "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/29/21287-1.png"
+        },
+        {
+          "id": "22032a16b8d3690406aef15e6d8d0912296ed976",
+          "author": "Ying Wang",
+          "description": "In this post, we shift from concepts to patterns. For each schema, you’ll find a table structure, use cases, implementation steps, and sample SQL queries. We also cover workarounds for advanced scenarios that require extra modeling steps, and close with a summary of current limitations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
+          "publishedOn": "2026-07-07T17:07:39.000Z",
+          "wordCount": 34752,
+          "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/29/21287-2.png"
+        },
+        {
+          "id": "2ad85678357800ce8416e63d4106b3c67666a988",
+          "author": "Ying Wang",
+          "description": "This post is for data architects, business intelligence (BI) engineers, and analytics engineers building or optimizing Quick Sight Topics for natural-language Chat-based exploration.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/",
+          "publishedOn": "2026-07-07T17:07:31.000Z",
+          "wordCount": 37340,
+          "title": "Multi-dataset Topic best practices for Amazon Quick Chat",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/01/21335.png"
+        },
+        {
+          "id": "7c77891b2ed3837eb4c5bcc52c5857f4453a2689",
+          "author": "Emily Zhu",
+          "description": "In this post, we walk through how multi-dataset Topics work, explain how the chat agent uses defined relationships to generate cross-dataset queries, and demonstrate an end-to-end implementation using a retail analytics scenario in Quick Sight.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
+          "publishedOn": "2026-07-07T17:07:22.000Z",
+          "wordCount": 34671,
+          "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
+          "enclosure": {
+            "length": "566042",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21218/publish+and+share.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ml-21288.png"
+        },
+        {
+          "id": "5af6c21c04fcd4a1e27139d2ace48b2657ef4834",
+          "author": "Salman Ahmed",
+          "description": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The agent runs on AgentCore harness without custom orchestration code. We deploy the full solution, including authentication, encrypted storage, three image editing tools, and a React frontend, with a single deployment command. The infrastructure is defined using AWS Cloud Development Kit (AWS CDK).",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/",
+          "publishedOn": "2026-07-07T16:51:29.000Z",
+          "wordCount": 34070,
+          "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
+          "enclosure": {
+            "length": "36402703",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-20805/Harness-Image-Editing-DemoVideo-Shorter.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ml-20809.png"
+        },
+        {
+          "id": "7d4027959d55efce26bfb96736a23fc3eff1bebb",
+          "author": "Sandeep Raveesh-Babu",
+          "description": "Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use case. This post shows how you can use open source Evidently together with Amazon SageMaker AI to generate monitoring reports, organize and compare the results in MLflow, scale through pipelines, and trigger drift notifications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/",
+          "publishedOn": "2026-07-07T16:49:09.000Z",
+          "wordCount": 34062,
+          "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/20699.png"
+        },
+        {
+          "id": "efafaf3705d5c88f85652f58ee940189897972c4",
+          "author": "Jose Soto",
+          "description": "In this post, you build an AWS Support Companion using Amazon Bedrock AgentCore. The agent uses Strands Agents as the orchestration framework and connects to AWS services through the Model Context Protocol (MCP). By the end, you have a working agent that can analyze CloudWatch logs, search AWS documentation, query community knowledge from AWS re:Post, and create support cases, all from a single conversational interface. The solution deploys with a single script using AWS CloudFormation and includes a web frontend built on AWS Amplify for interacting with the agent.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-07-07T16:46:43.000Z",
+          "wordCount": 33487,
+          "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ml-19981.png"
+        },
+        {
+          "id": "d2a346e6e832a28be3be2452e6ff0d56aa698fff",
+          "author": "Sindhu Chandra",
+          "description": "In this post, we show how AWS Finance used chat agents and Flows in Amazin Quick to transform two of their most time-consuming workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/",
+          "publishedOn": "2026-07-07T16:43:11.000Z",
+          "wordCount": 33050,
+          "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ML-20844.png"
+        },
+        {
           "id": "36aa20434afd5b9e42aa8e0699f10369d99e0974",
           "author": "Hazim Qudah",
           "description": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",

@@ -76,6 +76,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "ec453ef7a91a910b45a38291318bb152653d0e4a",
+          "author": "Daniel Wells",
+          "description": "In this post, we show where MCP tool design goes wrong and how to fix it with practical context engineering approaches.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
+          "publishedOn": "2026-07-09T16:40:16.000Z",
+          "wordCount": 34753,
+          "title": "MCP tool design: Practical approaches and tradeoffs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/26/20889.png"
+        },
+        {
+          "id": "2d41e2165c4d62f27faee9937bc229c44251b5a6",
+          "author": "Vinay Arora",
+          "description": "In this post, we walk through five capabilities now available in SageMaker HyperPod inference: multi-tier data capture for auditing and model improvement, direct deployment from Hugging Face Hub, local NVMe model loading for faster cold starts, automated Route 53 DNS for custom domains, and pod-level IAM through custom service accounts.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+          "publishedOn": "2026-07-09T16:38:11.000Z",
+          "wordCount": 34394,
+          "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/09/ML-21090.png"
+        },
+        {
           "id": "aab7835c24ac9ea0859bc1a5eac84f01ddb8a05d",
           "author": "Dani Mitchell",
           "description": "Today, we're announcing the Claude apps gateway for AWS, a self-hosted control plane that gives organizations a single point of control over access, cost, and policy for Claude Code and Claude Desktop. In this post, we show how to set up and run Claude apps gateway for AWS with Amazon Bedrock and Claude Platform on AWS.",

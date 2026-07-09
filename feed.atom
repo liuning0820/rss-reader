@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-09T14:53:16.654Z</updated>
+    <updated>2026-07-09T17:52:53.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MCP tool design: Practical approaches and tradeoffs]]></title>
+        <id>ec453ef7a91a910b45a38291318bb152653d0e4a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/"/>
+        <updated>2026-07-09T16:40:16.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show where MCP tool design goes wrong and how to fix it with practical context engineering approaches.]]></summary>
+        <author>
+            <name>Daniel Wells</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration]]></title>
+        <id>2d41e2165c4d62f27faee9937bc229c44251b5a6</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/"/>
+        <updated>2026-07-09T16:38:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we walk through five capabilities now available in SageMaker HyperPod inference: multi-tier data capture for auditing and model improvement, direct deployment from Hugging Face Hub, local NVMe model loading for faster cold starts, automated Route 53 DNS for custom domains, and pod-level IAM through custom service accounts.]]></summary>
+        <author>
+            <name>Vinay Arora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Claude apps gateway for AWS]]></title>
         <id>aab7835c24ac9ea0859bc1a5eac84f01ddb8a05d</id>

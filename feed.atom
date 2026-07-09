@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-09T07:39:23.220Z</updated>
+    <updated>2026-07-09T10:51:43.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -904,16 +904,6 @@
         <summary type="html"><![CDATA[In this post, you build an AI-powered equipment repair assistant using Amazon Bedrock AgentCore that helps farmers and field technicians diagnose equipment problems, identify required parts, and access manufacturer-approved repair procedures through natural language. The solution uses AgentCore Runtime with the Strands Agents SDK, Amazon Nova 2 Lite as the foundation model, Amazon Bedrock Knowledge Base for retrieval-augmented generation (RAG), and AgentCore Memory for conversation persistence.]]></summary>
         <author>
             <name>Puneeth Komaragiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI]]></title>
-        <id>9c5e30c4c32932fd704366ee1ae231cfbc1ac5de</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/"/>
-        <updated>2026-06-09T20:07:24.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show how to train robot policies for the Unitree H1 humanoid with NVIDIA Isaac Lab on Amazon SageMaker AI across two compute options: Amazon SageMaker HyperPod and Amazon SageMaker Training Jobs.]]></summary>
-        <author>
-            <name>Roy Allela</name>
         </author>
     </entry>
 </feed>

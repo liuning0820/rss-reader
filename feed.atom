@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-10T10:50:26.255Z</updated>
+    <updated>2026-07-10T14:20:29.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -894,16 +894,6 @@
         <summary type="html"><![CDATA[Blueprint instruction optimization is a BDA feature that automatically refines your extraction instructions to address this challenge directly. You provide three to ten example documents with expected values, and BDA refines your blueprint instructions to improve accuracy in minutes, not weeks. No separate model fine-tuning is required. By the end of this post, you can optimize your blueprints to improve accuracy, run the optimization workflow through the Amazon Bedrock console or the API, and apply best practices for selecting examples and ground truth.]]></summary>
         <author>
             <name>Erik Cordsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How frontier teams are reinventing AI-native development]]></title>
-        <id>f1e12b17d9aaf865e54f3075144de7467d6112f3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/"/>
-        <updated>2026-06-11T00:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases more than 10x.]]></summary>
-        <author>
-            <name>Swami Sivasubramanian</name>
         </author>
     </entry>
 </feed>

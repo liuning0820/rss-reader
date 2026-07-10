@@ -959,26 +959,6 @@
           "wordCount": 33487,
           "title": "How frontier teams are reinventing AI-native development",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/10/Frontierteams.png"
-        },
-        {
-          "id": "8c909e8c55a38a67515c9c8459441dccd019c247",
-          "author": "Josh Longenecker",
-          "description": "Today, we’re announcing the Neuron Agentic Development capabilities: a collection of AI agents and skills that make this possible for developers building on AWS Trainium and AWS Inferentia. In this post, we explain how the Neuron Agentic Development capabilities accelerate the kernel development workflow.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
-          "publishedOn": "2026-06-10T15:26:45.000Z",
-          "wordCount": 34114,
-          "title": "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/10/ml-20937.png"
-        },
-        {
-          "id": "ce26d4b04bd4ba7761816536eb670c6cfa40035d",
-          "author": "Puneeth Komaragiri",
-          "description": "In this post, you build an AI-powered equipment repair assistant using Amazon Bedrock AgentCore that helps farmers and field technicians diagnose equipment problems, identify required parts, and access manufacturer-approved repair procedures through natural language. The solution uses AgentCore Runtime with the Strands Agents SDK, Amazon Nova 2 Lite as the foundation model, Amazon Bedrock Knowledge Base for retrieval-augmented generation (RAG), and AgentCore Memory for conversation persistence.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-06-10T15:21:35.000Z",
-          "wordCount": 34461,
-          "title": "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/03/18699.png"
         }
       ]
     }

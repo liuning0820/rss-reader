@@ -969,16 +969,6 @@
           "wordCount": 33208,
           "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/11/21052.png"
-        },
-        {
-          "id": "450aed0718885588470f2760f194aeea50c70497",
-          "author": "Tim Shear",
-          "description": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
-          "publishedOn": "2026-06-11T19:40:33.000Z",
-          "wordCount": 34336,
-          "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/02/ML-18264.png"
         }
       ]
     }

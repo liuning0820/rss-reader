@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-11T06:10:33.367Z</updated>
+    <updated>2026-07-11T09:25:59.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -924,16 +924,6 @@
         <summary type="html"><![CDATA[AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an existing process, but by fundamentally rebuilding how we deliver from the inside out. In this post, we share how AWS ProServe became a frontier team, the practices that enabled it, and what your engineering organization can take from our experience.]]></summary>
         <author>
             <name>Francessca Vasquez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extract Data with On-demand and Batch Pipelines Dynamically]]></title>
-        <id>450aed0718885588470f2760f194aeea50c70497</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/"/>
-        <updated>2026-06-11T19:40:33.000Z</updated>
-        <summary type="html"><![CDATA[This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.]]></summary>
-        <author>
-            <name>Tim Shear</name>
         </author>
     </entry>
 </feed>

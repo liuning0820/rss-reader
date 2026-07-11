@@ -979,46 +979,6 @@
           "wordCount": 34336,
           "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/02/ML-18264.png"
-        },
-        {
-          "id": "b1c7de4fb2a309b31ba728cdddedd4f7fd4f57fe",
-          "author": "Ishan Singh",
-          "description": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-          "publishedOn": "2026-06-11T15:49:47.000Z",
-          "wordCount": 34446,
-          "title": "Evaluate AI agents systematically with Agent-EvalKit",
-          "enclosure": {
-            "length": "78775960",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20590/EvalKit-Demo-v2.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/11/ml-20590.png"
-        },
-        {
-          "id": "78859b08a8eb05c15f71c0a82c2cc266ab6bb15e",
-          "author": "Salim Khan",
-          "description": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for controls. In this post, we walk through both features, what they are, when to use them, and how to configure them, with real-world scenarios that bring them together in a practical, decision-ready dashboard.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
-          "publishedOn": "2026-06-11T15:36:31.000Z",
-          "wordCount": 35346,
-          "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
-          "enclosure": {
-            "length": "1678333",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20928/1.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/03/20928.png"
-        },
-        {
-          "id": "2f30cd931a7576d2b324dc2938558402f53adafc",
-          "author": "Erik Cordsen",
-          "description": "Blueprint instruction optimization is a BDA feature that automatically refines your extraction instructions to address this challenge directly. You provide three to ten example documents with expected values, and BDA refines your blueprint instructions to improve accuracy in minutes, not weeks. No separate model fine-tuning is required. By the end of this post, you can optimize your blueprints to improve accuracy, run the optimization workflow through the Amazon Bedrock console or the API, and apply best practices for selecting examples and ground truth.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/",
-          "publishedOn": "2026-06-11T15:11:56.000Z",
-          "wordCount": 34692,
-          "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/04/21032.png"
         }
       ]
     }

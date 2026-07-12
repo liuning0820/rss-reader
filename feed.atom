@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-12T06:30:24.421Z</updated>
+    <updated>2026-07-12T09:48:04.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -884,16 +884,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Bronto: Stuck with slow queries and scattered logs? What if you could easily retain all of your telemetry data in one place for a full year without sky-high bills? Now with Bronto, it’s possible. Connect the dots faster across TBs of always hot, full fidelity data. Try […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Supercharger: How Rocket Close optimized title operations with agentic AI]]></title>
-        <id>b1919d1f9b442a21587d936141e9bfbe66e31144</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/"/>
-        <updated>2026-06-12T20:43:56.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution features, the rationale for the technology stack, lessons learned, and the business impact at Rocket Close.]]></summary>
-        <author>
-            <name>Anton Selin</name>
         </author>
     </entry>
 </feed>

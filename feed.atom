@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-11T22:43:39.753Z</updated>
+    <updated>2026-07-12T02:32:43.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -914,16 +914,6 @@
         <summary type="html"><![CDATA[This post outlines the development of a cost-effective and scalable intelligent document processing pipeline on AWS, powered by Amazon Bedrock and its features. BDA is a managed service within Amazon Bedrock that automates the extraction of insights from documents. We demonstrate how BDA extracts and analyzes document content, while Strands Agent hosted on Amazon Bedrock AgentCore Runtime coordinate specialized processing tasks, and Amazon Bedrock Knowledge Base enable contextual understanding across multiple documents. By combining these capabilities within a unified architecture, organizations can transform their document processing workflows with minimal development effort.]]></summary>
         <author>
             <name>Charles Meruwoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built from the inside out: How AWS Professional Services became a frontier team first]]></title>
-        <id>c52d6f9efa39cb1009795e056ff8485fe2a4f65e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/"/>
-        <updated>2026-06-12T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an existing process, but by fundamentally rebuilding how we deliver from the inside out. In this post, we share how AWS ProServe became a frontier team, the practices that enabled it, and what your engineering organization can take from our experience.]]></summary>
-        <author>
-            <name>Francessca Vasquez</name>
         </author>
     </entry>
 </feed>

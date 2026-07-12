@@ -959,16 +959,6 @@
           "wordCount": 34582,
           "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/ml-18003.png"
-        },
-        {
-          "id": "c52d6f9efa39cb1009795e056ff8485fe2a4f65e",
-          "author": "Francessca Vasquez",
-          "description": "AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an existing process, but by fundamentally rebuilding how we deliver from the inside out. In this post, we share how AWS ProServe became a frontier team, the practices that enabled it, and what your engineering organization can take from our experience.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
-          "publishedOn": "2026-06-12T13:00:10.000Z",
-          "wordCount": 33208,
-          "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/11/21052.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-12T02:32:43.257Z</updated>
+    <updated>2026-07-12T06:30:24.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -894,26 +894,6 @@
         <summary type="html"><![CDATA[In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution features, the rationale for the technology stack, lessons learned, and the business impact at Rocket Close.]]></summary>
         <author>
             <name>Anton Selin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers]]></title>
-        <id>2b628693f2ca8d22060204d32957c9280592f76b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/"/>
-        <updated>2026-06-12T14:49:40.000Z</updated>
-        <summary type="html"><![CDATA[This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the agent finds an upcoming Webex meeting, reviews prior meeting summaries and transcripts, and pulls related Vidcast highlights and transcript context. It then searches Webex message threads for unresolved follow-ups and creates a concise prep brief. After the meeting, the same assistant can summarize the discussion and identify action items. It can also find related Vidcast updates and draft a follow-up message for the right Webex space.]]></summary>
-        <author>
-            <name>Ebbey Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services]]></title>
-        <id>c59ef4dffe25c85fd410631ac02d963c5de919de</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/"/>
-        <updated>2026-06-12T14:43:11.000Z</updated>
-        <summary type="html"><![CDATA[This post outlines the development of a cost-effective and scalable intelligent document processing pipeline on AWS, powered by Amazon Bedrock and its features. BDA is a managed service within Amazon Bedrock that automates the extraction of insights from documents. We demonstrate how BDA extracts and analyzes document content, while Strands Agent hosted on Amazon Bedrock AgentCore Runtime coordinate specialized processing tasks, and Amazon Bedrock Knowledge Base enable contextual understanding across multiple documents. By combining these capabilities within a unified architecture, organizations can transform their document processing workflows with minimal development effort.]]></summary>
-        <author>
-            <name>Charles Meruwoma</name>
         </author>
     </entry>
 </feed>

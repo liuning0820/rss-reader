@@ -939,26 +939,6 @@
           "wordCount": 33840,
           "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/20329.png"
-        },
-        {
-          "id": "2b628693f2ca8d22060204d32957c9280592f76b",
-          "author": "Ebbey Thomas",
-          "description": "This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the agent finds an upcoming Webex meeting, reviews prior meeting summaries and transcripts, and pulls related Vidcast highlights and transcript context. It then searches Webex message threads for unresolved follow-ups and creates a concise prep brief. After the meeting, the same assistant can summarize the discussion and identify action items. It can also find related Vidcast updates and draft a follow-up message for the right Webex space.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-          "publishedOn": "2026-06-12T14:49:40.000Z",
-          "wordCount": 34683,
-          "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/ml-21199.png"
-        },
-        {
-          "id": "c59ef4dffe25c85fd410631ac02d963c5de919de",
-          "author": "Charles Meruwoma",
-          "description": "This post outlines the development of a cost-effective and scalable intelligent document processing pipeline on AWS, powered by Amazon Bedrock and its features. BDA is a managed service within Amazon Bedrock that automates the extraction of insights from documents. We demonstrate how BDA extracts and analyzes document content, while Strands Agent hosted on Amazon Bedrock AgentCore Runtime coordinate specialized processing tasks, and Amazon Bedrock Knowledge Base enable contextual understanding across multiple documents. By combining these capabilities within a unified architecture, organizations can transform their document processing workflows with minimal development effort.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
-          "publishedOn": "2026-06-12T14:43:11.000Z",
-          "wordCount": 34582,
-          "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/ml-18003.png"
         }
       ]
     }

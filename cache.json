@@ -97,6 +97,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "bb0cda5528305ed2ae8c30fdb6b7bc3ecd637b20",
+          "author": "Andrew Johnston",
+          "description": "In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an AI-powered desktop and web assistant that compensates for executive function gaps every day.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/",
+          "publishedOn": "2026-07-13T17:50:16.000Z",
+          "wordCount": 33937,
+          "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ML-21218.png"
+        },
+        {
+          "id": "5847b86e4be04554c7c7a0b81df1f30a35b5c47b",
+          "author": "Vijay Venkatesh",
+          "description": "In this post, we describe how Bluesight used two AWS engagements and Amazon Bedrock AgentCore to evolve from a single-product AI prototype to Prism, a unified agentic AI solution spanning six healthcare compliance products. Prism Assistant for ControlCheck launched in May 2026 and is already in use by 20 health systems. A more complex multi-product agentic solution is on track for later in 2026.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/",
+          "publishedOn": "2026-07-13T17:34:38.000Z",
+          "wordCount": 34437,
+          "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ml-21092.png"
+        },
+        {
+          "id": "929ee3b85414efc2d2bb77ef987fba6e5d28fc5c",
+          "author": "Dhawalkumar Patel",
+          "description": "Building multi-tenant agents with Amazon Bedrock AgentCore and Apply fine-grained access control with Bedrock AgentCore Gateway interceptors establish the conceptual foundation for on-behalf-of (OBO) token exchange in agentic systems. This post is the implementation guide. It walks through a complete multi-tenant OBO setup against Okta, shows the JSON Web Token (JWT) claim transformations on each hop, and demonstrates how audience binding produces defense in depth that scales across tenants.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
+          "publishedOn": "2026-07-13T17:27:40.000Z",
+          "wordCount": 37501,
+          "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ML-20860.png"
+        },
+        {
+          "id": "f6da824a297323f53f2ba3f08905c652d2f5b47f",
+          "author": "Hrushikesh Gangur",
+          "description": "In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) experience. The API already gives you programmatic access to recommendations, but it assumes you know which parameters to set and how to interpret raw benchmark output. The UI removes that assumption. It guides you through preset use-case profiles, visual comparisons of results, and one-click deployment, so teams without deep infrastructure expertise can get a validated configuration on their own.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
+          "publishedOn": "2026-07-13T16:42:15.000Z",
+          "wordCount": 33969,
+          "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ml-21345.png"
+        },
+        {
           "id": "5ab175a6cdde5523b8ccc6ce6820759707a05693",
           "author": "Sandeep Raveesh-Babu",
           "description": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",

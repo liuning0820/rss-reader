@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-12T22:44:08.316Z</updated>
+    <updated>2026-07-13T02:34:05.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #525]]></title>
+        <id>https://sreweekly.com/?p=1785</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-525/"/>
+        <updated>2026-07-13T01:37:17.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Buildkite: More places to run, more scale to manage and maintain, usually means more blind spots; not here. Buildkite’s control plane holds the live state of every job, agent and queue, regardless of throughput size. See what’s running, what’s waiting and why with immediate insight → https://buildkite.com/platform/pipelines/ […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization]]></title>
         <id>5ab175a6cdde5523b8ccc6ce6820759707a05693</id>

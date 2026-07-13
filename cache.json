@@ -3,8 +3,19 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
-      "articles": []
+      "siteUrl": "https://blog.thestateofme.com",
+      "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=6928",
+          "author": "Chris Swan",
+          "description": "Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]",
+          "link": "https://blog.thestateofme.com/2026/07/13/june-2026/",
+          "publishedOn": "2026-07-13T09:20:59.000Z",
+          "wordCount": 4186,
+          "title": "June 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/06/milo_202606.jpg"
+        }
+      ]
     },
     {
       "title": "SRE WEEKLY",

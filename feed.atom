@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-14T13:28:21.052Z</updated>
+    <updated>2026-07-14T15:21:32.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -944,16 +944,6 @@
         <summary type="html"><![CDATA[In this post, you'll build a competitive research agent that demonstrates this pattern end to end. This walkthrough targets developers building multi-step AI workflows who need isolated execution environments for their agents. In Part 2 of the notebook, you can deploy this same agent to Bedrock AgentCore Runtime using the AgentCore CLI, so it runs as a managed, session-isolated service.]]></summary>
         <author>
             <name>Sundar Raghavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #521]]></title>
-        <id>https://sreweekly.com/?p=1774</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-521/"/>
-        <updated>2026-06-15T01:50:24.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Bronto: Stuck with slow queries and scattered logs? What if you could easily retain all of your telemetry data in one place for a full year without sky-high bills? Now with Bronto, it’s possible. Connect the dots faster across TBs of always hot, full fidelity data. Try […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

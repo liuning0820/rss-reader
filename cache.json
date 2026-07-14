@@ -61,16 +61,6 @@
           "wordCount": 1067,
           "title": "SRE Weekly Issue #522",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1774",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Bronto: Stuck with slow queries and scattered logs? What if you could easily retain all of your telemetry data in one place for a full year without sky-high bills? Now with Bronto, it’s possible. Connect the dots faster across TBs of always hot, full fidelity data. Try […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-521/",
-          "publishedOn": "2026-06-15T01:50:24.000Z",
-          "wordCount": 1113,
-          "title": "SRE Weekly Issue #521",
-          "imageUrl": null
         }
       ]
     },

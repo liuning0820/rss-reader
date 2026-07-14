@@ -87,6 +87,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fa304a72ae5d4a029e1c3805de11add0f66faa32",
+          "author": "Vinicius Pedroni",
+          "description": "In this post, we extend that foundation to demonstrate how QA Studio addresses batch regression testing and pipeline integration through test suites that organize and parallelize execution, and a command-line interface that brings agentic testing into automated CI/CD pipelines.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
+          "publishedOn": "2026-07-14T16:47:32.000Z",
+          "wordCount": 33695,
+          "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/14/ML-20773.png"
+        },
+        {
+          "id": "d8fdac70fa484b85c25452d4591f32c8e4baf202",
+          "author": "Reilly Manton",
+          "description": "Using generative AI enables parallel execution of comprehensive user flow testing at scale. This solution demonstrates how to build a cloud-deployed UX testing platform that automatically generates test scenarios from documentation, executes user flows at scale using the intelligent navigation capabilities of Nova Act, and provides actionable insights through automated analysis.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
+          "publishedOn": "2026-07-14T16:43:41.000Z",
+          "wordCount": 34091,
+          "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/14/ML-19357.png"
+        },
+        {
+          "id": "0cbfa749a1739a7814eb467101b8b4f154290a9a",
+          "author": "Konstantin Lekh",
+          "description": "In this post, we share how Flo Health’s engineering team turned a proof of concept (PoC) from the AWS Generative AI Innovation Center into a production-grade, AI-powered medical content review and generation system built on Amazon Bedrock. T",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
+          "publishedOn": "2026-07-14T16:33:08.000Z",
+          "wordCount": 34386,
+          "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/14/ml-19340.png"
+        },
+        {
+          "id": "f40ee90c46af2aab822532b18f270b631355af54",
+          "author": "Kunmi Adubi",
+          "description": "In this post, you will learn how ScienceSoft, an Amazon Web Services (AWS) Services Partner, integrated Amazon Nova 2 Sonic with Amazon Bedrock Guardrails to build a Health Insurance Portability and Accountability Act (HIPAA)-compliant AI voice scheduler. You will see how the solution addresses healthcare scheduling challenges while maintaining privacy, compliance, and responsible AI standards, and how you can apply the same architecture to your own workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/",
+          "publishedOn": "2026-07-14T16:25:03.000Z",
+          "wordCount": 34090,
+          "title": "ScienceSoft’s HIPAA-compliant AI voice scheduler built on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/14/ml-19470.png"
+        },
+        {
           "id": "190355df2ab74c06f68aa883193334841f9cf7dc",
           "author": "Tanvi Girinath",
           "description": "Today, GPT-5.6 Sol, Terra, and Luna from OpenAI are generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Amazon Bedrock’s next-generation inference engine built for high-performance, security and reliability.",

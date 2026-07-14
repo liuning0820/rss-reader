@@ -87,6 +87,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "617e92d49bd65a8aba6c862ab2bf43fa7451dbb9",
+          "author": "Amit Deol",
+          "description": "This post shows how Thrad.ai deployed a multi-agent system with Strands Agents and Amazon Bedrock AgentCore that automates the pipeline from prospect discovery through personalized email generation. The post compares two orchestration patterns (Swarm and Graph) with head-to-head benchmarks on latency, cost, and email quality. You’ll also learn how the system scores prospects using weighted criteria, intent classification, and temporal decay, plus governance controls for production deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+          "publishedOn": "2026-07-14T18:44:26.000Z",
+          "wordCount": 34554,
+          "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/19617.png"
+        },
+        {
           "id": "fa304a72ae5d4a029e1c3805de11add0f66faa32",
           "author": "Vinicius Pedroni",
           "description": "In this post, we extend that foundation to demonstrate how QA Studio addresses batch regression testing and pipeline integration through test suites that organize and parallelize execution, and a command-line interface that brings agentic testing into automated CI/CD pipelines.",

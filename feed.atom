@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-15T02:11:34.795Z</updated>
+    <updated>2026-07-15T06:11:37.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -974,16 +974,6 @@
         <summary type="html"><![CDATA[Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the Apache 2.0 license, Gemma 4 is a family of open-weight models designed with a focus on intelligence-per-parameter across a broad range of deployment scenarios. The family includes three instruction-tuned variants: Gemma 4 31B, Gemma 4 26B-A4B, and Gemma 4 E2B. These cover dense and mixture-of-experts (MoE) architectures, where only a fraction of the model’s parameters activate per request. The variants offer built-in reasoning, native function calling, and multimodal input across text and image.]]></summary>
         <author>
             <name>Aris Tsakpinis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Failure Detection and Root Cause Analysis with Strands Evals]]></title>
-        <id>73a07b2595b53de69a7cc5f3c60790b57b634eae</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/"/>
-        <updated>2026-06-15T18:07:59.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk you through calling the detector functions to diagnose real agent failures. You learn how to interpret their structured output: categorized failures with confidence scores, causal chains linking root causes to downstream symptoms, and fix recommendations specifying whether a change belongs in your system prompt or tool definitions. You also learn how to integrate detection into your evaluation pipeline for automated diagnosis on every test run.]]></summary>
-        <author>
-            <name>Po-Shin Chen</name>
         </author>
     </entry>
 </feed>

@@ -1030,16 +1030,6 @@
           "wordCount": 34278,
           "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/ml-21169.png"
-        },
-        {
-          "id": "cb7aad4c1804e8d7d81a4454c42962ae28d631e1",
-          "author": "Sundar Raghavan",
-          "description": "In this post, you'll build a competitive research agent that demonstrates this pattern end to end. This walkthrough targets developers building multi-step AI workflows who need isolated execution environments for their agents. In Part 2 of the notebook, you can deploy this same agent to Bedrock AgentCore Runtime using the AgentCore CLI, so it runs as a managed, session-isolated service.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
-          "publishedOn": "2026-06-15T13:56:33.000Z",
-          "wordCount": 33932,
-          "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/ML-20818-1.png"
         }
       ]
     }

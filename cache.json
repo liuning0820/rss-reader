@@ -1030,16 +1030,6 @@
           "wordCount": 33308,
           "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ml-21172.png"
-        },
-        {
-          "id": "69902708fb3d875dac63deee451bde43d0b5e0fa",
-          "author": "Andy Peng",
-          "description": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting specifications, and deploy a highly optimized real-time SageMaker AI endpoint to accelerate your generative AI applications.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
-          "publishedOn": "2026-06-16T17:47:09.000Z",
-          "wordCount": 34412,
-          "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ml-21171.png"
         }
       ]
     }

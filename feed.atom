@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-16T19:05:40.961Z</updated>
+    <updated>2026-07-16T20:54:17.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Grok on Amazon Bedrock]]></title>
+        <id>6804c3e12f21b603b9634973a5e5fb1526d35aaa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/"/>
+        <updated>2026-07-16T19:29:26.000Z</updated>
+        <summary type="html"><![CDATA[This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request, configurable reasoning effort, tool calling, structured output, image input, and stateful multi-turn conversations.]]></summary>
+        <author>
+            <name>Melanie Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic]]></title>
         <id>c59281925c937a35e2ea6c2c422d783c98de7a26</id>

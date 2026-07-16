@@ -87,6 +87,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "c59281925c937a35e2ea6c2c422d783c98de7a26",
+          "author": "Sergio Barraza",
+          "description": "In this post, we show you how to build a voice ordering system that answers a phone number and takes the order from greeting to confirmation. The system uses Amazon Bedrock AgentCore to host and run the agent and Amazon Nova 2 Sonic for real-time speech, connected to a restaurant backend through the Model Context Protocol (MCP). The walkthrough covers deploying the full stack with AWS Cloud Development Kit (AWS CDK) and bridging a phone call into the agent through a Session Initiation Protocol (SIP) gateway on Amazon Elastic Container Service (Amazon ECS) and AWS Fargate. It also warms the agent session while the phone is still ringing, so the caller never hears dead air.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
+          "publishedOn": "2026-07-16T15:50:52.000Z",
+          "wordCount": 35654,
+          "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
+          "enclosure": {
+            "length": "4538156",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-21038/Recording-Audio-Normalied.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/16/ml-21038.png"
+        },
+        {
           "id": "890af1f7d65cfa97f25179d528636d6d44e00673",
           "author": "Dipanshu Jain",
           "description": "Built partnered with the AWS Generative AI Innovation Center (GenAIIC), AWS Partner AND Digital, and AWS account teams to create a scalable, AI-powered document processing engine that can classify, split, extract, evaluate, and reason over complex real estate finance documents. It reduces workflows that previously took days to minutes, supports hundreds of document types, and gives technical teams and industry experts a shared environment for building and improving document processors.",

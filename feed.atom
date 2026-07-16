@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-16T06:14:31.442Z</updated>
+    <updated>2026-07-16T10:05:41.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -974,16 +974,6 @@
         <summary type="html"><![CDATA[Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any point in your agentic AI applications without creating guardrail resources. In this post, we walk through how the InvokeGuardrailChecks API works and how to use it to build safe, multi-turn agentic AI applications.]]></summary>
         <author>
             <name>Sandeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing container caching in Amazon SageMaker AI for faster model scaling]]></title>
-        <id>45998be9fc18ed01687fad71ff74cc8866b5386e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/"/>
-        <updated>2026-06-16T20:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.]]></summary>
-        <author>
-            <name>Mona Mona</name>
         </author>
     </entry>
 </feed>

@@ -1020,16 +1020,6 @@
           "wordCount": 34364,
           "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/21237-1.png"
-        },
-        {
-          "id": "45998be9fc18ed01687fad71ff74cc8866b5386e",
-          "author": "Mona Mona",
-          "description": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
-          "publishedOn": "2026-06-16T20:16:02.000Z",
-          "wordCount": 33308,
-          "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ml-21172.png"
         }
       ]
     }

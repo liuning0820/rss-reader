@@ -87,6 +87,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "19eb0a7f236f0093bfcd857d41a8178380a8de27",
+          "author": "Spencer Martenson",
+          "description": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the CRM up to date as the account matures, while protecting your scarcest resource: your time.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+          "publishedOn": "2026-07-17T18:42:36.000Z",
+          "wordCount": 33364,
+          "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807-1.png"
+        },
+        {
+          "id": "c7c7b20143e9236cf53af22804c327ab641f9a42",
+          "author": "Rushabh Vora",
+          "description": "Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checking revenue during a morning standup, reviewing pipeline metrics between meetings, or monitoring operations while traveling all require extra effort when the dashboard was built for a desktop screen. Mobile Layout for Amazon […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
+          "publishedOn": "2026-07-17T17:13:15.000Z",
+          "wordCount": 33085,
+          "title": "Introducing Mobile Layout for Amazon Quick dashboards",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807.png"
+        },
+        {
           "id": "2f17036ef3c96e67c8ac52fdb0c52a1b858f3a46",
           "author": "Pyone Thant Win",
           "description": "In this post, we cover a high-level view of the Smartsheet remote MCP architecture, with a focus on the AWS infrastructure behind it. This includes security, governance, scaling and deployment, and the AI-specific optimizations Smartsheet built on AWS.",

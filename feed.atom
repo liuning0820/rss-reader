@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-17T02:27:10.321Z</updated>
+    <updated>2026-07-17T06:12:25.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -974,26 +974,6 @@
         <summary type="html"><![CDATA[Today, Quick gets even more powerful: new autonomous agents that work continuously on your behalf, an activity feed that helps you prioritize your most important work, and the ability to find insights across every data source your business runs on from a single question.]]></summary>
         <author>
             <name>Spencer Martenson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context intelligence for your data and AI agents at scale]]></title>
-        <id>31f102ff202da7a1d7f28522d921743dcf39776f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/"/>
-        <updated>2026-06-17T17:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, and streams, and in institutional knowledge that has never been written down. You want to trust the decisions made by your AI agents, but that can't happen until agents have context. Imagine what becomes possible when we give agents a safe way to access the context they need to deliver trusted decisions. This is why at the AWS Summit New York City, we’re announcing a series of innovations that deliver intelligence for your data and AI agents at scale.]]></summary>
-        <author>
-            <name>Mai-Lan Tomsen Bukovec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning]]></title>
-        <id>af29741e1b609d97137038ce98e464c22ddaf506</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/"/>
-        <updated>2026-06-17T15:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.]]></summary>
-        <author>
-            <name>Madhu Parthasarathy</name>
         </author>
     </entry>
 </feed>

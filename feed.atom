@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-17T15:10:39.896Z</updated>
+    <updated>2026-07-17T17:08:16.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Smartsheet built a remote MCP server on AWS]]></title>
+        <id>2f17036ef3c96e67c8ac52fdb0c52a1b858f3a46</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/"/>
+        <updated>2026-07-17T16:32:06.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we cover a high-level view of the Smartsheet remote MCP architecture, with a focus on the AWS infrastructure behind it. This includes security, governance, scaling and deployment, and the AI-specific optimizations Smartsheet built on AWS.]]></summary>
+        <author>
+            <name>Pyone Thant Win</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base]]></title>
         <id>8e50afea9ffc6d052fce86614e4ef6027e9f4be3</id>

@@ -1015,16 +1015,6 @@
           "wordCount": 34555,
           "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/18/ML-21232-1-1119x630.png"
-        },
-        {
-          "id": "eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7",
-          "author": "Apoorva Chandra",
-          "description": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
-          "publishedOn": "2026-06-18T23:31:58.000Z",
-          "wordCount": 34550,
-          "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/18/ml-21272.png"
         }
       ]
     }

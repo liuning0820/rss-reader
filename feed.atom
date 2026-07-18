@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-18T11:00:32.524Z</updated>
+    <updated>2026-07-18T13:08:16.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -964,16 +964,6 @@
         <summary type="html"><![CDATA[This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.]]></summary>
         <author>
             <name>Ebbey Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch]]></title>
-        <id>eb62ca8a3697f6d3bfd5ddabccd4442b9c683da7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/"/>
-        <updated>2026-06-18T23:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.]]></summary>
-        <author>
-            <name>Apoorva Chandra</name>
         </author>
     </entry>
 </feed>

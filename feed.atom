@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-20T14:00:17.835Z</updated>
+    <updated>2026-07-20T17:59:07.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Custom OS installation now available on AWS DeepRacer devices]]></title>
+        <id>841983af5c9d76f79e872243cf56d5dc8de327e4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/"/>
+        <updated>2026-07-20T17:25:24.000Z</updated>
+        <summary type="html"><![CDATA[With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can upgrade or install a custom operating system (OS) by using a newly released bootloader, which extends the life of these hardware devices. In this post, we introduce the bootloader, discuss how to use it, and share links to a community distribution that uses it.]]></summary>
+        <author>
+            <name>Don Barber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit]]></title>
+        <id>b25cd46e336182d340adbc5eb02c977f0a0a7e05</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/"/>
+        <updated>2026-07-20T17:01:32.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit to build a supply-chain risk example that helps a planner move from an Amazon Quick dashboard and knowledge context to a guided mitigation recommendation.]]></summary>
+        <author>
+            <name>Ebbey Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock]]></title>
+        <id>99306bfa52d19051e2cc783b0a94d6f84b695575</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/"/>
+        <updated>2026-07-20T16:58:52.000Z</updated>
+        <summary type="html"><![CDATA[This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.]]></summary>
+        <author>
+            <name>Tushar Madaan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick]]></title>
+        <id>9b1c53492191b8a5a6b9ba7b92b06bab8b7e6f1d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/"/>
+        <updated>2026-07-20T16:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response times up to 30 times faster, a 40 percent reduction in total cost of ownership, and turned embedded analytics into a product that generates revenue.]]></summary>
+        <author>
+            <name>Raphael Bres</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #526]]></title>
         <id>https://sreweekly.com/?p=1787</id>

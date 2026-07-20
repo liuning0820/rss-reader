@@ -86,6 +86,51 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "841983af5c9d76f79e872243cf56d5dc8de327e4",
+          "author": "Don Barber",
+          "description": "With the stock firmware and software, developers couldn't modify their AWS DeepRacer devices to use the latest operating systems. Now, developers can upgrade or install a custom operating system (OS) by using a newly released bootloader, which extends the life of these hardware devices. In this post, we introduce the bootloader, discuss how to use it, and share links to a community distribution that uses it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+          "publishedOn": "2026-07-20T17:25:24.000Z",
+          "wordCount": 33270,
+          "title": "Custom OS installation now available on AWS DeepRacer devices",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/20/ML-20957.png"
+        },
+        {
+          "id": "b25cd46e336182d340adbc5eb02c977f0a0a7e05",
+          "author": "Ebbey Thomas",
+          "description": "In this post, we show how Amazon Quick can serve as the business-user front door for specialized agent workflows. We use the NVIDIA NeMo Agent Toolkit to build a supply-chain risk example that helps a planner move from an Amazon Quick dashboard and knowledge context to a guided mitigation recommendation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
+          "publishedOn": "2026-07-20T17:01:32.000Z",
+          "wordCount": 35862,
+          "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/20/ml-21387.png"
+        },
+        {
+          "id": "99306bfa52d19051e2cc783b0a94d6f84b695575",
+          "author": "Tushar Madaan",
+          "description": "This post describes how Couchbase adopted Amazon Bedrock to power Capella iQ with Anthropic’s Claude family of models, the architectural decisions behind their multi-model approach, and the operational benefits realized in production.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+          "publishedOn": "2026-07-20T16:58:52.000Z",
+          "wordCount": 33304,
+          "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/20/ml-21175.png"
+        },
+        {
+          "id": "9b1c53492191b8a5a6b9ba7b92b06bab8b7e6f1d",
+          "author": "Raphael Bres",
+          "description": "In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response times up to 30 times faster, a 40 percent reduction in total cost of ownership, and turned embedded analytics into a product that generates revenue.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/",
+          "publishedOn": "2026-07-20T16:56:48.000Z",
+          "wordCount": 34281,
+          "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
+          "enclosure": {
+            "length": "1223339",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21151/ML-21151-video1.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/21151.png"
+        },
+        {
           "id": "19eb0a7f236f0093bfcd857d41a8178380a8de27",
           "author": "Spencer Martenson",
           "description": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the CRM up to date as the account matures, while protecting your scarcest resource: your time.",

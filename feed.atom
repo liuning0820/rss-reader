@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-21T13:43:21.056Z</updated>
+    <updated>2026-07-21T15:40:55.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -974,16 +974,6 @@
         <summary type="html"><![CDATA[In this post, we walk you through how to deploy ComfyUI workflows on Amazon SageMaker AI processing jobs to generate hundreds of high-quality images in a single batch. You learn how to set up the infrastructure using AWS Cloud Development Kit (AWS CDK), configure GPU-accelerated processing, and automate image generation at scale. You can then adapt this solution to your ComfyUI workflows specific to your needs. We will guide you through a practical, step-by-step process to automate ComfyUI workflows to generate hundreds of high-quality images in a single batch empowering you to scale your creative pipeline.]]></summary>
         <author>
             <name>Nick Biso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #522]]></title>
-        <id>https://sreweekly.com/?p=1776</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-522/"/>
-        <updated>2026-06-22T02:28:00.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Bronto: What would an AI SRE choose for their observability stack?We asked AWS DevOps Agent to run a live test comparing Bronto, Grafana Loki, and Elasticsearch against the same OpenTelemetry dataset. Bronto scored highest (9.4/10) and was the only tool that didn’t return silent failures. Curious why? […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-23T22:53:13.667Z</updated>
+    <updated>2026-07-24T02:28:41.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best practices for applying Amazon Bedrock Guardrails to code generation workflows]]></title>
+        <id>df45dac76900a835b5c00ed07f954db778378994</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"/>
+        <updated>2026-07-23T23:03:44.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.]]></summary>
+        <author>
+            <name>Sandeep Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evaluating AI Agents: A production blueprint with Strands and AgentCore]]></title>
         <id>410934ec87b141703e6c3bc069789dbcf4a5c5cd</id>

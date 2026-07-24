@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-24T02:28:41.737Z</updated>
+    <updated>2026-07-24T06:22:41.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -974,36 +974,6 @@
         <summary type="html"><![CDATA[In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million documents, reducing processing time from years to just a few months while achieving 95%+ redaction accuracy.]]></summary>
         <author>
             <name>Rob Carnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a healthcare appointment agent with Amazon Nova 2 Sonic]]></title>
-        <id>1d2ea05ede59ced27e2539d9d423a21734963e2f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/"/>
-        <updated>2026-06-24T18:20:27.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn how to build a voice agent that handles appointment reminder conversations using Amazon Nova 2 Sonic and Amazon Bedrock AgentCore. The agent authenticates patients by voice, manages appointments (confirm, cancel, or reschedule), collects pre-visit health information, and escalates to human staff when needed. You handle routine calls at scale, which can help reduce no-show rates. This sample focuses on the agentic side of the problem: voice conversation and tool orchestration. A browser-based interface is included for testing. To connect the agent to actual phone lines for outbound dialing, you would integrate a telephony service such as Amazon Connect Customer.]]></summary>
-        <author>
-            <name>Jimin Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-powered BI with Snowflake and Amazon Quick]]></title>
-        <id>5849bdade13aee362ced95466a4398350e8b7f47</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/"/>
-        <updated>2026-06-24T18:19:35.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn how to build an end-to-end integration between Snowflake semantic views and Amazon Quick. The sample data is user review data for a media company. You start by loading movie review data from Amazon Simple Storage Service (Amazon S3) into Snowflake, define a semantic view in SQL to add business meaning, explore it with natural-language queries through Cortex Analyst, and then generate an Amazon Quick dataset and dashboard. The dataset can be created manually or with a provided automation script. By the end, your BI team or AI team can ask natural-language questions against a governed data layer and trust that every response reflects the same business logic.]]></summary>
-        <author>
-            <name>Ying Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic]]></title>
-        <id>1dc7723ff4e6ee2d06a80f8861b8d24f05532975</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/"/>
-        <updated>2026-06-24T16:56:24.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang up, damaging brand reputation and driving up support costs.]]></summary>
-        <author>
-            <name>Bojan Jakimovski</name>
         </author>
     </entry>
 </feed>

@@ -76,6 +76,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "aed1ba89e6cf49e75c72de98670971785d732274",
+          "author": "Ayush Singh Chauhan",
+          "description": "Learn the architecture and design decisions behind an explainable next-best-product recommendation system for banking, built with Amazon SageMaker AI and PyTorch. A multi-tower neural network with learned attention delivers accurate, per-customer recommendations while providing the explainability that banking regulators require.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+          "publishedOn": "2026-07-24T15:42:11.000Z",
+          "wordCount": 36934,
+          "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/19387.png"
+        },
+        {
+          "id": "b55df4bf2a464ecbce7f2c5865b99118d41c2af0",
+          "author": "Zohreh Norouzi",
+          "description": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching, connect the OpenAI Codex coding agent, and plan for quotas and scaling.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+          "publishedOn": "2026-07-24T15:40:08.000Z",
+          "wordCount": 37208,
+          "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/21450-1.png"
+        },
+        {
           "id": "df45dac76900a835b5c00ed07f954db778378994",
           "author": "Sandeep Singh",
           "description": "In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.",

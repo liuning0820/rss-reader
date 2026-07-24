@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-24T17:27:20.434Z</updated>
+    <updated>2026-07-24T19:21:08.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model]]></title>
+        <id>9aa81fbe356ac7580000a55b0a962d8decd13515</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/"/>
+        <updated>2026-07-24T17:59:03.000Z</updated>
+        <summary type="html"><![CDATA[This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.]]></summary>
+        <author>
+            <name>Aamna Najmi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build an explainable next-best-product recommendation system for banking on AWS]]></title>
         <id>aed1ba89e6cf49e75c72de98670971785d732274</id>

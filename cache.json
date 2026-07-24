@@ -76,6 +76,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9aa81fbe356ac7580000a55b0a962d8decd13515",
+          "author": "Aamna Najmi",
+          "description": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+          "publishedOn": "2026-07-24T17:59:03.000Z",
+          "wordCount": 34963,
+          "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/24/ml-21458.png"
+        },
+        {
           "id": "aed1ba89e6cf49e75c72de98670971785d732274",
           "author": "Ayush Singh Chauhan",
           "description": "Learn the architecture and design decisions behind an explainable next-best-product recommendation system for banking, built with Amazon SageMaker AI and PyTorch. A multi-tower neural network with learned attention delivers accurate, per-customer recommendations while providing the explainability that banking regulators require.",

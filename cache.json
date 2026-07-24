@@ -1014,16 +1014,6 @@
           "wordCount": 36112,
           "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/25/ml-20469.png"
-        },
-        {
-          "id": "7e4fe18fc52d6fa2c7637bd2c4a496a3ae55e4c2",
-          "author": "Rob Carnell",
-          "description": "In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million documents, reducing processing time from years to just a few months while achieving 95%+ redaction accuracy.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
-          "publishedOn": "2026-06-24T18:24:50.000Z",
-          "wordCount": 33293,
-          "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/ML-19309.png"
         }
       ]
     }

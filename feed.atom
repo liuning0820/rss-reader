@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-24T06:22:41.917Z</updated>
+    <updated>2026-07-24T10:13:28.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -964,16 +964,6 @@
         <summary type="html"><![CDATA[This post shows how to build a governed, serverless data mesh on AWS that provides the secure, scalable data foundation production agentic AI requires.]]></summary>
         <author>
             <name>Venkata Sistla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huntington Bank: Redacting sensitive data from 400M+ documents with AWS]]></title>
-        <id>7e4fe18fc52d6fa2c7637bd2c4a496a3ae55e4c2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/"/>
-        <updated>2026-06-24T18:24:50.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million documents, reducing processing time from years to just a few months while achieving 95%+ redaction accuracy.]]></summary>
-        <author>
-            <name>Rob Carnell</name>
         </author>
     </entry>
 </feed>

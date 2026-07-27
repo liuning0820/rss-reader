@@ -23,6 +23,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1793",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Minus Two Minutes Amazing idea: […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-527/",
+          "publishedOn": "2026-07-27T01:15:44.000Z",
+          "wordCount": 1205,
+          "title": "SRE Weekly Issue #527",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1787",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Buildkite: More places to run, more scale to manage and maintain, usually means more blind spots; not here. Buildkite’s control plane holds the live state of every job, agent and queue, regardless of throughput size. See what’s running, what’s waiting and why with immediate insight → https://buildkite.com/platform/pipelines/ […]",

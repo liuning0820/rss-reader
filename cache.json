@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=6952",
+          "author": "Chris Swan",
+          "description": "TL;DR The AI infrastructure bubble has reached a point where companies just can’t actually spent all the money they might (notionally) have allocated. There might be money on a balance sheet somewhere, but good luck exchanging it for actual GPUs, or HVAC, or HVAC installers, or… When the sums of money get large enough it […]",
+          "link": "http://blog.thestateofme.com/2026/07/27/brewsters-trillions/",
+          "publishedOn": "2026-07-27T14:30:50.000Z",
+          "wordCount": 4164,
+          "title": "Brewster’s Trillions",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/07/aivsmegaprojects.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=6952",
           "author": "Chris Swan",
@@ -14,6 +24,16 @@
           "wordCount": 4087,
           "title": "Brewster’s Trillions",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/07/aivsmegaprojects.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=6928",
+          "author": "Chris Swan",
+          "description": "Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]",
+          "link": "http://blog.thestateofme.com/2026/07/13/june-2026/",
+          "publishedOn": "2026-07-13T09:20:59.000Z",
+          "wordCount": 4192,
+          "title": "June 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/06/milo_202606.jpg"
         },
         {
           "id": "http://blog.thestateofme.com/?p=6928",

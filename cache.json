@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6952",
+          "author": "Chris Swan",
+          "description": "TL;DR The AI infrastructure bubble has reached a point where companies just can’t actually spent all the money they might (notionally) have allocated. There might be money on a balance sheet somewhere, but good luck exchanging it for actual GPUs, or HVAC, or HVAC installers, or… When the sums of money get large enough it […]",
+          "link": "https://blog.thestateofme.com/2026/07/27/brewsters-trillions/",
+          "publishedOn": "2026-07-27T14:30:50.000Z",
+          "wordCount": 4087,
+          "title": "Brewster’s Trillions",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/07/aivsmegaprojects.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6928",
           "author": "Chris Swan",
           "description": "Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]",
@@ -85,6 +95,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "cbad567aad2bb2590b2669a0b65c5855fd6c5038",
+          "author": "Dhananjay Karanjkar",
+          "description": "Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC) on AWS to pre-compress entire knowledge bases into task-specific representations, cache them at multiple fidelity tiers, and route each query to the right tier, with an open-source implementation you can deploy.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
+          "publishedOn": "2026-07-27T16:11:32.000Z",
+          "wordCount": 35944,
+          "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/19433.png"
+        },
+        {
+          "id": "72b5c0a199d504fa88551498e1266ad76dcde68f",
+          "author": "Victor Wang",
+          "description": "In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration, Deepgram has reduced the time for initial investigation on a SageMaker AI support ticket from days to minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+          "publishedOn": "2026-07-27T16:07:44.000Z",
+          "wordCount": 35877,
+          "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/27/ml-21067.png"
+        },
+        {
+          "id": "c5575b29b284222ddffe4c5ab493d8ec88e90f92",
+          "author": "Wrick Talukdar",
+          "description": "In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentation in long-term care.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
+          "publishedOn": "2026-07-27T16:05:00.000Z",
+          "wordCount": 36372,
+          "title": "How Guardoc transforms medical document processing with Amazon Nova models",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/27/ml-20888.png"
+        },
         {
           "id": "9aa81fbe356ac7580000a55b0a962d8decd13515",
           "author": "Aamna Najmi",

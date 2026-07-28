@@ -106,6 +106,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6f308dab489ca3e002058919cc2813576498c4ee",
+          "author": "Sean Eichenberger",
+          "description": "The Model Context Protocol (MCP) published its 2026-07-28 specification, the largest revision since launch: MCP is now stateless, with a governed extensions system and hardened authorization. Learn what changed and how to enable the new version on Amazon Bedrock AgentCore Gateway with a single UpdateGateway call.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
+          "publishedOn": "2026-07-28T19:07:09.000Z",
+          "wordCount": 36545,
+          "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/28/21559.png"
+        },
+        {
+          "id": "f15c6cc8df3f2f9b16de540e8bd4a5060a725c5c",
+          "author": "Gleb Geinke",
+          "description": "Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+          "publishedOn": "2026-07-28T17:24:54.000Z",
+          "wordCount": 36208,
+          "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/24/19945.png"
+        },
+        {
           "id": "cbad567aad2bb2590b2669a0b65c5855fd6c5038",
           "author": "Dhananjay Karanjkar",
           "description": "Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC) on AWS to pre-compress entire knowledge bases into task-specific representations, cache them at multiple fidelity tiers, and route each query to the right tier, with an open-source implementation you can deploy.",

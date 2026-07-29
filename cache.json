@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6952",
@@ -105,6 +105,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
+          "author": "Swara Gandhi",
+          "description": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an AWS KMS signing key, registering its public key with your identity provider, configuring a credential provider on the AWS Management Console, and reviewing example AWS CloudTrail events that record your agent’s access.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
+          "publishedOn": "2026-07-29T16:20:28.000Z",
+          "wordCount": 35866,
+          "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/29/ml-21480.png"
+        },
+        {
+          "id": "5399570beb6fc51047d9138d06247cfdb4cf8d63",
+          "author": "Sudhanshu Hate",
+          "description": "Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and persistent memory, enterprises can query multiple data sources with natural language while enforcing role-based boundaries automatically.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
+          "publishedOn": "2026-07-29T15:34:18.000Z",
+          "wordCount": 38292,
+          "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/29/ml-19801.png"
+        },
+        {
+          "id": "feb5d9d0ff41eed6fe60095636b3550675d64da2",
+          "author": "Vaidy Janardhanam",
+          "description": "Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
+          "publishedOn": "2026-07-29T15:24:21.000Z",
+          "wordCount": 37811,
+          "title": "Automating customer retention workflows in Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/21125.png"
+        },
         {
           "id": "6f308dab489ca3e002058919cc2813576498c4ee",
           "author": "Sean Eichenberger",

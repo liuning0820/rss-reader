@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-30T02:07:43.152Z</updated>
+    <updated>2026-07-30T06:24:40.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -914,66 +914,6 @@
         <summary type="html"><![CDATA[Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional […]]]></summary>
         <author>
             <name>Aamna Najmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol]]></title>
-        <id>c4e3d1519548e6dfd58647f6cec13eed83c79a30</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/"/>
-        <updated>2026-06-30T16:46:17.000Z</updated>
-        <summary type="html"><![CDATA[This post walks through how AG-UI integrates into the Fullstack AgentCore Solution Template (FAST) to build interactive agent frontends on Amazon Bedrock AgentCore. We then show how CopilotKit extends this with generative UI, shared state, and human-in-the-loop interactions, all deployed on Amazon Bedrock AgentCore.]]></summary>
-        <author>
-            <name>Ryan Razkenari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplify multi-account access to Amazon Bedrock models with managed entitlements]]></title>
-        <id>852b00fcc384ff9e0ae5a50ce08778ae6965eef8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/"/>
-        <updated>2026-06-30T16:42:49.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we show you how to use managed entitlements for Amazon Bedrock to subscribe once from a central account and distribute model access across your organization. This approach removes the need for AWS Marketplace permissions in workload accounts.]]></summary>
-        <author>
-            <name>Archana Chenchu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing resilience patterns with Amazon Bedrock and LLM gateway]]></title>
-        <id>dec074be332161cab3b3f21d535b210b8e8fcf65</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/"/>
-        <updated>2026-06-30T16:40:47.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you will learn five practical patterns for building resilient generative AI applications on AWS, progressing from native Amazon Bedrock features to multi-model orchestration using an LLM gateway. These patterns address real-world challenges such as quota exhaustion during unexpected traffic surges, maximizing availability through geographic distribution of inference, and helping prevent noisy neighbor problems in multi-tenant environments.]]></summary>
-        <author>
-            <name>Marcos Ortiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects]]></title>
-        <id>77505a7d40abc62ddfe122cbd077c28faf5ebad2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/"/>
-        <updated>2026-06-30T16:37:09.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Outpost VFX achieved 8x faster training speeds using AWS infrastructure to transform their face replacement workflow, the technical architecture they implemented to overcome single-GPU limitations, and the measurable results achieved through AWS multi-GPU training.]]></summary>
-        <author>
-            <name>Alex Newton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building bilingual NER for cargo logistics with Amazon Bedrock]]></title>
-        <id>4bcdad0ccd08552680d001ae7d895bf42e27b109</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/"/>
-        <updated>2026-06-30T16:33:46.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we share the technical approach using token-based distillation, lessons learned, and deployment architecture. If you face similar bilingual NER challenges, you can benefit from IBS Software’s experience with the Amazon Bedrock knowledge distillation capabilities.]]></summary>
-        <author>
-            <name>Manu Raj L S</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-tune Amazon Nova models for accurate email data extraction]]></title>
-        <id>e810a0ce533913bea7dc4cf63244fe692ea6e3d0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/"/>
-        <updated>2026-06-30T16:26:48.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you'll learn how fine-tuning Amazon Nova models using Amazon SageMaker AI addresses these specific issues by teaching the models to recognize your exact data patterns, distinguish between similar fields, and process information more efficiently—achieving up to 94.77% extraction accuracy while reducing costs 50%.]]></summary>
-        <author>
-            <name>Le Vy</name>
         </author>
     </entry>
 </feed>

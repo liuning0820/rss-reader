@@ -949,16 +949,6 @@
           "wordCount": 32546,
           "title": "Safely Releasing Frontier Models to Customers",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/20/21306.png"
-        },
-        {
-          "id": "990284443dcdbd44e2886dc2de82d05f3818fc51",
-          "author": "Aamna Najmi",
-          "description": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-          "publishedOn": "2026-06-30T18:40:09.000Z",
-          "wordCount": 33058,
-          "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/25/21192.png"
         }
       ]
     }

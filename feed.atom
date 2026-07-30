@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-30T06:24:40.405Z</updated>
+    <updated>2026-07-30T10:21:52.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -904,16 +904,6 @@
         <summary type="html"><![CDATA[It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since AWS's inception more than two decades ago. Our AI services like Amazon Bedrock are built on this foundation and with the same focus.]]></summary>
         <author>
             <name>Amy Herzog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model]]></title>
-        <id>990284443dcdbd44e2886dc2de82d05f3818fc51</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/"/>
-        <updated>2026-06-30T18:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Claude Sonnet 5 is the first Sonnet model of Anthropic’s latest generation and represents a meaningful step forward. It delivers top-tier intelligence at Sonnet pricing for coding, agents, and everyday professional […]]]></summary>
-        <author>
-            <name>Aamna Najmi</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-31T13:59:20.026Z</updated>
+    <updated>2026-07-31T16:05:28.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing production agents with Amazon Bedrock AgentCore Observability]]></title>
+        <id>64799e5f6577ed834ae5241ca5bcee136c4fc073</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/"/>
+        <updated>2026-07-31T15:33:11.000Z</updated>
+        <summary type="html"><![CDATA[As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon Bedrock AgentCore Observability and Amazon CloudWatch to find performance bottlenecks and diagnose memory issues in long-running agent sessions.]]></summary>
+        <author>
+            <name>Joshua Lacy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploying Kimi K3 on AWS]]></title>
         <id>31e07eff62e76a2062e28f358c55660a2c45d6f3</id>

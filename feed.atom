@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-31T21:01:01.133Z</updated>
+    <updated>2026-07-31T22:57:02.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon Bedrock AgentCore Observability and Amazon CloudWatch to find performance bottlenecks and diagnose memory issues in long-running agent sessions.]]></summary>
         <author>
             <name>Joshua Lacy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS]]></title>
+        <id>31e07eff62e76a2062e28f358c55660a2c45d6f3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/"/>
+        <updated>2026-07-30T17:22:32.000Z</updated>
+        <summary type="html"><![CDATA[This post walks through deploying Kimi K3 on AWS using two approaches: Amazon SageMaker HyperPod, and  Amazon Elastic Kubernetes Service (Amazon EKS) cluster.]]></summary>
+        <author>
+            <name>Vivek Gangasani</name>
         </author>
     </entry>
     <entry>

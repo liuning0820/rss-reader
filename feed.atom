@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-07-31T19:20:32.964Z</updated>
+    <updated>2026-07-31T21:01:01.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing the Agentic Catalog Experience in Amazon Quick]]></title>
+        <id>7566a36ce07e1d565d3c4c626b0957bbfa8d654a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/"/>
+        <updated>2026-07-31T19:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now in preview for AWS Glue Data Catalog and Databricks Unity Catalog.]]></summary>
+        <author>
+            <name>Srikanth Baheti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing production agents with Amazon Bedrock AgentCore Observability]]></title>
         <id>64799e5f6577ed834ae5241ca5bcee136c4fc073</id>

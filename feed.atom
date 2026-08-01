@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-01T09:55:39.451Z</updated>
+    <updated>2026-08-01T11:15:08.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[July 2026]]></title>
+        <id>http://blog.thestateofme.com/?p=6944</id>
+        <link href="https://blog.thestateofme.com/2026/08/01/july-2026/"/>
+        <updated>2026-08-01T10:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The whole of July has been hot and sunny (more on that later), so quite often the boys have been having an early morning walk in the shade of the woods before it gets too hot. The apple tree seems particularly bountiful this year, so they’ve both been enjoying the windfalls (particularly Milo). Bath […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing the Agentic Catalog Experience in Amazon Quick]]></title>
         <id>7566a36ce07e1d565d3c4c626b0957bbfa8d654a</id>

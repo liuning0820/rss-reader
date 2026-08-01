@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=6944",
+          "author": "Chris Swan",
+          "description": "Pupdate The whole of July has been hot and sunny (more on that later), so quite often the boys have been having an early morning walk in the shade of the woods before it gets too hot. The apple tree seems particularly bountiful this year, so they’ve both been enjoying the windfalls (particularly Milo). Bath […]",
+          "link": "https://blog.thestateofme.com/2026/08/01/july-2026/",
+          "publishedOn": "2026-08-01T10:36:28.000Z",
+          "wordCount": 5253,
+          "title": "July 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/07/pups_202607.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=6952",
           "author": "Chris Swan",

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=6952",
@@ -929,26 +929,6 @@
           "wordCount": 34129,
           "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/30/21187.png"
-        },
-        {
-          "id": "395d0b963ef226d44d24b8de1b8d6428970e860f",
-          "author": "Radha Panchap",
-          "description": "Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a new challenge for security teams managing email systems, significantly raising the risk because of their advanced sophistication. Modern social engineers use generative AI and open source intelligence (OSINT) to craft thousands of unique messages […]",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
-          "publishedOn": "2026-07-02T17:55:41.000Z",
-          "wordCount": 34382,
-          "title": "How Amazon Bedrock catches AI-generated phishing",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/02/ML-19725.png"
-        },
-        {
-          "id": "7e400a6b907735c3f5b62e1203c543bf320b85bc",
-          "author": "Sapana Chaudhary",
-          "description": "In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an external evaluation, design a reward aligned with the end task, manage what changes once the agent runs for multiple turns, and monitor the metrics that tell you when to iterate.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
-          "publishedOn": "2026-07-02T17:50:23.000Z",
-          "wordCount": 36030,
-          "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/02/ml-21260.png"
         }
       ]
     }

@@ -63,6 +63,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1795",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Content Ingestion & Podcast Video […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-528/",
+          "publishedOn": "2026-08-03T01:56:15.000Z",
+          "wordCount": 1086,
+          "title": "SRE Weekly Issue #528",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1793",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Minus Two Minutes Amazing idea: […]",

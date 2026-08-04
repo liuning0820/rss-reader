@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-04T14:04:22.126Z</updated>
+    <updated>2026-08-04T17:45:35.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automated web insight extraction with Amazon Bedrock AgentCore]]></title>
+        <id>485a2118fbcc1067573c0ef552a78db3ae5bc772</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-04T16:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with Amazon Bedrock AgentCore Browser, Amazon Bedrock, Amazon OpenSearch Serverless, and AWS Lambda that monitors RSS feeds, renders pages reliably, and makes AI-extracted insights searchable.]]></summary>
+        <author>
+            <name>Louisa Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations]]></title>
         <id>c31d5a216c9f10149d2564008a4c1dd5818f023f</id>

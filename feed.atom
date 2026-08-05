@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-05T06:25:00.785Z</updated>
+    <updated>2026-08-05T10:31:07.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -884,16 +884,6 @@
         <summary type="html"><![CDATA[Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.]]></summary>
         <author>
             <name>Hazim Qudah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching models to forget: Selective unlearning with Amazon Nova]]></title>
-        <id>e451c5cb5932ddbe103cc2baf499c9ded6565a70</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/"/>
-        <updated>2026-07-06T22:23:45.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while preserving model quality. We also provide pointers for customers who want to apply these preference optimization techniques to their own experiments.]]></summary>
-        <author>
-            <name>Qian Hu</name>
         </author>
     </entry>
 </feed>

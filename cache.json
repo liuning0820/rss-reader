@@ -929,16 +929,6 @@
           "wordCount": 32828,
           "title": "From Hugging Face to Amazon SageMaker Studio in one click",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/06/ml-21254.png"
-        },
-        {
-          "id": "e451c5cb5932ddbe103cc2baf499c9ded6565a70",
-          "author": "Qian Hu",
-          "description": "In this post, we introduce Reverse Direct Preference Optimization (rDPO), the novel unlearning technique behind Amazon Nova Customizable Content Moderation Settings (CCMS), and show how it reduces over-deflection while preserving model quality. We also provide pointers for customers who want to apply these preference optimization techniques to their own experiments.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
-          "publishedOn": "2026-07-06T22:23:45.000Z",
-          "wordCount": 33761,
-          "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/06/ml-21116.png"
         }
       ]
     }

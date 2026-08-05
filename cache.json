@@ -919,16 +919,6 @@
           "wordCount": 33050,
           "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ML-20844.png"
-        },
-        {
-          "id": "36aa20434afd5b9e42aa8e0699f10369d99e0974",
-          "author": "Hazim Qudah",
-          "description": "Today, we’re excited to announce a deep-link integration between Hugging Face and Amazon SageMaker AI. Developers can now go from model discovery to hands-on experimentation in SageMaker Studio with a single selection.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
-          "publishedOn": "2026-07-06T22:35:55.000Z",
-          "wordCount": 32828,
-          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/06/ml-21254.png"
         }
       ]
     }

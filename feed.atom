@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-06T14:01:22.326Z</updated>
+    <updated>2026-08-06T23:55:16.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Securing AI agents with temporal policies in Amazon Bedrock AgentCore]]></title>
+        <id>6eddb7db47dabb7927abcbbe6200579df3a4f157</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-06T18:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.]]></summary>
+        <author>
+            <name>Sean Eichenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure rate limits for AI traffic on AgentCore gateway]]></title>
+        <id>16e424b361964bece2ce5179f108a5d8ce975e0e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/"/>
+        <updated>2026-08-06T17:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to configure rate limits on Amazon Bedrock AgentCore gateway to enforce per-user and per-target traffic controls. Define request, token, and connection limits scoped by JWT claims or IAM identity to protect downstream models, tools, and agents from traffic spikes.]]></summary>
+        <author>
+            <name>Anagh Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore]]></title>
+        <id>27fd25028d1365de142cd3b4acaad8499203cf9a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-06T16:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiting on the gateway. These features give you deterministic control over sequences of agent actions and cost ceilings that hold regardless of agent behavior.]]></summary>
+        <author>
+            <name>Madhu Parthasarathy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch]]></title>
+        <id>454a49d01ac6f7d4f83219b59c9877843c17b290</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/"/>
+        <updated>2026-08-06T16:30:47.000Z</updated>
+        <summary type="html"><![CDATA[As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex OpenTelemetry metrics through a local collector to Amazon CloudWatch for an AWS native view of usage by user, team, and cost center.]]></summary>
+        <author>
+            <name>Claudio Mazzoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enforcing data residency with single-Region Claude Code on Amazon Bedrock]]></title>
+        <id>b8993bf5d313f42edd0a51f097f3e27254e11086</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/"/>
+        <updated>2026-08-06T16:21:54.000Z</updated>
+        <summary type="html"><![CDATA[A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pin Claude Code on Amazon Bedrock to one Region: an application inference profile or the Mantle endpoint, paired with an IAM Region condition, plus how to verify compliance in AWS CloudTrail.]]></summary>
+        <author>
+            <name>Zaid Barkat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Skills for Automated Reasoning policies in Amazon Bedrock]]></title>
+        <id>be6475bfe22fa8ae7fb97af11e00df852a392ff0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/"/>
+        <updated>2026-08-06T16:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to run the full Amazon Bedrock Automated Reasoning policy lifecycle from your coding agent. A suite of open source Agent Skills builds, reviews, tests, debugs, deploys, and validates a custom policy end to end, turning a specialized console task into a repeatable engineering workflow.]]></summary>
+        <author>
+            <name>Adewale Akinfaderin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an agentic app deployer with Amazon Bedrock and AWS Lambda]]></title>
+        <id>7f0c9f04df61dedf0934f21d3c13af85f129ef36</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/"/>
+        <updated>2026-08-06T16:11:13.000Z</updated>
+        <summary type="html"><![CDATA[PDI Technologies built PDI Brew, an agentic platform on AWS where non-technical employees describe a tool in plain English and receive a fully provisioned, multi-tenant web application in seconds. See how a pluggable planner and an AWS Lambda provisioning agent turn plain-English intent into governed, multi-tenant apps backed by Amazon Bedrock.]]></summary>
+        <author>
+            <name>Ramesh Kadali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM optimization integration for Amazon SageMaker Python SDK]]></title>
+        <id>d45ac0aef34807e1fbf052edfada95b21bf90a95</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/"/>
+        <updated>2026-08-06T16:08:12.000Z</updated>
+        <summary type="html"><![CDATA[The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.]]></summary>
+        <author>
+            <name>Dan Ferguson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orange to Orange website migrations]]></title>
         <id>http://blog.thestateofme.com/?p=6991</id>

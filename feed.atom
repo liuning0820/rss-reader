@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-06T10:35:07.912Z</updated>
+    <updated>2026-08-06T14:01:22.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orange to Orange website migrations]]></title>
+        <id>http://blog.thestateofme.com/?p=6991</id>
+        <link href="https://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/"/>
+        <updated>2026-08-06T10:52:50.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock]]></title>
         <id>e26b67888914f9285d58eac09de5504ddfbfc66b</id>

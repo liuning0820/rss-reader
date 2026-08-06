@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=6991",
+          "author": "Chris Swan",
+          "description": "TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]",
+          "link": "https://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/",
+          "publishedOn": "2026-08-06T10:52:50.000Z",
+          "wordCount": 4270,
+          "title": "Orange to Orange website migrations",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6944",
           "author": "Chris Swan",
           "description": "Pupdate The whole of July has been hot and sunny (more on that later), so quite often the boys have been having an early morning walk in the shade of the woods before it gets too hot. The apple tree seems particularly bountiful this year, so they’ve both been enjoying the windfalls (particularly Milo). Bath […]",

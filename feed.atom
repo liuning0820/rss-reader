@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-07T14:50:04.426Z</updated>
+    <updated>2026-08-07T16:51:17.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore]]></title>
+        <id>ab12dfa74d29d9af6fc346702f37866dfbb9aa5d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-07T16:26:58.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, unified tool access through AgentCore Gateway, AgentCore Memory, and the Agent Skills open standard to rapidly scale policy digitization capabilities, while preserving transparency, version control, and human oversight.]]></summary>
+        <author>
+            <name>Oleksiy Kononenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TReNDS automates root-cause analysis with Amazon Bedrock]]></title>
+        <id>2a928f9693d6d62c930b66459b34bc9a6dc2b18a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/"/>
+        <updated>2026-08-07T16:22:50.000Z</updated>
+        <summary type="html"><![CDATA[TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing root-cause analysis from 15 to 30 minutes of manual work to under 60 seconds.]]></summary>
+        <author>
+            <name>Vitaly Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Determining playoff clinching scenarios in the NHL using constraint programming]]></title>
+        <id>7ea54833b1fa7768596b6ac5cedad2a18b1ed85b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/"/>
+        <updated>2026-08-07T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The approach was validated against four full NHL seasons of officially published results.]]></summary>
+        <author>
+            <name>Gili Rosenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home networks, security, and things (IoT)]]></title>
+        <id>https://blog.thestateofme.com/?p=7004</id>
+        <link href="http://blog.thestateofme.com/2026/08/07/home-networks-security-and-things-iot/"/>
+        <updated>2026-08-07T13:44:44.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR As Internet of Things (IoT) devices become more commonplace managing the risks they bring becomes more of a bother. I’ve chosen to deal with this by having different network zones for different trust levels; implemented mostly with OpenWrt. But it’s still a compromise where various security risks are accepted as OK given the effort […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home networks, security, and things (IoT)]]></title>
         <id>http://blog.thestateofme.com/?p=7004</id>
@@ -94,6 +134,16 @@
         <summary type="html"><![CDATA[The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.]]></summary>
         <author>
             <name>Dan Ferguson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orange to Orange website migrations]]></title>
+        <id>https://blog.thestateofme.com/?p=6991</id>
+        <link href="http://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/"/>
+        <updated>2026-08-06T10:52:50.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>
@@ -194,6 +244,16 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Content Ingestion & Podcast Video […]]]></summary>
         <author>
             <name>lex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2026]]></title>
+        <id>https://blog.thestateofme.com/?p=6944</id>
+        <link href="http://blog.thestateofme.com/2026/08/01/july-2026/"/>
+        <updated>2026-08-01T10:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The whole of July has been hot and sunny (more on that later), so quite often the boys have been having an early morning walk in the shade of the woods before it gets too hot. The apple tree seems particularly bountiful this year, so they’ve both been enjoying the windfalls (particularly Milo). Bath […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

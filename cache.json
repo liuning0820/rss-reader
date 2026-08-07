@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=7004",
+          "author": "Chris Swan",
+          "description": "TL;DR As Internet of Things (IoT) devices become more commonplace managing the risks they bring becomes more of a bother. I’ve chosen to deal with this by having different network zones for different trust levels; implemented mostly with OpenWrt. But it’s still a compromise where various security risks are accepted as OK given the effort […]",
+          "link": "https://blog.thestateofme.com/2026/08/07/home-networks-security-and-things-iot/",
+          "publishedOn": "2026-08-07T13:44:44.000Z",
+          "wordCount": 4758,
+          "title": "Home networks, security, and things (IoT)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=6991",
           "author": "Chris Swan",
           "description": "TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]",

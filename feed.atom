@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-07T12:56:46.967Z</updated>
+    <updated>2026-08-07T14:50:04.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home networks, security, and things (IoT)]]></title>
+        <id>http://blog.thestateofme.com/?p=7004</id>
+        <link href="https://blog.thestateofme.com/2026/08/07/home-networks-security-and-things-iot/"/>
+        <updated>2026-08-07T13:44:44.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR As Internet of Things (IoT) devices become more commonplace managing the risks they bring becomes more of a bother. I’ve chosen to deal with this by having different network zones for different trust levels; implemented mostly with OpenWrt. But it’s still a compromise where various security risks are accepted as OK given the effort […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securing AI agents with temporal policies in Amazon Bedrock AgentCore]]></title>
         <id>6eddb7db47dabb7927abcbbe6200579df3a4f157</id>

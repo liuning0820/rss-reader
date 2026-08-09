@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7004",
@@ -864,76 +864,6 @@
           "wordCount": 33969,
           "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/13/ml-21345.png"
-        },
-        {
-          "id": "5ab175a6cdde5523b8ccc6ce6820759707a05693",
-          "author": "Sandeep Raveesh-Babu",
-          "description": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
-          "publishedOn": "2026-07-10T15:35:05.000Z",
-          "wordCount": 34102,
-          "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/09/ml-21327.png"
-        },
-        {
-          "id": "a8689a451800322a2e56dd8c92199544fbb79f7b",
-          "author": "Troy Miller",
-          "description": "This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI that evaluates dental X-ray quality at the point of capture, in real time, across thousands of locations. The system went from concept to over 10,000 active locations within months and has already processed over 11 million X-rays and growing at 1.5 million per week. Henry Schein One is now scaling toward 40,000 locations globally across four regions.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
-          "publishedOn": "2026-07-10T15:33:47.000Z",
-          "wordCount": 34164,
-          "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/10/ml-21121.png"
-        },
-        {
-          "id": "f38693695f066814841d089783bdd8f01dece5c1",
-          "author": "Navin Sharma",
-          "description": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries the layer to answer customer 360 questions across both sources without extract, transform, and load (ETL). The same Stardog deployment works behind AWS computes (Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and AWS Lambda). We use AgentCore here because it bundles inbound auth, hosting, and tool credentials into one managed service.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-07-10T15:31:12.000Z",
-          "wordCount": 37290,
-          "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/10/ml-21021.png"
-        },
-        {
-          "id": "54d76cceb6bd0af8db3a440ce3ba321b220e8a79",
-          "author": "Sumit Wasuja",
-          "description": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables dynamic scaling. Finally, we walk through how to structure case management for enterprise processes, including HITL and case tracking, through a real-life use case.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
-          "publishedOn": "2026-07-10T15:28:54.000Z",
-          "wordCount": 35020,
-          "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/10/ml-20703.png"
-        },
-        {
-          "id": "c6aa6dd3ad32bbc2511cb3f9b4f313d6dc35607c",
-          "author": "Michael Battaglia",
-          "description": "In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute Cloud (Amazon EC2) for direct instance access, Amazon SageMaker AI inference endpoints for managed serving, and Amazon Elastic Kubernetes Service (Amazon EKS) or Amazon Elastic Container Service (Amazon ECS) when inference needs to fit into an existing container framework. You also learn operational practices for production deployments.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
-          "publishedOn": "2026-07-10T15:26:05.000Z",
-          "wordCount": 35562,
-          "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/10/ml-20601.png"
-        },
-        {
-          "id": "fb1a247aa170f8c2f64e2d2ffd3d3e4ba1737a87",
-          "author": "Vijayaraghavan C P",
-          "description": "Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates with persistent context, secure tool access, and production-grade reliability. We built that system on Amazon Bedrock AgentCore using the Strands Agents SDK. This post walks through how we architected it, which agents we built, and the outcomes for our customers.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-07-10T15:23:25.000Z",
-          "wordCount": 34443,
-          "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/10/ml-20577.png"
-        },
-        {
-          "id": "44719c394930a8bd8c11292c18a583053d398cee",
-          "author": "Xuan Lu",
-          "description": "In this post, we show how to implement DPD with vLLM on Amazon SageMaker HyperPod using the HyperPod Inference Operator.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/",
-          "publishedOn": "2026-07-10T15:20:16.000Z",
-          "wordCount": 35172,
-          "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/08/20985-1.png"
         }
       ]
     }

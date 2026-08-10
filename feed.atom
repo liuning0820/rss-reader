@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-10T14:54:56.505Z</updated>
+    <updated>2026-08-10T16:51:14.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Outrage for groups, adoration for individuals]]></title>
+        <id>http://blog.thestateofme.com/?p=7015</id>
+        <link href="https://blog.thestateofme.com/2026/08/10/outrage-for-groups-adoration-for-individuals/"/>
+        <updated>2026-08-10T16:51:03.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR The attention economy dynamics for AI chatbots and agents are very different from social media, and so we’re seeing a whole new approach to capturing (and keeping) our attention. This comes down to fundamental human nature – the strongest fuel for groups is outrage; and whilst it might burn dirty and contaminate everything around […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows]]></title>
+        <id>0e2f8eb35e84867d4327e6e28f1d824f7b91a4a5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/"/>
+        <updated>2026-08-10T16:34:37.000Z</updated>
+        <summary type="html"><![CDATA[The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates. This post shows how to install and configure the add-on, connect from the browser and from VS Code over SSH-over-SSM, and move your team to OpenID Connect sign-in with Amazon Cognito.]]></summary>
+        <author>
+            <name>Rajat Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore]]></title>
+        <id>2a9a1aff9c94f081507dacb658dfe9013b40dd70</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-10T16:30:46.000Z</updated>
+        <summary type="html"><![CDATA[nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time-to-production by 75% (from 10-12 months to 4 months), improved response quality, and reduced operational overhead while keeping analytics governed through Databricks Lakehouse Metric Views.]]></summary>
+        <author>
+            <name>Jordan Stein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #529]]></title>
         <id>https://sreweekly.com/?p=1797</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=7015",
+          "author": "Chris Swan",
+          "description": "TL;DR The attention economy dynamics for AI chatbots and agents are very different from social media, and so we’re seeing a whole new approach to capturing (and keeping) our attention. This comes down to fundamental human nature – the strongest fuel for groups is outrage; and whilst it might burn dirty and contaminate everything around […]",
+          "link": "https://blog.thestateofme.com/2026/08/10/outrage-for-groups-adoration-for-individuals/",
+          "publishedOn": "2026-08-10T16:51:03.000Z",
+          "wordCount": 4256,
+          "title": "Outrage for groups, adoration for individuals",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "https://blog.thestateofme.com/?p=7004",
           "author": "Chris Swan",
           "description": "TL;DR As Internet of Things (IoT) devices become more commonplace managing the risks they bring becomes more of a bother. I’ve chosen to deal with this by having different network zones for different trust levels; implemented mostly with OpenWrt. But it’s still a compromise where various security risks are accepted as OK given the effort […]",
@@ -175,6 +185,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0e2f8eb35e84867d4327e6e28f1d824f7b91a4a5",
+          "author": "Rajat Jain",
+          "description": "The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates. This post shows how to install and configure the add-on, connect from the browser and from VS Code over SSH-over-SSM, and move your team to OpenID Connect sign-in with Amazon Cognito.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+          "publishedOn": "2026-08-10T16:34:37.000Z",
+          "wordCount": 36923,
+          "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/06/ML-20787-featured-image.png"
+        },
+        {
+          "id": "2a9a1aff9c94f081507dacb658dfe9013b40dd70",
+          "author": "Jordan Stein",
+          "description": "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time-to-production by 75% (from 10-12 months to 4 months), improved response quality, and reduced operational overhead while keeping analytics governed through Databricks Lakehouse Metric Views.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-08-10T16:30:46.000Z",
+          "wordCount": 35611,
+          "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/ML-20862-featured-image.png"
+        },
         {
           "id": "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
           "author": "Oleksiy Kononenko",

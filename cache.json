@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7004",
@@ -112,6 +112,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1797",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Your on-call rotation shouldn’t double as your database’s HA strategy. PlanetScale databases ship with a primary and two replicas across three AZs, automated failover, and a 99.999% multi-region SLA. Postgres and Vitess available in AWS and GCP. → Get started with PlanetScale for just $5/mo Without […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-529/",
+          "publishedOn": "2026-08-10T02:28:37.000Z",
+          "wordCount": 1081,
+          "title": "SRE Weekly Issue #529",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1795",
           "author": "lex",

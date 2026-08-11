@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-11T12:57:23.851Z</updated>
+    <updated>2026-08-11T14:54:06.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -864,16 +864,6 @@
         <summary type="html"><![CDATA[Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #525]]></title>
-        <id>https://sreweekly.com/?p=1785</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-525/"/>
-        <updated>2026-07-13T01:37:17.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Buildkite: More places to run, more scale to manage and maintain, usually means more blind spots; not here. Buildkite’s control plane holds the live state of every job, agent and queue, regardless of throughput size. See what’s running, what’s waiting and why with immediate insight → https://buildkite.com/platform/pipelines/ […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

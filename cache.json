@@ -161,16 +161,6 @@
           "wordCount": 1149,
           "title": "SRE Weekly Issue #526",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1785",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Buildkite: More places to run, more scale to manage and maintain, usually means more blind spots; not here. Buildkite’s control plane holds the live state of every job, agent and queue, regardless of throughput size. See what’s running, what’s waiting and why with immediate insight → https://buildkite.com/platform/pipelines/ […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-525/",
-          "publishedOn": "2026-07-13T01:37:17.000Z",
-          "wordCount": 1095,
-          "title": "SRE Weekly Issue #525",
-          "imageUrl": null
         }
       ]
     },

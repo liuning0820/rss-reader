@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-11T20:39:35.436Z</updated>
+    <updated>2026-08-11T22:37:36.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock]]></title>
+        <id>f6522d8386d10fcc6d1ab85b0676218a20acd0e9</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/"/>
+        <updated>2026-08-11T21:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Daybreak Red and Daybreak Blue from OpenAI, specialized cyber defense models from OpenAI, are now available on Amazon Bedrock to eligible customers. Both models run with zero-operator access enforced at the chip, keeping your code and vulnerability data secure.]]></summary>
+        <author>
+            <name>Tanvi Girinath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC]]></title>
         <id>283246d0230bcd3dee9487487f2cee0ff02f6735</id>
@@ -884,26 +894,6 @@
         <summary type="html"><![CDATA[In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) experience. The API already gives you programmatic access to recommendations, but it assumes you know which parameters to set and how to interpret raw benchmark output. The UI removes that assumption. It guides you through preset use-case profiles, visual comparisons of results, and one-click deployment, so teams without deep infrastructure expertise can get a validated configuration on their own.]]></summary>
         <author>
             <name>Hrushikesh Gangur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2026]]></title>
-        <id>https://blog.thestateofme.com/?p=6928</id>
-        <link href="http://blog.thestateofme.com/2026/07/13/june-2026/"/>
-        <updated>2026-07-13T09:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2026]]></title>
-        <id>http://blog.thestateofme.com/?p=6928</id>
-        <link href="https://blog.thestateofme.com/2026/07/13/june-2026/"/>
-        <updated>2026-07-13T09:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

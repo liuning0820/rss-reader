@@ -94,26 +94,6 @@
           "wordCount": 4087,
           "title": "Brewster’s Trillions",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/07/aivsmegaprojects.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6928",
-          "author": "Chris Swan",
-          "description": "Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]",
-          "link": "http://blog.thestateofme.com/2026/07/13/june-2026/",
-          "publishedOn": "2026-07-13T09:20:59.000Z",
-          "wordCount": 4192,
-          "title": "June 2026",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/06/milo_202606.jpg"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6928",
-          "author": "Chris Swan",
-          "description": "Pupdate The start of the month saw the raspberries coming out on the bushes in our garden, so Milo (in particular) got busy harvesting what he could reach (and barking at any birds that dared to come nearby). Max seems to be back to normal after his back trouble last month, and Milo has finished […]",
-          "link": "https://blog.thestateofme.com/2026/07/13/june-2026/",
-          "publishedOn": "2026-07-13T09:20:59.000Z",
-          "wordCount": 4186,
-          "title": "June 2026",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/06/milo_202606.jpg"
         }
       ]
     },
@@ -175,6 +155,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "f6522d8386d10fcc6d1ab85b0676218a20acd0e9",
+          "author": "Tanvi Girinath",
+          "description": "Daybreak Red and Daybreak Blue from OpenAI, specialized cyber defense models from OpenAI, are now available on Amazon Bedrock to eligible customers. Both models run with zero-operator access enforced at the chip, keeping your code and vulnerability data secure.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+          "publishedOn": "2026-08-11T21:38:06.000Z",
+          "wordCount": 34738,
+          "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/11/Screenshot-2026-08-11-at-4.37.01 PM-1130x630.png"
+        },
         {
           "id": "283246d0230bcd3dee9487487f2cee0ff02f6735",
           "author": "Koyo Hidaka",

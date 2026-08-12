@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-12T16:54:02.701Z</updated>
+    <updated>2026-08-12T18:57:48.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS]]></title>
+        <id>bdab25a99afb30707f36430d746dc6f3704a1935</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/"/>
+        <updated>2026-08-12T17:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM principal data, query Bedrock spend by principal, project, and team, and build dashboards to track AI costs across your organization.]]></summary>
+        <author>
+            <name>Abhi Shivaditya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS]]></title>
         <id>86cd8b92b90187d96c8febe2b94e065d6f61fea4</id>

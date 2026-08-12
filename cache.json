@@ -156,6 +156,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "bdab25a99afb30707f36430d746dc6f3704a1935",
+          "author": "Abhi Shivaditya",
+          "description": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM principal data, query Bedrock spend by principal, project, and team, and build dashboards to track AI costs across your organization.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+          "publishedOn": "2026-08-12T17:45:20.000Z",
+          "wordCount": 36237,
+          "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-21078-featured-image.png"
+        },
+        {
           "id": "86cd8b92b90187d96c8febe2b94e065d6f61fea4",
           "author": "Astrid Bowser, Alex Savage Nick Heap",
           "description": "Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMaker AI, with a RAG pipeline on pgvector and over 50 agents built with Strands Agents SDK on Amazon ECS.",

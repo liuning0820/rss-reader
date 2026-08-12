@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-12T13:02:31.375Z</updated>
+    <updated>2026-08-12T14:53:45.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS]]></title>
+        <id>86cd8b92b90187d96c8febe2b94e065d6f61fea4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/"/>
+        <updated>2026-08-12T13:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMaker AI, with a RAG pipeline on pgvector and over 50 agents built with Strands Agents SDK on Amazon ECS.]]></summary>
+        <author>
+            <name>Astrid Bowser, Alex Savage Nick Heap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments]]></title>
+        <id>c7f6cc41ecaa8180ee996e7324c0b62d83cf69cb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/"/>
+        <updated>2026-08-12T13:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave, priced for risk, and anchored to a public blockchain before settlement. See how the pattern gives enterprises a verifiable, auditable trail for autonomous agent payments in regulated environments.]]></summary>
+        <author>
+            <name>Patrick Duffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine]]></title>
+        <id>fb996b8e2bd613674bdace88551fde7534cd730b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/"/>
+        <updated>2026-08-12T13:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Running large language model inference at scale forces a KV cache trade-off: oversized GPU instances or slow time-to-first-token. This post builds a tiered KV cache on Amazon SageMaker HyperPod that extends the cache into a shared, distributed NVMe pool with Curvine, so replicas reuse cache at near-local-disk speeds on cost-efficient instances.]]></summary>
+        <author>
+            <name>Qingyuan Tang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock]]></title>
         <id>f6522d8386d10fcc6d1ab85b0676218a20acd0e9</id>

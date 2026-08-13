@@ -156,6 +156,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b5d7724d73cc7030cb1cb40507aa91d081f551a4",
+          "author": "Vipul Rajendra Gargav",
+          "description": "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses the AWS Distro for OpenTelemetry (ADOT) and IAM credentials to route session traces, span metrics, and token usage to the same AgentCore Observability dashboard.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+          "publishedOn": "2026-08-13T16:02:10.000Z",
+          "wordCount": 36023,
+          "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-20910-featured-image.png"
+        },
+        {
+          "id": "d43548b1e99c28788ed7a26a925c28aa7e306fa7",
+          "author": "Salman Moghal",
+          "description": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+          "publishedOn": "2026-08-13T15:56:07.000Z",
+          "wordCount": 36816,
+          "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/04/ML-19368-featured-image.png"
+        },
+        {
+          "id": "a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284",
+          "author": "Anand Komandooru",
+          "description": "Learn how to build a multi-agent M&A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent orchestration, knowledge retrieval, and governance controls, then deploys a complete sample you can run in your own AWS account.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-08-13T15:52:44.000Z",
+          "wordCount": 36368,
+          "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/07/ML-19621-featured-image.png"
+        },
+        {
+          "id": "f7e47af42f400e3f4aeaea3b8fcc2ab80d496253",
+          "author": "Art Chan",
+          "description": "Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document editing into the Microsoft 365 apps your teams already use, so you can analyze data, draft content, and reach enterprise knowledge without switching applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/",
+          "publishedOn": "2026-08-13T15:48:15.000Z",
+          "wordCount": 36074,
+          "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/ML-20556-featured-image.png"
+        },
+        {
           "id": "bdab25a99afb30707f36430d746dc6f3704a1935",
           "author": "Abhi Shivaditya",
           "description": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM principal data, query Bedrock spend by principal, project, and team, and build dashboards to track AI costs across your organization.",

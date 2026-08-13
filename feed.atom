@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-13T14:54:03.567Z</updated>
+    <updated>2026-08-13T16:53:26.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monitor on-premises and multi-cloud AI agents with AgentCore Observability]]></title>
+        <id>b5d7724d73cc7030cb1cb40507aa91d081f551a4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/"/>
+        <updated>2026-08-13T16:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses the AWS Distro for OpenTelemetry (ADOT) and IAM credentials to route session traces, span metrics, and token usage to the same AgentCore Observability dashboard.]]></summary>
+        <author>
+            <name>Vipul Rajendra Gargav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool]]></title>
+        <id>d43548b1e99c28788ed7a26a925c28aa7e306fa7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/"/>
+        <updated>2026-08-13T15:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough covers a reference architecture for an AI-powered digital worker that drives legacy interfaces through secure, isolated browser sessions while preserving human oversight and full audit trails.]]></summary>
+        <author>
+            <name>Salman Moghal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating M&A due diligence with Amazon Bedrock AgentCore]]></title>
+        <id>a1299d1fe5dce83f7bfea5a02c0c90a01c4c8284</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-13T15:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a multi-agent M&A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent orchestration, knowledge retrieval, and governance controls, then deploys a complete sample you can run in your own AWS account.]]></summary>
+        <author>
+            <name>Anand Komandooru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Quick for Microsoft 365: Agentic AI where you work]]></title>
+        <id>f7e47af42f400e3f4aeaea3b8fcc2ab80d496253</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/"/>
+        <updated>2026-08-13T15:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document editing into the Microsoft 365 apps your teams already use, so you can analyze data, draft content, and reach enterprise knowledge without switching applications.]]></summary>
+        <author>
+            <name>Art Chan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS]]></title>
         <id>bdab25a99afb30707f36430d746dc6f3704a1935</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-14T04:05:03.644Z</updated>
+    <updated>2026-08-14T07:19:44.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,36 +844,6 @@
         <summary type="html"><![CDATA[In this post, we show you how to build a voice ordering system that answers a phone number and takes the order from greeting to confirmation. The system uses Amazon Bedrock AgentCore to host and run the agent and Amazon Nova 2 Sonic for real-time speech, connected to a restaurant backend through the Model Context Protocol (MCP). The walkthrough covers deploying the full stack with AWS Cloud Development Kit (AWS CDK) and bridging a phone call into the agent through a Session Initiation Protocol (SIP) gateway on Amazon Elastic Container Service (Amazon ECS) and AWS Fargate. It also warms the agent session while the phone is still ringing, so the caller never hears dead air.]]></summary>
         <author>
             <name>Sergio Barraza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance]]></title>
-        <id>890af1f7d65cfa97f25179d528636d6d44e00673</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/"/>
-        <updated>2026-07-15T18:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Built partnered with the AWS Generative AI Innovation Center (GenAIIC), AWS Partner AND Digital, and AWS account teams to create a scalable, AI-powered document processing engine that can classify, split, extract, evaluate, and reason over complex real estate finance documents. It reduces workflows that previously took days to minutes, supports hundreds of document types, and gives technical teams and industry experts a shared environment for building and improving document processors.]]></summary>
-        <author>
-            <name>Dipanshu Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers]]></title>
-        <id>e686e0d2b0f5877b642bd566e42a18707483accf</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/"/>
-        <updated>2026-07-15T18:11:57.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we walk you through the Computer Vision MCP Server, which illustrates this approach, representing how AI systems can process visual information and make intelligent decisions through a single, standardized interface. This convergence transforms what was once a complex integration challenge into a streamlined process, making AI capabilities accessible to a broader range of applications and developers.]]></summary>
-        <author>
-            <name>Kiowa Jackson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards]]></title>
-        <id>fd4c49a234b2f25a8f6f4076d4cdb0f961adcb5a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/"/>
-        <updated>2026-07-15T18:08:50.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we present a solution designed to centralize the monitoring of SageMaker Pipelines across AWS accounts and Regions using Amazon CloudWatch custom dashboards. The accompanying GitHub repository provides a customizable AWS Cloud Development Kit (AWS CDK) example of the required infrastructure.]]></summary>
-        <author>
-            <name>Giorgio Pessot</name>
         </author>
     </entry>
 </feed>

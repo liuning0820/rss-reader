@@ -156,6 +156,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5a3280b9270a601999f904d82bfca05f0f783e68",
+          "author": "Maria Masood",
+          "description": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code safely inside it, and instrument each component to catch the pitfalls that quietly collapse a reward.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+          "publishedOn": "2026-08-14T16:02:10.000Z",
+          "wordCount": 36835,
+          "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ml-20735.png"
+        },
+        {
+          "id": "93b011a326051e62ed303da1c918720e315d449d",
+          "author": "Ayush Sharma",
+          "description": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each specialized agent uses the model best suited to its job. This post also shows how to get token-level observability from SageMaker endpoints that Strands Agents does not instrument by default.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
+          "publishedOn": "2026-08-14T15:58:44.000Z",
+          "wordCount": 35390,
+          "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-21454-featured-image.png"
+        },
+        {
           "id": "b5d7724d73cc7030cb1cb40507aa91d081f551a4",
           "author": "Vipul Rajendra Gargav",
           "description": "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses the AWS Distro for OpenTelemetry (ADOT) and IAM credentials to route session traces, span metrics, and token usage to the same AgentCore Observability dashboard.",

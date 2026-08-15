@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-15T06:33:13.319Z</updated>
+    <updated>2026-08-15T08:24:05.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show you code examples for setting up a knowledge base and retrieving from it.]]></summary>
         <author>
             <name>Dani Mitchell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Grok on Amazon Bedrock]]></title>
-        <id>6804c3e12f21b603b9634973a5e5fb1526d35aaa</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/"/>
-        <updated>2026-07-16T19:29:26.000Z</updated>
-        <summary type="html"><![CDATA[This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request, configurable reasoning effort, tool calling, structured output, image input, and stateful multi-turn conversations.]]></summary>
-        <author>
-            <name>Melanie Li</name>
         </author>
     </entry>
 </feed>

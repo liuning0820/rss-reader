@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-16T04:32:11.886Z</updated>
+    <updated>2026-08-16T06:34:23.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -814,16 +814,6 @@
         <summary type="html"><![CDATA[In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to close, and keeping the CRM up to date as the account matures, while protecting your scarcest resource: your time.]]></summary>
         <author>
             <name>Spencer Martenson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Mobile Layout for Amazon Quick dashboards]]></title>
-        <id>c7c7b20143e9236cf53af22804c327ab641f9a42</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/"/>
-        <updated>2026-07-17T17:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Teams that rely on dashboards for daily decisions often must pinch and zoom to interact with controls originally designed for larger displays. Checking revenue during a morning standup, reviewing pipeline metrics between meetings, or monitoring operations while traveling all require extra effort when the dashboard was built for a desktop screen. Mobile Layout for Amazon […]]]></summary>
-        <author>
-            <name>Rushabh Vora</name>
         </author>
     </entry>
 </feed>

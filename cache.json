@@ -849,16 +849,6 @@
           "wordCount": 33085,
           "title": "Introducing Mobile Layout for Amazon Quick dashboards",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807.png"
-        },
-        {
-          "id": "2f17036ef3c96e67c8ac52fdb0c52a1b858f3a46",
-          "author": "Pyone Thant Win",
-          "description": "In this post, we cover a high-level view of the Smartsheet remote MCP architecture, with a focus on the AWS infrastructure behind it. This includes security, governance, scaling and deployment, and the AI-specific optimizations Smartsheet built on AWS.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
-          "publishedOn": "2026-07-17T16:32:06.000Z",
-          "wordCount": 34137,
-          "title": "How Smartsheet built a remote MCP server on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-21139.png"
         }
       ]
     }

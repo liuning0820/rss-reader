@@ -166,6 +166,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "09559dd685a47bca5e3b94a074ceb00bc15d872e",
+          "author": "Daniel Wirjo",
+          "description": "Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 protocol, using the aws-agents-pay plugin to make bounded, human-approved testnet payments.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
+          "publishedOn": "2026-08-17T16:19:56.000Z",
+          "wordCount": 36236,
+          "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
+          "enclosure": {
+            "length": "2471399",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ml-21616/ml-21616-Weather.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/11/ML-21616-featured-image.png"
+        },
+        {
           "id": "5a3280b9270a601999f904d82bfca05f0f783e68",
           "author": "Maria Masood",
           "description": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute model-generated code safely inside it, and instrument each component to catch the pitfalls that quietly collapse a reward.",

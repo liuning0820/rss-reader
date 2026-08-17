@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-17T14:23:52.338Z</updated>
+    <updated>2026-08-17T16:23:45.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments]]></title>
+        <id>09559dd685a47bca5e3b94a074ceb00bc15d872e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/"/>
+        <updated>2026-08-17T16:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon Bedrock AgentCore payments and the x402 protocol, using the aws-agents-pay plugin to make bounded, human-approved testnet payments.]]></summary>
+        <author>
+            <name>Daniel Wirjo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #530]]></title>
         <id>https://sreweekly.com/?p=1799</id>

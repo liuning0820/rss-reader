@@ -103,6 +103,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1799",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Your on-call rotation shouldn’t double as your database’s HA strategy. PlanetScale databases ship with a primary and two replicas across three AZs, automated failover, and a 99.999% multi-region SLA. Postgres and Vitess available in AWS and GCP. → Get started with PlanetScale for just $5/mo Expertise […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-530/",
+          "publishedOn": "2026-08-17T03:41:30.000Z",
+          "wordCount": 1090,
+          "title": "SRE Weekly Issue #530",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1797",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Planetscale: Your on-call rotation shouldn’t double as your database’s HA strategy. PlanetScale databases ship with a primary and two replicas across three AZs, automated failover, and a 99.999% multi-region SLA. Postgres and Vitess available in AWS and GCP. → Get started with PlanetScale for just $5/mo Without […]",

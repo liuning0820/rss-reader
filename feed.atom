@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-17T02:56:29.734Z</updated>
+    <updated>2026-08-17T04:38:10.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #530]]></title>
+        <id>https://sreweekly.com/?p=1799</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-530/"/>
+        <updated>2026-08-17T03:41:30.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Your on-call rotation shouldn’t double as your database’s HA strategy. PlanetScale databases ship with a primary and two replicas across three AZs, automated failover, and a 99.999% multi-region SLA. Postgres and Vitess available in AWS and GCP. → Get started with PlanetScale for just $5/mo Expertise […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge]]></title>
         <id>5a3280b9270a601999f904d82bfca05f0f783e68</id>

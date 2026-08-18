@@ -156,6 +156,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f",
+          "author": "Chethan Shriyan",
+          "description": "Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-agnostic payment orchestration, and production-ready observability.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+          "publishedOn": "2026-08-18T18:56:14.000Z",
+          "wordCount": 35561,
+          "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+          "enclosure": {
+            "length": "78953051",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21677/ACPaymentsQuickCreate3.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21677-featured-image-1.png"
+        },
+        {
           "id": "950b40d5dbbd76bbebf419549700238549cd23fa",
           "author": "Chetan Makvana",
           "description": "Amazon Quick embedded chat brings a conversational AI interface into your web application. This post walks through customizing the embedded chat with container and SDK styling, branding removal, and a custom agent persona so it matches your brand's look, feel, and voice.",

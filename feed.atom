@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-18T18:33:39.832Z</updated>
+    <updated>2026-08-18T20:19:45.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale]]></title>
+        <id>12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/"/>
+        <updated>2026-08-18T18:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-agnostic payment orchestration, and production-ready observability.]]></summary>
+        <author>
+            <name>Chethan Shriyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Customize Amazon Quick embedded chat into your application]]></title>
         <id>950b40d5dbbd76bbebf419549700238549cd23fa</id>

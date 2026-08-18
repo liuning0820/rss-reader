@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-18T12:39:14.097Z</updated>
+    <updated>2026-08-18T14:29:46.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -824,16 +824,6 @@
         <summary type="html"><![CDATA[In this post, we describe how Tradeshift deployed Amazon Quick with agentic AI capabilities to replace our legacy BI tool, resulting in query response times up to 30 times faster, a 40 percent reduction in total cost of ownership, and turned embedded analytics into a product that generates revenue.]]></summary>
         <author>
             <name>Raphael Bres</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #526]]></title>
-        <id>https://sreweekly.com/?p=1787</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-526/"/>
-        <updated>2026-07-20T01:45:01.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Buildkite: More places to run, more scale to manage and maintain, usually means more blind spots; not here. Buildkite’s control plane holds the live state of every job, agent and queue, regardless of throughput size. See what’s running, what’s waiting and why with immediate insight → https://buildkite.com/platform/pipelines/ […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

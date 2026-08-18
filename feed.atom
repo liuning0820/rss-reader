@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-18T16:27:40.980Z</updated>
+    <updated>2026-08-18T18:33:39.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Customize Amazon Quick embedded chat into your application]]></title>
+        <id>950b40d5dbbd76bbebf419549700238549cd23fa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/"/>
+        <updated>2026-08-18T17:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick embedded chat brings a conversational AI interface into your web application. This post walks through customizing the embedded chat with container and SDK styling, branding removal, and a custom agent persona so it matches your brand's look, feel, and voice.]]></summary>
+        <author>
+            <name>Chetan Makvana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement vector-prompt document classification using Amazon Bedrock]]></title>
+        <id>b94cce62d43075443b4a7c26a6501396d8ba1d17</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/"/>
+        <updated>2026-08-18T17:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a multi-agent document classification solution on Amazon Bedrock using the Strands Agents SDK. Three specialized agents combine textual analysis with Claude Haiku 4.5 and visual similarity search with Amazon Titan Multimodal Embeddings to accurately classify insurance documents such as policies and affidavits.]]></summary>
+        <author>
+            <name>Pavana Sai Sree Chalamarla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Jumio built a real-time feature store on AWS]]></title>
+        <id>0ecd67497bc8d718139250b35b1ef3dd733d30e3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/"/>
+        <updated>2026-08-18T17:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Jumio built a centralized, real-time feature store on AWS with Amazon SageMaker Feature Store, Amazon Managed Service for Apache Flink, and Amazon Kinesis Data Streams. The architecture delivers sub-100ms feature serving for fraud detection and saves approximately $120,000 annually.]]></summary>
+        <author>
+            <name>Amit Peshwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve contract search accuracy with auto-generated filters in Amazon Bedrock]]></title>
+        <id>7547030cee0c7ba1296ee9382d3859f784384ae1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/"/>
+        <updated>2026-08-18T17:02:52.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we describe how AIDA works at a high level and how it helps address these challenges — grounding users in the right contracts, under the right legal context, and within the right access boundaries. Specifically, we explore how AIDA uses implicit and explicit filtering, along with metadata-enriched chunking in Amazon Bedrock Knowledge Bases, to dramatically improve contract search accuracy.]]></summary>
+        <author>
+            <name>Ariana Lopez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Axonius built secure multi-tenant AI agents on Bedrock AgentCore]]></title>
         <id>a1f4ace6ed8c5df4ecb9d93eabb3007247912d1f</id>

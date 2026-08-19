@@ -156,6 +156,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
+          "author": "Gaurav Deshmukh",
+          "description": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those sources must be, all enforced server-side. This release also expands Web Search to the Europe (Ireland) and Asia Pacific (Tokyo) Regions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+          "publishedOn": "2026-08-19T22:13:20.000Z",
+          "wordCount": 36643,
+          "title": "Domain and publish date filters for Web Search on AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/19/ML-21748-featured-image.png"
+        },
+        {
+          "id": "eaaa4ac356bc460ecb86cf18dabfe17bb35322af",
+          "author": "Gayatri Ohri",
+          "description": "Classifying, extracting, and validating high volumes of documents is a challenge across banking, insurance, healthcare, and the public sector. See how a mid-size mortgage lender automates its entire document intake pipeline, from email to validated data, using the AWS GAIIC IDP Accelerator and Amazon Quick Automate.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+          "publishedOn": "2026-08-19T22:09:56.000Z",
+          "wordCount": 35049,
+          "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-20366-featured-image.png"
+        },
+        {
+          "id": "af8acee944e5733d5cf6210c21fccec2cc8b42a3",
+          "author": "Daniel Abib",
+          "description": "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+          "publishedOn": "2026-08-19T22:06:09.000Z",
+          "wordCount": 36383,
+          "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21461-featured-image.png"
+        },
+        {
+          "id": "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
+          "author": "Parker Bradshaw",
+          "description": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting events. This post walks through the architecture, the AWS services involved, and the patterns for your own multi-agent support solution.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+          "publishedOn": "2026-08-19T20:40:45.000Z",
+          "wordCount": 37069,
+          "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-20393-featured-image.png"
+        },
+        {
+          "id": "887843aa4f6b53cf9fd0ddae24f0fa2e4162dfb1",
+          "author": "Anmol Dhankhar",
+          "description": "KnowledgeForge mines resolved ITSM incident tickets into new knowledge base articles and automatically curates the existing library by deduplicating, quality-scoring, and improving content, using Amazon Bedrock, Amazon S3 Vectors, and AWS Step Functions in a multi-tenant, closed-loop pipeline.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
+          "publishedOn": "2026-08-19T20:36:50.000Z",
+          "wordCount": 37339,
+          "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21271-featured-image.png"
+        },
+        {
           "id": "12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f",
           "author": "Chethan Shriyan",
           "description": "Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-agnostic payment orchestration, and production-ready observability.",

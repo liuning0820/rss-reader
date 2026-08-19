@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-19T20:23:04.885Z</updated>
+    <updated>2026-08-19T22:20:50.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Domain and publish date filters for Web Search on AgentCore]]></title>
+        <id>77ee46a42e265aa4cd77fe76cd7d06934591ec84</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/"/>
+        <updated>2026-08-19T22:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those sources must be, all enforced server-side. This release also expands Web Search to the Europe (Ireland) and Asia Pacific (Tokyo) Regions.]]></summary>
+        <author>
+            <name>Gaurav Deshmukh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate Document Processing with Quick Automate and the IDP Accelerator]]></title>
+        <id>eaaa4ac356bc460ecb86cf18dabfe17bb35322af</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/"/>
+        <updated>2026-08-19T22:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Classifying, extracting, and validating high volumes of documents is a challenge across banking, insurance, healthcare, and the public sector. See how a mid-size mortgage lender automates its entire document intake pipeline, from email to validated data, using the AWS GAIIC IDP Accelerator and Amazon Quick Automate.]]></summary>
+        <author>
+            <name>Gayatri Ohri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines]]></title>
+        <id>af8acee944e5733d5cf6210c21fccec2cc8b42a3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/"/>
+        <updated>2026-08-19T22:06:09.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.]]></summary>
+        <author>
+            <name>Daniel Abib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Fanatics Betting and Gaming built a multi-agent customer support system]]></title>
+        <id>c8a1920ea27bb2b98220333ddad20cccdbbe4727</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/"/>
+        <updated>2026-08-19T20:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting events. This post walks through the architecture, the AWS services involved, and the patterns for your own multi-agent support solution.]]></summary>
+        <author>
+            <name>Parker Bradshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KnowledgeForge: mining gold from the ITSM ticket graveyard]]></title>
+        <id>887843aa4f6b53cf9fd0ddae24f0fa2e4162dfb1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/"/>
+        <updated>2026-08-19T20:36:50.000Z</updated>
+        <summary type="html"><![CDATA[KnowledgeForge mines resolved ITSM incident tickets into new knowledge base articles and automatically curates the existing library by deduplicating, quality-scoring, and improving content, using Amazon Bedrock, Amazon S3 Vectors, and AWS Step Functions in a multi-tenant, closed-loop pipeline.]]></summary>
+        <author>
+            <name>Anmol Dhankhar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale]]></title>
         <id>12f1da7fc2b3e4a6e9ccd34bd88bf557109f7e0f</id>

@@ -156,6 +156,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "52fbb58a12b51e241c558edcf156926f2fb965b3",
+          "author": "Kristine Pearce",
+          "description": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many agentic AI systems across a multi-everything environment of frameworks, models, and providers, and the principles that let those systems scale together.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+          "publishedOn": "2026-08-20T16:24:12.000Z",
+          "wordCount": 36282,
+          "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-20861-featured-image.png"
+        },
+        {
+          "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
+          "author": "Nikhil Jha",
+          "description": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-08-20T16:11:18.000Z",
+          "wordCount": 36747,
+          "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/12/ML-20875-featured-image.png"
+        },
+        {
+          "id": "e458bdc48b55905c2957360d67ec38bc45c8a526",
+          "author": "Marc Trimuschat",
+          "description": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data migration required. This post covers six purpose-built services, a decision framework for choosing the right engine, and customer proof points for each.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
+          "publishedOn": "2026-08-20T16:06:06.000Z",
+          "wordCount": 36648,
+          "title": "AWS vector solutions: Build agentic AI where your data lives",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-21681-featured-image.png"
+        },
+        {
+          "id": "9aa7f20719e8fd485b6ad4d2d63b184663def92d",
+          "author": "Durgesh Nath",
+          "description": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in natural language, all without adding latency to clinical workflows.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
+          "publishedOn": "2026-08-20T15:20:03.000Z",
+          "wordCount": 36664,
+          "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-19660-featured-image.png"
+        },
+        {
           "id": "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
           "author": "Gaurav Deshmukh",
           "description": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those sources must be, all enforced server-side. This release also expands Web Search to the Europe (Ireland) and Asia Pacific (Tokyo) Regions.",

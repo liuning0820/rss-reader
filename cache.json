@@ -914,16 +914,6 @@
           "wordCount": 34618,
           "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/ML-21226.png"
-        },
-        {
-          "id": "4f85d2b1154526202e9b3034e44e7fb5d6011e18",
-          "author": "Rushil Anirudh",
-          "description": "In this post, we explore an idea for generating thinking tokens for datasets that lack reasoning traces in SFT customization. We first examine the reasoning suppression problem, then introduce Self-Distilled Reasoning (SDR), validate it across three benchmarks, and provide practical recommendations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
-          "publishedOn": "2026-07-21T16:23:12.000Z",
-          "wordCount": 36202,
-          "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/21/ml-20897.png"
         }
       ]
     }

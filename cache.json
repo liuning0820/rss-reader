@@ -156,6 +156,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "4f766a78e962cad52bb901c5ca408d902b8d04c5",
+          "author": "Sandesh Swamy",
+          "description": "AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agents, now including time-based constraints. This post shows how Policy Authoring turns natural-language policy documents into correct Dogwood policies, with worked examples and best practices.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-08-20T16:31:28.000Z",
+          "wordCount": 36633,
+          "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/17/ML-21689-featured-image.png"
+        },
+        {
           "id": "52fbb58a12b51e241c558edcf156926f2fb965b3",
           "author": "Kristine Pearce",
           "description": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many agentic AI systems across a multi-everything environment of frameworks, models, and providers, and the principles that let those systems scale together.",

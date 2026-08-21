@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-21T02:59:13.494Z</updated>
+    <updated>2026-08-21T04:34:38.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -964,16 +964,6 @@
         <summary type="html"><![CDATA[This post focuses on why classic retrieval falls short on multi-part questions, how the AgenticRetrieveStream API works (including request construction and trace parsing), and when to choose it over the standard Retrieve API.]]></summary>
         <author>
             <name>Omar Elkharbotly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Teammates: how monday.com runs production AI agents on Amazon Bedrock]]></title>
-        <id>0e4b3df28e2f0e445b59d1139fd47c4b4e574f08</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/"/>
-        <updated>2026-07-22T15:54:28.000Z</updated>
-        <summary type="html"><![CDATA[AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a year ago. Per-engineer PR throughput is up by more than half. Every figure in this post comes from monday’s own internal production data. In this post, we share the architecture behind those numbers, the retrofits that made it work in a decade-old code base, and the confidence-scored merge play closing the gap to full autonomy.]]></summary>
-        <author>
-            <name>Claudio Mazzoni</name>
         </author>
     </entry>
 </feed>

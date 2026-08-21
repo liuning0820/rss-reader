@@ -156,6 +156,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6c5f78444fc96b736282fbe41d92d8c3e27556d8",
+          "author": "John Cherian",
+          "description": "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance controls inline.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+          "publishedOn": "2026-08-21T17:06:17.000Z",
+          "wordCount": 36057,
+          "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-20916-featured-image.png"
+        },
+        {
+          "id": "2e18f3cfd26a69da47848a4c1ac5c4cdb8a138d7",
+          "author": "Talha Chattha",
+          "description": "Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a governed tool gateway with Amazon Bedrock AgentCore, advancing only when real governance pain demands it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
+          "publishedOn": "2026-08-21T17:02:35.000Z",
+          "wordCount": 39354,
+          "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21003-featured-image.png"
+        },
+        {
+          "id": "c9af9a1d9e8740d86e0066f2fec69fedabf450da",
+          "author": "Aakanksha Veesam",
+          "description": "Input tokens are often a meaningful part of the cost of running Retrieval Augmented Generation (RAG) at scale. This post describes a query-aware context compression pattern on Amazon Bedrock: after retrieval, a smaller model filters retrieved chunks against the query before the primary model answers, reducing input tokens and cost while preserving answer quality.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
+          "publishedOn": "2026-08-21T16:59:15.000Z",
+          "wordCount": 36709,
+          "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/19/ML-21148-featured-image.png"
+        },
+        {
+          "id": "ed00b717fca4a544868c35ad4ab20128af9b7c97",
+          "author": "Satyen Yadav",
+          "description": "Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity (IFEC) issues across a global fleet, reducing diagnosis time from hours to minutes while maintaining accuracy.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/",
+          "publishedOn": "2026-08-21T16:57:01.000Z",
+          "wordCount": 35599,
+          "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-20350-featured-image.png"
+        },
+        {
           "id": "95e4972674e71ff3cec032accfd9935a8cacf472",
           "author": "Melanie Li",
           "description": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput, how to call the models with the OpenAI and Converse APIs, and how to configure IAM, quotas, and monitoring.",

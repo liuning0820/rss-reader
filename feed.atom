@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-21T16:29:52.334Z</updated>
+    <updated>2026-08-21T18:31:59.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic Data Operations Platform (ADOP): Data engineering into hours]]></title>
+        <id>6c5f78444fc96b736282fbe41d92d8c3e27556d8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/"/>
+        <updated>2026-08-21T17:06:17.000Z</updated>
+        <summary type="html"><![CDATA[The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance controls inline.]]></summary>
+        <author>
+            <name>John Cherian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govern AI agent tool access with Amazon Bedrock AgentCore Gateway]]></title>
+        <id>2e18f3cfd26a69da47848a4c1ac5c4cdb8a138d7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/"/>
+        <updated>2026-08-21T17:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a governed tool gateway with Amazon Bedrock AgentCore, advancing only when real governance pain demands it.]]></summary>
+        <author>
+            <name>Talha Chattha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce RAG costs on Amazon Bedrock with query-aware compression]]></title>
+        <id>c9af9a1d9e8740d86e0066f2fec69fedabf450da</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/"/>
+        <updated>2026-08-21T16:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Input tokens are often a meaningful part of the cost of running Retrieval Augmented Generation (RAG) at scale. This post describes a query-aware context compression pattern on Amazon Bedrock: after retrieval, a smaller model filters retrieved chunks against the query before the primary model answers, reducing input tokens and cost while preserving answer quality.]]></summary>
+        <author>
+            <name>Aakanksha Veesam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating aircraft IFEC diagnostics with agentic AI on AWS]]></title>
+        <id>ed00b717fca4a544868c35ad4ab20128af9b7c97</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/"/>
+        <updated>2026-08-21T16:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity (IFEC) issues across a global fleet, reducing diagnosis time from hours to minutes while maintaining accuracy.]]></summary>
+        <author>
+            <name>Satyen Yadav</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock]]></title>
         <id>95e4972674e71ff3cec032accfd9935a8cacf472</id>

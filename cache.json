@@ -984,56 +984,6 @@
           "wordCount": 37931,
           "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/21149.png"
-        },
-        {
-          "id": "410934ec87b141703e6c3bc069789dbcf4a5c5cd",
-          "author": "Amit Deol",
-          "description": "Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detection time from few hours to few minutes. The pipeline combines the Strands Agents SDK with Amazon Bedrock AgentCore, a fully managed service for deploying and operating AI agents at scale. In this post, you will learn how to build this pipeline for your own agents.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-          "publishedOn": "2026-07-23T17:00:20.000Z",
-          "wordCount": 36896,
-          "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/ml-20515.png"
-        },
-        {
-          "id": "cc479b57e1ea0c463df5c4d0bc58065791625e96",
-          "author": "Sanjay Nagraj",
-          "description": "In this post, we explore how Jefferies overcame these challenges with a solution built on Strands Agents, an agent harness SDK for building AI agents that can reason, plan, and act by orchestrating calls to foundation models (FMs) and external tools. The solution uses large language models (LLMs), Amazon Bedrock, and Amazon Bedrock Knowledge Bases. It also uses Model Context Protocol (MCP), an open standard that helps AI agents securely connect to diverse data sources and tools through a unified interface. We cover the solution overview, the rationale for selecting the underlying technology stack, lessons learned, and the business impact the solution created at Jefferies.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
-          "publishedOn": "2026-07-23T16:42:54.000Z",
-          "wordCount": 35805,
-          "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/ml-20564.png"
-        },
-        {
-          "id": "961db7d61f2355044c084059d32c9681d1697de0",
-          "author": "Anupa Bhattacharyya",
-          "description": "This post shows you how to build multi-Region carrier performance dashboards in Quick Sight using Highcharts custom visualizations to overcome native chart limitations. You will learn how to maintain data sovereignty across AWS Regions while creating unified visualizations through the Quick Sight federated dataset capability. The solution includes production-ready chart configurations and addresses security, compliance, and scalability requirements.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/",
-          "publishedOn": "2026-07-23T16:40:59.000Z",
-          "wordCount": 38454,
-          "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/ml-21423.png"
-        },
-        {
-          "id": "b8492994fb11ad3c2c2ec564ae4776af15643304",
-          "author": "Vivek Singh",
-          "description": "Amazon Bedrock AgentCore optimization surfaces silent behavioral failures in production AI agents: the ones that pass every health check but still deliver wrong outcomes. Learn how insights discovers, explains, and ranks failure patterns across sessions so you can fix the highest-impact issues first.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
-          "publishedOn": "2026-07-23T16:38:34.000Z",
-          "wordCount": 35869,
-          "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/21350.png"
-        },
-        {
-          "id": "2e5de60d2a753bcadc3236a9780dbc1020b7eb60",
-          "author": "Omar Elkharbotly",
-          "description": "This post focuses on why classic retrieval falls short on multi-part questions, how the AgenticRetrieveStream API works (including request construction and trace parsing), and when to choose it over the standard Retrieve API.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
-          "publishedOn": "2026-07-23T16:30:20.000Z",
-          "wordCount": 36351,
-          "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/ml-21281.png"
         }
       ]
     }

@@ -974,16 +974,6 @@
           "wordCount": 37208,
           "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/21450-1.png"
-        },
-        {
-          "id": "df45dac76900a835b5c00ed07f954db778378994",
-          "author": "Sandeep Singh",
-          "description": "In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
-          "publishedOn": "2026-07-23T23:03:44.000Z",
-          "wordCount": 37931,
-          "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/21149.png"
         }
       ]
     }

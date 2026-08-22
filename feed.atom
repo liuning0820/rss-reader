@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-22T10:19:32.594Z</updated>
+    <updated>2026-08-22T12:33:01.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -944,16 +944,6 @@
         <summary type="html"><![CDATA[OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching, connect the OpenAI Codex coding agent, and plan for quotas and scaling.]]></summary>
         <author>
             <name>Zohreh Norouzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices for applying Amazon Bedrock Guardrails to code generation workflows]]></title>
-        <id>df45dac76900a835b5c00ed07f954db778378994</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"/>
-        <updated>2026-07-23T23:03:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.]]></summary>
-        <author>
-            <name>Sandeep Singh</name>
         </author>
     </entry>
 </feed>

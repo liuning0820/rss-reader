@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-23T02:59:08.499Z</updated>
+    <updated>2026-08-23T04:33:03.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -924,26 +924,6 @@
         <summary type="html"><![CDATA[This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on Amazon Bedrock. See the documentation for Claude Platform on AWS.]]></summary>
         <author>
             <name>Aamna Najmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an explainable next-best-product recommendation system for banking on AWS]]></title>
-        <id>aed1ba89e6cf49e75c72de98670971785d732274</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/"/>
-        <updated>2026-07-24T15:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Learn the architecture and design decisions behind an explainable next-best-product recommendation system for banking, built with Amazon SageMaker AI and PyTorch. A multi-tower neural network with learned attention delivers accurate, per-customer recommendations while providing the explainability that banking regulators require.]]></summary>
-        <author>
-            <name>Ayush Singh Chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock]]></title>
-        <id>b55df4bf2a464ecbce7f2c5865b99118d41c2af0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/"/>
-        <updated>2026-07-24T15:40:08.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the bedrock-mantle endpoint, reduce cost with prompt caching, connect the OpenAI Codex coding agent, and plan for quotas and scaling.]]></summary>
-        <author>
-            <name>Zohreh Norouzi</name>
         </author>
     </entry>
 </feed>

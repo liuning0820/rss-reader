@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-24T18:35:32.674Z</updated>
+    <updated>2026-08-24T20:26:35.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing new Ray capabilities on SageMaker HyperPod]]></title>
+        <id>1869206df2363735c9e3340493ba659c7c99406b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/"/>
+        <updated>2026-08-24T19:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient distributed training and accelerated inference from SageMaker Studio, all with open-source KubeRay and standard Ray APIs.]]></summary>
+        <author>
+            <name>Nilesh PS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS]]></title>
+        <id>514f64a1d1a2cab71210818ae36ea45416707064</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/"/>
+        <updated>2026-08-24T18:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a customizable, smart-caching knowledge management system on AWS that captures and delivers institutional (tribal) knowledge through a voice-first AI avatar. The accelerator uses Amazon Bedrock Knowledge Bases for retrieval-augmented generation and deploys in hours with AWS CloudFormation.]]></summary>
+        <author>
+            <name>Nneoma Okoroafor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic Resource Discovery (ARD): An open specification for agent discovery]]></title>
         <id>f61f463ab9563e66a529a7da9c9531a100084eab</id>

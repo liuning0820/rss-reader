@@ -166,6 +166,41 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "f61f463ab9563e66a529a7da9c9531a100084eab",
+          "author": "Jeffrey Damick",
+          "description": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and governance at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+          "publishedOn": "2026-08-24T16:22:03.000Z",
+          "wordCount": 34749,
+          "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/20/ML-21618-featured-image.png"
+        },
+        {
+          "id": "f6dbb715cf6797ac83fc9d802c4016dc73ee20b0",
+          "author": "Sergio Barraza",
+          "description": "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazon Bedrock AgentCore Gateway to reach backend tools through MCP.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+          "publishedOn": "2026-08-24T16:13:09.000Z",
+          "wordCount": 37798,
+          "title": "Building a restaurant telephony AI host with Amazon Connect",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-21038-featured-image.png"
+        },
+        {
+          "id": "58b39b59cc2f3302ff9191bf88d66d13a89530dd",
+          "author": "Joseph Cottingham",
+          "description": "Metadata harmonization (standardizing labels, identifiers, and formats so datasets can work together) is still largely manual. This post shows how AI-powered metadata correction works in practice, covering two approaches, human-in-the-loop validation and autonomous agent-driven workflows, plus governance considerations for production deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
+          "publishedOn": "2026-08-24T15:53:03.000Z",
+          "wordCount": 36950,
+          "title": "AI-powered metadata correction and harmonization",
+          "enclosure": {
+            "length": "31994911",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20044/UI-Demo.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/07/ML-20044-featured-image.png"
+        },
+        {
           "id": "6c5f78444fc96b736282fbe41d92d8c3e27556d8",
           "author": "John Cherian",
           "description": "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance controls inline.",

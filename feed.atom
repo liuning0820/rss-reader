@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-24T14:38:10.534Z</updated>
+    <updated>2026-08-24T16:33:12.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic Resource Discovery (ARD): An open specification for agent discovery]]></title>
+        <id>f61f463ab9563e66a529a7da9c9531a100084eab</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/"/>
+        <updated>2026-08-24T16:22:03.000Z</updated>
+        <summary type="html"><![CDATA[AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and governance at scale.]]></summary>
+        <author>
+            <name>Jeffrey Damick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a restaurant telephony AI host with Amazon Connect]]></title>
+        <id>f6dbb715cf6797ac83fc9d802c4016dc73ee20b0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/"/>
+        <updated>2026-08-24T16:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazon Bedrock AgentCore Gateway to reach backend tools through MCP.]]></summary>
+        <author>
+            <name>Sergio Barraza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-powered metadata correction and harmonization]]></title>
+        <id>58b39b59cc2f3302ff9191bf88d66d13a89530dd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/"/>
+        <updated>2026-08-24T15:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Metadata harmonization (standardizing labels, identifiers, and formats so datasets can work together) is still largely manual. This post shows how AI-powered metadata correction works in practice, covering two approaches, human-in-the-loop validation and autonomous agent-driven workflows, plus governance considerations for production deployment.]]></summary>
+        <author>
+            <name>Joseph Cottingham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #531]]></title>
         <id>https://sreweekly.com/?p=1806</id>

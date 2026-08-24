@@ -103,6 +103,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1806",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale Metal runs Postgres and Vitess on dedicated NVMe inside AWS and GCP. Get data center speed next to your app, with unlimited IOPS and no throttling. Teams routinely see a 70% drop in p99 and p95 latency after migrating. → See the benchmarks Heroic saves […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-531/",
+          "publishedOn": "2026-08-24T03:58:12.000Z",
+          "wordCount": 1076,
+          "title": "SRE Weekly Issue #531",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1799",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Planetscale: Your on-call rotation shouldn’t double as your database’s HA strategy. PlanetScale databases ship with a primary and two replicas across three AZs, automated failover, and a 99.999% multi-region SLA. Postgres and Vitess available in AWS and GCP. → Get started with PlanetScale for just $5/mo Expertise […]",

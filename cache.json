@@ -167,6 +167,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d19c9a80a6c9cff4fad87f27b9628f0939c589c7",
+          "author": "Ebbey Thomas",
+          "description": "Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a Quick knowledge base, and a custom skill drafts cited weekly reports and Slack summaries with human review before anything is shared.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+          "publishedOn": "2026-08-25T16:35:01.000Z",
+          "wordCount": 37221,
+          "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-20626-featured-image.png"
+        },
+        {
           "id": "1869206df2363735c9e3340493ba659c7c99406b",
           "author": "Nilesh PS",
           "description": "Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient distributed training and accelerated inference from SageMaker Studio, all with open-source KubeRay and standard Ray APIs.",

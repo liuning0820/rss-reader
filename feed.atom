@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-25T16:33:18.696Z</updated>
+    <updated>2026-08-25T18:35:15.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP]]></title>
+        <id>d19c9a80a6c9cff4fad87f27b9628f0939c589c7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/"/>
+        <updated>2026-08-25T16:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a Quick knowledge base, and a custom skill drafts cited weekly reports and Slack summaries with human review before anything is shared.]]></summary>
+        <author>
+            <name>Ebbey Thomas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing new Ray capabilities on SageMaker HyperPod]]></title>
         <id>1869206df2363735c9e3340493ba659c7c99406b</id>

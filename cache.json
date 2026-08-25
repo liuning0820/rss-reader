@@ -167,6 +167,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "bcd03430b15f5c1675997d3f2fcc6d165ab30085",
+          "author": "Hang Zuo",
+          "description": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to logs to root cause in one conversation, and how you can verify every step inline without leaving your IDE.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+          "publishedOn": "2026-08-25T19:00:09.000Z",
+          "wordCount": 36064,
+          "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/04/ML-21227-featured-image.png"
+        },
+        {
           "id": "d19c9a80a6c9cff4fad87f27b9628f0939c589c7",
           "author": "Ebbey Thomas",
           "description": "Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a Quick knowledge base, and a custom skill drafts cited weekly reports and Slack summaries with human review before anything is shared.",

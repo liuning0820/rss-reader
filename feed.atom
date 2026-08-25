@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-25T18:35:15.997Z</updated>
+    <updated>2026-08-25T20:24:55.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic observability with Amazon OpenSearch Service MCP Apps]]></title>
+        <id>bcd03430b15f5c1675997d3f2fcc6d165ab30085</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/"/>
+        <updated>2026-08-25T19:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to logs to root cause in one conversation, and how you can verify every step inline without leaving your IDE.]]></summary>
+        <author>
+            <name>Hang Zuo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP]]></title>
         <id>d19c9a80a6c9cff4fad87f27b9628f0939c589c7</id>

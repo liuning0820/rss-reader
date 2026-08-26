@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-26T03:01:13.172Z</updated>
+    <updated>2026-08-26T04:36:13.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -944,36 +944,6 @@
         <summary type="html"><![CDATA[Learn how to architect and deploy a production-ready multi-agent AI system using LangGraph for workflow orchestration and Strands for agent reasoning on Amazon Bedrock AgentCore. This post walks through a market surveillance example with state-driven orchestration, checkpoint-based recovery, and AgentCore memory and observability.]]></summary>
         <author>
             <name>Gleb Geinke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS]]></title>
-        <id>cbad567aad2bb2590b2669a0b65c5855fd6c5038</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/"/>
-        <updated>2026-07-27T16:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Traditional RAG hits a ceiling on analytical tasks that span hundreds of documents. This post shows how to use task-aware knowledge compression (TAKC) on AWS to pre-compress entire knowledge bases into task-specific representations, cache them at multiple fidelity tiers, and route each query to the right tier, with an open-source implementation you can deploy.]]></summary>
-        <author>
-            <name>Dhananjay Karanjkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation]]></title>
-        <id>72b5c0a199d504fa88551498e1266ad76dcde68f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/"/>
-        <updated>2026-07-27T16:07:44.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we cover why Deepgram built on IAM temporary delegation, how the integration works end-to-end, and what it unlocks for customers running Deepgram speech models on SageMaker AI. With this integration, Deepgram has reduced the time for initial investigation on a SageMaker AI support ticket from days to minutes.]]></summary>
-        <author>
-            <name>Victor Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Guardoc transforms medical document processing with Amazon Nova models]]></title>
-        <id>c5575b29b284222ddffe4c5ab493d8ec88e90f92</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/"/>
-        <updated>2026-07-27T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentation in long-term care.]]></summary>
-        <author>
-            <name>Wrick Talukdar</name>
         </author>
     </entry>
 </feed>

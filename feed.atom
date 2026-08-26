@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-26T01:08:11.203Z</updated>
+    <updated>2026-08-26T03:01:13.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -974,26 +974,6 @@
         <summary type="html"><![CDATA[In this post, we explore how Guardoc Health uses the Amazon Nova family of models, available through Amazon Bedrock, to transform clinical documentation in long-term care.]]></summary>
         <author>
             <name>Wrick Talukdar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brewster’s Trillions]]></title>
-        <id>https://blog.thestateofme.com/?p=6952</id>
-        <link href="http://blog.thestateofme.com/2026/07/27/brewsters-trillions/"/>
-        <updated>2026-07-27T14:30:50.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR The AI infrastructure bubble has reached a point where companies just can’t actually spent all the money they might (notionally) have allocated. There might be money on a balance sheet somewhere, but good luck exchanging it for actual GPUs, or HVAC, or HVAC installers, or… When the sums of money get large enough it […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brewster’s Trillions]]></title>
-        <id>http://blog.thestateofme.com/?p=6952</id>
-        <link href="https://blog.thestateofme.com/2026/07/27/brewsters-trillions/"/>
-        <updated>2026-07-27T14:30:50.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR The AI infrastructure bubble has reached a point where companies just can’t actually spent all the money they might (notionally) have allocated. There might be money on a balance sheet somewhere, but good luck exchanging it for actual GPUs, or HVAC, or HVAC installers, or… When the sums of money get large enough it […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

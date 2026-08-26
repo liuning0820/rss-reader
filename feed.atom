@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-26T14:40:29.122Z</updated>
+    <updated>2026-08-26T16:45:20.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore]]></title>
+        <id>ef4c2cbf0c80f08b0a3b7288b5d3e79787f03342</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-08-26T16:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven latency masking, and progressive-trust authentication behind 100% tool-calling accuracy and sub-7-second latency.]]></summary>
+        <author>
+            <name>Cem Onan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring your own model with Amazon SageMaker AI: Script mode in SDK v3]]></title>
+        <id>f5a77fb6b59e60eab7cd796826d4c487a56c8501</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/"/>
+        <updated>2026-08-26T16:31:32.000Z</updated>
+        <summary type="html"><![CDATA[The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5 LoRA fine-tune, showing how SourceCode syncs your local code into any container at runtime so you can iterate without rebuilding Docker images.]]></summary>
+        <author>
+            <name>Bobby Lindsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing data for supervised fine-tuning Part 2: Advanced data strategies]]></title>
+        <id>1e93ba86b7ae1669fbe51dab04bbc4c453221247</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/"/>
+        <updated>2026-08-26T16:24:05.000Z</updated>
+        <summary type="html"><![CDATA[The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting high-value data subsets, augmenting data with synthetic and distilled examples, and mixing data sources to prevent catastrophic forgetting.]]></summary>
+        <author>
+            <name>Krishnateja Killamsetty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing data for supervised fine-tuning Part 1: Formatting and quality]]></title>
+        <id>754286664acbb27c986bdae9cedda3b54d89bae4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/"/>
+        <updated>2026-08-26T16:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: quality checks, conversational (JSONL) formatting, reasoning and tool-calling schemas, and a representative train/evaluation split.]]></summary>
+        <author>
+            <name>Elyse Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect Amazon Bedrock AgentCore to cross-account knowledge bases]]></title>
+        <id>72a57f49ae4a30c9171124efb14f5f05b1febd89</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/"/>
+        <updated>2026-08-26T15:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers the architecture, security boundary, and two orchestration models: a code-based Strands agent and a declarative AgentCore harness.]]></summary>
+        <author>
+            <name>Kunal Ghosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic observability with Amazon OpenSearch Service MCP Apps]]></title>
         <id>bcd03430b15f5c1675997d3f2fcc6d165ab30085</id>

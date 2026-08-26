@@ -147,6 +147,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "ef4c2cbf0c80f08b0a3b7288b5d3e79787f03342",
+          "author": "Cem Onan",
+          "description": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven latency masking, and progressive-trust authentication behind 100% tool-calling accuracy and sub-7-second latency.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-08-26T16:36:35.000Z",
+          "wordCount": 37707,
+          "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/21/ML-20996-featured-image.png"
+        },
+        {
+          "id": "f5a77fb6b59e60eab7cd796826d4c487a56c8501",
+          "author": "Bobby Lindsey",
+          "description": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5 LoRA fine-tune, showing how SourceCode syncs your local code into any container at runtime so you can iterate without rebuilding Docker images.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+          "publishedOn": "2026-08-26T16:31:32.000Z",
+          "wordCount": 37155,
+          "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/21/ML-21212-featured-image.png"
+        },
+        {
+          "id": "1e93ba86b7ae1669fbe51dab04bbc4c453221247",
+          "author": "Krishnateja Killamsetty",
+          "description": "The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting high-value data subsets, augmenting data with synthetic and distilled examples, and mixing data sources to prevent catastrophic forgetting.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
+          "publishedOn": "2026-08-26T16:24:05.000Z",
+          "wordCount": 36330,
+          "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-20903P2-featured-image.png"
+        },
+        {
+          "id": "754286664acbb27c986bdae9cedda3b54d89bae4",
+          "author": "Elyse Zhang",
+          "description": "Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: quality checks, conversational (JSONL) formatting, reasoning and tool-calling schemas, and a representative train/evaluation split.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
+          "publishedOn": "2026-08-26T16:24:02.000Z",
+          "wordCount": 36265,
+          "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/18/ML-20903P1-featured-image.png"
+        },
+        {
+          "id": "72a57f49ae4a30c9171124efb14f5f05b1febd89",
+          "author": "Kunal Ghosh",
+          "description": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers the architecture, security boundary, and two orchestration models: a code-based Strands agent and a declarative AgentCore harness.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+          "publishedOn": "2026-08-26T15:48:10.000Z",
+          "wordCount": 35516,
+          "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/21/ML-20558-featured-image.png"
+        },
+        {
           "id": "bcd03430b15f5c1675997d3f2fcc6d165ab30085",
           "author": "Hang Zuo",
           "description": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to logs to root cause in one conversation, and how you can verify every step inline without leaving your IDE.",

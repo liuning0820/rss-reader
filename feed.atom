@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-26T16:45:20.486Z</updated>
+    <updated>2026-08-26T19:43:00.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations]]></title>
+        <id>df64df944c17204a015d9f827bd37bc9ecaa7303</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/"/>
+        <updated>2026-08-26T19:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the OpenAI Agents SDK, Google ADK, the Claude Agent SDK, or Strands Agents. This post explains how the framework-agnostic contract works.]]></summary>
+        <author>
+            <name>Swarnim Singhal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GoDaddy transformed its analytics with Amazon Quick]]></title>
+        <id>3668d897d708fb2baf6d1be4ebabc03a143e5bee</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/"/>
+        <updated>2026-08-26T16:51:53.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn how GoDaddy migrated from their legacy business intelligence (BI) tool to Amazon Quick. This was a two-year transformation that delivered results across every dimension of the business: 15,000 hours saved annually, 50% reduction in dashboard count, rendering times cut to under 5 seconds, and AI-powered self-service analytics now accessible to every employee.]]></summary>
+        <author>
+            <name>Jake Minette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore]]></title>
         <id>ef4c2cbf0c80f08b0a3b7288b5d3e79787f03342</id>

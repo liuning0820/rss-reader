@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=7027",
+          "author": "Chris Swan",
+          "description": "It’s been a couple of months since Milo finished his fourth (modified) CHOP/CEOP protocol, and he’s been able to enjoy the summer without any vet visits[1]. We’d been hoping for a nice long remission like last year, but that wasn’t to be. A scan at the start of this week found a lesion on his […]",
+          "link": "https://blog.thestateofme.com/2026/08/27/milo-cancer-diary-part-24-fifth-protocol/",
+          "publishedOn": "2026-08-27T17:29:29.000Z",
+          "wordCount": 4131,
+          "title": "Milo cancer diary part 24 – Fifth protocol",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/08/milo_raspberries_2026.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=7015",
           "author": "Chris Swan",
           "description": "TL;DR The attention economy dynamics for AI chatbots and agents are very different from social media, and so we’re seeing a whole new approach to capturing (and keeping) our attention. This comes down to fundamental human nature – the strongest fuel for groups is outrage; and whilst it might burn dirty and contaminate everything around […]",
@@ -146,6 +156,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "a396074812fe8a0090f88e23aed4ff7add4538d3",
+          "author": "Sahil Verma",
+          "description": "Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+          "publishedOn": "2026-08-27T18:36:08.000Z",
+          "wordCount": 36680,
+          "title": "Introducing India cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/24/ML-21755-featured-image.png"
+        },
+        {
+          "id": "3e8957b68753589eff32ed4d4989a283a55ca308",
+          "author": "Victor Wang",
+          "description": "Self-hosted speech AI carries an observability trade-off: the numbers that drive capacity planning and cost management stay locked inside the vendor container. Deepgram closes that gap on Amazon SageMaker AI with two capabilities that land billing, usage, and per-GPU metrics directly in your own Amazon CloudWatch account.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+          "publishedOn": "2026-08-27T16:11:27.000Z",
+          "wordCount": 35920,
+          "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/21/ML-21597-featured-image.png"
+        },
+        {
+          "id": "61ebfd4bb75d20f4c4d64b731c1e86a4ebed0031",
+          "author": "Iman Abbasnejad",
+          "description": "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Service (MPS) with NVIDIA Triton Inference Server on Amazon EC2 GPU instances cuts GPU infrastructure by 75% while holding sub-second latency at 92.1 requests per second per GPU.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+          "publishedOn": "2026-08-27T16:05:10.000Z",
+          "wordCount": 36884,
+          "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/04/ML-21209-featured-image.png"
+        },
         {
           "id": "df64df944c17204a015d9f827bd37bc9ecaa7303",
           "author": "Swarnim Singhal",

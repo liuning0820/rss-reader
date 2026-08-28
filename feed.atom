@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-27T18:49:17.803Z</updated>
+    <updated>2026-08-28T04:01:24.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build agentic creative workflows with Amazon Quick and fal]]></title>
+        <id>3c57691eafa2d6c582d04d51debd371df1ea818e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/"/>
+        <updated>2026-08-27T23:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype.]]></summary>
+        <author>
+            <name>James Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India]]></title>
+        <id>a396074812fe8a0090f88e23aed4ff7add4538d3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/"/>
+        <updated>2026-08-27T18:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India.]]></summary>
+        <author>
+            <name>Sahil Verma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing India cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock]]></title>
         <id>a396074812fe8a0090f88e23aed4ff7add4538d3</id>
@@ -1014,26 +1034,6 @@
         <summary type="html"><![CDATA[This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an AWS KMS signing key, registering its public key with your identity provider, configuring a credential provider on the AWS Management Console, and reviewing example AWS CloudTrail events that record your agent’s access.]]></summary>
         <author>
             <name>Swara Gandhi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate Autonomous Business Insights with AI Agent and MCP Servers]]></title>
-        <id>5399570beb6fc51047d9138d06247cfdb4cf8d63</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/"/>
-        <updated>2026-07-29T15:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and persistent memory, enterprises can query multiple data sources with natural language while enforcing role-based boundaries automatically.]]></summary>
-        <author>
-            <name>Sudhanshu Hate</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating customer retention workflows in Amazon Quick]]></title>
-        <id>feb5d9d0ff41eed6fe60095636b3550675d64da2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/"/>
-        <updated>2026-07-29T15:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a no-code customer retention pipeline in Amazon Quick that detects at-risk customers from call transcripts and CSAT data, scores them by retention priority with a custom MCP Action, and generates personalized retention letters, reducing response time from days to minutes.]]></summary>
-        <author>
-            <name>Vaidy Janardhanam</name>
         </author>
     </entry>
 </feed>

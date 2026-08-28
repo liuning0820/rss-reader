@@ -157,6 +157,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "dae4053b37d7ed7b3612288d4b8268c30de807fd",
+          "author": "Vianney Bruned",
+          "description": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+          "publishedOn": "2026-08-28T16:22:30.000Z",
+          "wordCount": 36047,
+          "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/24/ML-21294-featured-image.png"
+        },
+        {
+          "id": "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278",
+          "author": "Rielah De Jesus",
+          "description": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+          "publishedOn": "2026-08-28T16:20:40.000Z",
+          "wordCount": 35919,
+          "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/25/ML-20956-featured-image.png"
+        },
+        {
           "id": "3c57691eafa2d6c582d04d51debd371df1ea818e",
           "author": "James Wu",
           "description": "Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype.",
@@ -1065,16 +1085,6 @@
           "wordCount": 37285,
           "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/28/20950.png"
-        },
-        {
-          "id": "2f268e77e09a1b42f31a12d09b4d92e8a7e6ec6c",
-          "author": "Swara Gandhi",
-          "description": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an AWS KMS signing key, registering its public key with your identity provider, configuring a credential provider on the AWS Management Console, and reviewing example AWS CloudTrail events that record your agent’s access.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
-          "publishedOn": "2026-07-29T16:20:28.000Z",
-          "wordCount": 35866,
-          "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/29/ml-21480.png"
         }
       ]
     }

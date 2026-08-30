@@ -1035,16 +1035,6 @@
           "wordCount": 36388,
           "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/Announcing-the-Agentic-Catalog-Experience-in-Amazon-Quick.png"
-        },
-        {
-          "id": "64799e5f6577ed834ae5241ca5bcee136c4fc073",
-          "author": "Joshua Lacy",
-          "description": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon Bedrock AgentCore Observability and Amazon CloudWatch to find performance bottlenecks and diagnose memory issues in long-running agent sessions.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
-          "publishedOn": "2026-07-31T15:33:11.000Z",
-          "wordCount": 35965,
-          "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/ml-20467.png"
         }
       ]
     }

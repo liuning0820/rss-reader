@@ -1025,16 +1025,6 @@
           "wordCount": 38809,
           "title": "Automated Reasoning policy refinement in Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/27/21259.png"
-        },
-        {
-          "id": "7566a36ce07e1d565d3c4c626b0957bbfa8d654a",
-          "author": "Srikanth Baheti",
-          "description": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now in preview for AWS Glue Data Catalog and Databricks Unity Catalog.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
-          "publishedOn": "2026-07-31T19:53:04.000Z",
-          "wordCount": 36388,
-          "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/Announcing-the-Agentic-Catalog-Experience-in-Amazon-Quick.png"
         }
       ]
     }

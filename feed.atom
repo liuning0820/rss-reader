@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-31T18:44:48.162Z</updated>
+    <updated>2026-08-31T23:36:06.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Connect an AgentCore Runtime hosted MCP server to Amazon Quick]]></title>
+        <id>0b043ce49f9a164fa994a19b2ff7903218809861</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/"/>
+        <updated>2026-08-31T22:47:53.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication of AI tools, so clients can reuse commonly used tools and agents exposed through an MCP server instead of authoring them from scratch again. Your customers get a way to use your product inside Amazon Quick (chat agents and workflows) without building custom connectors for every use case.]]></summary>
+        <author>
+            <name>Vivek Ghatala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025]]></title>
+        <id>4f41b92df4986db71222a85598ec0047876fc027</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/"/>
+        <updated>2026-08-31T19:50:12.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to share that AWS has been recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025. In this evaluation of 13 providers, AWS received the highest score in the Strategy category.]]></summary>
+        <author>
+            <name>Kim Gibbons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage agents, tools and skills at scale with AWS Agent Registry]]></title>
+        <id>a35b8e6267585714982a44274684919dd8bb62e5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/"/>
+        <updated>2026-08-31T19:18:09.000Z</updated>
+        <summary type="html"><![CDATA[AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is and walks through its publishing, curation, and discovery workflows, plus enterprise considerations and what's next.]]></summary>
+        <author>
+            <name>Chaitra Mathur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation]]></title>
+        <id>323478b1ec9cbb8e9bd70aeb19b445443b64f0e8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/"/>
+        <updated>2026-08-31T19:08:45.000Z</updated>
+        <summary type="html"><![CDATA[This post builds an enterprise agentic retrieval solution on the Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore. An agent reasons, routes across multiple knowledge bases, and returns cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed with a single AWS CloudFormation chain.]]></summary>
+        <author>
+            <name>Luis Felipe Yepez Barrios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base]]></title>
+        <id>aa6871124c0907be369777e6369d35b6c44e2000</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/"/>
+        <updated>2026-08-31T18:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and retrieval flows, the asynchronous indexing lifecycle, per-user data isolation, and best practices for operating the solution at scale.]]></summary>
+        <author>
+            <name>George Belsian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #532]]></title>
         <id>https://sreweekly.com/?p=1810</id>

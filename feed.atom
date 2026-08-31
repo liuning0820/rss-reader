@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-08-30T22:22:45.698Z</updated>
+    <updated>2026-08-31T03:36:32.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #532]]></title>
+        <id>https://sreweekly.com/?p=1810</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-532/"/>
+        <updated>2026-08-31T02:11:37.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale Metal runs Postgres and Vitess on dedicated NVMe inside AWS and GCP. Get data center speed next to your app, with unlimited IOPS and no throttling. Teams routinely see a 70% drop in p99 and p95 latency after migrating. → See the benchmarks When declaring […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Batch write and discover records in Amazon SageMaker Feature Store]]></title>
         <id>ac351c6a258d9c6b09e4e26e7198133fc26a60a3</id>
@@ -964,26 +974,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Content Ingestion & Podcast Video […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 2026]]></title>
-        <id>https://blog.thestateofme.com/?p=6944</id>
-        <link href="http://blog.thestateofme.com/2026/08/01/july-2026/"/>
-        <updated>2026-08-01T10:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The whole of July has been hot and sunny (more on that later), so quite often the boys have been having an early morning walk in the shade of the woods before it gets too hot. The apple tree seems particularly bountiful this year, so they’ve both been enjoying the windfalls (particularly Milo). Bath […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 2026]]></title>
-        <id>http://blog.thestateofme.com/?p=6944</id>
-        <link href="https://blog.thestateofme.com/2026/08/01/july-2026/"/>
-        <updated>2026-08-01T10:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Pupdate The whole of July has been hot and sunny (more on that later), so quite often the boys have been having an early morning walk in the shade of the woods before it gets too hot. The apple tree seems particularly bountiful this year, so they’ve both been enjoying the windfalls (particularly Milo). Bath […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

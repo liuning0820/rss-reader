@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-01T19:11:18.922Z</updated>
+    <updated>2026-09-01T22:21:46.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Claude Fable 5.1 on AWS]]></title>
+        <id>fe5a761d13fdea1cd6343d646c1e042d79f66815</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/"/>
+        <updated>2026-09-01T19:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud environment you control, and how to start building with the model on Amazon Bedrock.]]></summary>
+        <author>
+            <name>Dani Mitchell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From theory to delivery: How Atos upskilled 400 engineers in agentic AI]]></title>
         <id>c09782028dd4cf40d9245e4cd28716a51318e5b0</id>

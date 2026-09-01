@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=7027",
+          "author": "Chris Swan",
+          "description": "It’s been a couple of months since Milo finished his fourth (modified) CHOP/CEOP protocol, and he’s been able to enjoy the summer without any vet visits[1]. We’d been hoping for a nice long remission like last year, but that wasn’t to be. A scan at the start of this week found a lesion on his […]",
+          "link": "http://blog.thestateofme.com/2026/08/27/milo-cancer-diary-part-24-fifth-protocol/",
+          "publishedOn": "2026-08-27T17:29:29.000Z",
+          "wordCount": 3899,
+          "title": "Milo cancer diary part 24 – Fifth protocol",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/08/milo_raspberries_2026.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=7027",
           "author": "Chris Swan",
@@ -14,6 +24,16 @@
           "wordCount": 4131,
           "title": "Milo cancer diary part 24 – Fifth protocol",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/08/milo_raspberries_2026.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=7015",
+          "author": "Chris Swan",
+          "description": "TL;DR The attention economy dynamics for AI chatbots and agents are very different from social media, and so we’re seeing a whole new approach to capturing (and keeping) our attention. This comes down to fundamental human nature – the strongest fuel for groups is outrage; and whilst it might burn dirty and contaminate everything around […]",
+          "link": "http://blog.thestateofme.com/2026/08/10/outrage-for-groups-adoration-for-individuals/",
+          "publishedOn": "2026-08-10T16:51:03.000Z",
+          "wordCount": 3993,
+          "title": "Outrage for groups, adoration for individuals",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         },
         {
           "id": "http://blog.thestateofme.com/?p=7015",
@@ -146,6 +166,71 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "c09782028dd4cf40d9245e4cd28716a51318e5b0",
+          "author": "Rajesh Babu Nuvvula",
+          "description": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos chose the format, what engineers built and learned, and what other enterprises should consider.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+          "publishedOn": "2026-09-01T16:17:54.000Z",
+          "wordCount": 36127,
+          "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21185-featured-image.png"
+        },
+        {
+          "id": "3e0afa841f894aea05b2ebf4260dd9e6fe0d4ab0",
+          "author": "Arun Chandapillai",
+          "description": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view, and a serverless AWS Lambda loop that applies tiered model limits in near-real-time without disrupting active sessions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+          "publishedOn": "2026-09-01T16:03:41.000Z",
+          "wordCount": 35645,
+          "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21656-featured-image.png"
+        },
+        {
+          "id": "008129bbc0eabcb083993ebf3af85f5167177c99",
+          "author": "Archana Ambavane",
+          "description": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that hold as you scale: dataset shaping, agent isolation, document classification, and approval gates.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
+          "publishedOn": "2026-09-01T16:02:22.000Z",
+          "wordCount": 37374,
+          "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/21/ML-21604-featured-image.png"
+        },
+        {
+          "id": "6d27453be64ca6b4b4bfe0edebc3b8aa1367edf7",
+          "author": "Chris Wajule",
+          "description": "t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have governed more than 20 million agent-initiated transactions with no human in the loop.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
+          "publishedOn": "2026-09-01T15:50:00.000Z",
+          "wordCount": 35723,
+          "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+          "enclosure": {
+            "length": "30898523",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21104/agentcorepayment-x402-secure-demo.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21104-featured-image.png"
+        },
+        {
+          "id": "a64230827a5326f30ac219e986bfd033ee23bba2",
+          "author": "Sudhir Schar",
+          "description": "Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
+          "publishedOn": "2026-09-01T15:47:00.000Z",
+          "wordCount": 36009,
+          "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/21/ML-20828-featured-image.png"
+        },
+        {
+          "id": "48cbbe2c304a8279bcc16025341884fcd5d58fd7",
+          "author": "Swagata Ashwani, Prakhar Amlathe",
+          "description": "Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS Lambda to parse integration DAGs, generate detailed documentation, and compare component versions at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
+          "publishedOn": "2026-09-01T15:45:36.000Z",
+          "wordCount": 36160,
+          "title": "How Boomi Scribe streamlines documentation using AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/11/ML-19052-featured-image.png"
+        },
         {
           "id": "0b043ce49f9a164fa994a19b2ff7903218809861",
           "author": "Vivek Ghatala",

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-01T14:30:04.684Z</updated>
+    <updated>2026-09-01T19:11:18.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From theory to delivery: How Atos upskilled 400 engineers in agentic AI]]></title>
+        <id>c09782028dd4cf40d9245e4cd28716a51318e5b0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/"/>
+        <updated>2026-09-01T16:17:54.000Z</updated>
+        <summary type="html"><![CDATA[When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos chose the format, what engineers built and learned, and what other enterprises should consider.]]></summary>
+        <author>
+            <name>Rajesh Babu Nuvvula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock]]></title>
+        <id>3e0afa841f894aea05b2ebf4260dd9e6fe0d4ab0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/"/>
+        <updated>2026-09-01T16:03:41.000Z</updated>
+        <summary type="html"><![CDATA[As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view, and a serverless AWS Lambda loop that applies tiered model limits in near-real-time without disrupting active sessions.]]></summary>
+        <author>
+            <name>Arun Chandapillai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Amazon Quick from POC to production: Agents, Flows, and Spaces]]></title>
+        <id>008129bbc0eabcb083993ebf3af85f5167177c99</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/"/>
+        <updated>2026-09-01T16:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that hold as you scale: dataset shaping, agent isolation, document classification, and approval gates.]]></summary>
+        <author>
+            <name>Archana Ambavane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How t54 built a trust layer with Amazon Bedrock AgentCore payments]]></title>
+        <id>6d27453be64ca6b4b4bfe0edebc3b8aa1367edf7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/"/>
+        <updated>2026-09-01T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have governed more than 20 million agent-initiated transactions with no human in the loop.]]></summary>
+        <author>
+            <name>Chris Wajule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ZS democratized secure ad-hoc analytics with Amazon SageMaker]]></title>
+        <id>a64230827a5326f30ac219e986bfd033ee23bba2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/"/>
+        <updated>2026-09-01T15:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.]]></summary>
+        <author>
+            <name>Sudhir Schar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Boomi Scribe streamlines documentation using AWS]]></title>
+        <id>48cbbe2c304a8279bcc16025341884fcd5d58fd7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/"/>
+        <updated>2026-09-01T15:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS Lambda to parse integration DAGs, generate detailed documentation, and compare component versions at scale.]]></summary>
+        <author>
+            <name>Swagata Ashwani, Prakhar Amlathe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connect an AgentCore Runtime hosted MCP server to Amazon Quick]]></title>
         <id>0b043ce49f9a164fa994a19b2ff7903218809861</id>
@@ -134,6 +194,16 @@
         <summary type="html"><![CDATA[Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India.]]></summary>
         <author>
             <name>Sahil Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 24 – Fifth protocol]]></title>
+        <id>https://blog.thestateofme.com/?p=7027</id>
+        <link href="http://blog.thestateofme.com/2026/08/27/milo-cancer-diary-part-24-fifth-protocol/"/>
+        <updated>2026-08-27T17:29:29.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a couple of months since Milo finished his fourth (modified) CHOP/CEOP protocol, and he’s been able to enjoy the summer without any vet visits[1]. We’d been hoping for a nice long remission like last year, but that wasn’t to be. A scan at the start of this week found a lesion on his […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>
@@ -744,6 +814,16 @@
         <summary type="html"><![CDATA[Claude apps gateway is a self-hosted governance layer between Claude Code and Claude Desktop and Amazon Bedrock or Claude Platform on AWS. This post presents a production reference deployment covering end-to-end architecture, enterprise deployment patterns, cost, and implementation resources.]]></summary>
         <author>
             <name>Dani Mitchell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outrage for groups, adoration for individuals]]></title>
+        <id>https://blog.thestateofme.com/?p=7015</id>
+        <link href="http://blog.thestateofme.com/2026/08/10/outrage-for-groups-adoration-for-individuals/"/>
+        <updated>2026-08-10T16:51:03.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR The attention economy dynamics for AI chatbots and agents are very different from social media, and so we’re seeing a whole new approach to capturing (and keeping) our attention. This comes down to fundamental human nature – the strongest fuel for groups is outrage; and whilst it might burn dirty and contaminate everything around […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

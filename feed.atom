@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-01T09:09:06.196Z</updated>
+    <updated>2026-09-01T14:30:04.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1014,16 +1014,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for rule issues and language issues, and you approve every change before it takes effect. This post walks through both refinement modes with complete API and console workflows.]]></summary>
         <author>
             <name>Nafi Diallo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #528]]></title>
-        <id>https://sreweekly.com/?p=1795</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-528/"/>
-        <updated>2026-08-03T01:56:15.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Content Ingestion & Podcast Video […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

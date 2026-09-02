@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-02T19:12:09.772Z</updated>
+    <updated>2026-09-02T22:20:26.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference]]></title>
+        <id>262427adeddcaf49102f989ea5bfb8332e685f6c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/"/>
+        <updated>2026-09-02T21:22:05.000Z</updated>
+        <summary type="html"><![CDATA[Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to invoke the models, use prompt caching, set up Codex with OpenID Connect authentication, and monitor usage with Amazon CloudWatch.]]></summary>
+        <author>
+            <name>Frank Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modernizing and scaling support operations with generative AI on AWS]]></title>
         <id>5c6abef255152e41f7c6379eb8254ddffa13a0dc</id>

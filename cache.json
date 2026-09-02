@@ -167,6 +167,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "262427adeddcaf49102f989ea5bfb8332e685f6c",
+          "author": "Frank Huang",
+          "description": "Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to invoke the models, use prompt caching, set up Codex with OpenID Connect authentication, and monitor usage with Amazon CloudWatch.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+          "publishedOn": "2026-09-02T21:22:05.000Z",
+          "wordCount": 35945,
+          "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/02/Accessing-OpenAI-models-on-Amazon-Bedrock-from-Australia-with-global-cross-Region-inference.png"
+        },
+        {
           "id": "5c6abef255152e41f7c6379eb8254ddffa13a0dc",
           "author": "Carla Lorente",
           "description": "Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work.",

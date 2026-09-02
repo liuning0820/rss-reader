@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-02T14:03:39.015Z</updated>
+    <updated>2026-09-02T19:12:09.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modernizing and scaling support operations with generative AI on AWS]]></title>
+        <id>5c6abef255152e41f7c6379eb8254ddffa13a0dc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/"/>
+        <updated>2026-09-02T18:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work.]]></summary>
+        <author>
+            <name>Carla Lorente</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an AWS team detects dashboard content failures at scale using Amazon Bedrock]]></title>
+        <id>2ddcba352995cb71d35e8cab506f0d703e07f99c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/"/>
+        <updated>2026-09-02T18:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered content validation solution on Amazon Bedrock that scans hundreds of dashboards and alerts owners, cutting mean time to detection from days to under an hour.]]></summary>
+        <author>
+            <name>Kimiya Yokoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore]]></title>
+        <id>e771b13b28ead96c665aa300c29b20385700a5dd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-09-02T18:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable documentation through Amazon Bedrock Knowledge Bases and AWS CodePipeline.]]></summary>
+        <author>
+            <name>Göksel SARIKAYA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trinity: Agentic AI-powered transition planning for students with disabilities]]></title>
+        <id>fab84ee3b87745244660d46e82d0bdf577316d98</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/"/>
+        <updated>2026-09-02T18:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that produces IDEA-aligned transition plans for school districts across the US.]]></summary>
+        <author>
+            <name>Sadia Ahmed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Claude Fable 5.1 on AWS]]></title>
         <id>fe5a761d13fdea1cd6343d646c1e042d79f66815</id>

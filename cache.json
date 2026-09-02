@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7027",
@@ -166,6 +166,46 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "5c6abef255152e41f7c6379eb8254ddffa13a0dc",
+          "author": "Carla Lorente",
+          "description": "Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
+          "publishedOn": "2026-09-02T18:26:35.000Z",
+          "wordCount": 37985,
+          "title": "Modernizing and scaling support operations with generative AI on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/27/ML-20585-featured-image.png"
+        },
+        {
+          "id": "2ddcba352995cb71d35e8cab506f0d703e07f99c",
+          "author": "Kimiya Yokoo",
+          "description": "Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered content validation solution on Amazon Bedrock that scans hundreds of dashboards and alerts owners, cutting mean time to detection from days to under an hour.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
+          "publishedOn": "2026-09-02T18:21:20.000Z",
+          "wordCount": 36010,
+          "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21432-featured-image.png"
+        },
+        {
+          "id": "e771b13b28ead96c665aa300c29b20385700a5dd",
+          "author": "Göksel SARIKAYA",
+          "description": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable documentation through Amazon Bedrock Knowledge Bases and AWS CodePipeline.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-02T18:18:47.000Z",
+          "wordCount": 37696,
+          "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-20745-featured-image.png"
+        },
+        {
+          "id": "fab84ee3b87745244660d46e82d0bdf577316d98",
+          "author": "Sadia Ahmed",
+          "description": "Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that produces IDEA-aligned transition plans for school districts across the US.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/",
+          "publishedOn": "2026-09-02T18:14:17.000Z",
+          "wordCount": 35493,
+          "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/ML-20631-featured-image.png"
+        },
         {
           "id": "fe5a761d13fdea1cd6343d646c1e042d79f66815",
           "author": "Dani Mitchell",

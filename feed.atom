@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-02T02:51:04.294Z</updated>
+    <updated>2026-09-02T08:22:24.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1084,26 +1084,6 @@
         <summary type="html"><![CDATA[Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with Amazon Bedrock AgentCore Browser, Amazon Bedrock, Amazon OpenSearch Serverless, and AWS Lambda that monitors RSS feeds, renders pages reliably, and makes AI-extracted insights searchable.]]></summary>
         <author>
             <name>Louisa Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations]]></title>
-        <id>c31d5a216c9f10149d2564008a4c1dd5818f023f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/"/>
-        <updated>2026-08-03T17:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 cut data source onboarding from up to 8 weeks to about 40 minutes, automated schema evolution, and gained end-to-end observability across its fan-engagement data estate.]]></summary>
-        <author>
-            <name>Subhro Bose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Reasoning policy refinement in Amazon Bedrock]]></title>
-        <id>d495eca7aa31244e52ef472f69e6a18cc949f604</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/"/>
-        <updated>2026-08-03T16:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for rule issues and language issues, and you approve every change before it takes effect. This post walks through both refinement modes with complete API and console workflows.]]></summary>
-        <author>
-            <name>Nafi Diallo</name>
         </author>
     </entry>
 </feed>

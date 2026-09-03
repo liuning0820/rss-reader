@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=7025",
+          "author": "Chris Swan",
+          "description": "Pupdate We were back in the Lake District (more on that later), so the boys were able to get out for some nice long walks. Going a month later than usual meant that there were no grouse on the estate but there were loads of ripe blackberries, which the boys enjoyed browsing. Sadly Milo’s scan […]",
+          "link": "http://blog.thestateofme.com/2026/09/03/august-2026/",
+          "publishedOn": "2026-09-03T16:49:58.000Z",
+          "wordCount": 4382,
+          "title": "August 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/09/pups_202608.jpg"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=7025",
           "author": "Chris Swan",

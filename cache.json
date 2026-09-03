@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=7025",
+          "author": "Chris Swan",
+          "description": "Pupdate We were back in the Lake District (more on that later), so the boys were able to get out for some nice long walks. Going a month later than usual meant that there were no grouse on the estate but there were loads of ripe blackberries, which the boys enjoyed browsing. Sadly Milo’s scan […]",
+          "link": "https://blog.thestateofme.com/2026/09/03/august-2026/",
+          "publishedOn": "2026-09-03T16:49:58.000Z",
+          "wordCount": 4387,
+          "title": "August 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/09/pups_202608.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=7027",
           "author": "Chris Swan",
@@ -166,6 +176,66 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "7f13f4ae79bd6cd66b1556e1c750bffc4bbd385e",
+          "author": "Arghya Banerjee",
+          "description": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and Claude Code: an SQL-to-ER-diagram generator and a multi-agent code security analyzer that put the AI-DLC construction phase into practice.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-03T16:16:28.000Z",
+          "wordCount": 36303,
+          "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21366-featured-image.png"
+        },
+        {
+          "id": "1e149a889d6a6b8dc35bceb6393275d0cdbe39b8",
+          "author": "Sruthi Vedula",
+          "description": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to model-driven planning on Strands Agents, retiring operational burdens along the way.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-03T16:14:12.000Z",
+          "wordCount": 37884,
+          "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-20753-featured-image.png"
+        },
+        {
+          "id": "23123f14cfded79d295c2485fb75a4e97530c9b2",
+          "author": "Dalien Ahiekpor",
+          "description": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-end setup and shows automation scenarios using Amazon Quick chat agents, Amazon Quick Flows, and Amazon Quick Automate.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+          "publishedOn": "2026-09-03T16:11:57.000Z",
+          "wordCount": 35067,
+          "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/24/ML-20379-featured-image.png"
+        },
+        {
+          "id": "45013122d99dd69ba75174b10b7aa6d2c0edead0",
+          "author": "Nick McCarthy",
+          "description": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped identities, budgets, rate limits, and telemetry. We also compare direct IAM Identity Center access and a managed Portkey deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+          "publishedOn": "2026-09-03T16:10:39.000Z",
+          "wordCount": 37224,
+          "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/01/ML-21675-featured-image.png"
+        },
+        {
+          "id": "40a2051ba133076564be9a3ec056645bf56e872f",
+          "author": "Sumit Wasuja",
+          "description": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps, applying human-in-the-loop review, and building in evaluation and observability.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
+          "publishedOn": "2026-09-03T16:08:28.000Z",
+          "wordCount": 36279,
+          "title": "Best practices for building agentic automations with Amazon Quick Automate",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/26/ML-21394-featured-image.png"
+        },
+        {
+          "id": "1103fa5d1fb96fb2b0f6d5f07fc4acfd5f689f66",
+          "author": "Ishita Gupta",
+          "description": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/",
+          "publishedOn": "2026-09-03T16:01:56.000Z",
+          "wordCount": 36809,
+          "title": "Embed Quick Sight visuals using Cognito user authentication",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/27/ML-20784-featured-image.png"
+        },
         {
           "id": "262427adeddcaf49102f989ea5bfb8332e685f6c",
           "author": "Frank Huang",

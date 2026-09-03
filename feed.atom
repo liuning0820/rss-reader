@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-03T02:54:53.077Z</updated>
+    <updated>2026-09-03T08:31:52.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1114,26 +1114,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and build agents with persistent memory, real tools, code execution, and VPC isolation — all from the n8n editor with no infrastructure or agent code.]]></summary>
         <author>
             <name>Sundar Raghavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Web Search on Amazon Bedrock for foundation model grounding]]></title>
-        <id>20c57cb78e0f1ebce99e757dfe0b084d51a3f9e2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/"/>
-        <updated>2026-08-04T18:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native capability of Amazon Bedrock, with no third-party vendors to onboard, no external APIs to orchestrate, and no additional third party vendor security reviews to conduct. In this post, we walk through what Web Search on Amazon Bedrock is, why it matters, how to enable it using the OpenAI Responses API, and how to get started with the tool.]]></summary>
-        <author>
-            <name>Anuj Jauhari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated web insight extraction with Amazon Bedrock AgentCore]]></title>
-        <id>485a2118fbcc1067573c0ef552a78db3ae5bc772</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-08-04T16:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with Amazon Bedrock AgentCore Browser, Amazon Bedrock, Amazon OpenSearch Serverless, and AWS Lambda that monitors RSS feeds, renders pages reliably, and makes AI-extracted insights searchable.]]></summary>
-        <author>
-            <name>Louisa Liu</name>
         </author>
     </entry>
 </feed>

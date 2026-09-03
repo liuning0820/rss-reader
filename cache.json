@@ -1160,26 +1160,6 @@
           "wordCount": 36217,
           "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/27/21089.png"
-        },
-        {
-          "id": "20c57cb78e0f1ebce99e757dfe0b084d51a3f9e2",
-          "author": "Anuj Jauhari",
-          "description": "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native capability of Amazon Bedrock, with no third-party vendors to onboard, no external APIs to orchestrate, and no additional third party vendor security reviews to conduct. In this post, we walk through what Web Search on Amazon Bedrock is, why it matters, how to enable it using the OpenAI Responses API, and how to get started with the tool.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
-          "publishedOn": "2026-08-04T18:39:14.000Z",
-          "wordCount": 35443,
-          "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/04/ml-21265.png"
-        },
-        {
-          "id": "485a2118fbcc1067573c0ef552a78db3ae5bc772",
-          "author": "Louisa Liu",
-          "description": "Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with Amazon Bedrock AgentCore Browser, Amazon Bedrock, Amazon OpenSearch Serverless, and AWS Lambda that monitors RSS feeds, renders pages reliably, and makes AI-extracted insights searchable.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-08-04T16:02:21.000Z",
-          "wordCount": 35636,
-          "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/04/ml-20018.png"
         }
       ]
     }

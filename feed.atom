@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-04T02:54:55.712Z</updated>
+    <updated>2026-09-04T08:34:31.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1154,46 +1154,6 @@
         <summary type="html"><![CDATA[TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock]]></title>
-        <id>e26b67888914f9285d58eac09de5504ddfbfc66b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/"/>
-        <updated>2026-08-05T18:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guardrails to deliver 24/7 personalized mortgage guidance while meeting strict financial-services compliance.]]></summary>
-        <author>
-            <name>Eric Hanson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Mobileye transformed support operations using Amazon Bedrock AgentCore]]></title>
-        <id>71e2b371359c204069dc89ff11b182c9b6470b7f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/"/>
-        <updated>2026-08-05T18:09:03.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea, through the proof of concept that validated it, to the hybrid architecture that bridges on-premises systems with AWS cloud services. This approach is relevant for enterprises struggling to scale AI Agents while maintaining enterprise grade governance and security standards.]]></summary>
-        <author>
-            <name>Adi Jabkowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools]]></title>
-        <id>f2de6d336934f855258e3aa9bbca0a0efc1a8dcd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/"/>
-        <updated>2026-08-05T18:02:23.000Z</updated>
-        <summary type="html"><![CDATA[AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed messages over the existing WebSocket connection through a browser extension and Chrome native messaging, with no open ports or VPN required.]]></summary>
-        <author>
-            <name>Rohan Lekhwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run production AI agents in n8n with Amazon Bedrock AgentCore harness]]></title>
-        <id>3a26697f6ef3fcc38ee2025c7edbece56f425963</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/"/>
-        <updated>2026-08-05T18:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and build agents with persistent memory, real tools, code execution, and VPC isolation — all from the n8n editor with no infrastructure or agent code.]]></summary>
-        <author>
-            <name>Sundar Raghavan</name>
         </author>
     </entry>
 </feed>

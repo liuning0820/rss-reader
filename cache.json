@@ -187,6 +187,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "bf15bf1accc979b1b510192d304b5091e2a44dc0",
+          "author": "Akarsha Sehwag",
+          "description": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK stack.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
+          "publishedOn": "2026-09-04T17:20:04.000Z",
+          "wordCount": 37173,
+          "title": "Designing lifecycle policies for AgentCore memory",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/26/ML-20851-featured-image.png"
+        },
+        {
+          "id": "5592874537562bba923f97fecd07ce9229f52eea",
+          "author": "Nathan Arnold",
+          "description": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
+          "publishedOn": "2026-09-04T16:16:00.000Z",
+          "wordCount": 41235,
+          "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21222-featured-image.png"
+        },
+        {
+          "id": "17430f2135d0d2a25ced64d7b16531770c79f592",
+          "author": "Hao Zheng",
+          "description": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, and storage into dependable, agent-driven infrastructure.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+          "publishedOn": "2026-09-04T16:12:17.000Z",
+          "wordCount": 38787,
+          "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/26/ML-21539-featured-image.png"
+        },
+        {
+          "id": "ce63f98442331c407a18a3007365da56e1a04e60",
+          "author": "Rushabh Lokhande",
+          "description": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to ingest and preprocess PDFs and images, then query utility bills at scale for faster, more accurate customer interactions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
+          "publishedOn": "2026-09-04T16:08:10.000Z",
+          "wordCount": 35335,
+          "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-18730-featured-image.png"
+        },
+        {
+          "id": "21315aba5de258a09ae4f10f0f46a916190e1bc0",
+          "author": "Suvojit Dasgupta",
+          "description": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+          "publishedOn": "2026-09-04T16:06:01.000Z",
+          "wordCount": 38002,
+          "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/02/ML-21646-featured-image.png"
+        },
+        {
           "id": "7f13f4ae79bd6cd66b1556e1c750bffc4bbd385e",
           "author": "Arghya Banerjee",
           "description": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and Claude Code: an SQL-to-ER-diagram generator and a multi-agent code security analyzer that put the AI-DLC construction phase into practice.",

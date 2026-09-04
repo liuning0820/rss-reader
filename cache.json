@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7025",
@@ -83,26 +83,6 @@
           "publishedOn": "2026-08-07T13:44:44.000Z",
           "wordCount": 4758,
           "title": "Home networks, security, and things (IoT)",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=6991",
-          "author": "Chris Swan",
-          "description": "TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]",
-          "link": "http://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/",
-          "publishedOn": "2026-08-06T10:52:50.000Z",
-          "wordCount": 4293,
-          "title": "Orange to Orange website migrations",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=6991",
-          "author": "Chris Swan",
-          "description": "TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]",
-          "link": "https://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/",
-          "publishedOn": "2026-08-06T10:52:50.000Z",
-          "wordCount": 4270,
-          "title": "Orange to Orange website migrations",
           "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         }
       ]
@@ -186,6 +166,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "1cc1445c2783ef202a00ff4aadacbc028620a9eb",
+          "author": "Salman Ahmed",
+          "description": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-04T21:45:52.000Z",
+          "wordCount": 37712,
+          "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/ML-21164-featured-image.png"
+        },
         {
           "id": "bf15bf1accc979b1b510192d304b5091e2a44dc0",
           "author": "Akarsha Sehwag",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-04T20:15:42.063Z</updated>
+    <updated>2026-09-04T23:42:44.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore]]></title>
+        <id>1cc1445c2783ef202a00ff4aadacbc028620a9eb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-09-04T21:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.]]></summary>
+        <author>
+            <name>Salman Ahmed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing lifecycle policies for AgentCore memory]]></title>
         <id>bf15bf1accc979b1b510192d304b5091e2a44dc0</id>
@@ -1184,26 +1194,6 @@
         <summary type="html"><![CDATA[The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommendations, and deploy the recommended configuration without leaving your notebook workflow.]]></summary>
         <author>
             <name>Dan Ferguson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orange to Orange website migrations]]></title>
-        <id>https://blog.thestateofme.com/?p=6991</id>
-        <link href="http://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/"/>
-        <updated>2026-08-06T10:52:50.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orange to Orange website migrations]]></title>
-        <id>http://blog.thestateofme.com/?p=6991</id>
-        <link href="https://blog.thestateofme.com/2026/08/06/orange-to-orange-website-migrations/"/>
-        <updated>2026-08-06T10:52:50.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR If you’re migrating between hosting services that both use Cloudflare then don’t be surprised when you see the old site after cutting over DNS to the new provider. Your request is going into the new IP, but being served from the old cache. The old provider needs to be de-provisioned so that Cloudflare can […]]]></summary>
-        <author>
-            <name>Chris Swan</name>
         </author>
     </entry>
 </feed>

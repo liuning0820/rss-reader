@@ -1110,36 +1110,6 @@
           "wordCount": 35611,
           "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/ML-20862-featured-image.png"
-        },
-        {
-          "id": "ab12dfa74d29d9af6fc346702f37866dfbb9aa5d",
-          "author": "Oleksiy Kononenko",
-          "description": "In this post, you learn how Cohere Health built a multi-tenant agentic architecture on AgentCore using AgentCore Runtime’s secure MicroVM isolation, unified tool access through AgentCore Gateway, AgentCore Memory, and the Agent Skills open standard to rapidly scale policy digitization capabilities, while preserving transparency, version control, and human oversight.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-08-07T16:26:58.000Z",
-          "wordCount": 36676,
-          "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/07/ml-19805.png"
-        },
-        {
-          "id": "2a928f9693d6d62c930b66459b34bc9a6dc2b18a",
-          "author": "Vitaly Omelchenko",
-          "description": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing root-cause analysis from 15 to 30 minutes of manual work to under 60 seconds.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-          "publishedOn": "2026-08-07T16:22:50.000Z",
-          "wordCount": 36426,
-          "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/07/ml-21106.png"
-        },
-        {
-          "id": "7ea54833b1fa7768596b6ac5cedad2a18b1ed85b",
-          "author": "Gili Rosenberg",
-          "description": "The AWS Generative AI Innovation Center built an automated system that uses constraint programming and custom tree search to determine, with mathematical certainty, when and how an NHL team clinches a playoff spot. The approach was validated against four full NHL seasons of officially published results.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-          "publishedOn": "2026-08-07T16:21:00.000Z",
-          "wordCount": 34961,
-          "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/04/ML-21367-featured-image.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-07T02:52:19.385Z</updated>
+    <updated>2026-09-07T08:54:15.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #533]]></title>
+        <id>https://sreweekly.com/?p=1814</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-533/"/>
+        <updated>2026-09-07T03:43:34.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Incidents start before the response […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore]]></title>
         <id>1cc1445c2783ef202a00ff4aadacbc028620a9eb</id>

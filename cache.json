@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7025",
@@ -72,6 +72,16 @@
       "feedUrl": "http://sreweekly.com/feed/",
       "siteUrl": "https://sreweekly.com",
       "articles": [
+        {
+          "id": "https://sreweekly.com/?p=1814",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Incidents start before the response […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-533/",
+          "publishedOn": "2026-09-07T03:43:34.000Z",
+          "wordCount": 1137,
+          "title": "SRE Weekly Issue #533",
+          "imageUrl": null
+        },
         {
           "id": "https://sreweekly.com/?p=1810",
           "author": "lex",

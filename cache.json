@@ -137,6 +137,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "8b2b6f1fc936da150ec6ba65d555af391dc31a8e",
+          "author": "JW Wang",
+          "description": "Learn how Heurist built Heurist Finance, a conversational AI investment workbench, on Amazon Bedrock AgentCore. This customer story shows how AgentCore payments, Identity, Memory, Code Interpreter, and Observability let a small team buy premium market data per query, isolate analysis in a sandbox, and keep every action auditable.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-09T18:11:12.000Z",
+          "wordCount": 35160,
+          "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/27/ML-21623-featured-image.png"
+        },
+        {
+          "id": "40560bc1165354abd0304d5c35c0cd427ba27c99",
+          "author": "Ananth Raghavendra",
+          "description": "TorchServe is no longer maintained, leaving teams to own the entire GPU inference stack. The AWS Ray Serve Deep Learning Container is a supported, pre-tested container with the framework, GPU drivers, and serving layer already assembled. This post walks through deploying a vision-language model on Amazon EKS using the Ray Serve DLC on a single GPU node.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+          "publishedOn": "2026-09-09T15:51:29.000Z",
+          "wordCount": 35167,
+          "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21647-featured-image.png"
+        },
+        {
+          "id": "a77ad5a4cc8d539af020eba9f19a5636de04f505",
+          "author": "Ashok Dasineni",
+          "description": "Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API parameter, account and role defaults, event-driven Amazon EventBridge and AWS Lambda automation, and a retroactive batch update script.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
+          "publishedOn": "2026-09-09T15:45:24.000Z",
+          "wordCount": 37713,
+          "title": "Automate user-level custom permissions for Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/02/ML-21102-featured-image.png"
+        },
+        {
           "id": "68d48019de714857964056351fc4d79e51c3ab9f",
           "author": "Tanvi Girinath",
           "description": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high performance, security, and scale.",

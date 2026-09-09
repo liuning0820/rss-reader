@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-09T14:08:45.760Z</updated>
+    <updated>2026-09-09T19:03:51.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore]]></title>
+        <id>8b2b6f1fc936da150ec6ba65d555af391dc31a8e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-09-09T18:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Heurist built Heurist Finance, a conversational AI investment workbench, on Amazon Bedrock AgentCore. This customer story shows how AgentCore payments, Identity, Memory, Code Interpreter, and Observability let a small team buy premium market data per query, isolate analysis in a sandbox, and keep every action auditable.]]></summary>
+        <author>
+            <name>JW Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers]]></title>
+        <id>40560bc1165354abd0304d5c35c0cd427ba27c99</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/"/>
+        <updated>2026-09-09T15:51:29.000Z</updated>
+        <summary type="html"><![CDATA[TorchServe is no longer maintained, leaving teams to own the entire GPU inference stack. The AWS Ray Serve Deep Learning Container is a supported, pre-tested container with the framework, GPU drivers, and serving layer already assembled. This post walks through deploying a vision-language model on Amazon EKS using the Ray Serve DLC on a single GPU node.]]></summary>
+        <author>
+            <name>Ananth Raghavendra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate user-level custom permissions for Amazon Quick]]></title>
+        <id>a77ad5a4cc8d539af020eba9f19a5636de04f505</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/"/>
+        <updated>2026-09-09T15:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API parameter, account and role defaults, event-driven Amazon EventBridge and AWS Lambda automation, and a retroactive batch update script.]]></summary>
+        <author>
+            <name>Ashok Dasineni</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock]]></title>
         <id>68d48019de714857964056351fc4d79e51c3ab9f</id>

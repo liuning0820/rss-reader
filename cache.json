@@ -137,6 +137,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5a4826a00b8c3e2362294bd88790a97f7dfeae72",
+          "author": "Tanvi Girinath",
+          "description": "A recap of August 2026 launches for AI builders across Amazon Bedrock, Amazon Bedrock AgentCore, and Strands: million-token context for OpenAI models, cross-Region inference, agents that run for up to 14 days on dedicated compute, expanded AWS GovCloud availability, and Strands Robots for physical deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+          "publishedOn": "2026-09-09T20:01:03.000Z",
+          "wordCount": 35104,
+          "title": "ICYMI: What landed for AI builders in August 2026",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21781-featured-image.png"
+        },
+        {
           "id": "8b2b6f1fc936da150ec6ba65d555af391dc31a8e",
           "author": "JW Wang",
           "description": "Learn how Heurist built Heurist Finance, a conversational AI investment workbench, on Amazon Bedrock AgentCore. This customer story shows how AgentCore payments, Identity, Memory, Code Interpreter, and Observability let a small team buy premium market data per query, isolate analysis in a sandbox, and keep every action auditable.",

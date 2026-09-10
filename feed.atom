@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-10T18:56:03.364Z</updated>
+    <updated>2026-09-10T22:14:40.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference]]></title>
+        <id>32206d53293b6830e987ee4659338e8d02374647</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"/>
+        <updated>2026-09-10T21:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it reduced P50 time-to-first-token by up to 77% and raised KV cache hit rates from about 25% to over 80%.]]></summary>
+        <author>
+            <name>Kareem Syed-Mohammed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce inference cold starts on Amazon SageMaker HyperPod with model caching]]></title>
+        <id>3b91429cf30acb250cd56430f226e5855e1f213f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/"/>
+        <updated>2026-09-10T21:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts from tens of minutes to seconds, how it works, and how to enable it.]]></summary>
+        <author>
+            <name>Kareem Syed-Mohammed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0]]></title>
+        <id>fc8628826e3a4de39ea612edabd4828bd56fe198</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/"/>
+        <updated>2026-09-10T21:15:39.000Z</updated>
+        <summary type="html"><![CDATA[TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This walkthrough shows how to build a knowledge base powered by Marengo 3.0 and run semantic queries against your media.]]></summary>
+        <author>
+            <name>Eric Kim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Quick is now generally available on desktop]]></title>
         <id>b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00</id>

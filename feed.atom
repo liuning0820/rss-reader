@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-09T22:14:47.944Z</updated>
+    <updated>2026-09-10T03:04:05.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM]]></title>
+        <id>6973e0078540c7d789cc946cb3c7e1fd791a8c2f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/"/>
+        <updated>2026-09-09T22:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.]]></summary>
+        <author>
+            <name>Dmitry Soldatkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICYMI: What landed for AI builders in August 2026]]></title>
         <id>5a4826a00b8c3e2362294bd88790a97f7dfeae72</id>

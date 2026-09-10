@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-10T14:02:45.897Z</updated>
+    <updated>2026-09-10T18:56:03.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Quick is now generally available on desktop]]></title>
+        <id>b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/"/>
+        <updated>2026-09-10T18:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, […]]]></summary>
+        <author>
+            <name>Spencer Martenson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate]]></title>
+        <id>c7589b0f40b52eb8334f11f9000d87654f7f0e92</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/"/>
+        <updated>2026-09-10T16:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an end-to-end RFI questionnaire workflow with Amazon Quick Automate. Read a multi-tab RFI workbook from Amazon S3, use natural-language prompts to extract and structure the questionnaire data, refine the workflow through conversation, and write clean CSV output back to Amazon S3 — cutting development from days to hours.]]></summary>
+        <author>
+            <name>Chaytanya Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model-agnostic PII detection with LLMs]]></title>
+        <id>4c4240b0ba11b392a9635e42bce173f72181033c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/"/>
+        <updated>2026-09-10T16:02:16.000Z</updated>
+        <summary type="html"><![CDATA[A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity types without retraining, and it outperforms an off-the-shelf tool across five public corpora and nine LLM-based detectors.]]></summary>
+        <author>
+            <name>Christophe Dupuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Evaluation Metric for multi-turn conversations]]></title>
+        <id>d22d0d2e761e9e5191fef2c68e7f3e0287f67732</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/"/>
+        <updated>2026-09-10T15:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality, applied to its first dimension, correctness, to pinpoint the turn that caused a failure and separate it from the turns that inherited it.]]></summary>
+        <author>
+            <name>Surafel Lakew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore]]></title>
+        <id>3a3d6d9806280d7f62975dd9e8cdb72b83dcc5d1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/"/>
+        <updated>2026-09-10T15:53:05.000Z</updated>
+        <summary type="html"><![CDATA[AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers, helping them find and act on the causes of flight turnaround delays.]]></summary>
+        <author>
+            <name>Petra Lafond</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM]]></title>
         <id>6973e0078540c7d789cc946cb3c7e1fd791a8c2f</id>
@@ -64,6 +114,16 @@
         <summary type="html"><![CDATA[GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high performance, security, and scale.]]></summary>
         <author>
             <name>Tanvi Girinath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod]]></title>
+        <id>7b62a76bc3853bd9ada742693ec9cd3b09d199a8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/"/>
+        <updated>2026-09-08T19:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.]]></summary>
+        <author>
+            <name>Paulo Aragão</name>
         </author>
     </entry>
     <entry>

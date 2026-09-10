@@ -137,6 +137,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "b314cd1706ad2c7ceef463fc85ef7a3c2bc45a00",
+          "author": "Spencer Martenson",
+          "description": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, […]",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+          "publishedOn": "2026-09-10T18:16:37.000Z",
+          "wordCount": 34997,
+          "title": "Amazon Quick is now generally available on desktop",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        },
+        {
+          "id": "c7589b0f40b52eb8334f11f9000d87654f7f0e92",
+          "author": "Chaytanya Kumar",
+          "description": "Learn how to build an end-to-end RFI questionnaire workflow with Amazon Quick Automate. Read a multi-tab RFI workbook from Amazon S3, use natural-language prompts to extract and structure the questionnaire data, refine the workflow through conversation, and write clean CSV output back to Amazon S3 — cutting development from days to hours.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
+          "publishedOn": "2026-09-10T16:08:57.000Z",
+          "wordCount": 35817,
+          "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-20411-featured-image-1.png"
+        },
+        {
+          "id": "4c4240b0ba11b392a9635e42bce173f72181033c",
+          "author": "Christophe Dupuy",
+          "description": "A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity types without retraining, and it outperforms an off-the-shelf tool across five public corpora and nine LLM-based detectors.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
+          "publishedOn": "2026-09-10T16:02:16.000Z",
+          "wordCount": 37004,
+          "title": "Model-agnostic PII detection with LLMs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21255-featured-image.png"
+        },
+        {
+          "id": "d22d0d2e761e9e5191fef2c68e7f3e0287f67732",
+          "author": "Surafel Lakew",
+          "description": "Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality, applied to its first dimension, correctness, to pinpoint the turn that caused a failure and separate it from the turns that inherited it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
+          "publishedOn": "2026-09-10T15:55:41.000Z",
+          "wordCount": 37174,
+          "title": "Agent Evaluation Metric for multi-turn conversations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/ML-20819-featured-image.png"
+        },
+        {
+          "id": "3a3d6d9806280d7f62975dd9e8cdb72b83dcc5d1",
+          "author": "Petra Lafond",
+          "description": "AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers, helping them find and act on the causes of flight turnaround delays.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
+          "publishedOn": "2026-09-10T15:53:05.000Z",
+          "wordCount": 36432,
+          "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21410-featured-image.png"
+        },
+        {
           "id": "6973e0078540c7d789cc946cb3c7e1fd791a8c2f",
           "author": "Dmitry Soldatkin",
           "description": "Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.",
@@ -195,6 +245,16 @@
           "wordCount": 34769,
           "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/ML-21849-featured-image.png"
+        },
+        {
+          "id": "7b62a76bc3853bd9ada742693ec9cd3b09d199a8",
+          "author": "Paulo Aragão",
+          "description": "Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2026-09-08T19:12:51.000Z",
+          "wordCount": 35655,
+          "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/02/ML-21697-featured-image.png"
         },
         {
           "id": "7b62a76bc3853bd9ada742693ec9cd3b09d199a8",

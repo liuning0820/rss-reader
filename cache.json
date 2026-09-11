@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7025",
@@ -136,6 +136,41 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "9da22a53a45cf214e154c67bafd0a4bd7eefa26b",
+          "author": "Meghana Ashok",
+          "description": "Multi-agent systems fail in ways traditional monitoring misses. This post presents a dual-layer approach to monitoring production agents: Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous infrastructure investigation, shown on a four-agent airline reservation system.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+          "publishedOn": "2026-09-11T18:26:38.000Z",
+          "wordCount": 38699,
+          "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+          "enclosure": {
+            "length": "94894657",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20434/blogpost_eval_video.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-20434-featured-image.png"
+        },
+        {
+          "id": "4fe7cafaba3f92f547e3e291a89c2e4e2100f953",
+          "author": "Nick McCarthy",
+          "description": "Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarking harness that measures cost per correct answer, agent trajectory cost, and rubric-graded deliverable quality across OpenAI models on Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+          "publishedOn": "2026-09-11T18:24:38.000Z",
+          "wordCount": 35965,
+          "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21634-featured-image.png"
+        },
+        {
+          "id": "1b81a239f751889181ea1d02ab731440b400b140",
+          "author": "Dantis Stephen",
+          "description": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like ChatGPT and Claude that support the extension.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-11T18:23:17.000Z",
+          "wordCount": 36179,
+          "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-20314-featured-image.png"
+        },
         {
           "id": "32206d53293b6830e987ee4659338e8d02374647",
           "author": "Kareem Syed-Mohammed",

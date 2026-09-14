@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1816",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding Graceful planned and unplanned failovers → Neki is available today. Learn more. AI handles incidents, engineers lose touch […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-534/",
+          "publishedOn": "2026-09-14T01:53:26.000Z",
+          "wordCount": 1117,
+          "title": "SRE Weekly Issue #534",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1814",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Incidents start before the response […]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-13T22:05:39.210Z</updated>
+    <updated>2026-09-14T03:21:25.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #534]]></title>
+        <id>https://sreweekly.com/?p=1816</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-534/"/>
+        <updated>2026-09-14T01:53:26.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding Graceful planned and unplanned failovers → Neki is available today. Learn more. AI handles incidents, engineers lose touch […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations]]></title>
         <id>9da22a53a45cf214e154c67bafd0a4bd7eefa26b</id>

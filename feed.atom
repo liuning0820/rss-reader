@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-14T16:08:41.487Z</updated>
+    <updated>2026-09-14T21:27:49.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale]]></title>
+        <id>5765f76e7a987692146e6fe2b1eb9962dcd91bac</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/"/>
+        <updated>2026-09-14T21:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.]]></summary>
+        <author>
+            <name>Aswin Vasudevan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore]]></title>
+        <id>495d8f6ad0d4243b65c44fc7dcf8019b7a6ecbef</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-09-14T20:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack 3LO targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.]]></summary>
+        <author>
+            <name>Swara Gandhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The impersonal AI advantage]]></title>
+        <id>http://blog.thestateofme.com/?p=7058</id>
+        <link href="https://blog.thestateofme.com/2026/09/14/the-impersonal-ai-advantage/"/>
+        <updated>2026-09-14T16:34:47.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Open source projects that I contribute to have adopted AI bots to ease the pull request (PR) process. It might just be me (though I doubt it), but somehow it feels less like a personal attack when a bot tells you what’s wrong with your PR than when it’s a person doing it. This […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock]]></title>
         <id>6306dc0dce0a1d4340a5b1693847b5829a3e5c97</id>

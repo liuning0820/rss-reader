@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-14T09:32:58.228Z</updated>
+    <updated>2026-09-14T16:08:41.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock]]></title>
+        <id>6306dc0dce0a1d4340a5b1693847b5829a3e5c97</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"/>
+        <updated>2026-09-14T15:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.]]></summary>
+        <author>
+            <name>Shawn Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The generative AI customization spectrum: From prompt engineering to custom models on AWS]]></title>
+        <id>8ccc6396f56013db85944a02959776c99f87290a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/"/>
+        <updated>2026-09-14T15:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.]]></summary>
+        <author>
+            <name>Bhavya Sruthi Sode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate replenishment with MMF, Databricks Genie, and Amazon Quick]]></title>
+        <id>b9380fe5c5bdd3f3c76704d77744859dccb2c43c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/"/>
+        <updated>2026-09-14T15:42:06.000Z</updated>
+        <summary type="html"><![CDATA[Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.]]></summary>
+        <author>
+            <name>Venkatavaradhan Viswanathan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #534]]></title>
         <id>https://sreweekly.com/?p=1816</id>

@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7025",
@@ -146,6 +146,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "6306dc0dce0a1d4340a5b1693847b5829a3e5c97",
+          "author": "Shawn Kelly",
+          "description": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
+          "publishedOn": "2026-09-14T15:58:57.000Z",
+          "wordCount": 35949,
+          "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21160-featured-image.png"
+        },
+        {
+          "id": "8ccc6396f56013db85944a02959776c99f87290a",
+          "author": "Bhavya Sruthi Sode",
+          "description": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
+          "publishedOn": "2026-09-14T15:47:12.000Z",
+          "wordCount": 37457,
+          "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21197-featured-image.png"
+        },
+        {
+          "id": "b9380fe5c5bdd3f3c76704d77744859dccb2c43c",
+          "author": "Venkatavaradhan Viswanathan",
+          "description": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+          "publishedOn": "2026-09-14T15:42:06.000Z",
+          "wordCount": 37388,
+          "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21670-featured-image.png"
+        },
         {
           "id": "9da22a53a45cf214e154c67bafd0a4bd7eefa26b",
           "author": "Meghana Ashok",

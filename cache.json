@@ -147,6 +147,51 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "fd565c39336c51430810e927ad66178c9158fbf3",
+          "author": "Michael Hsieh",
+          "description": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains that close this gap, with installation steps, three worked use cases, and a 410-prompt evaluation showing a 70-86% win rate.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+          "publishedOn": "2026-09-16T19:00:00.000Z",
+          "wordCount": 37428,
+          "title": "Improving HCLS AI reasoning with open-source agent skills",
+          "enclosure": {
+            "length": "8751115",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21213/quick-desktop-risk-adjustment-withskill.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-21213-featured-image.png"
+        },
+        {
+          "id": "1e1539eea3be4ce999a3a6472187f690d96aec84",
+          "author": "Aravind Neelakantan",
+          "description": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+          "publishedOn": "2026-09-16T18:59:25.000Z",
+          "wordCount": 36769,
+          "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-20900-featured-image.png"
+        },
+        {
+          "id": "4fc315fa9f77dfa231ce4ad1a494c418d1a77b51",
+          "author": "Han Ding",
+          "description": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector engine works and shares benchmark results for the Single Agent and Sub-Agent Reflectors.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-16T15:47:39.000Z",
+          "wordCount": 35733,
+          "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21426-featured-image.png"
+        },
+        {
+          "id": "05c93504a849bf383ab184bcdee4a82d0e338a5d",
+          "author": "Samantha Stuart",
+          "description": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom blueprint redacts sensitive fields with field-level precision, and a token matching quality check raises recall across degraded and handwritten documents.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+          "publishedOn": "2026-09-16T15:17:37.000Z",
+          "wordCount": 36612,
+          "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20554-featured-image.png"
+        },
+        {
           "id": "c9f41d7f970343e8cc614d389738c9638a75056d",
           "author": "Daniel Abib",
           "description": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse API: message content, system prompt, tool definition, mixed TTL, tenant isolation, and LangChain integration.",

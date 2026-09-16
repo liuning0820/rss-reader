@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-16T14:34:24.789Z</updated>
+    <updated>2026-09-16T19:21:43.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improving HCLS AI reasoning with open-source agent skills]]></title>
+        <id>fd565c39336c51430810e927ad66178c9158fbf3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/"/>
+        <updated>2026-09-16T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains that close this gap, with installation steps, three worked use cases, and a 410-prompt evaluation showing a 70-86% win rate.]]></summary>
+        <author>
+            <name>Michael Hsieh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fault tolerant distributed training on Amazon EKS using NVRx]]></title>
+        <id>1e1539eea3be4ce999a3a6472187f690d96aec84</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/"/>
+        <updated>2026-09-16T18:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.]]></summary>
+        <author>
+            <name>Aravind Neelakantan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing agent system prompts with Amazon Bedrock AgentCore]]></title>
+        <id>4fc315fa9f77dfa231ce4ad1a494c418d1a77b51</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-09-16T15:47:39.000Z</updated>
+        <summary type="html"><![CDATA[AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector engine works and shares benchmark results for the Single Agent and Sub-Agent Reflectors.]]></summary>
+        <author>
+            <name>Han Ding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation]]></title>
+        <id>05c93504a849bf383ab184bcdee4a82d0e338a5d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/"/>
+        <updated>2026-09-16T15:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom blueprint redacts sensitive fields with field-level precision, and a token matching quality check raises recall across degraded and handwritten documents.]]></summary>
+        <author>
+            <name>Samantha Stuart</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing cost and latency with Amazon Bedrock prompt caching]]></title>
         <id>c9f41d7f970343e8cc614d389738c9638a75056d</id>

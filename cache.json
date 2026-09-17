@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=7058",
+          "author": "Chris Swan",
+          "description": "TL;DR Open source projects that I contribute to have adopted AI bots to ease the pull request (PR) process. It might just be me (though I doubt it), but somehow it feels less like a personal attack when a bot tells you what’s wrong with your PR than when it’s a person doing it. This […]",
+          "link": "http://blog.thestateofme.com/2026/09/14/the-impersonal-ai-advantage/",
+          "publishedOn": "2026-09-14T16:34:47.000Z",
+          "wordCount": 3957,
+          "title": "The impersonal AI advantage",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=7058",
           "author": "Chris Swan",

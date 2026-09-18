@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-18T08:44:40.228Z</updated>
+    <updated>2026-09-18T14:05:00.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Amazon SageMaker HyperPod Inference Gateway]]></title>
+        <id>f7030591b5a0a92a50f229929b93194a36691b5e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/"/>
+        <updated>2026-09-18T13:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.]]></summary>
+        <author>
+            <name>Vinay Arora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent]]></title>
         <id>a6559b315a35bac095e4d57dabbff35e09f15496</id>
@@ -1224,36 +1234,6 @@
         <summary type="html"><![CDATA[Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in natural language, all without adding latency to clinical workflows.]]></summary>
         <author>
             <name>Durgesh Nath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Domain and publish date filters for Web Search on AgentCore]]></title>
-        <id>77ee46a42e265aa4cd77fe76cd7d06934591ec84</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/"/>
-        <updated>2026-08-19T22:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those sources must be, all enforced server-side. This release also expands Web Search to the Europe (Ireland) and Asia Pacific (Tokyo) Regions.]]></summary>
-        <author>
-            <name>Gaurav Deshmukh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Document Processing with Quick Automate and the IDP Accelerator]]></title>
-        <id>eaaa4ac356bc460ecb86cf18dabfe17bb35322af</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/"/>
-        <updated>2026-08-19T22:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Classifying, extracting, and validating high volumes of documents is a challenge across banking, insurance, healthcare, and the public sector. See how a mid-size mortgage lender automates its entire document intake pipeline, from email to validated data, using the AWS GAIIC IDP Accelerator and Amazon Quick Automate.]]></summary>
-        <author>
-            <name>Gayatri Ohri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines]]></title>
-        <id>af8acee944e5733d5cf6210c21fccec2cc8b42a3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/"/>
-        <updated>2026-08-19T22:06:09.000Z</updated>
-        <summary type="html"><![CDATA[In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.]]></summary>
-        <author>
-            <name>Daniel Abib</name>
         </author>
     </entry>
 </feed>

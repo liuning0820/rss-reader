@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7058",
@@ -156,6 +156,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "f7030591b5a0a92a50f229929b93194a36691b5e",
+          "author": "Vinay Arora",
+          "description": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
+          "publishedOn": "2026-09-18T13:08:34.000Z",
+          "wordCount": 35439,
+          "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21822-featured-image-2.png"
+        },
         {
           "id": "a6559b315a35bac095e4d57dabbff35e09f15496",
           "author": "Ayesha Borker",
@@ -1270,36 +1280,6 @@
           "wordCount": 36664,
           "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-19660-featured-image.png"
-        },
-        {
-          "id": "77ee46a42e265aa4cd77fe76cd7d06934591ec84",
-          "author": "Gaurav Deshmukh",
-          "description": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult and how fresh those sources must be, all enforced server-side. This release also expands Web Search to the Europe (Ireland) and Asia Pacific (Tokyo) Regions.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
-          "publishedOn": "2026-08-19T22:13:20.000Z",
-          "wordCount": 36643,
-          "title": "Domain and publish date filters for Web Search on AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/19/ML-21748-featured-image.png"
-        },
-        {
-          "id": "eaaa4ac356bc460ecb86cf18dabfe17bb35322af",
-          "author": "Gayatri Ohri",
-          "description": "Classifying, extracting, and validating high volumes of documents is a challenge across banking, insurance, healthcare, and the public sector. See how a mid-size mortgage lender automates its entire document intake pipeline, from email to validated data, using the AWS GAIIC IDP Accelerator and Amazon Quick Automate.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
-          "publishedOn": "2026-08-19T22:09:56.000Z",
-          "wordCount": 35049,
-          "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-20366-featured-image.png"
-        },
-        {
-          "id": "af8acee944e5733d5cf6210c21fccec2cc8b42a3",
-          "author": "Daniel Abib",
-          "description": "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
-          "publishedOn": "2026-08-19T22:06:09.000Z",
-          "wordCount": 36383,
-          "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21461-featured-image.png"
         }
       ]
     }

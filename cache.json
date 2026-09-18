@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7058",
@@ -1300,26 +1300,6 @@
           "wordCount": 36383,
           "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21461-featured-image.png"
-        },
-        {
-          "id": "c8a1920ea27bb2b98220333ddad20cccdbbe4727",
-          "author": "Parker Bradshaw",
-          "description": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes during major sporting events. This post walks through the architecture, the AWS services involved, and the patterns for your own multi-agent support solution.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
-          "publishedOn": "2026-08-19T20:40:45.000Z",
-          "wordCount": 37069,
-          "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-20393-featured-image.png"
-        },
-        {
-          "id": "887843aa4f6b53cf9fd0ddae24f0fa2e4162dfb1",
-          "author": "Anmol Dhankhar",
-          "description": "KnowledgeForge mines resolved ITSM incident tickets into new knowledge base articles and automatically curates the existing library by deduplicating, quality-scoring, and improving content, using Amazon Bedrock, Amazon S3 Vectors, and AWS Step Functions in a multi-tenant, closed-loop pipeline.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
-          "publishedOn": "2026-08-19T20:36:50.000Z",
-          "wordCount": 37339,
-          "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21271-featured-image.png"
         }
       ]
     }

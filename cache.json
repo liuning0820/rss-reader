@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=7065",
+          "author": "Chris Swan",
+          "description": "TL;DR Large Language Model (LLM) based Artificial Intelligence (AI) may be great at cranking out plausible sentences. But stringing those sentences together to form some kind of narrative doesn’t get a good story. That’s a problem, and an opportunity; because humans run on stories, and (for now at least) it seems that we still need […]",
+          "link": "http://blog.thestateofme.com/2026/09/18/the-stories-we-tell/",
+          "publishedOn": "2026-09-18T16:18:15.000Z",
+          "wordCount": 4242,
+          "title": "The stories we tell",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!mPBL!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12f1f754-77a0-489b-8050-16e209721f0b_587x328.png"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=7065",
           "author": "Chris Swan",
@@ -166,6 +176,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "2ee3ed6a4b11eb69260daaa48214c0e6564f2a28",
+          "author": "Kareem Syed-Mohammed",
+          "description": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance pools to tiered KV caching and disaggregated prefill and decode.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+          "publishedOn": "2026-09-18T20:52:14.000Z",
+          "wordCount": 37616,
+          "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21809-featured-image-1.png"
+        },
         {
           "id": "1470b50c6e37b81faa5a5f15f79660ea3af81564",
           "author": "Alex Thewsey",

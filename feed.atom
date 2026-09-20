@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-20T03:23:25.001Z</updated>
+    <updated>2026-09-20T09:03:12.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1174,46 +1174,6 @@
         <summary type="html"><![CDATA[浙江徒步之雪窦岭古道 往有草的地方戳 下山时儿子突然跟我说：”你往有草的地方戳。” 我没反应过来。他解释说，石头台阶上长草的地方，底下一定是石头缝——杖尖戳在缝里才稳。 这是他用了一天登山杖，自己一下一下试出来的。 上周末我们走的是雪窦岭古道。台阶是那种大块不规则的条石，年代久了，表面被磨得光滑，有些地方还覆着一层湿滑的青苔。 出发前我给他买了根 NatureHike 的登山杖试水——说明书上讲了长度调节和腕带用法，他上山过程中都体会到了。但说明书没告诉你的是：杖尖戳在光滑湿石面上根本站不住。他一开始本能地往石头缝里戳，确实牢固很多，但石头缝窄，走快了根本瞄不准。有一次他戳空了，杖尖从石面上滑过去，整个人趔趄了一下，吓得我在后面喊了一声”慢点！” 后来他自己琢磨出了规律：台阶上凡是长草的地方，底下必定是缝。因为草只能从缝里长出来。 这个道理说出来很简单。但它不是想出来的，是脚走了一整天、杖尖戳了几百下之后，试出来的。 水起风生 下山到一处瀑布跟前，突然凉快了好多。 一开始没反应过来为什么，站了几秒才明白：水往下冲，带着风。不是风生水起，是水起风生。 我们在那儿站着不走了。后面上来一个光皮大哥，走近瀑布，愣了一下，然后冲后面喊：”快来这儿！这里凉快！”他朋友们呼啦都围了过来，帽子摘了，袖子撸起来，对着水雾吹。站了好几分钟，谁都不想走。 山里走了一天，这几分钟最惬意。]]></summary>
         <author>
             <name>Toby Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic Data Operations Platform (ADOP): Data engineering into hours]]></title>
-        <id>6c5f78444fc96b736282fbe41d92d8c3e27556d8</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/"/>
-        <updated>2026-08-21T17:06:17.000Z</updated>
-        <summary type="html"><![CDATA[The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance controls inline.]]></summary>
-        <author>
-            <name>John Cherian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Govern AI agent tool access with Amazon Bedrock AgentCore Gateway]]></title>
-        <id>2e18f3cfd26a69da47848a4c1ac5c4cdb8a138d7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/"/>
-        <updated>2026-08-21T17:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a governed tool gateway with Amazon Bedrock AgentCore, advancing only when real governance pain demands it.]]></summary>
-        <author>
-            <name>Talha Chattha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduce RAG costs on Amazon Bedrock with query-aware compression]]></title>
-        <id>c9af9a1d9e8740d86e0066f2fec69fedabf450da</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/"/>
-        <updated>2026-08-21T16:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Input tokens are often a meaningful part of the cost of running Retrieval Augmented Generation (RAG) at scale. This post describes a query-aware context compression pattern on Amazon Bedrock: after retrieval, a smaller model filters retrieved chunks against the query before the primary model answers, reducing input tokens and cost while preserving answer quality.]]></summary>
-        <author>
-            <name>Aakanksha Veesam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating aircraft IFEC diagnostics with agentic AI on AWS]]></title>
-        <id>ed00b717fca4a544868c35ad4ab20128af9b7c97</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/"/>
-        <updated>2026-08-21T16:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue that diagnoses in-flight entertainment and connectivity (IFEC) issues across a global fleet, reducing diagnosis time from hours to minutes while maintaining accuracy.]]></summary>
-        <author>
-            <name>Satyen Yadav</name>
         </author>
     </entry>
 </feed>

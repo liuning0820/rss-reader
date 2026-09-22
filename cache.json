@@ -131,16 +131,6 @@
           "wordCount": 1038,
           "title": "SRE Weekly Issue #532",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1806",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale Metal runs Postgres and Vitess on dedicated NVMe inside AWS and GCP. Get data center speed next to your app, with unlimited IOPS and no throttling. Teams routinely see a 70% drop in p99 and p95 latency after migrating. → See the benchmarks Heroic saves […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-531/",
-          "publishedOn": "2026-08-24T03:58:12.000Z",
-          "wordCount": 1076,
-          "title": "SRE Weekly Issue #531",
-          "imageUrl": null
         }
       ]
     },
@@ -176,6 +166,76 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "2e3d91b641ca237ade2f2527a383a24847fe5ded",
+          "author": "Aamna Najmi",
+          "description": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's new in Opus 5.5, practical guidance, and how to start building with the model on Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+          "publishedOn": "2026-09-22T17:28:01.000Z",
+          "wordCount": 34669,
+          "title": "Claude Opus 5.5 is now available on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/22/ML-22003-featured-image.png"
+        },
+        {
+          "id": "aa00d9c221ad9292cfbcc5630acd0f904e2648ad",
+          "author": "Sangmin Woo",
+          "description": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and instruction following with Strands Evals and Amazon Bedrock AgentCore Evaluations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-22T17:18:13.000Z",
+          "wordCount": 36538,
+          "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21794-featured-image.png"
+        },
+        {
+          "id": "b9998174e9c0e9055ac7cefe40c88652e9606651",
+          "author": "Adam Gibicar",
+          "description": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-22T15:46:07.000Z",
+          "wordCount": 35679,
+          "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21280-featured-image.png"
+        },
+        {
+          "id": "de6c2facc757c64fbd0ea27218c6d35c1221274f",
+          "author": "Mona Mona",
+          "description": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob API, and using the results to make data-driven capacity decisions about fleet size.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-09-22T15:35:53.000Z",
+          "wordCount": 35698,
+          "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/17/ML-21905-featured-image.png"
+        },
+        {
+          "id": "dbd3f22e7d336a47137d152cb1d4539976157498",
+          "author": "Senthil Chinnaiyan",
+          "description": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a 60x improvement in time-to-insight. This post shares the architectural approach and key design decisions behind the solution.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-22T15:30:34.000Z",
+          "wordCount": 36701,
+          "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21136-featured-image.png"
+        },
+        {
+          "id": "bc39639b8f4e4cc7c356256fa699e460f9a01fa5",
+          "author": "Abhideep Rastogi",
+          "description": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates detections into high-confidence alerts, detecting unsafe conditions in seconds instead of minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
+          "publishedOn": "2026-09-22T15:19:54.000Z",
+          "wordCount": 36092,
+          "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-19998-featured-image.png"
+        },
+        {
+          "id": "5066ec9c015f24d80bf639cd7289221c5f05bc08",
+          "author": "Christian Ramirez",
+          "description": "Public sector agencies process large volumes of unstructured evidence, such as body camera footage and scanned documents. This post shows how to combine Amazon Bedrock Data Automation with the Model Context Protocol (MCP) to turn that data into structured insights and surface them through natural language queries in Salesforce Agentforce.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/",
+          "publishedOn": "2026-09-22T15:17:45.000Z",
+          "wordCount": 36601,
+          "title": "Extending public sector intelligence with Agentforce and AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20933-featured-image.png"
+        },
         {
           "id": "56dfeac3bfef33ff7b19f174cf3e455627c66990",
           "author": "Suheel Farooq",

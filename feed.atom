@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-22T17:55:41.714Z</updated>
+    <updated>2026-09-22T20:54:52.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock]]></title>
+        <id>f91c4872e4efa50ad6fa1a0161799f318feef3c1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/"/>
+        <updated>2026-09-22T18:10:22.000Z</updated>
+        <summary type="html"><![CDATA[GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.]]></summary>
+        <author>
+            <name>Tanvi Girinath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Opus 5.5 is now available on AWS]]></title>
         <id>2e3d91b641ca237ade2f2527a383a24847fe5ded</id>

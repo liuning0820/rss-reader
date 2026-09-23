@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-23T16:05:20.290Z</updated>
+    <updated>2026-09-23T21:04:17.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock]]></title>
+        <id>a9e8fc8015478951f1ebf38e854088e6f49fee5e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/"/>
+        <updated>2026-09-23T18:41:09.000Z</updated>
+        <summary type="html"><![CDATA[HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock AgentCore. Using Model Context Protocol (MCP), HAL delivers governed knowledge inside the tools teams already use, with no AWS credentials on the client and security anchored in Microsoft Entra ID.]]></summary>
+        <author>
+            <name>Mauro Rallo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic conversational video intelligence built on AWS]]></title>
+        <id>c1a90bbe3003b17df7a04a90397d54eee1db68bd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/"/>
+        <updated>2026-09-23T18:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates Amazon Bedrock, Amazon Rekognition, and Amazon Transcribe at runtime, deciding which service to call so you can ask natural language questions about your videos and get answers in seconds.]]></summary>
+        <author>
+            <name>Michael Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use open weight models as your AI coding agent with Amazon Bedrock]]></title>
+        <id>cced8883b9ee496209b96642a8ac01881e403508</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"/>
+        <updated>2026-09-23T18:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the right model to each task, and keep your data in your own AWS account with no infrastructure to manage.]]></summary>
+        <author>
+            <name>Aris Tsakpinis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock]]></title>
         <id>f91c4872e4efa50ad6fa1a0161799f318feef3c1</id>

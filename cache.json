@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "http://blog.thestateofme.com/?p=7076",
+          "author": "Chris Swan",
+          "description": "This is very much a repeat of part 22 ‘remission again’ from earlier in the year. The fifth protocol has worked, and once again everything went smoothly until the visit to NDSR for Epirubicin where we had to delay things a little whilst his neutrophils recovered. I should probably pay more attention to the treatment […]",
+          "link": "https://blog.thestateofme.com/2026/09/24/milo-cancer-diary-part-25-remission-again-again/",
+          "publishedOn": "2026-09-24T13:57:31.000Z",
+          "wordCount": 3696,
+          "title": "Milo cancer diary part 25 – remission again (again)",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/09/milo_carseat_bandage.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=7076",
           "author": "Chris Swan",

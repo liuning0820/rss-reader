@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-24T18:10:17.172Z</updated>
+    <updated>2026-09-24T22:59:31.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.]]></summary>
         <author>
             <name>Angela Mapes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 25 – remission again (again)]]></title>
+        <id>http://blog.thestateofme.com/?p=7076</id>
+        <link href="https://blog.thestateofme.com/2026/09/24/milo-cancer-diary-part-25-remission-again-again/"/>
+        <updated>2026-09-24T13:57:31.000Z</updated>
+        <summary type="html"><![CDATA[This is very much a repeat of part 22 ‘remission again’ from earlier in the year. The fifth protocol has worked, and once again everything went smoothly until the visit to NDSR for Epirubicin where we had to delay things a little whilst his neutrophils recovered. I should probably pay more attention to the treatment […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
         </author>
     </entry>
     <entry>

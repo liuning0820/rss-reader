@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=7076",
+          "author": "Chris Swan",
+          "description": "This is very much a repeat of part 22 ‘remission again’ from earlier in the year. The fifth protocol has worked, and once again everything went smoothly until the visit to NDSR for Epirubicin where we had to delay things a little whilst his neutrophils recovered. I should probably pay more attention to the treatment […]",
+          "link": "http://blog.thestateofme.com/2026/09/24/milo-cancer-diary-part-25-remission-again-again/",
+          "publishedOn": "2026-09-24T13:57:31.000Z",
+          "wordCount": 3769,
+          "title": "Milo cancer diary part 25 – remission again (again)",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/09/milo_carseat_bandage.jpg"
+        },
         {
           "id": "https://blog.thestateofme.com/?p=7065",
           "author": "Chris Swan",
@@ -166,6 +176,41 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "89ffa52d3ad1a4f1ba4eb44fab5c1bc6ba6dcc60",
+          "author": "Ayush Sharma",
+          "description": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+          "publishedOn": "2026-09-24T16:20:12.000Z",
+          "wordCount": 36270,
+          "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+          "enclosure": {
+            "length": "1280078",
+            "type": "audio/mpeg",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21846/realtime_endpoint_whisperx-flight1549-demo.mp3"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/22/ML-21846-featured-image-1.png"
+        },
+        {
+          "id": "118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb",
+          "author": "Senthil Kamala Rathinam",
+          "description": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP servers with secure cross-account access and fine-grained authorization.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+          "publishedOn": "2026-09-24T16:12:47.000Z",
+          "wordCount": 37451,
+          "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/21/ML-20091-featured-image.png"
+        },
+        {
+          "id": "427cff8805a421ac08f11c5e6f8349509b2ca46f",
+          "author": "Angela Mapes",
+          "description": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+          "publishedOn": "2026-09-24T16:06:46.000Z",
+          "wordCount": 35397,
+          "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/21/ML-21388-featured-image-1.png"
+        },
         {
           "id": "a9e8fc8015478951f1ebf38e854088e6f49fee5e",
           "author": "Mauro Rallo",

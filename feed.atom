@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-24T13:11:06.157Z</updated>
+    <updated>2026-09-24T18:10:17.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Speaker-labeled transcription with WhisperX on SageMaker AI]]></title>
+        <id>89ffa52d3ad1a4f1ba4eb44fab5c1bc6ba6dcc60</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/"/>
+        <updated>2026-09-24T16:20:12.000Z</updated>
+        <summary type="html"><![CDATA[The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.]]></summary>
+        <author>
+            <name>Ayush Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a multi-account AI agent with AgentCore Gateway and MCP]]></title>
+        <id>118aa8ce2394e17dd4cd724e7cebe6d8a6cddefb</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/"/>
+        <updated>2026-09-24T16:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP servers with secure cross-account access and fine-grained authorization.]]></summary>
+        <author>
+            <name>Senthil Kamala Rathinam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aderant builds intelligent ticket triage with Amazon Nova]]></title>
+        <id>427cff8805a421ac08f11c5e6f8349509b2ca46f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/"/>
+        <updated>2026-09-24T16:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.]]></summary>
+        <author>
+            <name>Angela Mapes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo cancer diary part 25 – remission again (again)]]></title>
+        <id>https://blog.thestateofme.com/?p=7076</id>
+        <link href="http://blog.thestateofme.com/2026/09/24/milo-cancer-diary-part-25-remission-again-again/"/>
+        <updated>2026-09-24T13:57:31.000Z</updated>
+        <summary type="html"><![CDATA[This is very much a repeat of part 22 ‘remission again’ from earlier in the year. The fifth protocol has worked, and once again everything went smoothly until the visit to NDSR for Epirubicin where we had to delay things a little whilst his neutrophils recovered. I should probably pay more attention to the treatment […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock]]></title>
         <id>a9e8fc8015478951f1ebf38e854088e6f49fee5e</id>

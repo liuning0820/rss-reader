@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=7076",
@@ -186,6 +186,71 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "ea9c3794156b7050a4cb777dc63887c488fc15b1",
+          "author": "Ashvin Nihalani",
+          "description": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and increased aggregate reinforcement learning rollout throughput by 40% for large-scale RLHF and GRPO training.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+          "publishedOn": "2026-09-25T16:29:50.000Z",
+          "wordCount": 37367,
+          "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/24/ML-21346-featured-image.png"
+        },
+        {
+          "id": "b119ac0e22c146d6b8a4049102737ff963987138",
+          "author": "Nilesh PS",
+          "description": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image, launching a Ray cluster from SageMaker Studio, submitting and monitoring the job, and hosting the trained LoRA adapter for inference.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2026-09-25T16:18:07.000Z",
+          "wordCount": 37381,
+          "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/23/ML-21828-featured-image.png"
+        },
+        {
+          "id": "d32b748fe9d6f6dd6643926259f6ad08cf697479",
+          "author": "Felicia Yue Xiong",
+          "description": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical accuracy while streaming responses in real time.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+          "publishedOn": "2026-09-25T16:15:22.000Z",
+          "wordCount": 38378,
+          "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/22/ML-20546-featured-image.png"
+        },
+        {
+          "id": "3b00dd9f3c6b3b5dda58a9808f9dba8711724685",
+          "author": "Suneesh T",
+          "description": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-09-25T16:09:46.000Z",
+          "wordCount": 36086,
+          "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+          "enclosure": {
+            "length": "643086",
+            "type": "audio/wav",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-20646/reference_original_input.wav"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-20646-featured-image.png"
+        },
+        {
+          "id": "bdc7bf8bef5192bd88791786ee0bc0b4bd1a1bdd",
+          "author": "Deepthi Paruchuri",
+          "description": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an automated cross-cloud data pipeline and multi-tenant row-level security.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+          "publishedOn": "2026-09-25T15:54:42.000Z",
+          "wordCount": 36647,
+          "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/17/ML-20632-featured-image.png"
+        },
+        {
+          "id": "30192cb168dbb5ad37dad117c1788926317f0bc4",
+          "author": "Bryan Berezdivin",
+          "description": "Amazon SageMaker HyperPod and Cloud Native Qumulo let you place training compute in one AWS Region while keeping your dataset in another. This post shares the architecture and validation results from a cross-Region training run, where a remote cluster matched a co-located cluster's throughput after a brief NeuralCache warmup.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/",
+          "publishedOn": "2026-09-25T15:49:44.000Z",
+          "wordCount": 37225,
+          "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/17/ML-19515-featured-image.png"
+        },
         {
           "id": "89ffa52d3ad1a4f1ba4eb44fab5c1bc6ba6dcc60",
           "author": "Ayush Sharma",

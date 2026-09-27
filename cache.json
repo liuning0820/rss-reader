@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=7076",
@@ -1235,36 +1235,6 @@
           "wordCount": 36724,
           "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/27/ML-21312-featured-image.png"
-        },
-        {
-          "id": "ac351c6a258d9c6b09e4e26e7198133fc26a60a3",
-          "author": "Harshil Shah",
-          "description": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-          "publishedOn": "2026-08-28T19:31:05.000Z",
-          "wordCount": 35961,
-          "title": "Batch write and discover records in Amazon SageMaker Feature Store",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/27/ML-21718-featured-image.png"
-        },
-        {
-          "id": "dae4053b37d7ed7b3612288d4b8268c30de807fd",
-          "author": "Vianney Bruned",
-          "description": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
-          "publishedOn": "2026-08-28T16:22:30.000Z",
-          "wordCount": 36047,
-          "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/24/ML-21294-featured-image.png"
-        },
-        {
-          "id": "8dcb0dfaec8adf0cacbdfe39cb8d995c20776278",
-          "author": "Rielah De Jesus",
-          "description": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
-          "publishedOn": "2026-08-28T16:20:40.000Z",
-          "wordCount": 35919,
-          "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/25/ML-20956-featured-image.png"
         }
       ]
     }

@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-28T10:32:46.297Z</updated>
+    <updated>2026-09-28T19:13:43.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Claude Sonnet 5.5 on AWS]]></title>
+        <id>cfc2607374dece7ff26f26b3922adbbb2e24f173</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"/>
+        <updated>2026-09-28T18:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.]]></summary>
+        <author>
+            <name>Dani Mitchell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1]]></title>
+        <id>be959add1e3f236c1c0a04b0919aa38f042b4622</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/"/>
+        <updated>2026-09-28T16:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.]]></summary>
+        <author>
+            <name>Yadan Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate images and video with vLLM-Omni on SageMaker AI – Part 2]]></title>
+        <id>aec2d25cc981395a6fa5ae4a221b4e0ba14ccbf2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/"/>
+        <updated>2026-09-28T16:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.]]></summary>
+        <author>
+            <name>Yadan Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing synthetic monitoring using Amazon Nova Act]]></title>
+        <id>6122eefc7690836dc43c93a6f5a9bd795f679f12</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/"/>
+        <updated>2026-09-28T15:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond brittle UI scripts, with a complete sample implementation.]]></summary>
+        <author>
+            <name>Sarath Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Amazon Textract adapter lifecycle management across accounts]]></title>
+        <id>6a0480f8e638c21372a1b84d4da4d77dc7deb8dc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/"/>
+        <updated>2026-09-28T15:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to operationalize Amazon Textract Custom Queries adapters for production: infrastructure as code with AWS CloudFormation and Terraform, a cross-account adapter promotion process, a pre-classification routing pattern for multiple form versions, and production security controls such as VPC endpoints, encryption, and least-privilege IAM.]]></summary>
+        <author>
+            <name>Bhavya Sruthi Sode</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #536]]></title>
         <id>https://sreweekly.com/?p=1824</id>

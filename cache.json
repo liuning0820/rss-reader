@@ -167,6 +167,61 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "cfc2607374dece7ff26f26b3922adbbb2e24f173",
+          "author": "Dani Mitchell",
+          "description": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+          "publishedOn": "2026-09-28T18:57:13.000Z",
+          "wordCount": 34563,
+          "title": "Introducing Claude Sonnet 5.5 on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-22023-featured-image.png"
+        },
+        {
+          "id": "be959add1e3f236c1c0a04b0919aa38f042b4622",
+          "author": "Yadan Wei",
+          "description": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+          "publishedOn": "2026-09-28T16:15:46.000Z",
+          "wordCount": 35220,
+          "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/23/ML-21837-featured-image.png"
+        },
+        {
+          "id": "aec2d25cc981395a6fa5ae4a221b4e0ba14ccbf2",
+          "author": "Yadan Wei",
+          "description": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+          "publishedOn": "2026-09-28T16:15:17.000Z",
+          "wordCount": 35427,
+          "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+          "enclosure": {
+            "length": "1237917",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21866/figure-3-streamlit-ui-demo.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/24/ML-21866-featured-image.png"
+        },
+        {
+          "id": "6122eefc7690836dc43c93a6f5a9bd795f679f12",
+          "author": "Sarath Krishnan",
+          "description": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond brittle UI scripts, with a complete sample implementation.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
+          "publishedOn": "2026-09-28T15:56:32.000Z",
+          "wordCount": 36091,
+          "title": "Implementing synthetic monitoring using Amazon Nova Act",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/ML-20230-featured-image.png"
+        },
+        {
+          "id": "6a0480f8e638c21372a1b84d4da4d77dc7deb8dc",
+          "author": "Bhavya Sruthi Sode",
+          "description": "Learn how to operationalize Amazon Textract Custom Queries adapters for production: infrastructure as code with AWS CloudFormation and Terraform, a cross-account adapter promotion process, a pre-classification routing pattern for multiple form versions, and production security controls such as VPC endpoints, encryption, and least-privilege IAM.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/",
+          "publishedOn": "2026-09-28T15:49:04.000Z",
+          "wordCount": 37827,
+          "title": "Automating Amazon Textract adapter lifecycle management across accounts",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/23/ML-21054-featured-image.png"
+        },
+        {
           "id": "ea9c3794156b7050a4cb777dc63887c488fc15b1",
           "author": "Ashvin Nihalani",
           "description": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and increased aggregate reinforcement learning rollout throughput by 40% for large-scale RLHF and GRPO training.",

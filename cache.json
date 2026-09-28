@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1824",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale is headed to SREcon26 in Dublin this October. Swing by our booth to grab some merch, catch a live demo, and chat with the team behind the world’s fastest databases. We can’t wait to see you there. → If you’re not at SREcon but still […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-536/",
+          "publishedOn": "2026-09-28T03:02:53.000Z",
+          "wordCount": 1172,
+          "title": "SRE Weekly Issue #536",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1818",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding Graceful planned and unplanned failovers → Neki is available today. Learn more. Interning at incident.io: Rate Limiting, Resiliently […]",

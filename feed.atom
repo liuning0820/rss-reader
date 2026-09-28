@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-27T22:47:52.412Z</updated>
+    <updated>2026-09-28T03:38:26.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #536]]></title>
+        <id>https://sreweekly.com/?p=1824</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-536/"/>
+        <updated>2026-09-28T03:02:53.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale is headed to SREcon26 in Dublin this October. Swing by our booth to grab some merch, catch a live demo, and chat with the team behind the world’s fastest databases. We can’t wait to see you there. → If you’re not at SREcon but still […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput]]></title>
         <id>ea9c3794156b7050a4cb777dc63887c488fc15b1</id>

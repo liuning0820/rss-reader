@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-28T19:13:43.042Z</updated>
+    <updated>2026-09-29T00:10:33.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grok 4.7 is now available on Amazon Bedrock]]></title>
+        <id>9a90cb3d7623d517b6c268aadcd85bbf56a68dde</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/"/>
+        <updated>2026-09-28T22:13:16.000Z</updated>
+        <summary type="html"><![CDATA[xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.]]></summary>
+        <author>
+            <name>Suheel Farooq</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Claude Sonnet 5.5 on AWS]]></title>
         <id>cfc2607374dece7ff26f26b3922adbbb2e24f173</id>

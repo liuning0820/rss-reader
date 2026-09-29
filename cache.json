@@ -167,6 +167,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9a90cb3d7623d517b6c268aadcd85bbf56a68dde",
+          "author": "Suheel Farooq",
+          "description": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+          "publishedOn": "2026-09-28T22:13:16.000Z",
+          "wordCount": 35871,
+          "title": "Grok 4.7 is now available on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21934-featured-image.png"
+        },
+        {
           "id": "cfc2607374dece7ff26f26b3922adbbb2e24f173",
           "author": "Dani Mitchell",
           "description": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",

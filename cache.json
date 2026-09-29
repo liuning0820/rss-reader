@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=7076",
@@ -156,6 +156,56 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "66c26dd8eb3c8cf25a769df1c1979dc7b8a86fa5",
+          "author": "Tanvi Girinath",
+          "description": "GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+          "publishedOn": "2026-09-29T19:34:14.000Z",
+          "wordCount": 34511,
+          "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22090-featured-image.png"
+        },
+        {
+          "id": "956105521adc5a0776213d7b56dbfe5e72bac1c2",
+          "author": "Daiquan Nkere",
+          "description": "Prompt engineering in Amazon Quick shapes how accurately its AI-powered features respond to your requests. Part 1 of a two-part series covers the foundational principles and reusable frameworks (specificity, context-setting, few-shot examples, and the CRISPE framework) for consistent, high-quality results across Amazon Quick.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
+          "publishedOn": "2026-09-29T16:27:57.000Z",
+          "wordCount": 35992,
+          "title": "Prompt engineering fundamentals for Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/24/ML-20527-part1-featured-image.png"
+        },
+        {
+          "id": "85610690682b8b1fa3e1af451a034eda90d65cfa",
+          "author": "Daiquan Nkere",
+          "description": "Part 2 of our Amazon Quick prompt engineering series goes component by component. Learn the prompt patterns that get the best results from Amazon Quick Research, Quick Flows, Quick Sight, chat agents, and action integrations, plus the common pitfalls to avoid.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+          "publishedOn": "2026-09-29T16:27:33.000Z",
+          "wordCount": 36349,
+          "title": "Prompt engineering by Quick component: Patterns and pitfalls",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/24/ML-20527-part2-featured-image.png"
+        },
+        {
+          "id": "479e7dbfafc38939d38af9cc3a27e5f2d32dc044",
+          "author": "Konala McGrath",
+          "description": "Manually extracting data from hundreds of vendor contracts doesn't scale, and RAG chat tools fall short on portfolio-wide questions. This post shares a contract intelligence platform on AWS that uses AI agents to extract and verify contract fields, then answers aggregate and single-contract questions through Amazon Quick analytics.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-09-29T16:14:24.000Z",
+          "wordCount": 36326,
+          "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/23/ML-21546-featured-image.png"
+        },
+        {
+          "id": "c8a9d3a3948ee260503419fe425f5000daf39358",
+          "author": "Mariah Miller",
+          "description": "Condé Nast's editorial teams spent an average of 250 minutes per task searching a library of more than 140,000 videos using only titles and descriptions. Working with the AWS Generative AI Innovation Center, they built a multimodal video discovery solution on Amazon Bedrock and Amazon OpenSearch Service that cut discovery time to under 2 minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+          "publishedOn": "2026-09-29T15:55:17.000Z",
+          "wordCount": 35720,
+          "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21598-featured-image.png"
+        },
         {
           "id": "9a90cb3d7623d517b6c268aadcd85bbf56a68dde",
           "author": "Suheel Farooq",

@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-29T14:36:03.540Z</updated>
+    <updated>2026-09-29T20:26:09.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock]]></title>
+        <id>66c26dd8eb3c8cf25a769df1c1979dc7b8a86fa5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/"/>
+        <updated>2026-09-29T19:34:14.000Z</updated>
+        <summary type="html"><![CDATA[GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently.]]></summary>
+        <author>
+            <name>Tanvi Girinath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt engineering fundamentals for Amazon Quick]]></title>
+        <id>956105521adc5a0776213d7b56dbfe5e72bac1c2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/"/>
+        <updated>2026-09-29T16:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Prompt engineering in Amazon Quick shapes how accurately its AI-powered features respond to your requests. Part 1 of a two-part series covers the foundational principles and reusable frameworks (specificity, context-setting, few-shot examples, and the CRISPE framework) for consistent, high-quality results across Amazon Quick.]]></summary>
+        <author>
+            <name>Daiquan Nkere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt engineering by Quick component: Patterns and pitfalls]]></title>
+        <id>85610690682b8b1fa3e1af451a034eda90d65cfa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/"/>
+        <updated>2026-09-29T16:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Part 2 of our Amazon Quick prompt engineering series goes component by component. Learn the prompt patterns that get the best results from Amazon Quick Research, Quick Flows, Quick Sight, chat agents, and action integrations, plus the common pitfalls to avoid.]]></summary>
+        <author>
+            <name>Daiquan Nkere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore]]></title>
+        <id>479e7dbfafc38939d38af9cc3a27e5f2d32dc044</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/"/>
+        <updated>2026-09-29T16:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Manually extracting data from hundreds of vendor contracts doesn't scale, and RAG chat tools fall short on portfolio-wide questions. This post shares a contract intelligence platform on AWS that uses AI agents to extract and verify contract fields, then answers aggregate and single-contract questions through Amazon Quick analytics.]]></summary>
+        <author>
+            <name>Konala McGrath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Condé Nast built multimodal video discovery with Amazon Bedrock]]></title>
+        <id>c8a9d3a3948ee260503419fe425f5000daf39358</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/"/>
+        <updated>2026-09-29T15:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Condé Nast's editorial teams spent an average of 250 minutes per task searching a library of more than 140,000 videos using only titles and descriptions. Working with the AWS Generative AI Innovation Center, they built a multimodal video discovery solution on Amazon Bedrock and Amazon OpenSearch Service that cut discovery time to under 2 minutes.]]></summary>
+        <author>
+            <name>Mariah Miller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grok 4.7 is now available on Amazon Bedrock]]></title>
         <id>9a90cb3d7623d517b6c268aadcd85bbf56a68dde</id>

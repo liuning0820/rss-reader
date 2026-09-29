@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-29T07:52:01.006Z</updated>
+    <updated>2026-09-29T14:36:03.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1244,16 +1244,6 @@
         <summary type="html"><![CDATA[Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and retrieval flows, the asynchronous indexing lifecycle, per-user data isolation, and best practices for operating the solution at scale.]]></summary>
         <author>
             <name>George Belsian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #532]]></title>
-        <id>https://sreweekly.com/?p=1810</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-532/"/>
-        <updated>2026-08-31T02:11:37.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale Metal runs Postgres and Vitess on dedicated NVMe inside AWS and GCP. Get data center speed next to your app, with unlimited IOPS and no throttling. Teams routinely see a 70% drop in p99 and p95 latency after migrating. → See the benchmarks When declaring […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

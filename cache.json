@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=7076",
@@ -130,16 +130,6 @@
           "publishedOn": "2026-09-07T03:43:34.000Z",
           "wordCount": 1137,
           "title": "SRE Weekly Issue #533",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1810",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale Metal runs Postgres and Vitess on dedicated NVMe inside AWS and GCP. Get data center speed next to your app, with unlimited IOPS and no throttling. Teams routinely see a 70% drop in p99 and p95 latency after migrating. → See the benchmarks When declaring […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-532/",
-          "publishedOn": "2026-08-31T02:11:37.000Z",
-          "wordCount": 1038,
-          "title": "SRE Weekly Issue #532",
           "imageUrl": null
         }
       ]

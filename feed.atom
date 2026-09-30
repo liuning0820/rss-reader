@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-09-30T14:44:11.485Z</updated>
+    <updated>2026-09-30T20:31:27.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Query claims in natural language with Amazon Bedrock Knowledge Bases]]></title>
+        <id>6f62e0665479ef5d4ffddb480328d07ce719281b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/"/>
+        <updated>2026-09-30T15:37:15.000Z</updated>
+        <summary type="html"><![CDATA[This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.]]></summary>
+        <author>
+            <name>Shreya Pawaskar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances]]></title>
+        <id>37f0383beadfcb1c0bb959bcb5b53ec408457b0c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/"/>
+        <updated>2026-09-30T15:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track.]]></summary>
+        <author>
+            <name>Evandro Franco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Bedrock expands Claude model availability to in-country inferencing in India]]></title>
         <id>5ee89c1b26308404d27592d483f282630a0d18d9</id>

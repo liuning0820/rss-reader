@@ -157,6 +157,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6f62e0665479ef5d4ffddb480328d07ce719281b",
+          "author": "Shreya Pawaskar",
+          "description": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2026-09-30T15:37:15.000Z",
+          "wordCount": 36635,
+          "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21629-featured-image.png"
+        },
+        {
+          "id": "37f0383beadfcb1c0bb959bcb5b53ec408457b0c",
+          "author": "Evandro Franco",
+          "description": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+          "publishedOn": "2026-09-30T15:21:57.000Z",
+          "wordCount": 36762,
+          "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+        },
+        {
           "id": "5ee89c1b26308404d27592d483f282630a0d18d9",
           "author": "Aamna Najmi",
           "description": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data within the India Regions, and get started from the Amazon Bedrock console or with the Messages, InvokeModel, and Converse APIs.",

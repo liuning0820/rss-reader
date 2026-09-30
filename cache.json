@@ -1320,16 +1320,6 @@
           "wordCount": 36160,
           "title": "How Boomi Scribe streamlines documentation using AWS",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/11/ML-19052-featured-image.png"
-        },
-        {
-          "id": "0b043ce49f9a164fa994a19b2ff7903218809861",
-          "author": "Vivek Ghatala",
-          "description": "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication of AI tools, so clients can reuse commonly used tools and agents exposed through an MCP server instead of authoring them from scratch again. Your customers get a way to use your product inside Amazon Quick (chat agents and workflows) without building custom connectors for every use case.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
-          "publishedOn": "2026-08-31T22:47:53.000Z",
-          "wordCount": 36559,
-          "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/08/20742.png"
         }
       ]
     }

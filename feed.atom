@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-01T01:03:00.596Z</updated>
+    <updated>2026-10-01T08:17:38.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1214,76 +1214,6 @@
         <summary type="html"><![CDATA[Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that produces IDEA-aligned transition plans for school districts across the US.]]></summary>
         <author>
             <name>Sadia Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Claude Fable 5.1 on AWS]]></title>
-        <id>fe5a761d13fdea1cd6343d646c1e042d79f66815</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/"/>
-        <updated>2026-09-01T19:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud environment you control, and how to start building with the model on Amazon Bedrock.]]></summary>
-        <author>
-            <name>Dani Mitchell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From theory to delivery: How Atos upskilled 400 engineers in agentic AI]]></title>
-        <id>c09782028dd4cf40d9245e4cd28716a51318e5b0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/"/>
-        <updated>2026-09-01T16:17:54.000Z</updated>
-        <summary type="html"><![CDATA[When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos chose the format, what engineers built and learned, and what other enterprises should consider.]]></summary>
-        <author>
-            <name>Rajesh Babu Nuvvula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock]]></title>
-        <id>3e0afa841f894aea05b2ebf4260dd9e6fe0d4ab0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/"/>
-        <updated>2026-09-01T16:03:41.000Z</updated>
-        <summary type="html"><![CDATA[As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view, and a serverless AWS Lambda loop that applies tiered model limits in near-real-time without disrupting active sessions.]]></summary>
-        <author>
-            <name>Arun Chandapillai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Amazon Quick from POC to production: Agents, Flows, and Spaces]]></title>
-        <id>008129bbc0eabcb083993ebf3af85f5167177c99</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/"/>
-        <updated>2026-09-01T16:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that hold as you scale: dataset shaping, agent isolation, document classification, and approval gates.]]></summary>
-        <author>
-            <name>Archana Ambavane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How t54 built a trust layer with Amazon Bedrock AgentCore payments]]></title>
-        <id>6d27453be64ca6b4b4bfe0edebc3b8aa1367edf7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/"/>
-        <updated>2026-09-01T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have governed more than 20 million agent-initiated transactions with no human in the loop.]]></summary>
-        <author>
-            <name>Chris Wajule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How ZS democratized secure ad-hoc analytics with Amazon SageMaker]]></title>
-        <id>a64230827a5326f30ac219e986bfd033ee23bba2</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/"/>
-        <updated>2026-09-01T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.]]></summary>
-        <author>
-            <name>Sudhir Schar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Boomi Scribe streamlines documentation using AWS]]></title>
-        <id>48cbbe2c304a8279bcc16025341884fcd5d58fd7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/"/>
-        <updated>2026-09-01T15:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS Lambda to parse integration DAGs, generate detailed documentation, and compare component versions at scale.]]></summary>
-        <author>
-            <name>Swagata Ashwani, Prakhar Amlathe</name>
         </author>
     </entry>
 </feed>

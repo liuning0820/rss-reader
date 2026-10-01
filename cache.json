@@ -157,6 +157,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
+          "author": "Nikhil Jha",
+          "description": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-01T22:06:14.000Z",
+          "wordCount": 40540,
+          "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/12/ML-20875-featured-image.png"
+        },
+        {
+          "id": "8ab0a48859cdbba3c1265e24cbb0df17baa10509",
+          "author": "Wei Kuo",
+          "description": "With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. Each query runs as the person viewing the app, so row-level and column-level security apply per reader. Learn how to build, publish, and share a live-data app using natural language.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
+          "publishedOn": "2026-10-01T19:49:06.000Z",
+          "wordCount": 39016,
+          "title": "Serve live, governed data in AI-built apps with Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/30/ML-22064-featured-image.png"
+        },
+        {
+          "id": "2ecc9b560bbf992d1aef9266dfef2641bd2fd889",
+          "author": "Venkata Sistla",
+          "description": "Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memory subsystem works and how to implement Amazon S3 Vectors as a custom memory provider, using a multi-agent investment research use case.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
+          "publishedOn": "2026-10-01T17:34:56.000Z",
+          "wordCount": 39400,
+          "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21981-featured-image.png"
+        },
+        {
           "id": "6c1b27922d7a01ad3cade26f5450a719211cf6d1",
           "author": "Chidi Prince John",
           "description": "Generative AI makes it cheap to produce personalized content at scale, but which variation do you show each customer? Amazon Payments used a multi-objective contextual bandit on Amazon SageMaker AI to personalize an acquisition funnel, achieving a high single-digit conversion lift for one audience, and learning why content, not the model, was the constraint.",

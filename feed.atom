@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-02T04:02:21.536Z</updated>
+    <updated>2026-10-02T11:52:15.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1244,56 +1244,6 @@
         <summary type="html"><![CDATA[Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack.]]></summary>
         <author>
             <name>Ishita Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference]]></title>
-        <id>262427adeddcaf49102f989ea5bfb8332e685f6c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/"/>
-        <updated>2026-09-02T21:22:05.000Z</updated>
-        <summary type="html"><![CDATA[Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to invoke the models, use prompt caching, set up Codex with OpenID Connect authentication, and monitor usage with Amazon CloudWatch.]]></summary>
-        <author>
-            <name>Frank Huang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modernizing and scaling support operations with generative AI on AWS]]></title>
-        <id>5c6abef255152e41f7c6379eb8254ddffa13a0dc</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/"/>
-        <updated>2026-09-02T18:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work.]]></summary>
-        <author>
-            <name>Carla Lorente</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an AWS team detects dashboard content failures at scale using Amazon Bedrock]]></title>
-        <id>2ddcba352995cb71d35e8cab506f0d703e07f99c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/"/>
-        <updated>2026-09-02T18:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered content validation solution on Amazon Bedrock that scans hundreds of dashboards and alerts owners, cutting mean time to detection from days to under an hour.]]></summary>
-        <author>
-            <name>Kimiya Yokoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore]]></title>
-        <id>e771b13b28ead96c665aa300c29b20385700a5dd</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-09-02T18:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable documentation through Amazon Bedrock Knowledge Bases and AWS CodePipeline.]]></summary>
-        <author>
-            <name>Göksel SARIKAYA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trinity: Agentic AI-powered transition planning for students with disabilities]]></title>
-        <id>fab84ee3b87745244660d46e82d0bdf577316d98</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/"/>
-        <updated>2026-09-02T18:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that produces IDEA-aligned transition plans for school districts across the US.]]></summary>
-        <author>
-            <name>Sadia Ahmed</name>
         </author>
     </entry>
 </feed>

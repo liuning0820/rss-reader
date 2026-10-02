@@ -157,6 +157,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "2f2cd30ac2942c76cf89e1fbda1bc39b085e37cc",
+          "author": "Anand Komandooru",
+          "description": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks through the reference architecture and a deployable AWS CDK sample, using lease compliance as the running example.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+          "publishedOn": "2026-10-02T15:48:26.000Z",
+          "wordCount": 40502,
+          "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/30/ML-21832-featured-image.png"
+        },
+        {
+          "id": "f34004e8575c136497f5d3d9f5a7791f5549d448",
+          "author": "Jishnu Dasgupta",
+          "description": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gateway, with JWT-based inbound authentication through AWS IAM Identity Center and Amazon Cognito.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-02T15:46:05.000Z",
+          "wordCount": 38558,
+          "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/30/ML-21694-featured-image.png"
+        },
+        {
+          "id": "c348d5804487175a62b36b622fd99ec800d9aef8",
+          "author": "Huibin Shen",
+          "description": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-10-02T15:44:20.000Z",
+          "wordCount": 38811,
+          "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/ML-21889-featured-image.png"
+        },
+        {
           "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
           "author": "Nikhil Jha",
           "description": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",

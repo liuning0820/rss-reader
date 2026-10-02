@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-02T11:52:15.783Z</updated>
+    <updated>2026-10-02T17:26:50.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern]]></title>
+        <id>2f2cd30ac2942c76cf89e1fbda1bc39b085e37cc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/"/>
+        <updated>2026-10-02T15:48:26.000Z</updated>
+        <summary type="html"><![CDATA[The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks through the reference architecture and a deployable AWS CDK sample, using lease compliance as the running example.]]></summary>
+        <author>
+            <name>Anand Komandooru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore]]></title>
+        <id>f34004e8575c136497f5d3d9f5a7791f5549d448</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-10-02T15:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gateway, with JWT-based inbound authentication through AWS IAM Identity Center and Amazon Cognito.]]></summary>
+        <author>
+            <name>Jishnu Dasgupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI]]></title>
+        <id>c348d5804487175a62b36b622fd99ec800d9aef8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/"/>
+        <updated>2026-10-02T15:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability.]]></summary>
+        <author>
+            <name>Huibin Shen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore]]></title>
         <id>d0376fa78aeb5acfd7edb22f7e3658ad0679a620</id>

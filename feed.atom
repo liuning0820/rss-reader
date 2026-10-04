@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-04T07:45:02.340Z</updated>
+    <updated>2026-10-04T13:39:57.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1144,16 +1144,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Incidents start before the response […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore]]></title>
-        <id>1cc1445c2783ef202a00ff4aadacbc028620a9eb</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-09-04T21:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.]]></summary>
-        <author>
-            <name>Salman Ahmed</name>
         </author>
     </entry>
 </feed>

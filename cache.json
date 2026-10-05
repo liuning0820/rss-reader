@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=7076",
@@ -156,6 +156,66 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "0cbe16ca98bef589de7fcf6ba5ec623095bdb76d",
+          "author": "Bradley Wyman",
+          "description": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+          "publishedOn": "2026-10-05T17:25:20.000Z",
+          "wordCount": 38890,
+          "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/23/ML-19466-featured-image.png"
+        },
+        {
+          "id": "cf6f95ea7bf1aafa4505939aad0e550912dc69a2",
+          "author": "Mona Mona",
+          "description": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker Python SDK v3 code to benchmark, recommend, and compare deployments.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+          "publishedOn": "2026-10-05T17:23:19.000Z",
+          "wordCount": 38840,
+          "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-21968-featured-image.png"
+        },
+        {
+          "id": "e22db81f9de569eb9635812b9194903d60b6defd",
+          "author": "Keshav Ganesh",
+          "description": "Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+          "publishedOn": "2026-10-05T15:56:28.000Z",
+          "wordCount": 39030,
+          "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-21611-featured-image.png"
+        },
+        {
+          "id": "9ef1f1b789cbe6fd45278d748b65ebf4500d6c5e",
+          "author": "Manideep Reddy Gillela",
+          "description": "Build a Retrieval Augmented Generation (RAG) application on Amazon Bedrock Managed Knowledge Base with LangChain, and see how agentic retrieval handles the multi-part questions that single-shot retrieval answers poorly. Run the same query through both paths, read the trace events, and compare what each retrieval path costs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/",
+          "publishedOn": "2026-10-05T15:53:56.000Z",
+          "wordCount": 39690,
+          "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-21691-featured-image.png"
+        },
+        {
+          "id": "2eb081af901222e14948443d7e3f56ca181d9a82",
+          "author": "Gaurav Jaisingh",
+          "description": "Amazon Quick doesn't offer a direct console path to downgrade a user from Admin or Author to Reader. This post walks through two reliable methods: a manual delete-and-recreate approach and an AWS CLI step-down sequence that downgrades roles safely while preserving asset ownership.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/",
+          "publishedOn": "2026-10-05T15:51:38.000Z",
+          "wordCount": 39083,
+          "title": "Downgrading user roles in Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/25/ML-22009-featured-image-1.png"
+        },
+        {
+          "id": "356978dbc1d5c1b11d1e19e188aec10e4dad4778",
+          "author": "Kanishk Mahajan",
+          "description": "Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent supply chain decisioning system and evaluate it with Amazon Bedrock AgentCore Evaluations using built-in, custom, and explainability evaluators.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-05T15:50:01.000Z",
+          "wordCount": 39456,
+          "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/ML-20163-featured-image.png"
+        },
         {
           "id": "2f2cd30ac2942c76cf89e1fbda1bc39b085e37cc",
           "author": "Anand Komandooru",

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-05T08:18:42.794Z</updated>
+    <updated>2026-10-05T19:02:33.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supercharge regulated workloads with Claude Code and Amazon Bedrock]]></title>
+        <id>0cbe16ca98bef589de7fcf6ba5ec623095bdb76d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"/>
+        <updated>2026-10-05T17:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.]]></summary>
+        <author>
+            <name>Bradley Wyman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent]]></title>
+        <id>cf6f95ea7bf1aafa4505939aad0e550912dc69a2</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/"/>
+        <updated>2026-10-05T17:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker Python SDK v3 code to benchmark, recommend, and compare deployments.]]></summary>
+        <author>
+            <name>Mona Mona</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion]]></title>
+        <id>e22db81f9de569eb9635812b9194903d60b6defd</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/"/>
+        <updated>2026-10-05T15:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.]]></summary>
+        <author>
+            <name>Keshav Ganesh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases]]></title>
+        <id>9ef1f1b789cbe6fd45278d748b65ebf4500d6c5e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/"/>
+        <updated>2026-10-05T15:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Build a Retrieval Augmented Generation (RAG) application on Amazon Bedrock Managed Knowledge Base with LangChain, and see how agentic retrieval handles the multi-part questions that single-shot retrieval answers poorly. Run the same query through both paths, read the trace events, and compare what each retrieval path costs.]]></summary>
+        <author>
+            <name>Manideep Reddy Gillela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Downgrading user roles in Amazon Quick]]></title>
+        <id>2eb081af901222e14948443d7e3f56ca181d9a82</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/"/>
+        <updated>2026-10-05T15:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick doesn't offer a direct console path to downgrade a user from Admin or Author to Reader. This post walks through two reliable methods: a manual delete-and-recreate approach and an AWS CLI step-down sequence that downgrades roles safely while preserving asset ownership.]]></summary>
+        <author>
+            <name>Gaurav Jaisingh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore]]></title>
+        <id>356978dbc1d5c1b11d1e19e188aec10e4dad4778</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-10-05T15:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent supply chain decisioning system and evaluate it with Amazon Bedrock AgentCore Evaluations using built-in, custom, and explainability evaluators.]]></summary>
+        <author>
+            <name>Kanishk Mahajan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #537]]></title>
         <id>https://sreweekly.com/?p=1829</id>

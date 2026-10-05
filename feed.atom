@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-05T00:25:32.284Z</updated>
+    <updated>2026-10-05T08:18:42.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #537]]></title>
+        <id>https://sreweekly.com/?p=1829</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-537/"/>
+        <updated>2026-10-05T02:38:12.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, WarpBuild: WarpBuild runs your GitHub Actions jobs on runners that are 2x faster at half the cost. Change one line in your workflow file and keep everything else. Get $50 in free credits to try it now Try WarpBuild free Can Claude fix itself? From no to […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern]]></title>
         <id>2f2cd30ac2942c76cf89e1fbda1bc39b085e37cc</id>

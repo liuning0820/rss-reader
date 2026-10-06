@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-06T16:29:11.340Z</updated>
+    <updated>2026-10-06T22:19:15.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a context-aware AI assistant on AgentCore and OpenClaw]]></title>
+        <id>923519c839c137326cec150f20986e906ba708bc</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/"/>
+        <updated>2026-10-06T19:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.]]></summary>
+        <author>
+            <name>Thiago Verney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025]]></title>
         <id>3a55da10835515b8cd207733e9488cdc59af5b6a</id>

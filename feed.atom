@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-06T08:32:40.365Z</updated>
+    <updated>2026-10-06T16:29:11.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025]]></title>
+        <id>3a55da10835515b8cd207733e9488cdc59af5b6a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/"/>
+        <updated>2026-10-06T15:53:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterprise-wide risk management, and how ISO/IEC 42005:2025 codifies best practices for conducting and documenting these assessments.]]></summary>
+        <author>
+            <name>Adam Powers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best practices for Amazon SageMaker HyperPod administration and governance]]></title>
+        <id>2597381ffb619fc0a34fd817392146a9048e21b7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/"/>
+        <updated>2026-10-06T15:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, govern access, allocate shared capacity, and operate HyperPod consistently across the organization, project, cluster, and workload control layers.]]></summary>
+        <author>
+            <name>Geethanjali Banoth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio]]></title>
+        <id>e7f0e6d82f4014267fce625aa988675764125d64</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/"/>
+        <updated>2026-10-06T15:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code Editor environments in a few clicks, without using command-line tools.]]></summary>
+        <author>
+            <name>Giuseppe Angelo Porcelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic]]></title>
+        <id>5d18d7c185c27c43c714e55ee57af834c975f4ac</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/"/>
+        <updated>2026-10-06T15:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes.]]></summary>
+        <author>
+            <name>Ravi Kumar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing GLM 5.3 on Amazon Bedrock]]></title>
         <id>6f3957c3db7756d44ae371ed56bdd96fe96046a0</id>
@@ -84,6 +124,16 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, WarpBuild: WarpBuild runs your GitHub Actions jobs on runners that are 2x faster at half the cost. Change one line in your workflow file and keep everything else. Get $50 in free credits to try it now Try WarpBuild free Can Claude fix itself? From no to […]]]></summary>
         <author>
             <name>lex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个 AI 图片重命名工具]]></title>
+        <id>https://liuning0820.github.io/2026/10/03/ai-photo-renamer.html</id>
+        <link href="https://liuning0820.github.io/2026/10/03/ai-photo-renamer.html"/>
+        <updated>2026-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我做了一个 AI 图片重命名工具：看懂照片内容，再生成有意义的文件名 整理旅行照片时，我经常遇到一个问题：相机和手机生成的文件名通常是 IMG_8428.JPG IMG_0698.JPG 这样的编号。 当照片数量较少时，还可以逐张打开查看；但一次旅行拍摄几十甚至几百张照片后，仅凭文件名几乎无法知道照片内容。想找到“国清寺古建筑”“天台山瀑布合影”或者“琼台仙谷悬索桥”，只能不断翻看缩略图。 为了解决这个问题，我开发了一个带图形界面的 Python 工具：AI 照片与视频重命名器。 它可以调用本地视觉模型识别照片内容，自动生成类似下面这样的文件名： IMG_0506.JPG → 20260812-天台山大瀑布景区-一家三口合影.JPG IMG_8428.JPG → 20260813-国清寺-黄墙古树与石狮.JPG IMG_8422.JPG → 20260812-琼台仙谷-悬索桥近景.JPG 相比没有含义的相机编号，这样的名称更容易搜索、归档和长期保存。 视频演示 your browser does not support the HTML5 Video element 这个工具能做什么？ 工具使用 Python 和 Tkinter 开发，提供了一个轻量的桌面操作界面。用户不需要编写命令，只需要选择媒体目录、配置模型，然后按照“扫描—分析—预览—确认”的流程操作。 目前支持以下功能： 选择指定的图片或视频目录 可选择是否递归扫描子目录 支持 JPG、JPEG、PNG、WebP 和 BMP 图片 支持 MOV、MP4、M4V、AVI 和 MKV 视频 在界面或 .env 中配置接口类型、模型、API 地址和可选 API Key 支持 Ollama 原生接口：/api/chat 和 /api/tags 支持 OpenAI 兼容接口：/v1/chat/completions 和 /v1/models 自动生成带日期和场景描述的文件名 重命名前预览全部结果 支持手工修改 AI 生成的名称 自动清理 Windows 文件名中的非法字符 自动处理同名文件并添加序号 不覆盖目录中已经存在的文件 批量重命名失败时尝试回滚 整个过程只会修改文件名，不会修改图片、视频内容或照片中的 EXIF 信息。 为什么支持本地视觉模型？ 这款工具默认可以连接本机运行的 Ollama 服务。当前也支持通过 LLM_API_TYPE 切换到 OpenAI 兼容接口： # Ollama 原生接口 LLM_API_TYPE=ollama LLM_MODEL=qwen3.8:27b LLM_API_HOST=http://127.0.0.1:11434 LLM_API_KEY= 如果使用 OpenAI 兼容服务，可以这样配置： LLM_API_TYPE=openai LLM_MODEL=你的视觉模型 LLM_API_HOST=https://你的服务地址/v1 LLM_API_KEY=你的密钥 LLM_API_TYPE 只有两个取值：ollama 和 openai，默认是 ollama。OpenAI 模式会请求标准的 /v1/chat/completions 接口，并将压缩后的图片作为视觉输入发送；如果地址已经以 /v1 结尾，程序不会重复追加路径。 1. 本地模型可以减少隐私顾虑 当 API 地址配置为 127.0.0.1 或其他本机回环地址时，图片分析请求只发送给本机运行的模型服务。家庭照片、旅行合影等内容不需要上传到外部云平台。 如果配置的是远程 Ollama 或 OpenAI 兼容服务，图片仍然会发送到该服务。因此，使用前应确认服务的隐私政策、数据处理方式和访问控制；远程 HTTP 地址也应改用 HTTPS。 2. 模型可以自由切换 模型名称、接口类型和 API 地址都可以在 .env 文件或图形界面中配置。OpenAI 兼容服务如果需要鉴权，可以填写 LLM_API_KEY，本地不需要鉴权的服务则可以留空。 需要注意的是，所选模型必须支持视觉输入。纯文本模型无法识别照片内容。 图片和视频是怎样处理的？ 直接把数 MB 甚至十几 MB 的原图发送给模型，会占用较多内存和视觉 Token。为此，程序会先对图片进行预处理： 读取并修正照片的 EXIF 方向； 将图片最长边缩小到 1280 像素； 转换为适合模型分析的 JPEG 数据； 根据接口类型生成请求：Ollama 使用 images 字段，OpenAI 兼容接口使用 data:image/jpeg;base64,... 的 image_url； 解析模型返回的文件名描述，并清理 Windows 不允许的字符。 这个过程只在内存中生成缩略图，不会修改原始照片。 对于视频，程序会通过 FFmpeg 获取视频时长，抽取中间位置的一帧，然后让视觉模型根据这一帧生成名称。临时画面会在分析结束后自动删除。 这种方案无法概括长视频的全部内容，但对于手机拍摄的短视频、Live Photo 片段和旅行记录，通常已经能够提供有意义的名称。 为什么不让 AI 直接修改文件？ AI 生成的名称并不一定每次都完全准确。例如，它可能无法确定具体景点，或者把人物关系描述得过于笼统。 因此，这个工具没有采用“分析后立即重命名”的方式，而是加入了一个预览确认流程： 扫描目录中的媒体文件； AI 逐个分析并生成建议名称； 用户检查全部结果； 对不满意的名称进行手工修改； 最后统一确认并应用。 只有用户点击“应用重命名”并再次确认后，程序才会真正修改文件名。 文件安全方面做了哪些处理？ 批量重命名看起来简单，但需要考虑文件重名、非法字符和中途失败等情况。 程序会自动清理 Windows 不允许出现在文件名中的字符： &lt; &gt; : " / \ | ? * 如果多个文件得到相同的名称，程序会自动添加序号： 天台山大瀑布-瀑布近景.JPG 天台山大瀑布-瀑布近景-02.JPG 天台山大瀑布-瀑布近景-03.JPG 正式重命名前，程序还会检查目标文件是否已经存在，避免覆盖原有文件。 批量操作采用两阶段重命名：文件首先被改成唯一的临时名称，确认全部进入临时状态后，再转换成最终名称。如果过程中发生异常，程序会尽可能恢复原始文件名。 安装和运行 项目使用独立的 Python 虚拟环境，不会把依赖安装到系统 Python 中。 进入项目目录后运行： powershell -ExecutionPolicy Bypass -File .\setup.ps1 安装脚本会自动： 创建 .venv； 安装锁定版本的 Python 依赖； 在缺少 .env 时从模板创建配置文件。 然后编辑 .env。继续使用 Ollama 时： LLM_API_TYPE=ollama LLM_MODEL=qwen3.8:27b LLM_API_HOST=http://127.0.0.1:11434 LLM_API_KEY= 切换到 OpenAI 兼容接口时： LLM_API_TYPE=openai LLM_MODEL=你的视觉模型 LLM_API_HOST=https://你的服务地址/v1 LLM_API_KEY=你的密钥 系统环境变量优先于 .env，程序界面中的修改只对当前运行生效。.env 不应提交到 Git 仓库，API Key 也不要写入公开配置或博客。 启动程序： powershell -ExecutionPolicy Bypass -File .\run.ps1 run.ps1 会始终使用项目目录下 .venv 中的 Python。如果虚拟环境不存在，它会先自动执行安装脚本。 使用流程 实际操作只需要几步： 点击“选择目录”，指定待处理的照片或视频目录； 选择接口类型：ollama 或 openai； 配置 API 地址、视觉模型，以及需要时填写 API Key； 点击“测试连接”，确认服务可访问且模型名称正确； 点击“扫描目录”； 点击“AI 分析全部”； 检查并手工修改建议名称； 点击“应用重命名”，确认后完成批量处理。 分析过程采用顺序处理，不会同时把大量原图加载到内存中，更适合包含几十或几百个媒体文件的目录。正式重命名之前，所有建议都可以在表格中检查和修改。 当前版本的局限 目前版本仍有一些可以继续改进的地方： 日期前缀暂时来自文件修改时间，还没有优先读取 EXIF 拍摄时间； 视频只分析中间一帧，无法完整理解长视频内容； 景点识别依赖视觉模型自身能力，模型可能只能描述画面而无法判断准确地点； AI 生成的名称仍建议在应用前人工检查； 不同 OpenAI 兼容服务对视觉消息格式和模型名称的支持程度可能存在差异。 未来可以继续增加 EXIF 拍摄时间、地理位置、多个视频关键帧、命名模板以及重复照片检测等功能。 项目源码 完整源码和安装说明已发布在 GitHub： 查看 GitHub 项目源码 如果你也有大量使用 IMG_XXXX.JPG 命名的旅行照片，希望这个工具能帮助你更高效地完成整理。]]></summary>
+        <author>
+            <name>Toby Liu</name>
         </author>
     </entry>
     <entry>
@@ -1214,16 +1264,6 @@
         <summary type="html"><![CDATA[球场上的镜像神经元 昨天打羽毛球，我从一个刚输给我们的对手身上学到一件事：复盘不能只盯着自己的失误，也要研究对手为什么打得好。 打完两局双打，对面打得更好的那位球友径直走到我面前，问我在羽毛球群里叫什么名字。真正让我意外的，是他接下来谈的不是输赢。 一场酣畅淋漓的混双 昨晚的这球场，我和一位公司招聘团队的之前就认识的女生搭档。 球场上，她落落大方，动作干净利索，在前场左右横移，敢扑敢压，根本不在意动作是否好看。我在后场调动和下压，她在前场抽挡、拦截。我们一边打球一边说笑，第一次搭档却配合得相当默契。 对面是两个男生。其中一位打得不错，球风犀利，落点也很聪明；另一位的球路则直来直往，更喜欢硬碰硬。 我们没有跟他们比蛮力，而是不断变换落点，把他们前后左右调动起来。有时他们被拉得前后踉跄，有时又不得不左右飞奔。等空当出来，我就在后场追身重杀，或者把球吊到网前，让他们来不及上网，只能望球兴叹。 两局下来，四个人都满头大汗。我们打得非常尽兴。对面那位相对弱一些的球友，因为拖了队友后腿，偶尔会尴尬地笑一笑。另一位却既没有不服，也没有憋屈。他下场后的反应，反而让我刮目相看。 不只复盘自己，也要观察对手 他走到我面前，先问我在羽毛球群里的名字，然后直接说出了自己的观点： 球场上要交流。既要跟队友交流，也要跟对手交流。 这也是他下场后马上来认识我的原因。 他接着说，打完球不能只反思自己哪个球没打好、下次应该怎么改，也要留意对手打出了哪些好球。为对手喝彩的同时，也是在学习对手：这个球为什么打得好？他的动作、意识和球路有什么特别？以后自己能不能模仿？ 在他看来，提高不能只盯着自己。观察别人怎么打，同样是一条学习路径。 这番话让我意外。刚才在场上，我们一次次把他们调动得很被动。我原以为他下来后多少会有点懊恼，没想到他首先做的却是认识对手，主动交流，并且琢磨能从刚才的对抗中学到什么。 镜像神经元：观察也是一种练习 这让我联想起前段时间读的《智能简史》提到，即使只是观察别人完成动作，大脑也会对这个动作进行某种模拟。参与这一过程的神经元被称为“镜像神经元”（Mirror Neurons），也被认为与模仿有关。 这也让我重新理解那位球友的做法：盯住一个好球，观察对手的动作、意识和线路，在脑子里重新过一遍，再设法变成自己的东西。 想到这里这里，我又联想起自己曾经教孩子运动时常犯的错。 不能只是埋头苦练 每个孩子的运动天赋和学习节奏都不一样。看到别人一学就会，而自己的孩子练了很多遍，提高却不明显，大人很容易着急，甚至脱口而出：“为什么别人会，你还不会？”这种比较除了打击信心，并不能帮他找到问题。 我以前更容易把“多练”当作答案，觉得动作做得不够好，就再多做几遍。后来才意识到，不能只让孩子埋头苦练、独自琢磨。适当地让他看教程里的动作分解，看比赛视频中高手怎样移动、发力和处理球，再回到场上尝试，也可能带来提高。 当然，看懂不等于做到，观察也代替不了亲自练习。但练习并不只发生在自己挥拍的那一刻。认真看别人怎样完成一个动作，也是在给下一次尝试做准备。 这位球友让我看到，输掉一场球和学到一点东西并不矛盾。能从对手身上看到值得喝彩、值得模仿的地方，也许正是他越打越好的原因。]]></summary>
         <author>
             <name>Toby Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #533]]></title>
-        <id>https://sreweekly.com/?p=1814</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-533/"/>
-        <updated>2026-09-07T03:43:34.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Most database incidents start with one expensive query, not the database being down. PlanetScale gives SRE teams high-availability Postgres and MySQL with automated failover, query insights, and Database Traffic Control to stop runaway queries before they page you. → Explore PlanetScale Incidents start before the response […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-05T19:02:33.165Z</updated>
+    <updated>2026-10-06T01:06:15.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing GLM 5.3 on Amazon Bedrock]]></title>
+        <id>6f3957c3db7756d44ae371ed56bdd96fe96046a0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"/>
+        <updated>2026-10-05T23:25:17.000Z</updated>
+        <summary type="html"><![CDATA[GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent.]]></summary>
+        <author>
+            <name>Alex Thewsey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supercharge regulated workloads with Claude Code and Amazon Bedrock]]></title>
         <id>0cbe16ca98bef589de7fcf6ba5ec623095bdb76d</id>

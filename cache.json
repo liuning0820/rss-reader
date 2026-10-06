@@ -157,6 +157,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "6f3957c3db7756d44ae371ed56bdd96fe96046a0",
+          "author": "Alex Thewsey",
+          "description": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+          "publishedOn": "2026-10-05T23:25:17.000Z",
+          "wordCount": 38254,
+          "title": "Introducing GLM 5.3 on Amazon Bedrock",
+          "enclosure": {
+            "length": "353017803",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22047/Strix+Demo+Video+Censored.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/05/ML-22047-featured-image.png"
+        },
+        {
           "id": "0cbe16ca98bef589de7fcf6ba5ec623095bdb76d",
           "author": "Bradley Wyman",
           "description": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.",

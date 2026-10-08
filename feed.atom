@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-08T12:48:16.542Z</updated>
+    <updated>2026-10-08T19:39:05.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments]]></title>
+        <id>0d337b36c3f07d0b91dbfe91ce290d78c3de5f56</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/"/>
+        <updated>2026-10-08T18:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.]]></summary>
+        <author>
+            <name>Peter Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod]]></title>
+        <id>4b49d02253b76bfce1c012d6f6062cfcdca7f739</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/"/>
+        <updated>2026-10-08T16:20:04.000Z</updated>
+        <summary type="html"><![CDATA[A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespace-level cost allocation for chargeback.]]></summary>
+        <author>
+            <name>Giuseppe Angelo Porcelli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Claude Haiku 5.5 on AWS]]></title>
         <id>0ff2b32f3802714df60aafa631f537ec3996dfd3</id>

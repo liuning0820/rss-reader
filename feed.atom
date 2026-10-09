@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-09T08:28:14.353Z</updated>
+    <updated>2026-10-09T16:47:57.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ICYMI: What landed for AI builders in September 2026]]></title>
+        <id>47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/"/>
+        <updated>2026-10-09T15:38:39.000Z</updated>
+        <summary type="html"><![CDATA[A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.]]></summary>
+        <author>
+            <name>Prachi Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Postman runs Agent Mode for 40 million developers on Amazon Bedrock]]></title>
+        <id>b70b3126633995a55ec3140e570c01681b054d89</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"/>
+        <updated>2026-10-09T15:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.]]></summary>
+        <author>
+            <name>Srinivas Kini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments]]></title>
         <id>0d337b36c3f07d0b91dbfe91ce290d78c3de5f56</id>
@@ -1204,16 +1224,6 @@
         <summary type="html"><![CDATA[AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers, helping them find and act on the causes of flight turnaround delays.]]></summary>
         <author>
             <name>Petra Lafond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM]]></title>
-        <id>6973e0078540c7d789cc946cb3c7e1fd791a8c2f</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/"/>
-        <updated>2026-09-09T22:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.]]></summary>
-        <author>
-            <name>Dmitry Soldatkin</name>
         </author>
     </entry>
 </feed>

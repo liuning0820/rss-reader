@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
         {
           "id": "http://blog.thestateofme.com/?p=7076",
@@ -146,6 +146,26 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e",
+          "author": "Prachi Mishra",
+          "description": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+          "publishedOn": "2026-10-09T15:38:39.000Z",
+          "wordCount": 41657,
+          "title": "ICYMI: What landed for AI builders in September 2026",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/06/ML-22094-featured-image.png"
+        },
+        {
+          "id": "b70b3126633995a55ec3140e570c01681b054d89",
+          "author": "Srinivas Kini",
+          "description": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+          "publishedOn": "2026-10-09T15:35:02.000Z",
+          "wordCount": 43286,
+          "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/06/ML-21683-featured-image.png"
+        },
         {
           "id": "0d337b36c3f07d0b91dbfe91ce290d78c3de5f56",
           "author": "Peter Jiang",
@@ -1265,16 +1285,6 @@
           "wordCount": 36432,
           "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21410-featured-image.png"
-        },
-        {
-          "id": "6973e0078540c7d789cc946cb3c7e1fd791a8c2f",
-          "author": "Dmitry Soldatkin",
-          "description": "Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
-          "publishedOn": "2026-09-09T22:26:29.000Z",
-          "wordCount": 37681,
-          "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21725-featured-image.png"
         }
       ]
     }

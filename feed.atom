@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-09T00:07:47.604Z</updated>
+    <updated>2026-10-09T08:28:14.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1214,46 +1214,6 @@
         <summary type="html"><![CDATA[Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.]]></summary>
         <author>
             <name>Dmitry Soldatkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICYMI: What landed for AI builders in August 2026]]></title>
-        <id>5a4826a00b8c3e2362294bd88790a97f7dfeae72</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/"/>
-        <updated>2026-09-09T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A recap of August 2026 launches for AI builders across Amazon Bedrock, Amazon Bedrock AgentCore, and Strands: million-token context for OpenAI models, cross-Region inference, agents that run for up to 14 days on dedicated compute, expanded AWS GovCloud availability, and Strands Robots for physical deployment.]]></summary>
-        <author>
-            <name>Tanvi Girinath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore]]></title>
-        <id>8b2b6f1fc936da150ec6ba65d555af391dc31a8e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/"/>
-        <updated>2026-09-09T18:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Heurist built Heurist Finance, a conversational AI investment workbench, on Amazon Bedrock AgentCore. This customer story shows how AgentCore payments, Identity, Memory, Code Interpreter, and Observability let a small team buy premium market data per query, isolate analysis in a sandbox, and keep every action auditable.]]></summary>
-        <author>
-            <name>JW Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers]]></title>
-        <id>40560bc1165354abd0304d5c35c0cd427ba27c99</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/"/>
-        <updated>2026-09-09T15:51:29.000Z</updated>
-        <summary type="html"><![CDATA[TorchServe is no longer maintained, leaving teams to own the entire GPU inference stack. The AWS Ray Serve Deep Learning Container is a supported, pre-tested container with the framework, GPU drivers, and serving layer already assembled. This post walks through deploying a vision-language model on Amazon EKS using the Ray Serve DLC on a single GPU node.]]></summary>
-        <author>
-            <name>Ananth Raghavendra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate user-level custom permissions for Amazon Quick]]></title>
-        <id>a77ad5a4cc8d539af020eba9f19a5636de04f505</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/"/>
-        <updated>2026-09-09T15:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API parameter, account and role defaults, event-driven Amazon EventBridge and AWS Lambda automation, and a retroactive batch update script.]]></summary>
-        <author>
-            <name>Ashok Dasineni</name>
         </author>
     </entry>
 </feed>

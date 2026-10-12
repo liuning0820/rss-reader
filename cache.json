@@ -93,6 +93,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1831",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Antithesis: Author and CTO community leader Peter Bell offers engineering leaders a clear, pragmatic framework for adopting and scaling AI across the entire software development lifecycle. Read now: Scaling AI Adoption in Engineering (Early Release) Building Investigations: what it takes to build an AI SRE This is […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-538/",
+          "publishedOn": "2026-10-12T04:33:26.000Z",
+          "wordCount": 1137,
+          "title": "SRE Weekly Issue #538",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1829",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, WarpBuild: WarpBuild runs your GitHub Actions jobs on runners that are 2x faster at half the cost. Change one line in your workflow file and keep everything else. Get $50 in free credits to try it now Try WarpBuild free Can Claude fix itself? From no to […]",

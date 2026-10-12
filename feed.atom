@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-12T00:57:25.235Z</updated>
+    <updated>2026-10-12T08:35:25.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #538]]></title>
+        <id>https://sreweekly.com/?p=1831</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-538/"/>
+        <updated>2026-10-12T04:33:26.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Antithesis: Author and CTO community leader Peter Bell offers engineering leaders a clear, pragmatic framework for adopting and scaling AI across the entire software development lifecycle. Read now: Scaling AI Adoption in Engineering (Early Release) Building Investigations: what it takes to build an AI SRE This is […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 2026]]></title>
         <id>http://blog.thestateofme.com/?p=7056</id>

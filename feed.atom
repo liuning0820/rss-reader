@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-11T21:27:53.662Z</updated>
+    <updated>2026-10-12T00:57:25.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[September 2026]]></title>
+        <id>http://blog.thestateofme.com/?p=7056</id>
+        <link href="https://blog.thestateofme.com/2026/10/11/september-2026/"/>
+        <updated>2026-10-11T14:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The heat wave(s) finally let up, but much of the month was still warm and sunny, allowing for some good walks. As I covered in an earlier post, Milo’s back in remission :) Caskmaster The Scotch Malt Whisky Society (SMWS) has started running a tasting competition called Caskmaster, with heats in various tasting rooms […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 2026]]></title>
         <id>https://blog.thestateofme.com/?p=7056</id>

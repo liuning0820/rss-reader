@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-12T08:35:25.864Z</updated>
+    <updated>2026-10-12T19:36:21.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan]]></title>
+        <id>e20b8171cff84e878ab96622856dfe3f22a41ff0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"/>
+        <updated>2026-10-12T17:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.]]></summary>
+        <author>
+            <name>Traci Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy decision models with llama.cpp on Amazon SageMaker AI]]></title>
+        <id>f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/"/>
+        <updated>2026-10-12T15:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.]]></summary>
+        <author>
+            <name>Jyothirmai Kottu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run multi-node inference workloads using Ray LLM Deep Learning Containers]]></title>
+        <id>b4bf8b1e23545b34c9db567b51d0eb1551605184</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/"/>
+        <updated>2026-10-12T15:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.]]></summary>
+        <author>
+            <name>Ananth Raghavendra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #538]]></title>
         <id>https://sreweekly.com/?p=1831</id>

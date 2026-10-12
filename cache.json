@@ -177,6 +177,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "e20b8171cff84e878ab96622856dfe3f22a41ff0",
+          "author": "Traci Lim",
+          "description": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+          "publishedOn": "2026-10-12T17:52:22.000Z",
+          "wordCount": 43418,
+          "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-21759-featured-image.png"
+        },
+        {
+          "id": "f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3",
+          "author": "Jyothirmai Kottu",
+          "description": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+          "publishedOn": "2026-10-12T15:51:46.000Z",
+          "wordCount": 42785,
+          "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22079-featured-image.png"
+        },
+        {
+          "id": "b4bf8b1e23545b34c9db567b51d0eb1551605184",
+          "author": "Ananth Raghavendra",
+          "description": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+          "publishedOn": "2026-10-12T15:50:14.000Z",
+          "wordCount": 42849,
+          "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22045-featured-image.png"
+        },
+        {
           "id": "47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e",
           "author": "Prachi Mishra",
           "description": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",

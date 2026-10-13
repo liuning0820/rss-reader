@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-13T08:55:37.562Z</updated>
+    <updated>2026-10-13T17:20:29.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manage private pricing offers for Amazon Bedrock with managed entitlements]]></title>
+        <id>96270fda2506ac4609e9172e331312d358ae21d1</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/"/>
+        <updated>2026-10-13T17:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK automation for ongoing event-driven processing.]]></summary>
+        <author>
+            <name>Daniel Wirjo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural language security queries at Orca Security using Amazon Bedrock]]></title>
+        <id>ab143ebe8db2864cd1a1dc85aca1d8077f428d42</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/"/>
+        <updated>2026-10-13T16:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the initial baseline.]]></summary>
+        <author>
+            <name>Deniz Yilmaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore]]></title>
+        <id>925aef534e91c4fa81028a17497d83107c32ab6e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-10-13T15:54:49.000Z</updated>
+        <summary type="html"><![CDATA[ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message screenshots, and files Jira tickets. In its first three months it resolved 97.5% of channel queries with a 96% positive feedback rating.]]></summary>
+        <author>
+            <name>Kenneth Salmon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build long-horizon agents with Grok 4.7 on Amazon Bedrock]]></title>
+        <id>57fb1aeaa95150736b7378dbd28aa9e97e0d4632</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/"/>
+        <updated>2026-10-13T15:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production.]]></summary>
+        <author>
+            <name>Suheel Farooq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mixture-of-Experts kernel engineering on Amazon SageMaker AI]]></title>
+        <id>a36fde525cae2db63b1b86626409e8ab9462e559</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/"/>
+        <updated>2026-10-13T15:17:09.000Z</updated>
+        <summary type="html"><![CDATA[AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT recompilation. Together they deliver up to 10% higher throughput and up to 9% faster Time to First Token on H200 GPUs.]]></summary>
+        <author>
+            <name>Mona Mona</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan]]></title>
         <id>e20b8171cff84e878ab96622856dfe3f22a41ff0</id>
@@ -1164,16 +1214,6 @@
         <summary type="html"><![CDATA[Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.]]></summary>
         <author>
             <name>Venkatavaradhan Viswanathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #534]]></title>
-        <id>https://sreweekly.com/?p=1816</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-534/"/>
-        <updated>2026-09-14T01:53:26.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding Graceful planned and unplanned failovers → Neki is available today. Learn more. AI handles incidents, engineers lose touch […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-13T17:20:29.191Z</updated>
+    <updated>2026-10-13T22:16:27.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building agents that transact with Anchor Browser and AgentCore payments]]></title>
+        <id>0c79d3a743bd70e676fa029365ec191931b2b410</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/"/>
+        <updated>2026-10-13T20:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.]]></summary>
+        <author>
+            <name>Cher Simon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manage private pricing offers for Amazon Bedrock with managed entitlements]]></title>
         <id>96270fda2506ac4609e9172e331312d358ae21d1</id>

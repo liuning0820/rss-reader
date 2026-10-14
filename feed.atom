@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-14T14:51:54.768Z</updated>
+    <updated>2026-10-14T19:57:30.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build self-improving document processing using Amazon Bedrock AgentCore]]></title>
+        <id>e171b39a3994cf60cede0f83b63b3eeb1990c5b0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"/>
+        <updated>2026-10-14T16:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.]]></summary>
+        <author>
+            <name>Erik Cordsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generate presentations with Amazon Bedrock AgentCore]]></title>
         <id>d7fcbb6e54548bceb8e3c5489bb676b9bb401df4</id>

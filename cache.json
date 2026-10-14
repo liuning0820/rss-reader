@@ -147,6 +147,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "e171b39a3994cf60cede0f83b63b3eeb1990c5b0",
+          "author": "Erik Cordsen",
+          "description": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-14T16:24:07.000Z",
+          "wordCount": 43127,
+          "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-20468-featured-image.png"
+        },
+        {
           "id": "d7fcbb6e54548bceb8e3c5489bb676b9bb401df4",
           "author": "Ian Lunsford",
           "description": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",

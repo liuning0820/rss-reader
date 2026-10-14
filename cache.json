@@ -147,6 +147,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d7fcbb6e54548bceb8e3c5489bb676b9bb401df4",
+          "author": "Ian Lunsford",
+          "description": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-14T13:58:43.000Z",
+          "wordCount": 43010,
+          "title": "Generate presentations with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-19250-featured-image.png"
+        },
+        {
+          "id": "e450e4e25d2199a8263f8d40fbee33f9f2e8a25b",
+          "author": "Ishara Premadasa",
+          "description": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+          "publishedOn": "2026-10-14T13:53:33.000Z",
+          "wordCount": 43509,
+          "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-21356-featured-image.png"
+        },
+        {
+          "id": "e6ff6df24e30f88e005340fdee64687eef73ffa9",
+          "author": "Vamsi Goparaju",
+          "description": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2026-10-14T13:14:36.000Z",
+          "wordCount": 41904,
+          "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22153-featured-image.png"
+        },
+        {
           "id": "0c79d3a743bd70e676fa029365ec191931b2b410",
           "author": "Cher Simon",
           "description": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
@@ -1210,16 +1240,6 @@
           "wordCount": 35951,
           "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21790-featured-image.png"
-        },
-        {
-          "id": "5765f76e7a987692146e6fe2b1eb9962dcd91bac",
-          "author": "Aswin Vasudevan",
-          "description": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-          "publishedOn": "2026-09-14T21:22:45.000Z",
-          "wordCount": 35235,
-          "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-21301-featured-image.png"
         }
       ]
     }

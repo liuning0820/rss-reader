@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-14T09:16:15.936Z</updated>
+    <updated>2026-10-14T14:51:54.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generate presentations with Amazon Bedrock AgentCore]]></title>
+        <id>d7fcbb6e54548bceb8e3c5489bb676b9bb401df4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-10-14T13:58:43.000Z</updated>
+        <summary type="html"><![CDATA[This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.]]></summary>
+        <author>
+            <name>Ian Lunsford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock]]></title>
+        <id>e450e4e25d2199a8263f8d40fbee33f9f2e8a25b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"/>
+        <updated>2026-10-14T13:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.]]></summary>
+        <author>
+            <name>Ishara Premadasa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy and evaluate models with Amazon SageMaker JumpStart]]></title>
+        <id>e6ff6df24e30f88e005340fdee64687eef73ffa9</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-10-14T13:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.]]></summary>
+        <author>
+            <name>Vamsi Goparaju</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building agents that transact with Anchor Browser and AgentCore payments]]></title>
         <id>0c79d3a743bd70e676fa029365ec191931b2b410</id>
@@ -1154,16 +1184,6 @@
         <summary type="html"><![CDATA[Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available capacity, eliminating manual retry loops and capacity-watching scripts.]]></summary>
         <author>
             <name>Kanwaljit Khurmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale]]></title>
-        <id>5765f76e7a987692146e6fe2b1eb9962dcd91bac</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/"/>
-        <updated>2026-09-14T21:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.]]></summary>
-        <author>
-            <name>Aswin Vasudevan</name>
         </author>
     </entry>
 </feed>

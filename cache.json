@@ -1135,16 +1135,6 @@
           "wordCount": 36412,
           "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/15/ML-21283-featured-image.png"
-        },
-        {
-          "id": "f7030591b5a0a92a50f229929b93194a36691b5e",
-          "author": "Vinay Arora",
-          "description": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
-          "publishedOn": "2026-09-18T13:08:34.000Z",
-          "wordCount": 35439,
-          "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21822-featured-image-2.png"
         }
       ]
     }

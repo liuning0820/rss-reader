@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-17T23:43:53.003Z</updated>
+    <updated>2026-10-18T03:00:20.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1084,16 +1084,6 @@
         <summary type="html"><![CDATA[Deploy production-ready Hugging Face models on Amazon SageMaker AI using six open-source agent skills. Point a coding agent at a model and get back a real-time endpoint with the right serving container, autoscaling, Amazon CloudWatch alarms, and a verified teardown path.]]></summary>
         <author>
             <name>Dario Salvati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Amazon SageMaker HyperPod Inference Gateway]]></title>
-        <id>f7030591b5a0a92a50f229929b93194a36691b5e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/"/>
-        <updated>2026-09-18T13:08:34.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.]]></summary>
-        <author>
-            <name>Vinay Arora</name>
         </author>
     </entry>
 </feed>

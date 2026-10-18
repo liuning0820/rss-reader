@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-18T08:32:04.245Z</updated>
+    <updated>2026-10-18T13:45:24.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1014,16 +1014,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding Graceful planned and unplanned failovers → Neki is available today. Learn more. Interning at incident.io: Rate Limiting, Resiliently […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Inference: 2026 year-to-date launches in review]]></title>
-        <id>2ee3ed6a4b11eb69260daaa48214c0e6564f2a28</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/"/>
-        <updated>2026-09-18T20:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance pools to tiered KV caching and disaggregated prefill and decode.]]></summary>
-        <author>
-            <name>Kareem Syed-Mohammed</name>
         </author>
     </entry>
 </feed>

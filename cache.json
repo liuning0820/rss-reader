@@ -1060,16 +1060,6 @@
           "wordCount": 36744,
           "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/15/ML-21250-featured-image.png"
-        },
-        {
-          "id": "2ee3ed6a4b11eb69260daaa48214c0e6564f2a28",
-          "author": "Kareem Syed-Mohammed",
-          "description": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance pools to tiered KV caching and disaggregated prefill and decode.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
-          "publishedOn": "2026-09-18T20:52:14.000Z",
-          "wordCount": 37616,
-          "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21809-featured-image-1.png"
         }
       ]
     }

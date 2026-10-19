@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-19T09:34:48.274Z</updated>
+    <updated>2026-10-19T16:46:33.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Deepgram optimized voice AI at scale with AWS Trainium]]></title>
+        <id>0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/"/>
+        <updated>2026-10-19T16:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning, a data-parallel Rust runtime, and the throughput and cost results on batch transcription.]]></summary>
+        <author>
+            <name>Pierre Lienhart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM]]></title>
+        <id>3be758421ce5b5c9a23f149082c2bc420bfa9905</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/"/>
+        <updated>2026-10-19T16:05:17.000Z</updated>
+        <summary type="html"><![CDATA[vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the critical path, delivering up to 3x better TTFT and 30% better TPOT in benchmarks on Amazon EC2 P5en instances with AWS EFA.]]></summary>
+        <author>
+            <name>Sunita Nadampalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM]]></title>
+        <id>02a1dd975b2fff9f32ce315def712a434de65bee</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/"/>
+        <updated>2026-10-19T16:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed context across turns, cutting time to first token by up to 1.6x for Qwen3-32B and 3.3x for GLM-5-FP8 on Amazon EC2 P5en instances with EFA.]]></summary>
+        <author>
+            <name>Sunita Nadampalli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #539]]></title>
         <id>https://sreweekly.com/?p=1835</id>

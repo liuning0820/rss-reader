@@ -137,6 +137,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074",
+          "author": "Pierre Lienhart",
+          "description": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning, a data-parallel Rust runtime, and the throughput and cost results on batch transcription.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+          "publishedOn": "2026-10-19T16:23:22.000Z",
+          "wordCount": 42389,
+          "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-21906-featured-image.png"
+        },
+        {
+          "id": "3be758421ce5b5c9a23f149082c2bc420bfa9905",
+          "author": "Sunita Nadampalli",
+          "description": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the critical path, delivering up to 3x better TTFT and 30% better TPOT in benchmarks on Amazon EC2 P5en instances with AWS EFA.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+          "publishedOn": "2026-10-19T16:05:17.000Z",
+          "wordCount": 42565,
+          "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/15/ML-21812-featured-image.png"
+        },
+        {
+          "id": "02a1dd975b2fff9f32ce315def712a434de65bee",
+          "author": "Sunita Nadampalli",
+          "description": "Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed context across turns, cutting time to first token by up to 1.6x for Qwen3-32B and 3.3x for GLM-5-FP8 on Amazon EC2 P5en instances with EFA.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+          "publishedOn": "2026-10-19T16:03:23.000Z",
+          "wordCount": 42468,
+          "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/15/ML-21811-featured-image.png"
+        },
+        {
           "id": "df0b1ae32a5ba63d5856db229a66706d4090e8ef",
           "author": "Rui Li",
           "description": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",

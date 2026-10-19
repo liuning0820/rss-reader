@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-19T03:14:11.298Z</updated>
+    <updated>2026-10-19T09:34:48.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #539]]></title>
+        <id>https://sreweekly.com/?p=1835</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-539/"/>
+        <updated>2026-10-19T03:27:57.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers with code SREWEEKLY. Claim your free pass → Hot take Today, I learned that “hot […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore]]></title>
         <id>df0b1ae32a5ba63d5856db229a66706d4090e8ef</id>

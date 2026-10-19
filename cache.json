@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1835",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers with code SREWEEKLY. Claim your free pass → Hot take Today, I learned that “hot […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-539/",
+          "publishedOn": "2026-10-19T03:27:57.000Z",
+          "wordCount": 1130,
+          "title": "SRE Weekly Issue #539",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1831",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Antithesis: Author and CTO community leader Peter Bell offers engineering leaders a clear, pragmatic framework for adopting and scaling AI across the entire software development lifecycle. Read now: Scaling AI Adoption in Engineering (Early Release) Building Investigations: what it takes to build an AI SRE This is […]",

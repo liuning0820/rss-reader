@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-19T16:46:33.309Z</updated>
+    <updated>2026-10-19T21:58:54.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker JumpStart: 2026 year-to-date in review]]></title>
+        <id>caf8c9cd8fb47f7d05ebc18e6193092824fb5c28</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/"/>
+        <updated>2026-10-19T21:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration.]]></summary>
+        <author>
+            <name>Vamsi Goparaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock]]></title>
+        <id>09c6ed66cdab4e2162f30a6ad1493b4fd9f71589</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/"/>
+        <updated>2026-10-19T16:49:19.000Z</updated>
+        <summary type="html"><![CDATA[TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as JSON, with new video segmentation, multimodal prompting with reference images, and on-the-fly processing of up to two hours of video.]]></summary>
+        <author>
+            <name>Ron Tal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Deepgram optimized voice AI at scale with AWS Trainium]]></title>
         <id>0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074</id>

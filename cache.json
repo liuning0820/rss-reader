@@ -137,6 +137,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
+          "author": "Vamsi Goparaju",
+          "description": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+          "publishedOn": "2026-10-19T21:14:44.000Z",
+          "wordCount": 42486,
+          "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/16/ML-22155-featured-image.png"
+        },
+        {
+          "id": "09c6ed66cdab4e2162f30a6ad1493b4fd9f71589",
+          "author": "Ron Tal",
+          "description": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as JSON, with new video segmentation, multimodal prompting with reference images, and on-the-fly processing of up to two hours of video.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+          "publishedOn": "2026-10-19T16:49:19.000Z",
+          "wordCount": 43664,
+          "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/16/ML-22008-featured-image.png"
+        },
+        {
           "id": "0b1e8b84bdaaccec8fd8f6adeda3c1b7cbd14074",
           "author": "Pierre Lienhart",
           "description": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning, a data-parallel Rust runtime, and the throughput and cost results on batch transcription.",

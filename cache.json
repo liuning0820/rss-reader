@@ -91,16 +91,6 @@
           "wordCount": 1172,
           "title": "SRE Weekly Issue #536",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1818",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Planetscale: Neki brings horizontal sharding to Postgres. It handles the hard parts of running Postgres at scale: Online schema changes Version upgrades with no downtime Better connection pooling Resharding Graceful planned and unplanned failovers → Neki is available today. Learn more. Interning at incident.io: Rate Limiting, Resiliently […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-535/",
-          "publishedOn": "2026-09-21T03:14:22.000Z",
-          "wordCount": 1100,
-          "title": "SRE Weekly Issue #535",
-          "imageUrl": null
         }
       ]
     },
@@ -136,6 +126,116 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "47fdf366d1959d8569ea858c6045c42e45b756f5",
+          "author": "Galina Jordanowa",
+          "description": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+          "publishedOn": "2026-10-20T17:59:07.000Z",
+          "wordCount": 42609,
+          "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-21001-featured-image.png"
+        },
+        {
+          "id": "4732e547b3ba87197c5a5faf5d2f273ac726daf1",
+          "author": "Vineet Kachhawaha",
+          "description": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed tool layer, and how Amazon Quick turns them into one conversational experience for business users, with a deploy-it-yourself walkthrough.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-20T17:52:50.000Z",
+          "wordCount": 44128,
+          "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/14/ML-22042-featured-image.png"
+        },
+        {
+          "id": "e95a562fb3248db86864f803ae6d83c71f277e90",
+          "author": "Mijanur Palash",
+          "description": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2026-10-20T17:48:27.000Z",
+          "wordCount": 43110,
+          "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21403-featured-image.png"
+        },
+        {
+          "id": "71eb785a1fd13603c3885408903f8aca0b20d311",
+          "author": "Urvish Saraiya",
+          "description": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant boundaries.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+          "publishedOn": "2026-10-20T17:34:04.000Z",
+          "wordCount": 43733,
+          "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/31/ML-21094-featured-image.png"
+        },
+        {
+          "id": "64795cdbf69a431d795a47585bec95352a07ed61",
+          "author": "Roopesh Ramklass",
+          "description": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and inference profiles, how to set up permissions, and how to invoke them with the Responses, Chat Completions, and Converse APIs.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+          "publishedOn": "2026-10-20T16:42:53.000Z",
+          "wordCount": 43488,
+          "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/16/ML-21126-featured-image.png"
+        },
+        {
+          "id": "3a6f4d4b37bd5f432ae64ac9368553ce7e94b9ac",
+          "author": "Vibhu Pareek",
+          "description": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator discovers MCP servers and A2A agents through semantic search at runtime instead of compiling every tool at build time.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
+          "publishedOn": "2026-10-20T16:22:24.000Z",
+          "wordCount": 43117,
+          "title": "Discover tools at runtime with AWS Agent Registry",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/14/ML-21108-featured-image.png"
+        },
+        {
+          "id": "05547fd2bd22554636c30cf4bb67047887b0d94a",
+          "author": "Deepakkumar Sharma",
+          "description": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to prove agent identity and prevent request forgery across agent-to-agent and MCP tool calls.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+          "publishedOn": "2026-10-20T16:03:48.000Z",
+          "wordCount": 43876,
+          "title": "Securing AI agent identity with X.509 PKI on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/16/ML-21717-featured-image.png"
+        },
+        {
+          "id": "d3c3a7c789540007b485ac6f7137782fb5e6c556",
+          "author": "Dor Shaboy",
+          "description": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and cutting new-engineer onboarding from two days to two minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-20T15:57:57.000Z",
+          "wordCount": 42899,
+          "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/21741.png"
+        },
+        {
+          "id": "35a19d20a9faf60985c6eccdb143b93a0781a1a3",
+          "author": "Suntosh Murthy",
+          "description": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and row- and column-level access control enforced at the semantic layer.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-20T15:39:04.000Z",
+          "wordCount": 46948,
+          "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/05/ML-21332-featured-image.png"
+        },
+        {
+          "id": "27b90480a1f289c553a54c263feab25503621afe",
+          "author": "Zhili Cheng",
+          "description": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-20T15:36:39.000Z",
+          "wordCount": 46103,
+          "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/05/ML-21332-featured-image.png"
+        },
+        {
+          "id": "bd75beff5300c4d9af16336dedefd68e74f7e8fb",
+          "author": "Frank Lapolito",
+          "description": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon Bedrock AgentCore through the AtScale MCP server. Identity propagation, RBAC, row security, and full query audit are enforced at the semantic layer, not the prompt.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-20T15:33:54.000Z",
+          "wordCount": 46300,
+          "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/13/ML-21303-featured-image.png"
+        },
         {
           "id": "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
           "author": "Anshika Saxena",

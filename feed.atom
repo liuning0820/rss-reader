@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-20T18:19:37.258Z</updated>
+    <updated>2026-10-20T22:55:04.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch]]></title>
+        <id>733fa955e4db373fd2ec88938f4d9a6aa8ad0a49</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/"/>
+        <updated>2026-10-20T21:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.]]></summary>
+        <author>
+            <name>Kevin Shabahang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Work management context for AI agents with Smartsheet MCP on AWS]]></title>
         <id>47fdf366d1959d8569ea858c6045c42e45b756f5</id>

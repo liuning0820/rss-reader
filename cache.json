@@ -137,6 +137,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
+          "author": "Anshika Saxena",
+          "description": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and strict tool use.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+          "publishedOn": "2026-10-19T23:32:19.000Z",
+          "wordCount": 42716,
+          "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22211-featured-image.png"
+        },
+        {
+          "id": "d50fc3895579c09e9db14324517982a638f3877e",
+          "author": "Hazim Qudah",
+          "description": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free Tier credits.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
+          "publishedOn": "2026-10-19T22:39:24.000Z",
+          "wordCount": 41569,
+          "title": "Developers can now access SageMaker Studio through the new AWS experience",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22115-featured-image.png"
+        },
+        {
           "id": "caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
           "author": "Vamsi Goparaju",
           "description": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration.",

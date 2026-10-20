@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-19T21:58:54.207Z</updated>
+    <updated>2026-10-20T01:00:18.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Structured outputs for Anthropic Claude models on Amazon Bedrock]]></title>
+        <id>a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/"/>
+        <updated>2026-10-19T23:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and strict tool use.]]></summary>
+        <author>
+            <name>Anshika Saxena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers can now access SageMaker Studio through the new AWS experience]]></title>
+        <id>d50fc3895579c09e9db14324517982a638f3877e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/"/>
+        <updated>2026-10-19T22:39:24.000Z</updated>
+        <summary type="html"><![CDATA[New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free Tier credits.]]></summary>
+        <author>
+            <name>Hazim Qudah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon SageMaker JumpStart: 2026 year-to-date in review]]></title>
         <id>caf8c9cd8fb47f7d05ebc18e6193092824fb5c28</id>

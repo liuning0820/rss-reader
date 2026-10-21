@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-21T14:50:15.109Z</updated>
+    <updated>2026-10-21T19:54:34.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How U.S. Hunger connects leaders and data using Amazon Quick]]></title>
+        <id>3041691fe51fb842c8451055f54e6f1d4b96e4bf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/"/>
+        <updated>2026-10-21T19:19:50.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and financial context in Quick Spaces, and investigate policy questions with Quick Research.]]></summary>
+        <author>
+            <name>Rick Whitted</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch]]></title>
         <id>733fa955e4db373fd2ec88938f4d9a6aa8ad0a49</id>

@@ -127,6 +127,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "3041691fe51fb842c8451055f54e6f1d4b96e4bf",
+          "author": "Rick Whitted",
+          "description": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and financial context in Quick Spaces, and investigate policy questions with Quick Research.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
+          "publishedOn": "2026-10-21T19:19:50.000Z",
+          "wordCount": 43021,
+          "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/21/ML-22201-featured-image.png"
+        },
+        {
           "id": "733fa955e4db373fd2ec88938f4d9a6aa8ad0a49",
           "author": "Kevin Shabahang",
           "description": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.",

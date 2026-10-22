@@ -127,6 +127,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "34e5ea1686b4ddadf422c6b8da002f20b620869c",
+          "author": "Rahul Kulkarni",
+          "description": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+          "publishedOn": "2026-10-21T23:38:38.000Z",
+          "wordCount": 46159,
+          "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-20213-featured-image.png"
+        },
+        {
+          "id": "592e790776f1a784bac6fdbee94e1681b38d082b",
+          "author": "Yoonseo Kim",
+          "description": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+          "publishedOn": "2026-10-21T23:36:47.000Z",
+          "wordCount": 44578,
+          "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/14/ML-21081-featured-image.png"
+        },
+        {
           "id": "bc3c26fa1b9f32217f78b6ea7dade55d7572f14d",
           "author": "Nitin Eusebius",
           "description": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Amazon Bedrock, using an Internet of Things monitoring scenario.",
@@ -1210,26 +1230,6 @@
           "wordCount": 36701,
           "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21136-featured-image.png"
-        },
-        {
-          "id": "bc39639b8f4e4cc7c356256fa699e460f9a01fa5",
-          "author": "Abhideep Rastogi",
-          "description": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates detections into high-confidence alerts, detecting unsafe conditions in seconds instead of minutes.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
-          "publishedOn": "2026-09-22T15:19:54.000Z",
-          "wordCount": 36092,
-          "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-19998-featured-image.png"
-        },
-        {
-          "id": "5066ec9c015f24d80bf639cd7289221c5f05bc08",
-          "author": "Christian Ramirez",
-          "description": "Public sector agencies process large volumes of unstructured evidence, such as body camera footage and scanned documents. This post shows how to combine Amazon Bedrock Data Automation with the Model Context Protocol (MCP) to turn that data into structured insights and surface them through natural language queries in Salesforce Agentforce.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/",
-          "publishedOn": "2026-09-22T15:17:45.000Z",
-          "wordCount": 36601,
-          "title": "Extending public sector intelligence with Agentforce and AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20933-featured-image.png"
         }
       ]
     }

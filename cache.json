@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=7099",
+          "author": "Chris Swan",
+          "description": "Private keys for eight eMudhra intermediate Certificate Authority (CA) certificates have been compromised, making it trivial for attackers to forge certificates that would be trusted by unpatched roots of trust. Six of the impacted certificates were for Transport Layer Security (TLS) and trusted by the Apple, Chrome, Microsoft and Mozilla root programs. The other two […]",
+          "link": "https://blog.thestateofme.com/2026/10/22/infoq-emudhra-intermediate-ca-compromise/",
+          "publishedOn": "2026-10-22T07:53:03.000Z",
+          "wordCount": 2921,
+          "title": "InfoQ – eMudhra Intermediate CA Compromise",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=7056",
           "author": "Chris Swan",
           "description": "Pupdate The heat wave(s) finally let up, but much of the month was still warm and sunny, allowing for some good walks. As I covered in an earlier post, Milo’s back in remission :) Caskmaster The Scotch Malt Whisky Society (SMWS) has started running a tasting competition called Caskmaster, with heats in various tasting rooms […]",
@@ -1170,66 +1180,6 @@
           "wordCount": 36800,
           "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/22/ML-21055-featured-image.png"
-        },
-        {
-          "id": "f91c4872e4efa50ad6fa1a0161799f318feef3c1",
-          "author": "Tanvi Girinath",
-          "description": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-          "publishedOn": "2026-09-22T18:10:22.000Z",
-          "wordCount": 34655,
-          "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/21/ML-21956-featured-image.png"
-        },
-        {
-          "id": "2e3d91b641ca237ade2f2527a383a24847fe5ded",
-          "author": "Aamna Najmi",
-          "description": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's new in Opus 5.5, practical guidance, and how to start building with the model on Amazon Bedrock.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
-          "publishedOn": "2026-09-22T17:28:01.000Z",
-          "wordCount": 34669,
-          "title": "Claude Opus 5.5 is now available on AWS",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/22/ML-22003-featured-image.png"
-        },
-        {
-          "id": "aa00d9c221ad9292cfbcc5630acd0f904e2648ad",
-          "author": "Sangmin Woo",
-          "description": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and instruction following with Strands Evals and Amazon Bedrock AgentCore Evaluations.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-09-22T17:18:13.000Z",
-          "wordCount": 36538,
-          "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21794-featured-image.png"
-        },
-        {
-          "id": "b9998174e9c0e9055ac7cefe40c88652e9606651",
-          "author": "Adam Gibicar",
-          "description": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-09-22T15:46:07.000Z",
-          "wordCount": 35679,
-          "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21280-featured-image.png"
-        },
-        {
-          "id": "de6c2facc757c64fbd0ea27218c6d35c1221274f",
-          "author": "Mona Mona",
-          "description": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob API, and using the results to make data-driven capacity decisions about fleet size.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
-          "publishedOn": "2026-09-22T15:35:53.000Z",
-          "wordCount": 35698,
-          "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/17/ML-21905-featured-image.png"
-        },
-        {
-          "id": "dbd3f22e7d336a47137d152cb1d4539976157498",
-          "author": "Senthil Chinnaiyan",
-          "description": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a 60x improvement in time-to-insight. This post shares the architectural approach and key design decisions behind the solution.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-09-22T15:30:34.000Z",
-          "wordCount": 36701,
-          "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21136-featured-image.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-22T19:43:29.851Z</updated>
+    <updated>2026-10-22T22:57:13.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -154,6 +154,16 @@
         <summary type="html"><![CDATA[Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.]]></summary>
         <author>
             <name>Kevin Shabahang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow context for AI agents with Smartsheet MCP on AWS]]></title>
+        <id>47fdf366d1959d8569ea858c6045c42e45b756f5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/"/>
+        <updated>2026-10-20T17:59:07.000Z</updated>
+        <summary type="html"><![CDATA[The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.]]></summary>
+        <author>
+            <name>Galina Jordanowa</name>
         </author>
     </entry>
     <entry>

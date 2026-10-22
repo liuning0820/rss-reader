@@ -284,6 +284,16 @@
         {
           "id": "47fdf366d1959d8569ea858c6045c42e45b756f5",
           "author": "Galina Jordanowa",
+          "description": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+          "publishedOn": "2026-10-20T17:59:07.000Z",
+          "wordCount": 42658,
+          "title": "Workflow context for AI agents with Smartsheet MCP on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-21001-featured-image.png"
+        },
+        {
+          "id": "47fdf366d1959d8569ea858c6045c42e45b756f5",
+          "author": "Galina Jordanowa",
           "description": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
           "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
           "publishedOn": "2026-10-20T17:59:07.000Z",

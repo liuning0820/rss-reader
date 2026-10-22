@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-22T14:51:22.251Z</updated>
+    <updated>2026-10-22T19:43:29.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly delivers a major upgrade to its Generative engine]]></title>
+        <id>8dd8e6bc35ad32eff8fd57bbe04f9c56274f46ed</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/"/>
+        <updated>2026-10-22T18:06:35.000Z</updated>
+        <summary type="html"><![CDATA[The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.]]></summary>
+        <author>
+            <name>Suyin Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases]]></title>
+        <id>4c086dcfa95658eafa8d777d0aa2a5fcb4edc64f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/"/>
+        <updated>2026-10-22T18:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage.]]></summary>
+        <author>
+            <name>Daniel Martinez Rubio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing new ways to customize models with SageMaker AI, without managing GPUs]]></title>
+        <id>123e9274ff10d780d0521efd9bdc03cfb23cff08</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/"/>
+        <updated>2026-10-22T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage.]]></summary>
+        <author>
+            <name>Pooja Karadgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs]]></title>
+        <id>85d3ed31b82ab8523ac7effc5500095e66ae8521</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/"/>
+        <updated>2026-10-22T18:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a reinforcement learning workload on competitive programming.]]></summary>
+        <author>
+            <name>Nicolas Jourdan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy AI in a HIPAA-eligible environment with Amazon Quick]]></title>
+        <id>9bd193b4e42ef70bdb7e98ad7ab3c3f9df6f367e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/"/>
+        <updated>2026-10-22T17:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare environment.]]></summary>
+        <author>
+            <name>Meena Menon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI]]></title>
+        <id>351e07d8236b8a05fa15e510dcb5b937d7a9dec8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/"/>
+        <updated>2026-10-22T17:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser over Server-Sent Events or a unified binary transport.]]></summary>
+        <author>
+            <name>Joseph Cottingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop guessing auto scaling targets for TTS on Amazon SageMaker AI]]></title>
+        <id>bc1e8aba2e409ec4403d397afa02816caf7e4b6e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/"/>
+        <updated>2026-10-22T16:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two live-endpoint measurements, Q_max and T_total, instead of guesswork.]]></summary>
+        <author>
+            <name>Joseph Cottingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Rescale built an AI triage agent with Strands Agents and AI-DLC]]></title>
+        <id>7b42b92d3553785669b6b7f2bc67061098c8e566</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/"/>
+        <updated>2026-10-22T16:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization.]]></summary>
+        <author>
+            <name>Isha Doshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InfoQ – eMudhra Intermediate CA Compromise]]></title>
         <id>http://blog.thestateofme.com/?p=7099</id>

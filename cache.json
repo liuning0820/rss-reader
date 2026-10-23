@@ -137,6 +137,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d4a0021627e124e1cbf32bd2a1426e1abfda6b33",
+          "author": "Daniel Quang",
+          "description": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+          "publishedOn": "2026-10-23T17:48:54.000Z",
+          "wordCount": 46341,
+          "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22014-featured-image.png"
+        },
+        {
+          "id": "99e1f40843e42eddcc6ecfc9f758bee6b1d7c9a3",
+          "author": "Lauren Eterno",
+          "description": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+          "publishedOn": "2026-10-23T16:30:10.000Z",
+          "wordCount": 43990,
+          "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/23/Orchestrating-SageMaker-AI-endpoint-auto-scaling-with-AWS-CDK.png"
+        },
+        {
+          "id": "b00ee9ac34cfc25b65e7db16ebf768122bad4a1b",
+          "author": "Amit Makashir",
+          "description": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+          "publishedOn": "2026-10-23T16:24:55.000Z",
+          "wordCount": 45024,
+          "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/ML-21612-featured-image.png"
+        },
+        {
+          "id": "b1f9be62942b6b77e09ee44eda01d25e5a58cfc4",
+          "author": "Subbu Dandamudi",
+          "description": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+          "publishedOn": "2026-10-23T16:21:36.000Z",
+          "wordCount": 45033,
+          "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/23/How-Bayer-Crop-Science-built-an-agentic-decision-engine-on-Amazon-Bedrock-AgentCore-with-AWS-Unified-Operations.png"
+        },
+        {
           "id": "8dd8e6bc35ad32eff8fd57bbe04f9c56274f46ed",
           "author": "Suyin Wang",
           "description": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.",

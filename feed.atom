@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-25T04:25:53.848Z</updated>
+    <updated>2026-10-25T10:42:22.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1124,16 +1124,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale is headed to SREcon26 in Dublin this October. Swing by our booth to grab some merch, catch a live demo, and chat with the team behind the world’s fastest databases. We can’t wait to see you there. → If you’re not at SREcon but still […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput]]></title>
-        <id>ea9c3794156b7050a4cb777dc63887c488fc15b1</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"/>
-        <updated>2026-09-25T16:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Amazon S3 and increased aggregate reinforcement learning rollout throughput by 40% for large-scale RLHF and GRPO training.]]></summary>
-        <author>
-            <name>Ashvin Nihalani</name>
         </author>
     </entry>
 </feed>

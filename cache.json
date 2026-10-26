@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1837",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Dragonfly: Redis runs one core per process. Your server has 64. Dragonfly is a Redis/Valkey-compatible data store, rebuilt multi-threaded by an ex-AWS ElastiCache engineer: 6M ops/sec on one node, no cluster Drop-in: same clients, same commands Instacart migrated and cut latency by 50% using 70% fewer nodes […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-540/",
+          "publishedOn": "2026-10-26T01:58:59.000Z",
+          "wordCount": 1127,
+          "title": "SRE Weekly Issue #540",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1835",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers with code SREWEEKLY. Claim your free pass → Hot take Today, I learned that “hot […]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-25T22:16:50.138Z</updated>
+    <updated>2026-10-26T03:11:28.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #540]]></title>
+        <id>https://sreweekly.com/?p=1837</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-540/"/>
+        <updated>2026-10-26T01:58:59.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Dragonfly: Redis runs one core per process. Your server has 64. Dragonfly is a Redis/Valkey-compatible data store, rebuilt multi-threaded by an ex-AWS ElastiCache engineer: 6M ops/sec on one node, no cluster Drop-in: same clients, same commands Instacart migrated and cut latency by 50% using 70% fewer nodes […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide]]></title>
         <id>d4a0021627e124e1cbf32bd2a1426e1abfda6b33</id>

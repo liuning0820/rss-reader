@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-27T15:42:31.049Z</updated>
+    <updated>2026-10-27T20:24:52.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service]]></title>
+        <id>ccf2074f88c67d02606251e40a31cdb4a40bc3ad</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/"/>
+        <updated>2026-10-27T18:03:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.]]></summary>
+        <author>
+            <name>Pasquale DeMaio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing SOCI-indexed images for faster SageMaker AI jobs]]></title>
+        <id>4fef4e2052ceafe5be77506f74414eb6efbd5cd7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/"/>
+        <updated>2026-10-27T17:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.]]></summary>
+        <author>
+            <name>Kanwaljit Khurmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix evaluation bias to unlock better models on Amazon Bedrock]]></title>
+        <id>2d980147c58e5ff4accadbbed4d31bf94e438c61</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/"/>
+        <updated>2026-10-27T16:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazon Bedrock, cutting cost by 86% across 11 image-quality attributes.]]></summary>
+        <author>
+            <name>Khaled Thabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exowatt beats frontier models on accuracy with SageMaker serverless model customization]]></title>
+        <id>1e1c377670e004fec0787c3710e67b118ba3c87f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/"/>
+        <updated>2026-10-27T16:50:55.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower cost.]]></summary>
+        <author>
+            <name>Purna Sanyal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3]]></title>
         <id>24d8d5b36e78caf18670ef6d83892be19ec25356</id>

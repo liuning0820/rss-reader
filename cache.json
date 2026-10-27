@@ -117,6 +117,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "ccf2074f88c67d02606251e40a31cdb4a40bc3ad",
+          "author": "Pasquale DeMaio",
+          "description": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+          "publishedOn": "2026-10-27T18:03:12.000Z",
+          "wordCount": 42971,
+          "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/26/AWS-named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for-Contact-Center-as-a-Service.png"
+        },
+        {
+          "id": "4fef4e2052ceafe5be77506f74414eb6efbd5cd7",
+          "author": "Kanwaljit Khurmi",
+          "description": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+          "publishedOn": "2026-10-27T17:00:39.000Z",
+          "wordCount": 44536,
+          "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/23/ML-21882-featured-image-4.png"
+        },
+        {
+          "id": "2d980147c58e5ff4accadbbed4d31bf94e438c61",
+          "author": "Khaled Thabit",
+          "description": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazon Bedrock, cutting cost by 86% across 11 image-quality attributes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+          "publishedOn": "2026-10-27T16:53:02.000Z",
+          "wordCount": 44798,
+          "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/26/ML-21124-featured-image.png"
+        },
+        {
+          "id": "1e1c377670e004fec0787c3710e67b118ba3c87f",
+          "author": "Purna Sanyal",
+          "description": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower cost.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
+          "publishedOn": "2026-10-27T16:50:55.000Z",
+          "wordCount": 45101,
+          "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22072-featured-image.png"
+        },
+        {
           "id": "24d8d5b36e78caf18670ef6d83892be19ec25356",
           "author": "Kiowa Jackson",
           "description": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",

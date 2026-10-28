@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-28T14:50:12.628Z</updated>
+    <updated>2026-10-28T20:45:23.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building an Agentic AI Platform on Amazon Bedrock AgentCore]]></title>
+        <id>8bd827344f7a730b420aced0542c5d0dd666efbf</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-10-28T18:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.]]></summary>
+        <author>
+            <name>Omar Elkharbotly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed training with Ray Train DLCs and EFA on EKS]]></title>
+        <id>ad7c54a5a92c3c3ab550b696c83e5204108e2c13</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/"/>
+        <updated>2026-10-28T18:19:54.000Z</updated>
+        <summary type="html"><![CDATA[The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.]]></summary>
+        <author>
+            <name>Sunita Koppar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3]]></title>
+        <id>e072f14329aeef9ebf20997fc4d53f2767473ad7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/"/>
+        <updated>2026-10-28T18:12:13.000Z</updated>
+        <summary type="html"><![CDATA[As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what.]]></summary>
+        <author>
+            <name>Vinicius Pedroni</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service]]></title>
         <id>ccf2074f88c67d02606251e40a31cdb4a40bc3ad</id>

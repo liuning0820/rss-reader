@@ -117,6 +117,36 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "8bd827344f7a730b420aced0542c5d0dd666efbf",
+          "author": "Omar Elkharbotly",
+          "description": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-10-28T18:28:26.000Z",
+          "wordCount": 45014,
+          "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21798-featured-image.png"
+        },
+        {
+          "id": "ad7c54a5a92c3c3ab550b696c83e5204108e2c13",
+          "author": "Sunita Koppar",
+          "description": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+          "publishedOn": "2026-10-28T18:19:54.000Z",
+          "wordCount": 45807,
+          "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22002-featured-image.png"
+        },
+        {
+          "id": "e072f14329aeef9ebf20997fc4d53f2767473ad7",
+          "author": "Vinicius Pedroni",
+          "description": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+          "publishedOn": "2026-10-28T18:12:13.000Z",
+          "wordCount": 44188,
+          "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/27/ML-21434-featured-image.png"
+        },
+        {
           "id": "ccf2074f88c67d02606251e40a31cdb4a40bc3ad",
           "author": "Pasquale DeMaio",
           "description": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",

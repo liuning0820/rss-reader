@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-28T07:54:18.415Z</updated>
+    <updated>2026-10-28T14:50:12.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1134,16 +1134,6 @@
         <summary type="html"><![CDATA[Condé Nast's editorial teams spent an average of 250 minutes per task searching a library of more than 140,000 videos using only titles and descriptions. Working with the AWS Generative AI Innovation Center, they built a multimodal video discovery solution on Amazon Bedrock and Amazon OpenSearch Service that cut discovery time to under 2 minutes.]]></summary>
         <author>
             <name>Mariah Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok 4.7 is now available on Amazon Bedrock]]></title>
-        <id>9a90cb3d7623d517b6c268aadcd85bbf56a68dde</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/"/>
-        <updated>2026-09-28T22:13:16.000Z</updated>
-        <summary type="html"><![CDATA[xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.]]></summary>
-        <author>
-            <name>Suheel Farooq</name>
         </author>
     </entry>
 </feed>

@@ -1170,16 +1170,6 @@
           "wordCount": 35720,
           "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21598-featured-image.png"
-        },
-        {
-          "id": "9a90cb3d7623d517b6c268aadcd85bbf56a68dde",
-          "author": "Suheel Farooq",
-          "description": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
-          "publishedOn": "2026-09-28T22:13:16.000Z",
-          "wordCount": 35871,
-          "title": "Grok 4.7 is now available on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21934-featured-image.png"
         }
       ]
     }

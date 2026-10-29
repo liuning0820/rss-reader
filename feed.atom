@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-29T08:00:06.638Z</updated>
+    <updated>2026-10-29T15:09:08.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1094,26 +1094,6 @@
         <summary type="html"><![CDATA[Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track.]]></summary>
         <author>
             <name>Evandro Franco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Bedrock expands Claude model availability to in-country inferencing in India]]></title>
-        <id>5ee89c1b26308404d27592d483f282630a0d18d9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/"/>
-        <updated>2026-09-30T01:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data within the India Regions, and get started from the Amazon Bedrock console or with the Messages, InvokeModel, and Converse APIs.]]></summary>
-        <author>
-            <name>Aamna Najmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore]]></title>
-        <id>6e28f69c4f4137454e595f46fee566a1249a74da</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/"/>
-        <updated>2026-09-30T01:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local data processing requirements in South Korea or Singapore, you can now use these Anthropic models at scale, with inference processed entirely within the Region you call.]]></summary>
-        <author>
-            <name>Aamna Najmi</name>
         </author>
     </entry>
 </feed>

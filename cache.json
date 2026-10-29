@@ -1130,26 +1130,6 @@
           "wordCount": 36762,
           "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
-        },
-        {
-          "id": "5ee89c1b26308404d27592d483f282630a0d18d9",
-          "author": "Aamna Najmi",
-          "description": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data within the India Regions, and get started from the Amazon Bedrock console or with the Messages, InvokeModel, and Converse APIs.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
-          "publishedOn": "2026-09-30T01:13:14.000Z",
-          "wordCount": 34818,
-          "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-21953-featured-image-1.png"
-        },
-        {
-          "id": "6e28f69c4f4137454e595f46fee566a1249a74da",
-          "author": "Aamna Najmi",
-          "description": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local data processing requirements in South Korea or Singapore, you can now use these Anthropic models at scale, with inference processed entirely within the Region you call.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
-          "publishedOn": "2026-09-30T01:13:12.000Z",
-          "wordCount": 34750,
-          "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22088-featured-image.png"
         }
       ]
     }

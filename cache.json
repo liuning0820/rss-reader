@@ -98,16 +98,6 @@
           "wordCount": 422,
           "title": "我做了一个 AI 图片重命名工具",
           "imageUrl": null
-        },
-        {
-          "id": "https://liuning0820.github.io/2026/10/02/mindset-2026.html",
-          "author": null,
-          "description": "Growth Mindset 2026 微信公众号“对刘谈心”记录一个“观念改造”的系列。计划是每个月一篇，月底刊登。 观念改造记录这个月我看过的书或网页，遇见的人或事情对我个人的观念的改造，至少当下我比较认同的观念，朋友们一看，能够遇到某一条您也比较接受或认同的，我便心满意足。",
-          "link": "https://liuning0820.github.io/2026/10/02/mindset-2026.html",
-          "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 345,
-          "title": "Mindset 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -1130,16 +1120,6 @@
           "wordCount": 38811,
           "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/ML-21889-featured-image.png"
-        },
-        {
-          "id": "d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
-          "author": "Nikhil Jha",
-          "description": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-10-01T22:06:14.000Z",
-          "wordCount": 40540,
-          "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/12/ML-20875-featured-image.png"
         }
       ]
     }

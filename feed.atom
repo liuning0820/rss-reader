@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-31T07:58:37.771Z</updated>
+    <updated>2026-10-31T14:27:01.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1084,26 +1084,6 @@
         <summary type="html"><![CDATA[Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability.]]></summary>
         <author>
             <name>Huibin Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mindset 2026]]></title>
-        <id>https://liuning0820.github.io/2026/10/02/mindset-2026.html</id>
-        <link href="https://liuning0820.github.io/2026/10/02/mindset-2026.html"/>
-        <updated>2026-10-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Growth Mindset 2026 微信公众号“对刘谈心”记录一个“观念改造”的系列。计划是每个月一篇，月底刊登。 观念改造记录这个月我看过的书或网页，遇见的人或事情对我个人的观念的改造，至少当下我比较认同的观念，朋友们一看，能够遇到某一条您也比较接受或认同的，我便心满意足。]]></summary>
-        <author>
-            <name>Work For Free</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore]]></title>
-        <id>d0376fa78aeb5acfd7edb22f7e3658ad0679a620</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"/>
-        <updated>2026-10-01T22:06:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.]]></summary>
-        <author>
-            <name>Nikhil Jha</name>
         </author>
     </entry>
 </feed>

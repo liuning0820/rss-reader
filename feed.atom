@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-10-30T21:55:30.203Z</updated>
+    <updated>2026-10-31T01:25:12.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams]]></title>
+        <id>5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/"/>
+        <updated>2026-10-30T22:42:24.000Z</updated>
+        <summary type="html"><![CDATA[This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.]]></summary>
+        <author>
+            <name>Aswath Ram A Srinivasan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime]]></title>
         <id>f7fa53db3341459d6a27841fb8632835488a9c38</id>

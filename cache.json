@@ -117,6 +117,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "5542e879e541b56f1c06a9f2c71c7c3f37f6d5e3",
+          "author": "Aswath Ram A Srinivasan",
+          "description": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+          "publishedOn": "2026-10-30T22:42:24.000Z",
+          "wordCount": 45615,
+          "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/29/ML-21654-featured-image.png"
+        },
+        {
           "id": "f7fa53db3341459d6a27841fb8632835488a9c38",
           "author": "Sundar Raghavan",
           "description": "Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files.",

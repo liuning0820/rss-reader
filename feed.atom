@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-02T14:45:02.454Z</updated>
+    <updated>2026-11-02T23:17:52.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI]]></title>
+        <id>43ca16f9eb64c74c6edd06ac90851b607a986aa7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/"/>
+        <updated>2026-11-02T17:11:21.000Z</updated>
+        <summary type="html"><![CDATA[This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.]]></summary>
+        <author>
+            <name>Daxeshkumar Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build efficient agents with knowledge distillation on Amazon SageMaker AI]]></title>
+        <id>bfaccd13e686a1fa304f832d5c944c11e78cf85e</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/"/>
+        <updated>2026-11-02T17:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-cost student on Amazon SageMaker AI.]]></summary>
+        <author>
+            <name>Giuseppe Zappia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore]]></title>
+        <id>7f22d91d237dea8bc76d43cd708cd0a6ac2b6478</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-02T17:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.]]></summary>
+        <author>
+            <name>Aishwarya Gavili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock]]></title>
+        <id>2ed0532609086bac2f9175750e90dc9bbbd0ab45</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/"/>
+        <updated>2026-11-02T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Circle K's DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows implementation, the migration to Amazon Bedrock AgentCore, and the lessons learned from scaling it.]]></summary>
+        <author>
+            <name>Marek Klatowicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #541]]></title>
         <id>https://sreweekly.com/?p=1839</id>

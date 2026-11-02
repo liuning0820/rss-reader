@@ -43,6 +43,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1839",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io’s engineering team for an Extensions showcase. We’ll build a skill live, watch it run, and safely deploy. Register Now → Post-incident action items […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-541/",
+          "publishedOn": "2026-11-02T04:12:35.000Z",
+          "wordCount": 1086,
+          "title": "SRE Weekly Issue #541",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1837",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Dragonfly: Redis runs one core per process. Your server has 64. Dragonfly is a Redis/Valkey-compatible data store, rebuilt multi-threaded by an ex-AWS ElastiCache engineer: 6M ops/sec on one node, no cluster Drop-in: same clients, same commands Instacart migrated and cut latency by 50% using 70% fewer nodes […]",

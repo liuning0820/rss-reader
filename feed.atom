@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-04T08:35:17.618Z</updated>
+    <updated>2026-11-04T17:44:12.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Approvals in Amazon Quick: Human oversight where it matters]]></title>
+        <id>9c5c128f7a31e5e43f3eafba7ef1c3537f53e875</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/"/>
+        <updated>2026-11-04T16:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.]]></summary>
+        <author>
+            <name>Steve Vinsik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four layers of context engineering for production AI agents: How Deep Insight applies them in working code]]></title>
+        <id>f002aac1d7eda07b2b65eb10ab1188bfa0625420</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/"/>
+        <updated>2026-11-04T16:30:40.000Z</updated>
+        <summary type="html"><![CDATA[In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.]]></summary>
+        <author>
+            <name>Yoonseo Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Indegene is modernizing and scaling enterprise data quality in life sciences]]></title>
+        <id>ec8f216d6e33b15ef288b415453d9a3caa46a158</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/"/>
+        <updated>2026-11-04T16:25:57.000Z</updated>
+        <summary type="html"><![CDATA[This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.]]></summary>
+        <author>
+            <name>Bhagyashree Chandak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How U Mobile built agentic telco operations with Amazon Bedrock AgentCore]]></title>
+        <id>86f7643574ae8df6cc5e69fb4f2fae28796c9da8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-04T16:23:33.000Z</updated>
+        <summary type="html"><![CDATA[U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.]]></summary>
+        <author>
+            <name>Jin Tiong Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bring structured and unstructured data together with Amazon Quick]]></title>
         <id>a3db7b2c3fdf8a48e563f027e982fa25a50c5a02</id>
@@ -1074,16 +1114,6 @@
         <summary type="html"><![CDATA[Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes.]]></summary>
         <author>
             <name>Ravi Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing GLM 5.3 on Amazon Bedrock]]></title>
-        <id>6f3957c3db7756d44ae371ed56bdd96fe96046a0</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"/>
-        <updated>2026-10-05T23:25:17.000Z</updated>
-        <summary type="html"><![CDATA[GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent.]]></summary>
-        <author>
-            <name>Alex Thewsey</name>
         </author>
     </entry>
 </feed>

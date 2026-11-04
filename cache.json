@@ -96,6 +96,46 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "9c5c128f7a31e5e43f3eafba7ef1c3537f53e875",
+          "author": "Steve Vinsik",
+          "description": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+          "publishedOn": "2026-11-04T16:33:03.000Z",
+          "wordCount": 43439,
+          "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-22232-featured-image-1.png"
+        },
+        {
+          "id": "f002aac1d7eda07b2b65eb10ab1188bfa0625420",
+          "author": "Yoonseo Kim",
+          "description": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+          "publishedOn": "2026-11-04T16:30:40.000Z",
+          "wordCount": 46064,
+          "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21082-featured-image.png"
+        },
+        {
+          "id": "ec8f216d6e33b15ef288b415453d9a3caa46a158",
+          "author": "Bhagyashree Chandak",
+          "description": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
+          "publishedOn": "2026-11-04T16:25:57.000Z",
+          "wordCount": 46416,
+          "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/27/ML-21740-featured-image.png"
+        },
+        {
+          "id": "86f7643574ae8df6cc5e69fb4f2fae28796c9da8",
+          "author": "Jin Tiong Lim",
+          "description": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-04T16:23:33.000Z",
+          "wordCount": 45714,
+          "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-21904-featured-image.png"
+        },
+        {
           "id": "a3db7b2c3fdf8a48e563f027e982fa25a50c5a02",
           "author": "Puneeth Komaragiri",
           "description": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
@@ -1104,21 +1144,6 @@
             "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21469/Travel-Concierge-App-Demo.mp4"
           },
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/24/ML-21469-featured-image.png"
-        },
-        {
-          "id": "6f3957c3db7756d44ae371ed56bdd96fe96046a0",
-          "author": "Alex Thewsey",
-          "description": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
-          "publishedOn": "2026-10-05T23:25:17.000Z",
-          "wordCount": 38254,
-          "title": "Introducing GLM 5.3 on Amazon Bedrock",
-          "enclosure": {
-            "length": "353017803",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22047/Strix+Demo+Video+Censored.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/05/ML-22047-featured-image.png"
         }
       ]
     }

@@ -96,6 +96,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "af187d4dcc140f40d628b5b7a009df4d46179afa",
+          "author": "Sungyeon Kim",
+          "description": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+          "publishedOn": "2026-11-04T18:46:36.000Z",
+          "wordCount": 45060,
+          "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-22136-featured-image.png"
+        },
+        {
           "id": "9c5c128f7a31e5e43f3eafba7ef1c3537f53e875",
           "author": "Steve Vinsik",
           "description": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",

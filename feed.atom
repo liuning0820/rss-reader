@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-04T23:11:22.855Z</updated>
+    <updated>2026-11-05T05:05:02.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1084,46 +1084,6 @@
         <summary type="html"><![CDATA[Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.]]></summary>
         <author>
             <name>Thiago Verney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025]]></title>
-        <id>3a55da10835515b8cd207733e9488cdc59af5b6a</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/"/>
-        <updated>2026-10-06T15:53:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterprise-wide risk management, and how ISO/IEC 42005:2025 codifies best practices for conducting and documenting these assessments.]]></summary>
-        <author>
-            <name>Adam Powers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices for Amazon SageMaker HyperPod administration and governance]]></title>
-        <id>2597381ffb619fc0a34fd817392146a9048e21b7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/"/>
-        <updated>2026-10-06T15:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, govern access, allocate shared capacity, and operate HyperPod consistently across the organization, project, cluster, and workload control layers.]]></summary>
-        <author>
-            <name>Geethanjali Banoth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio]]></title>
-        <id>e7f0e6d82f4014267fce625aa988675764125d64</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/"/>
-        <updated>2026-10-06T15:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code Editor environments in a few clicks, without using command-line tools.]]></summary>
-        <author>
-            <name>Giuseppe Angelo Porcelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic]]></title>
-        <id>5d18d7c185c27c43c714e55ee57af834c975f4ac</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/"/>
-        <updated>2026-10-06T15:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes.]]></summary>
-        <author>
-            <name>Ravi Kumar</name>
         </author>
     </entry>
 </feed>

@@ -1109,51 +1109,6 @@
           "wordCount": 40047,
           "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/02/ML-21277-featured-image.png"
-        },
-        {
-          "id": "3a55da10835515b8cd207733e9488cdc59af5b6a",
-          "author": "Adam Powers",
-          "description": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterprise-wide risk management, and how ISO/IEC 42005:2025 codifies best practices for conducting and documenting these assessments.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
-          "publishedOn": "2026-10-06T15:53:28.000Z",
-          "wordCount": 38097,
-          "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/30/ML-21895-featured-image.png"
-        },
-        {
-          "id": "2597381ffb619fc0a34fd817392146a9048e21b7",
-          "author": "Geethanjali Banoth",
-          "description": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, govern access, allocate shared capacity, and operate HyperPod consistently across the organization, project, cluster, and workload control layers.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
-          "publishedOn": "2026-10-06T15:50:23.000Z",
-          "wordCount": 39571,
-          "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/02/ML-21129-featured-image.png"
-        },
-        {
-          "id": "e7f0e6d82f4014267fce625aa988675764125d64",
-          "author": "Giuseppe Angelo Porcelli",
-          "description": "Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code Editor environments in a few clicks, without using command-line tools.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
-          "publishedOn": "2026-10-06T15:47:02.000Z",
-          "wordCount": 38629,
-          "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/02/ML-21625-featured-image.png"
-        },
-        {
-          "id": "5d18d7c185c27c43c714e55ee57af834c975f4ac",
-          "author": "Ravi Kumar",
-          "description": "Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
-          "publishedOn": "2026-10-06T15:45:42.000Z",
-          "wordCount": 39633,
-          "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
-          "enclosure": {
-            "length": "45469806",
-            "type": "video/mp4",
-            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21469/Travel-Concierge-App-Demo.mp4"
-          },
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/24/ML-21469-featured-image.png"
         }
       ]
     }

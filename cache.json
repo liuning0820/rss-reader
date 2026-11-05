@@ -106,6 +106,16 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "e8c83ec5b92498185c84027903905490ba326750",
+          "author": "James Kim",
+          "description": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+          "publishedOn": "2026-11-05T18:06:43.000Z",
+          "wordCount": 45738,
+          "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/30/ML-20598-featured-image.png"
+        },
+        {
           "id": "af187d4dcc140f40d628b5b7a009df4d46179afa",
           "author": "Sungyeon Kim",
           "description": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",

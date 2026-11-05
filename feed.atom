@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-05T05:05:02.515Z</updated>
+    <updated>2026-11-05T13:58:22.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[October 2026]]></title>
+        <id>http://blog.thestateofme.com/?p=7097</id>
+        <link href="https://blog.thestateofme.com/2026/11/05/october-2026/"/>
+        <updated>2026-11-05T12:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Pupdate The month started out unusually warm and dry, so we got in some good long walks before the paths turn muddy. By the end of the month their coats were back in use, as it had got cold and wet :( Rachel Parris We’ve been fans of Rachel Parris since first seeing her in […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use decision models with Amazon Bedrock AgentCore Evaluations]]></title>
         <id>af187d4dcc140f40d628b5b7a009df4d46179afa</id>
@@ -1074,16 +1084,6 @@
         <summary type="html"><![CDATA[Cornerstone OnDemand built Orion AI, a multi-agent system on Amazon Bedrock and Strands Agents, to turn database operations from reactive firefighting into proactive automation. A three-person team cut database diagnosis from 45 minutes to 10, a 78% reduction, in six months. See the design decisions other teams can reuse.]]></summary>
         <author>
             <name>Derek Ziehl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a context-aware AI assistant on AgentCore and OpenClaw]]></title>
-        <id>923519c839c137326cec150f20986e906ba708bc</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/"/>
-        <updated>2026-10-06T19:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.]]></summary>
-        <author>
-            <name>Thiago Verney</name>
         </author>
     </entry>
 </feed>

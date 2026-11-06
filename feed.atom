@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-06T09:10:29.013Z</updated>
+    <updated>2026-11-06T17:09:24.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore]]></title>
+        <id>c5e92a0371483b3162fb07723de361bea61a1cce</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-06T16:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.]]></summary>
+        <author>
+            <name>Adam Maksimuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore]]></title>
+        <id>300480516c367305f4d8824ac5917a409db07911</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-06T16:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.]]></summary>
+        <author>
+            <name>Karan Nayak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls]]></title>
+        <id>7f770c3595174ddce3e090066fd2d16df2549723</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/"/>
+        <updated>2026-11-06T16:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.]]></summary>
+        <author>
+            <name>Andrew (Qingjie) Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain delegation for ACME TLS certificate DNS-01 challenges]]></title>
+        <id>http://blog.thestateofme.com/?p=7114</id>
+        <link href="https://blog.thestateofme.com/2026/11/06/domain-delegation-for-acme-tls-certificate-dns-01-challenges/"/>
+        <updated>2026-11-06T11:45:47.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR The DNS you’re using for a given domain may not have a suitable API for automating DNS-01 challenges, but that can be worked around by delegating to a sub domain (say acme.example.com) hosted somewhere that has a decent API. Background I was recently setting up some new services that would need TLS certificates. One […]]]></summary>
+        <author>
+            <name>Chris Swan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting started with Web Answer on Amazon Bedrock AgentCore]]></title>
         <id>376dbe736a2397bd4acc4f174380565d54b0823b</id>

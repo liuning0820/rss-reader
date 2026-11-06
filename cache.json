@@ -6,6 +6,16 @@
       "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
+          "id": "http://blog.thestateofme.com/?p=7114",
+          "author": "Chris Swan",
+          "description": "TL;DR The DNS you’re using for a given domain may not have a suitable API for automating DNS-01 challenges, but that can be worked around by delegating to a sub domain (say acme.example.com) hosted somewhere that has a decent API. Background I was recently setting up some new services that would need TLS certificates. One […]",
+          "link": "https://blog.thestateofme.com/2026/11/06/domain-delegation-for-acme-tls-certificate-dns-01-challenges/",
+          "publishedOn": "2026-11-06T11:45:47.000Z",
+          "wordCount": 3264,
+          "title": "Domain delegation for ACME TLS certificate DNS-01 challenges",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=7097",
           "author": "Chris Swan",
           "description": "Pupdate The month started out unusually warm and dry, so we got in some good long walks before the paths turn muddy. By the end of the month their coats were back in use, as it had got cold and wet :( Rachel Parris We’ve been fans of Rachel Parris since first seeing her in […]",
@@ -105,6 +115,36 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "c5e92a0371483b3162fb07723de361bea61a1cce",
+          "author": "Adam Maksimuk",
+          "description": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-06T16:55:05.000Z",
+          "wordCount": 44674,
+          "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/29/ML-21973-featured-image.png"
+        },
+        {
+          "id": "300480516c367305f4d8824ac5917a409db07911",
+          "author": "Karan Nayak",
+          "description": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-06T16:49:42.000Z",
+          "wordCount": 45326,
+          "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/03/ML-21532-featured-image.png"
+        },
+        {
+          "id": "7f770c3595174ddce3e090066fd2d16df2549723",
+          "author": "Andrew (Qingjie) Ren",
+          "description": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+          "publishedOn": "2026-11-06T16:45:58.000Z",
+          "wordCount": 45776,
+          "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-21719-featured-image.png"
+        },
         {
           "id": "376dbe736a2397bd4acc4f174380565d54b0823b",
           "author": "Adrianna Chudy",

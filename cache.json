@@ -106,6 +106,21 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "376dbe736a2397bd4acc4f174380565d54b0823b",
+          "author": "Adrianna Chudy",
+          "description": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-05T21:04:24.000Z",
+          "wordCount": 44433,
+          "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+          "enclosure": {
+            "length": "3331322",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22248/web_answer_storylane_demo_video.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-22248-featured-image.png"
+        },
+        {
           "id": "e8c83ec5b92498185c84027903905490ba326750",
           "author": "James Kim",
           "description": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",

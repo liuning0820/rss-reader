@@ -3,8 +3,18 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "https://blog.thestateofme.com",
+      "siteUrl": "http://blog.thestateofme.com",
       "articles": [
+        {
+          "id": "https://blog.thestateofme.com/?p=7114",
+          "author": "Chris Swan",
+          "description": "TL;DR The DNS you’re using for a given domain may not have a suitable API for automating DNS-01 challenges, but that can be worked around by delegating to a sub domain (say acme.example.com) hosted somewhere that has a decent API. Background I was recently setting up some new services that would need TLS certificates. One […]",
+          "link": "http://blog.thestateofme.com/2026/11/06/domain-delegation-for-acme-tls-certificate-dns-01-challenges/",
+          "publishedOn": "2026-11-06T11:45:47.000Z",
+          "wordCount": 3264,
+          "title": "Domain delegation for ACME TLS certificate DNS-01 challenges",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://blog.thestateofme.com/?p=7114",
           "author": "Chris Swan",
@@ -16,6 +26,16 @@
           "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         },
         {
+          "id": "https://blog.thestateofme.com/?p=7097",
+          "author": "Chris Swan",
+          "description": "Pupdate The month started out unusually warm and dry, so we got in some good long walks before the paths turn muddy. By the end of the month their coats were back in use, as it had got cold and wet :( Rachel Parris We’ve been fans of Rachel Parris since first seeing her in […]",
+          "link": "http://blog.thestateofme.com/2026/11/05/october-2026/",
+          "publishedOn": "2026-11-05T12:50:29.000Z",
+          "wordCount": 3652,
+          "title": "October 2026",
+          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/11/pups_202610.jpg"
+        },
+        {
           "id": "http://blog.thestateofme.com/?p=7097",
           "author": "Chris Swan",
           "description": "Pupdate The month started out unusually warm and dry, so we got in some good long walks before the paths turn muddy. By the end of the month their coats were back in use, as it had got cold and wet :( Rachel Parris We’ve been fans of Rachel Parris since first seeing her in […]",
@@ -24,6 +44,16 @@
           "wordCount": 3650,
           "title": "October 2026",
           "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/11/pups_202610.jpg"
+        },
+        {
+          "id": "https://blog.thestateofme.com/?p=7099",
+          "author": "Chris Swan",
+          "description": "Private keys for eight eMudhra intermediate Certificate Authority (CA) certificates have been compromised, making it trivial for attackers to forge certificates that would be trusted by unpatched roots of trust. Six of the impacted certificates were for Transport Layer Security (TLS) and trusted by the Apple, Chrome, Microsoft and Mozilla root programs. The other two […]",
+          "link": "http://blog.thestateofme.com/2026/10/22/infoq-emudhra-intermediate-ca-compromise/",
+          "publishedOn": "2026-10-22T07:53:03.000Z",
+          "wordCount": 3004,
+          "title": "InfoQ – eMudhra Intermediate CA Compromise",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
         },
         {
           "id": "http://blog.thestateofme.com/?p=7099",
@@ -115,6 +145,56 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "45834970ac5a8ce39a39de22bbc2ae33f7618139",
+          "author": "Shantanu Tripathi",
+          "description": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+          "publishedOn": "2026-11-06T18:01:00.000Z",
+          "wordCount": 45769,
+          "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/05/ML-22216-featured-image.png"
+        },
+        {
+          "id": "755c7d8248913b9c1698eceff615a3e12637e5e9",
+          "author": "Thomas Delteil",
+          "description": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+          "publishedOn": "2026-11-06T17:34:45.000Z",
+          "wordCount": 43584,
+          "title": "Taxonomy of agentic primitives in Amazon Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/03/ML-21505-featured-image.png"
+        },
+        {
+          "id": "64b64349a40669287b5c781082e75c92e2cc9153",
+          "author": "Aishwarya Pawar",
+          "description": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+          "publishedOn": "2026-11-06T17:13:13.000Z",
+          "wordCount": 44879,
+          "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-20343-featured-image.png"
+        },
+        {
+          "id": "568f99493ce9fc7f0fbe42c57947610f9ca4666c",
+          "author": "Hammad Ausaf",
+          "description": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+          "publishedOn": "2026-11-06T17:09:23.000Z",
+          "wordCount": 45710,
+          "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/29/ML-21547-p2-featured-image.png"
+        },
+        {
+          "id": "c0f0c6e1e028e85f24cb91645e1a321ffca6e02a",
+          "author": "Hammad Ausaf",
+          "description": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
+          "publishedOn": "2026-11-06T17:09:18.000Z",
+          "wordCount": 45964,
+          "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/29/ML-21547-featured-image.png"
+        },
         {
           "id": "c5e92a0371483b3162fb07723de361bea61a1cce",
           "author": "Adam Maksimuk",

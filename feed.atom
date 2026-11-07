@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-07T04:38:22.684Z</updated>
+    <updated>2026-11-07T12:26:08.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1134,16 +1134,6 @@
         <summary type="html"><![CDATA[Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.]]></summary>
         <author>
             <name>Srinivas Kini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments]]></title>
-        <id>0d337b36c3f07d0b91dbfe91ce290d78c3de5f56</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/"/>
-        <updated>2026-10-08T18:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.]]></summary>
-        <author>
-            <name>Peter Jiang</name>
         </author>
     </entry>
 </feed>

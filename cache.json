@@ -1174,16 +1174,6 @@
           "wordCount": 38339,
           "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/ML-21707-featured-image.png"
-        },
-        {
-          "id": "4b49d02253b76bfce1c012d6f6062cfcdca7f739",
-          "author": "Giuseppe Angelo Porcelli",
-          "description": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespace-level cost allocation for chargeback.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
-          "publishedOn": "2026-10-08T16:20:04.000Z",
-          "wordCount": 42762,
-          "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/ML-22020-featured-image.png"
         }
       ]
     }

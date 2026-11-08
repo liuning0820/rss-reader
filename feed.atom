@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-08T18:38:23.999Z</updated>
+    <updated>2026-11-08T23:24:41.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #542]]></title>
+        <id>https://sreweekly.com/?p=1842</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-542/"/>
+        <updated>2026-11-08T19:40:16.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Archestra: AI chaos in your org? Archestra is an open-source enterprise AI platform used by Fortune 50s that organizes your AI: LLM proxy, MCP gateway, skill catalog, feature factory, governance, observability and deterministic guardrails. ⇨ Book a call with the core team. What does it cost to […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints]]></title>
         <id>45834970ac5a8ce39a39de22bbc2ae33f7618139</id>

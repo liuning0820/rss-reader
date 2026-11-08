@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-07T23:24:11.295Z</updated>
+    <updated>2026-11-08T04:26:22.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1114,26 +1114,6 @@
         <summary type="html"><![CDATA[Pupdate The heat wave(s) finally let up, but much of the month was still warm and sunny, allowing for some good walks. As I covered in an earlier post, Milo’s back in remission :) Caskmaster The Scotch Malt Whisky Society (SMWS) has started running a tasting competition called Caskmaster, with heats in various tasting rooms […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICYMI: What landed for AI builders in September 2026]]></title>
-        <id>47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/"/>
-        <updated>2026-10-09T15:38:39.000Z</updated>
-        <summary type="html"><![CDATA[A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.]]></summary>
-        <author>
-            <name>Prachi Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Postman runs Agent Mode for 40 million developers on Amazon Bedrock]]></title>
-        <id>b70b3126633995a55ec3140e570c01681b054d89</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"/>
-        <updated>2026-10-09T15:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.]]></summary>
-        <author>
-            <name>Srinivas Kini</name>
         </author>
     </entry>
 </feed>

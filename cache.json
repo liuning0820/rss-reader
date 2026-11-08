@@ -1144,26 +1144,6 @@
           "wordCount": 42849,
           "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-22045-featured-image.png"
-        },
-        {
-          "id": "47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e",
-          "author": "Prachi Mishra",
-          "description": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
-          "publishedOn": "2026-10-09T15:38:39.000Z",
-          "wordCount": 41657,
-          "title": "ICYMI: What landed for AI builders in September 2026",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/06/ML-22094-featured-image.png"
-        },
-        {
-          "id": "b70b3126633995a55ec3140e570c01681b054d89",
-          "author": "Srinivas Kini",
-          "description": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
-          "publishedOn": "2026-10-09T15:35:02.000Z",
-          "wordCount": 43286,
-          "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/06/ML-21683-featured-image.png"
         }
       ]
     }

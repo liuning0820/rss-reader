@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-09T15:09:23.142Z</updated>
+    <updated>2026-11-09T23:57:07.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base]]></title>
+        <id>85e11029965ec714b8161f63f048a12f65fd6a97</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/"/>
+        <updated>2026-11-09T20:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.]]></summary>
+        <author>
+            <name>Siddhant Sahu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Claude Fable 5.2 on AWS]]></title>
+        <id>19f307961a8c6e7fb1931729bc0b823ac590bfec</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"/>
+        <updated>2026-11-09T20:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.]]></summary>
+        <author>
+            <name>Dani Mitchell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart]]></title>
+        <id>3e5b07e97d0a4f1f703ec7e89ab19f1b40aaa262</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-11-09T20:01:20.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.]]></summary>
+        <author>
+            <name>Venu Kanamatareddy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore]]></title>
+        <id>333ca621d84290b49ff9a6ae139d900744bc2faa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-09T19:05:54.000Z</updated>
+        <summary type="html"><![CDATA[A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack.]]></summary>
+        <author>
+            <name>Sindhura Palakodety</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore]]></title>
+        <id>08caff2b840ccbd409e94a190d5802d3f577d510</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-09T18:55:43.000Z</updated>
+        <summary type="html"><![CDATA[CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses.]]></summary>
+        <author>
+            <name>Raphael Simon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professional work deserves professional tools. Meet AWS Quick.]]></title>
+        <id>153d15ac18681eb063b39b6822cf9c34c5480f9b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/"/>
+        <updated>2026-11-09T18:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on.]]></summary>
+        <author>
+            <name>Kady LaBarre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #542]]></title>
         <id>https://sreweekly.com/?p=1842</id>

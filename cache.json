@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7114",
@@ -155,6 +155,66 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "85e11029965ec714b8161f63f048a12f65fd6a97",
+          "author": "Siddhant Sahu",
+          "description": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+          "publishedOn": "2026-11-09T20:13:18.000Z",
+          "wordCount": 44751,
+          "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-22223-featured-image.png"
+        },
+        {
+          "id": "19f307961a8c6e7fb1931729bc0b823ac590bfec",
+          "author": "Dani Mitchell",
+          "description": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+          "publishedOn": "2026-11-09T20:04:37.000Z",
+          "wordCount": 43624,
+          "title": "Introducing Claude Fable 5.2 on AWS",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/09/ML-22025-featured-image.png"
+        },
+        {
+          "id": "3e5b07e97d0a4f1f703ec7e89ab19f1b40aaa262",
+          "author": "Venu Kanamatareddy",
+          "description": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+          "publishedOn": "2026-11-09T20:01:20.000Z",
+          "wordCount": 44743,
+          "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-22096-featured-image.png"
+        },
+        {
+          "id": "333ca621d84290b49ff9a6ae139d900744bc2faa",
+          "author": "Sindhura Palakodety",
+          "description": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stable contract, so you can swap technologies at any layer without redesigning the rest of the stack.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-09T19:05:54.000Z",
+          "wordCount": 44233,
+          "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/06/ML-22256-featured-image-1.png"
+        },
+        {
+          "id": "08caff2b840ccbd409e94a190d5802d3f577d510",
+          "author": "Raphael Simon",
+          "description": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant data and run verifiable Python in isolated AgentCore sandboxes, giving plant engineers checkable, math-backed answers instead of model guesses.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-09T18:55:43.000Z",
+          "wordCount": 45298,
+          "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/05/ML-22370-featured-image.png"
+        },
+        {
+          "id": "153d15ac18681eb063b39b6822cf9c34c5480f9b",
+          "author": "Kady LaBarre",
+          "description": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
+          "publishedOn": "2026-11-09T18:43:30.000Z",
+          "wordCount": 42861,
+          "title": "Professional work deserves professional tools. Meet AWS Quick.",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/07/ML-22360-featured-image.png"
+        },
         {
           "id": "45834970ac5a8ce39a39de22bbc2ae33f7618139",
           "author": "Shantanu Tripathi",

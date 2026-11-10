@@ -64,26 +64,6 @@
           "wordCount": 2921,
           "title": "InfoQ – eMudhra Intermediate CA Compromise",
           "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
-        },
-        {
-          "id": "http://blog.thestateofme.com/?p=7056",
-          "author": "Chris Swan",
-          "description": "Pupdate The heat wave(s) finally let up, but much of the month was still warm and sunny, allowing for some good walks. As I covered in an earlier post, Milo’s back in remission :) Caskmaster The Scotch Malt Whisky Society (SMWS) has started running a tasting competition called Caskmaster, with heats in various tasting rooms […]",
-          "link": "https://blog.thestateofme.com/2026/10/11/september-2026/",
-          "publishedOn": "2026-10-11T14:34:54.000Z",
-          "wordCount": 3740,
-          "title": "September 2026",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/10/pups_202609.jpg"
-        },
-        {
-          "id": "https://blog.thestateofme.com/?p=7056",
-          "author": "Chris Swan",
-          "description": "Pupdate The heat wave(s) finally let up, but much of the month was still warm and sunny, allowing for some good walks. As I covered in an earlier post, Milo’s back in remission :) Caskmaster The Scotch Malt Whisky Society (SMWS) has started running a tasting competition called Caskmaster, with heats in various tasting rooms […]",
-          "link": "http://blog.thestateofme.com/2026/10/11/september-2026/",
-          "publishedOn": "2026-10-11T14:34:54.000Z",
-          "wordCount": 3742,
-          "title": "September 2026",
-          "imageUrl": "https://blog.thestateofme.com/wp-content/uploads/2026/10/pups_202609.jpg"
         }
       ]
     },
@@ -155,6 +135,16 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "b0e4e95ccb178c5e51191d02022d9a631c23c383",
+          "author": "Jed Lechner",
+          "description": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+          "publishedOn": "2026-11-10T00:21:34.000Z",
+          "wordCount": 45015,
+          "title": "How skills and agents work in AWS Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-22266-featured-image.png"
+        },
         {
           "id": "85e11029965ec714b8161f63f048a12f65fd6a97",
           "author": "Siddhant Sahu",

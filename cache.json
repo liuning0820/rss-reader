@@ -126,6 +126,71 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "eee5d43fead189e55bac9d295c979e1d24fbb7ff",
+          "author": "Prachi Kulkarni",
+          "description": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+          "publishedOn": "2026-11-11T20:52:48.000Z",
+          "wordCount": 45621,
+          "title": "Automating AWS Agent Registry updates with push-based architecture",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21088-featured-image.png"
+        },
+        {
+          "id": "0e166aea5fc5e99de63f67eb0887a9fb579fb51f",
+          "author": "Asif Fouzi",
+          "description": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+          "publishedOn": "2026-11-11T20:45:45.000Z",
+          "wordCount": 44698,
+          "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-21702-featured-image.png"
+        },
+        {
+          "id": "942893d15c6ed4a3b822a98a54e996da0a60453b",
+          "author": "Sabine Khan",
+          "description": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+          "publishedOn": "2026-11-11T19:19:21.000Z",
+          "wordCount": 44759,
+          "title": "Accelerating generative AI delivery with reusable assets",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/02/ML-20608-featured-image.png"
+        },
+        {
+          "id": "ca32afd4562f4691a5e0c8183feb87808df97a2a",
+          "author": "Vishnu Elangovan",
+          "description": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+          "publishedOn": "2026-11-11T16:05:33.000Z",
+          "wordCount": 44818,
+          "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/Accelerating-product-development-with-AI-driven-lifecycle-management-AI-PDLC-in-AWS-Quick.png"
+        },
+        {
+          "id": "7134bb29ee133c2d22189c4c963a132a593c00aa",
+          "author": "Samaneh Aminikhanghahi",
+          "description": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regressions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+          "publishedOn": "2026-11-11T15:50:55.000Z",
+          "wordCount": 45811,
+          "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+          "enclosure": {
+            "length": "22714446",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21994/See_it_in_action.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/04/ML-21994-featured-image.png"
+        },
+        {
+          "id": "09f20b599e1ea4e477b4979d15326bbd992cf96d",
+          "author": "Victor Wang",
+          "description": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+          "publishedOn": "2026-11-11T15:10:23.000Z",
+          "wordCount": 44608,
+          "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/28/ML-21045-featured-image.png"
+        },
+        {
           "id": "a1657d26dd7d2a16f20836a0d0a5e765a3ee4064",
           "author": "Aris Tsakpinis",
           "description": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-11T13:32:26.321Z</updated>
+    <updated>2026-11-11T21:02:25.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automating AWS Agent Registry updates with push-based architecture]]></title>
+        <id>eee5d43fead189e55bac9d295c979e1d24fbb7ff</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/"/>
+        <updated>2026-11-11T20:52:48.000Z</updated>
+        <summary type="html"><![CDATA[This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.]]></summary>
+        <author>
+            <name>Prachi Kulkarni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How DXC Technology built a multi-model AI substrate on Amazon Bedrock]]></title>
+        <id>0e166aea5fc5e99de63f67eb0887a9fb579fb51f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/"/>
+        <updated>2026-11-11T20:45:45.000Z</updated>
+        <summary type="html"><![CDATA[DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale.]]></summary>
+        <author>
+            <name>Asif Fouzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating generative AI delivery with reusable assets]]></title>
+        <id>942893d15c6ed4a3b822a98a54e996da0a60453b</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/"/>
+        <updated>2026-11-11T19:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.]]></summary>
+        <author>
+            <name>Sabine Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick]]></title>
+        <id>ca32afd4562f4691a5e0c8183feb87808df97a2a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/"/>
+        <updated>2026-11-11T16:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro.]]></summary>
+        <author>
+            <name>Vishnu Elangovan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UAEF: A framework-agnostic system for closed-loop evaluation of AI agents]]></title>
+        <id>7134bb29ee133c2d22189c4c963a132a593c00aa</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/"/>
+        <updated>2026-11-11T15:50:55.000Z</updated>
+        <summary type="html"><![CDATA[The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regressions.]]></summary>
+        <author>
+            <name>Samaneh Aminikhanghahi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming]]></title>
+        <id>09f20b599e1ea4e477b4979d15326bbd992cf96d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/"/>
+        <updated>2026-11-11T15:10:23.000Z</updated>
+        <summary type="html"><![CDATA[AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace.]]></summary>
+        <author>
+            <name>Victor Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Kimi K3.1 Pro on Amazon Bedrock]]></title>
         <id>a1657d26dd7d2a16f20836a0d0a5e765a3ee4064</id>

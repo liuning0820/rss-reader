@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-10T22:49:40.065Z</updated>
+    <updated>2026-11-11T04:41:43.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Kimi K3.1 Pro on Amazon Bedrock]]></title>
+        <id>a1657d26dd7d2a16f20836a0d0a5e765a3ee4064</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/"/>
+        <updated>2026-11-11T01:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.]]></summary>
+        <author>
+            <name>Aris Tsakpinis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search]]></title>
+        <id>e67f3a0f38da6d5f16c13370534db7c14abe780a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/"/>
+        <updated>2026-11-10T23:34:05.000Z</updated>
+        <summary type="html"><![CDATA[The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, and checks every finding against its cited sources.]]></summary>
+        <author>
+            <name>Sundar Raghavan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations]]></title>
         <id>8ef082e0d287956d1e252b1606af8d42f4e11b1e</id>
@@ -1184,26 +1204,6 @@
         <summary type="html"><![CDATA[Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.]]></summary>
         <author>
             <name>Traci Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy decision models with llama.cpp on Amazon SageMaker AI]]></title>
-        <id>f8a20bd6f8bcd8037ef8136ecd594ea98c83c9d3</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/"/>
-        <updated>2026-10-12T15:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.]]></summary>
-        <author>
-            <name>Jyothirmai Kottu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run multi-node inference workloads using Ray LLM Deep Learning Containers]]></title>
-        <id>b4bf8b1e23545b34c9db567b51d0eb1551605184</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/"/>
-        <updated>2026-10-12T15:50:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.]]></summary>
-        <author>
-            <name>Ananth Raghavendra</name>
         </author>
     </entry>
 </feed>

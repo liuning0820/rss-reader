@@ -126,6 +126,81 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "52b0b0c3b44c826025ca35a812f53a3760ac1789",
+          "author": "Viquar Khan",
+          "description": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+          "publishedOn": "2026-11-12T01:18:23.000Z",
+          "wordCount": 46238,
+          "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-20629-featured-image.png"
+        },
+        {
+          "id": "faefdbed0491df7ffbfea5b7e93f3979e26376c0",
+          "author": "Shivi Bhatia",
+          "description": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+          "publishedOn": "2026-11-11T23:35:47.000Z",
+          "wordCount": 44911,
+          "title": "OpenAI Codex on Amazon Bedrock",
+          "enclosure": {
+            "length": "1149533",
+            "type": "video/mp4",
+            "url": "https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-21633/OpenAI_Codex_on_Bedrock_Pilot_Walkthrough.mp4"
+          },
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21633-featured-image.png"
+        },
+        {
+          "id": "e385fb30922b28f568762a23f0c6b0abe2c192d9",
+          "author": "Ferhat Erata",
+          "description": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between two candidate authorization policies.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+          "publishedOn": "2026-11-11T23:33:03.000Z",
+          "wordCount": 47487,
+          "title": "Semantic diffing of formal policies with anti-unification",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-21875-featured-image.png"
+        },
+        {
+          "id": "843b103fd6b2a85ee84c6248187646fe49551f31",
+          "author": "Siddharth Senger",
+          "description": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2026-11-11T23:30:03.000Z",
+          "wordCount": 49432,
+          "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/03/ML-21841-featured-image.png"
+        },
+        {
+          "id": "811b8dfa171613df698db45e0ea693304815500b",
+          "author": "Shubham Divekar",
+          "description": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-11T23:13:16.000Z",
+          "wordCount": 45111,
+          "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22165-featured-image.png"
+        },
+        {
+          "id": "3f4d5141e9f40cbc6421464d50f65cb07b20edb9",
+          "author": "Tymofii Kryvtsun",
+          "description": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+          "publishedOn": "2026-11-11T22:26:40.000Z",
+          "wordCount": 43764,
+          "title": "ICYMI: What landed for AI builders in October 2026",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22436-featured-image.png"
+        },
+        {
+          "id": "b338f8a43166a0bd154498911d8a00e6632a53b4",
+          "author": "Markus Adhiwiyogo",
+          "description": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+          "publishedOn": "2026-11-11T21:05:59.000Z",
+          "wordCount": 46731,
+          "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22321-featured-image-4.png"
+        },
+        {
           "id": "eee5d43fead189e55bac9d295c979e1d24fbb7ff",
           "author": "Prachi Kulkarni",
           "description": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.",

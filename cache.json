@@ -126,6 +126,26 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "d27fba94181475674c8d9e0d16f89e5b62d0fc4a",
+          "author": "Alex Nails",
+          "description": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+          "publishedOn": "2026-11-12T22:03:34.000Z",
+          "wordCount": 42824,
+          "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/12/ML-22453-featured-image.png"
+        },
+        {
+          "id": "787b1b13cc7c9546be4afedb6d427a9b0c7e6990",
+          "author": "Ariel Jirau",
+          "description": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-12T21:47:07.000Z",
+          "wordCount": 44669,
+          "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21653-featured-image.png"
+        },
+        {
           "id": "ced40265f1aaea8576eb1b20e2dbe39d4314107f",
           "author": "Sai Pavan Kasani",
           "description": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
@@ -1364,36 +1384,6 @@
           "wordCount": 43127,
           "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-20468-featured-image.png"
-        },
-        {
-          "id": "d7fcbb6e54548bceb8e3c5489bb676b9bb401df4",
-          "author": "Ian Lunsford",
-          "description": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
-          "publishedOn": "2026-10-14T13:58:43.000Z",
-          "wordCount": 43010,
-          "title": "Generate presentations with Amazon Bedrock AgentCore",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/09/ML-19250-featured-image.png"
-        },
-        {
-          "id": "e450e4e25d2199a8263f8d40fbee33f9f2e8a25b",
-          "author": "Ishara Premadasa",
-          "description": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
-          "publishedOn": "2026-10-14T13:53:33.000Z",
-          "wordCount": 43509,
-          "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-21356-featured-image.png"
-        },
-        {
-          "id": "e6ff6df24e30f88e005340fdee64687eef73ffa9",
-          "author": "Vamsi Goparaju",
-          "description": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
-          "publishedOn": "2026-10-14T13:14:36.000Z",
-          "wordCount": 41904,
-          "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22153-featured-image.png"
         }
       ]
     }

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-12T21:17:14.060Z</updated>
+    <updated>2026-11-13T02:21:53.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy frontier AI models on AWS Trainium with SGLang-Neuron]]></title>
+        <id>d27fba94181475674c8d9e0d16f89e5b62d0fc4a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/"/>
+        <updated>2026-11-12T22:03:34.000Z</updated>
+        <summary type="html"><![CDATA[SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.]]></summary>
+        <author>
+            <name>Alex Nails</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore]]></title>
+        <id>787b1b13cc7c9546be4afedb6d427a9b0c7e6990</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-12T21:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.]]></summary>
+        <author>
+            <name>Ariel Jirau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Four Amazon Bedrock inference choices that affect cost]]></title>
         <id>ced40265f1aaea8576eb1b20e2dbe39d4314107f</id>
@@ -1324,36 +1344,6 @@
         <summary type="html"><![CDATA[Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.]]></summary>
         <author>
             <name>Erik Cordsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate presentations with Amazon Bedrock AgentCore]]></title>
-        <id>d7fcbb6e54548bceb8e3c5489bb676b9bb401df4</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-10-14T13:58:43.000Z</updated>
-        <summary type="html"><![CDATA[This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.]]></summary>
-        <author>
-            <name>Ian Lunsford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock]]></title>
-        <id>e450e4e25d2199a8263f8d40fbee33f9f2e8a25b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"/>
-        <updated>2026-10-14T13:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.]]></summary>
-        <author>
-            <name>Ishara Premadasa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy and evaluate models with Amazon SageMaker JumpStart]]></title>
-        <id>e6ff6df24e30f88e005340fdee64687eef73ffa9</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/"/>
-        <updated>2026-10-14T13:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.]]></summary>
-        <author>
-            <name>Vamsi Goparaju</name>
         </author>
     </entry>
 </feed>

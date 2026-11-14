@@ -137,6 +137,56 @@
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
         {
+          "id": "760cbc8b70c56b832a6d83eb6dfab47ce2fe8a3b",
+          "author": "WonGu Rho",
+          "description": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+          "publishedOn": "2026-11-13T23:22:09.000Z",
+          "wordCount": 45435,
+          "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21878-featured-image.png"
+        },
+        {
+          "id": "f4831ed5c33ec5088dfe090f067c6a3a1c207b47",
+          "author": "Aswath Ram A Srinivasan",
+          "description": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+          "publishedOn": "2026-11-13T22:30:12.000Z",
+          "wordCount": 46602,
+          "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22318-featured-image.png"
+        },
+        {
+          "id": "31a4c32eac66b0c9392f69ee418d5e09aecaf4e5",
+          "author": "Evandro Franco",
+          "description": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+          "publishedOn": "2026-11-13T22:02:39.000Z",
+          "wordCount": 45851,
+          "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/13/ML-22099-featured-image.png"
+        },
+        {
+          "id": "4dea8ce77a40d45986adf65199b169c60e84bcc1",
+          "author": "Malav Shastri",
+          "description": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+          "publishedOn": "2026-11-13T21:53:40.000Z",
+          "wordCount": 46189,
+          "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/12/ML-22226-featured-image.png"
+        },
+        {
+          "id": "62c3e92270a83395aaeaae770a977c92ced34043",
+          "author": "Belair Albahagwi",
+          "description": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+          "publishedOn": "2026-11-13T19:35:35.000Z",
+          "wordCount": 43572,
+          "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/06/ML-20884-featured-image.png"
+        },
+        {
           "id": "94b792ec6f46dfd34db3ccc1fda8cfa7fee6df93",
           "author": "Aamna Najmi",
           "description": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",

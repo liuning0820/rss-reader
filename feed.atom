@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-15T01:34:57.400Z</updated>
+    <updated>2026-11-15T08:48:34.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1374,26 +1374,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers with code SREWEEKLY. Claim your free pass → Hot take Today, I learned that “hot […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore]]></title>
-        <id>df0b1ae32a5ba63d5856db229a66706d4090e8ef</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"/>
-        <updated>2026-10-16T20:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.]]></summary>
-        <author>
-            <name>Rui Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Reflection Beam: an open-weight model for agentic coding on AWS]]></title>
-        <id>cdaa150f662455f5a5b50cfecf81b2cdf715e1e7</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/"/>
-        <updated>2026-10-16T15:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure.]]></summary>
-        <author>
-            <name>Clement Perrot</name>
         </author>
     </entry>
 </feed>

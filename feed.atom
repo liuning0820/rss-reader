@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-16T14:46:22.606Z</updated>
+    <updated>2026-11-16T23:57:55.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base]]></title>
+        <id>6d1ff2e4339ff5c12febb03d6586784822aa87ad</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/"/>
+        <updated>2026-11-16T22:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.]]></summary>
+        <author>
+            <name>Peng Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Duco transforms financial data automation with Amazon Bedrock AgentCore]]></title>
+        <id>4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-16T22:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.]]></summary>
+        <author>
+            <name>Rob Gates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing]]></title>
+        <id>6fae81f2f51c263e67f03ac10a33149b6fedcdd0</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/"/>
+        <updated>2026-11-16T21:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.]]></summary>
+        <author>
+            <name>Malini Sethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore]]></title>
+        <id>2915fd77bac534686e62cc7588876a9c0f53a15a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-16T18:16:07.000Z</updated>
+        <summary type="html"><![CDATA[MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data.]]></summary>
+        <author>
+            <name>Ashwin Srinivasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform]]></title>
+        <id>8d03145658ec1cdef2b0aca5628c08dfaffefb5a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/"/>
+        <updated>2026-11-16T17:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS.]]></summary>
+        <author>
+            <name>Abhishek Ashish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore]]></title>
+        <id>9189364d4fda8ced7c7c27d0b70ec7adb9ac5ce3</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-16T17:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn millions of controlled manufacturing documents into grounded, cited answers.]]></summary>
+        <author>
+            <name>Elias Bedmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base]]></title>
+        <id>3813dbf1ca3824362df03525d76f7db4f5be7fd5</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/"/>
+        <updated>2026-11-16T16:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks up values and runs calculations across every relevant row, then combines the results with facts from related documents to answer multi-step analytical questions.]]></summary>
+        <author>
+            <name>Josh DeMuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best practices for writing Denied Topics in Amazon Bedrock Guardrails]]></title>
+        <id>88d82f905624fb3ad149a635838dce2fbe49cc0c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/"/>
+        <updated>2026-11-16T15:48:01.000Z</updated>
+        <summary type="html"><![CDATA[With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning rather than keyword, which can block more than you intend. This post presents eight best practices for writing a topic precisely enough that the guardrail blocks what you mean and passes what you don't.]]></summary>
+        <author>
+            <name>Jian Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize answers per tenant in Amazon Bedrock Managed Knowledge Base]]></title>
+        <id>081dabf951b4e241855972e4877f3f6817f006c8</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/"/>
+        <updated>2026-11-16T15:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope access with IAM tags, and roll out changes one tenant at a time.]]></summary>
+        <author>
+            <name>Josh DeMuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use prompt caching with open-weight models on Amazon Bedrock]]></title>
+        <id>c3944f2d5e23bb6c54eabc4231344977ea98e1f9</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock/"/>
+        <updated>2026-11-16T15:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Many generative AI applications resend the same long context on every request. Prompt caching lets open-weight models on Amazon Bedrock reuse it to reduce input cost and latency. This post shows implicit and explicit caching through the Chat Completions API and applies caching to an OpenCode coding agent session.]]></summary>
+        <author>
+            <name>Dustin Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRE Weekly Issue #543]]></title>
         <id>https://sreweekly.com/?p=1844</id>

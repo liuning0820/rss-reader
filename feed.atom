@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-15T22:27:49.686Z</updated>
+    <updated>2026-11-16T04:44:13.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #543]]></title>
+        <id>https://sreweekly.com/?p=1844</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-543/"/>
+        <updated>2026-11-16T02:53:30.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io’s engineering team for an Extensions showcase. We’ll build a skill live, watch it run, and safely deploy. Register Now → Introducing 100 Things […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1]]></title>
         <id>760cbc8b70c56b832a6d83eb6dfab47ce2fe8a3b</id>

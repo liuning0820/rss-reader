@@ -73,6 +73,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1844",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, Incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io’s engineering team for an Extensions showcase. We’ll build a skill live, watch it run, and safely deploy. Register Now → Introducing 100 Things […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-543/",
+          "publishedOn": "2026-11-16T02:53:30.000Z",
+          "wordCount": 1161,
+          "title": "SRE Weekly Issue #543",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1842",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Archestra: AI chaos in your org? Archestra is an open-source enterprise AI platform used by Fortune 50s that organizes your AI: LLM proxy, MCP gateway, skill catalog, feature factory, governance, observability and deterministic guardrails. ⇨ Book a call with the core team. What does it cost to […]",

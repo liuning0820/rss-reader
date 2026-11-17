@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7114",
@@ -111,16 +111,6 @@
           "wordCount": 1127,
           "title": "SRE Weekly Issue #540",
           "imageUrl": null
-        },
-        {
-          "id": "https://sreweekly.com/?p=1835",
-          "author": "lex",
-          "description": "View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers with code SREWEEKLY. Claim your free pass → Hot take Today, I learned that “hot […]",
-          "link": "https://sreweekly.com/sre-weekly-issue-539/",
-          "publishedOn": "2026-10-19T03:27:57.000Z",
-          "wordCount": 1130,
-          "title": "SRE Weekly Issue #539",
-          "imageUrl": null
         }
       ]
     },
@@ -146,6 +136,46 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "a63ce7070aaa3349565578631c3a80a4f74fd65a",
+          "author": "Michelle Ye",
+          "description": "AWS Quick gives your whole organization AI that knows your business, respects your security rules, and acts on your behalf. At AWS re:Invent 2026, customers including Allianz, Cox Automotive, and Southwest Airlines share how they govern, extend, and scale Quick. Use this guide to find the sessions that fit your goals.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
+          "publishedOn": "2026-11-17T17:08:21.000Z",
+          "wordCount": 46088,
+          "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/13/ML-22359-featured-image.png"
+        },
+        {
+          "id": "869be9515dd4a9d6d29ada060383aebbdf19f1d9",
+          "author": "Mariah Miller",
+          "description": "LoanPro worked with AWS Partner AllCloud and the AWS Generative AI Innovation Center to build a multi-agent AI assistant on Amazon Bedrock and Amazon Bedrock AgentCore. It gives loan servicing agents instant borrower context and next-best-action recommendations, reducing customer call times by up to 15 percent.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
+          "publishedOn": "2026-11-17T17:01:08.000Z",
+          "wordCount": 44638,
+          "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-21891-featured-image-1.png"
+        },
+        {
+          "id": "880ddd5d6ca4ac6c3010cbbe57b7883439fc2199",
+          "author": "Mia Chang",
+          "description": "Enterprises adopting agentic AI at scale need platforms that embed responsible AI from the start. This post gives platform and application teams a three-phase roadmap (governance foundation, pilot deployment, and evaluation and hardening) that maps the AWS Responsible AI Lens pillars to each phase, with guidance on when to revisit each one.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/",
+          "publishedOn": "2026-11-17T16:56:31.000Z",
+          "wordCount": 45127,
+          "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/29/ML-21131-featured-image.png"
+        },
+        {
+          "id": "0a44cff15a84618242302af42dadcc4ef349495d",
+          "author": "Shubham Gupta",
+          "description": "ArisGlobal runs NavaX, its life-sciences AI engine, on Amazon Bedrock. By caching the shared prompt prefix instead of each per-case document, ArisGlobal cut effective input cost by about 50% and overall monthly inference spend by about 40%, while onboarding more tenants without proportional cost growth.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/",
+          "publishedOn": "2026-11-17T15:57:09.000Z",
+          "wordCount": 44438,
+          "title": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21195-featured-image.png"
+        },
         {
           "id": "6d1ff2e4339ff5c12febb03d6586784822aa87ad",
           "author": "Peng Yang",

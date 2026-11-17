@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-17T07:22:30.573Z</updated>
+    <updated>2026-11-17T17:21:28.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your complete guide to AWS Quick at AWS re:Invent 2026]]></title>
+        <id>a63ce7070aaa3349565578631c3a80a4f74fd65a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/"/>
+        <updated>2026-11-17T17:08:21.000Z</updated>
+        <summary type="html"><![CDATA[AWS Quick gives your whole organization AI that knows your business, respects your security rules, and acts on your behalf. At AWS re:Invent 2026, customers including Allianz, Cox Automotive, and Southwest Airlines share how they govern, extend, and scale Quick. Use this guide to find the sessions that fit your goals.]]></summary>
+        <author>
+            <name>Michelle Ye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore]]></title>
+        <id>869be9515dd4a9d6d29ada060383aebbdf19f1d9</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-17T17:01:08.000Z</updated>
+        <summary type="html"><![CDATA[LoanPro worked with AWS Partner AllCloud and the AWS Generative AI Innovation Center to build a multi-agent AI assistant on Amazon Bedrock and Amazon Bedrock AgentCore. It gives loan servicing agents instant borrower context and next-best-action recommendations, reducing customer call times by up to 15 percent.]]></summary>
+        <author>
+            <name>Mariah Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsible AI for agentic AI: A phased roadmap for platform and application teams]]></title>
+        <id>880ddd5d6ca4ac6c3010cbbe57b7883439fc2199</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/"/>
+        <updated>2026-11-17T16:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises adopting agentic AI at scale need platforms that embed responsible AI from the start. This post gives platform and application teams a three-phase roadmap (governance foundation, pilot deployment, and evaluation and hardening) that maps the AWS Responsible AI Lens pillars to each phase, with guidance on when to revisit each one.]]></summary>
+        <author>
+            <name>Mia Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ArisGlobal scaled generative AI inference on Amazon Bedrock]]></title>
+        <id>0a44cff15a84618242302af42dadcc4ef349495d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/"/>
+        <updated>2026-11-17T15:57:09.000Z</updated>
+        <summary type="html"><![CDATA[ArisGlobal runs NavaX, its life-sciences AI engine, on Amazon Bedrock. By caching the shared prompt prefix instead of each per-case document, ArisGlobal cut effective input cost by about 50% and overall monthly inference spend by about 40%, while onboarding more tenants without proportional cost growth.]]></summary>
+        <author>
+            <name>Shubham Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base]]></title>
         <id>6d1ff2e4339ff5c12febb03d6586784822aa87ad</id>
@@ -1474,16 +1514,6 @@
         <summary type="html"><![CDATA[Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed context across turns, cutting time to first token by up to 1.6x for Qwen3-32B and 3.3x for GLM-5-FP8 on Amazon EC2 P5en instances with EFA.]]></summary>
         <author>
             <name>Sunita Nadampalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE Weekly Issue #539]]></title>
-        <id>https://sreweekly.com/?p=1835</id>
-        <link href="https://sreweekly.com/sre-weekly-issue-539/"/>
-        <updated>2026-10-19T03:27:57.000Z</updated>
-        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Incident.io: AI made shipping code faster. Now reliability is the bottleneck. Hear how Netflix and OpenAI handle that challenge at SEV0, the reliability conference in SF and London. Free for SREWeekly readers with code SREWEEKLY. Claim your free pass → Hot take Today, I learned that “hot […]]]></summary>
-        <author>
-            <name>lex</name>
         </author>
     </entry>
 </feed>

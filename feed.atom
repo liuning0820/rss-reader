@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-17T17:21:28.720Z</updated>
+    <updated>2026-11-18T00:30:01.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference]]></title>
+        <id>7d273ceec71d93e4d51e244ed3e0dd70fd6b8ef7</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/"/>
+        <updated>2026-11-17T23:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself.]]></summary>
+        <author>
+            <name>Vinay Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads]]></title>
+        <id>cf1bf852a941654f24f9ad7847ac33595e998883</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/"/>
+        <updated>2026-11-17T22:44:51.000Z</updated>
+        <summary type="html"><![CDATA[As production agents on Amazon Bedrock AgentCore process multi-megabyte JSON payloads, token costs and latency climb. This post shares three composable strategies: offloading heavy artifacts to Amazon S3, on-demand result paging, and dictionary compaction. Together they cut per-turn token use by up to 71% and latency by up to 80%.]]></summary>
+        <author>
+            <name>Pallav Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cut generative AI costs: Code for rules, models for judgment]]></title>
+        <id>9aa8427cabe07b8fbd08a7874e7f964a60a8738a</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"/>
+        <updated>2026-11-17T21:14:55.000Z</updated>
+        <summary type="html"><![CDATA[The biggest cost lever in a generative AI system is whether you call a model at all. Learn how to decide whether each workflow step needs a model, and map each option to AWS: deterministic code, a constrained decision call, or a right-sized model on Amazon Bedrock.]]></summary>
+        <author>
+            <name>Meghan Kothari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker AI real-time endpoints now support KV cache aware routing]]></title>
+        <id>577fe79ced59c54b14f189c6d3d729bc1a447e62</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"/>
+        <updated>2026-11-17T21:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints.]]></summary>
+        <author>
+            <name>Dmitry Soldatkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govern and discover records with common metadata in AWS Agent Registry]]></title>
+        <id>93acfc16dc33f85c194155e4b06fadd97e3c1175</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"/>
+        <updated>2026-11-17T20:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts.]]></summary>
+        <author>
+            <name>Sana Iqbal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore]]></title>
+        <id>9736c230ccaae3f0cbc3f54ebe3678c8b1d6632f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-17T20:25:23.000Z</updated>
+        <summary type="html"><![CDATA[When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can match your organization's identity, audit, and compliance needs.]]></summary>
+        <author>
+            <name>Nithyashree Alwarsamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows]]></title>
+        <id>2164f47eaa11e3846a14bf344a027c68fab81f78</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"/>
+        <updated>2026-11-17T19:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker AI now offers AI data preparation capabilities for building high-quality training and evaluation data. Generate synthetic examples, assess and improve datasets, auto-label at scale, and bring in expert review through Python SDK APIs and an agent skill, all from your own notebook or IDE.]]></summary>
+        <author>
+            <name>Varun Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting AI out of the demo and into businesses globally]]></title>
+        <id>61e058d52d53c27de0ac686fbb230a20f73cae8c</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"/>
+        <updated>2026-11-17T19:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Most enterprises have AI that works in a demo but stalls before production. AWS Forward Deployed Engineering closes that gap. AWS engineers embed with customer teams to take high-value workflows to production in 45-day sprints, leaving a foundation, workflows, and governance the customer owns.]]></summary>
+        <author>
+            <name>Dr. Asa Kalavade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build WhatsApp AI agents with Amazon Bedrock AgentCore]]></title>
+        <id>ee885e976078b822d4c433d3bc4bee17caaff98f</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/"/>
+        <updated>2026-11-17T18:48:50.000Z</updated>
+        <summary type="html"><![CDATA[SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, scheduling, and Meta message templates.]]></summary>
+        <author>
+            <name>Marco Larrea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart]]></title>
+        <id>55fd3d9060dc84442ff007934ddf9a781e246ca4</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-11-17T18:06:44.000Z</updated>
+        <summary type="html"><![CDATA[OpenTSLM, an open source family of time-series language models, is now available in Amazon SageMaker JumpStart. See how Nexthink and Aionic Labs apply it to proactive IT support, then deploy OpenTSLM to a real-time endpoint and fine-tune it on your own data with TimeNet and a SageMaker training job.]]></summary>
+        <author>
+            <name>Martin Maritsch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your complete guide to AWS Quick at AWS re:Invent 2026]]></title>
         <id>a63ce7070aaa3349565578631c3a80a4f74fd65a</id>

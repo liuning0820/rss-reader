@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-19T09:52:08.621Z</updated>
+    <updated>2026-11-19T18:50:55.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach]]></title>
+        <id>956ccf301033a9414ae29d032c3df0b75681b861</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/"/>
+        <updated>2026-11-19T18:48:55.000Z</updated>
+        <summary type="html"><![CDATA[As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.]]></summary>
+        <author>
+            <name>Ilan Geller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League]]></title>
+        <id>f3760d486fc3a253f618f5aadd62c89dc2633b7d</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/"/>
+        <updated>2026-11-19T18:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your own league.]]></summary>
+        <author>
+            <name>Rakesh Vangari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI]]></title>
+        <id>f762308a567b8d6343b1b8fca29e935ce6c79914</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"/>
+        <updated>2026-11-19T18:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably.]]></summary>
+        <author>
+            <name>Dmitry Soldatkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway]]></title>
+        <id>64eb7c5f6286bb53ae673651e85ab1d1e8321eda</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/"/>
+        <updated>2026-11-19T18:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.]]></summary>
+        <author>
+            <name>Joe McCarron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart]]></title>
+        <id>4afdc62a132ff7a5a863c90bf1e3a0498e43a530</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/"/>
+        <updated>2026-11-19T17:28:47.000Z</updated>
+        <summary type="html"><![CDATA[PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.]]></summary>
+        <author>
+            <name>Helen Greul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod]]></title>
+        <id>08fb4e238d4eba4747871a78311b05e8f79a2286</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"/>
+        <updated>2026-11-19T16:41:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.]]></summary>
+        <author>
+            <name>Mijanur Palash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using NVIDIA Run:ai GPU Fractioning on Amazon EKS]]></title>
+        <id>7ff456a5559d031d63256bbaa7bf27e4940bf666</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/"/>
+        <updated>2026-11-19T16:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod GPU-memory contracts with enforcement and metrics.]]></summary>
+        <author>
+            <name>Muru Bhaskaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization]]></title>
         <id>bc37888f62d641a4c4d60233598cdb1fdb44d420</id>

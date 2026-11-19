@@ -3,7 +3,7 @@
     {
       "title": "Chris Swan's Weblog",
       "feedUrl": "https://blog.thestateofme.com/feed/",
-      "siteUrl": "http://blog.thestateofme.com",
+      "siteUrl": "https://blog.thestateofme.com",
       "articles": [
         {
           "id": "https://blog.thestateofme.com/?p=7114",
@@ -136,6 +136,126 @@
       "feedUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/machine-learning/",
       "articles": [
+        {
+          "id": "bc37888f62d641a4c4d60233598cdb1fdb44d420",
+          "author": "Sandeep Raveesh-Babu",
+          "description": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+          "publishedOn": "2026-11-19T00:15:58.000Z",
+          "wordCount": 46920,
+          "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21644-featured-image.png"
+        },
+        {
+          "id": "7561fc3d330a372ef121d07f7930d0f64fd7d3eb",
+          "author": "Summer Devlin",
+          "description": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+          "publishedOn": "2026-11-18T23:58:22.000Z",
+          "wordCount": 46303,
+          "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/13/ML-22138-featured-image-1.png"
+        },
+        {
+          "id": "f425cf3fa0c23388415ee5b2e7e465135fd29761",
+          "author": "Roy Allela",
+          "description": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+          "publishedOn": "2026-11-18T23:03:29.000Z",
+          "wordCount": 50636,
+          "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22383-featured-image.png"
+        },
+        {
+          "id": "179a030b28535518f068b87e596fbaedc2dd8926",
+          "author": "Dan Ferguson",
+          "description": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+          "publishedOn": "2026-11-18T22:31:04.000Z",
+          "wordCount": 47006,
+          "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22496-featured-image.png"
+        },
+        {
+          "id": "894cf5f974d052ae129273f3503e15ca222b6c15",
+          "author": "Alan Yao",
+          "description": "Airbnb runs evals on real engineering tasks and uses Amazon Bedrock observability to choose models for its coding agents and control production costs. This post shows how cost per task guides model selection, why production spending can differ from eval results, and how to monitor latency, manage quotas, and attribute spend.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+          "publishedOn": "2026-11-18T21:48:19.000Z",
+          "wordCount": 48139,
+          "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22452-featured-image.png"
+        },
+        {
+          "id": "d20511fee78e1f57a74037658f9e257e5926dda8",
+          "author": "InduTeja Aligeti",
+          "description": "Learn how to make RAG chatbot answers traceable with Amazon Aurora PostgreSQL, pgvector, and Amazon Bedrock Guardrails, logging sources, scores, and guardrail traces in SQL.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
+          "publishedOn": "2026-11-18T21:38:22.000Z",
+          "wordCount": 48701,
+          "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-20463-featured-image.png"
+        },
+        {
+          "id": "8ef977d6239789a84140a268afc45f39deb45964",
+          "author": "Aastha Paul",
+          "description": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs), so your agents can connect to self-hosted identity providers that use a private CA. This post shows how to issue an IdP certificate with AWS Private CA, configure a credential provider to trust it, rotate the CA, and protect the certificate.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
+          "publishedOn": "2026-11-18T20:53:41.000Z",
+          "wordCount": 45216,
+          "title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/ML-22407-featured-image.png"
+        },
+        {
+          "id": "7e7d4a1108fa4b94b6ebe717fe2571f43d60e459",
+          "author": "Apoorva Chandra",
+          "description": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving. Salesforce adds capacity securely across Regions and accounts while keeping its data residency commitments, and sees per request where each call was served and why.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+          "publishedOn": "2026-11-18T20:13:18.000Z",
+          "wordCount": 45386,
+          "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/18/Building-highly-available-Oracle-databases-with-Amazon-FSx.png"
+        },
+        {
+          "id": "aa53f556a8372cc412ee3a7ff2fcb01a7a18d76d",
+          "author": "Mariah Miller",
+          "description": "Social Department, an AI operating system for entertainment marketing, worked with TrackIt and AWS to build QuickSearch: single-action queries that surface shareable scenes, quotable lines, memeable frames, and trend-aligned moments across large video libraries, using TwelveLabs models on Amazon Bedrock and Amazon OpenSearch Serverless.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/",
+          "publishedOn": "2026-11-18T19:27:56.000Z",
+          "wordCount": 46121,
+          "title": "How Social Department built culture-aware video discovery",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21816-featured-image.png"
+        },
+        {
+          "id": "193eac1997a095a08f8e818e6f6e83666eaf07b1",
+          "author": "Puneeth Komaragiri",
+          "description": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in that model, with the VPC Lattice resource gateway in the network account so every hop crosses the firewall.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
+          "publishedOn": "2026-11-18T19:05:45.000Z",
+          "wordCount": 45769,
+          "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/17/ML-22132-featured-image.png"
+        },
+        {
+          "id": "b9c76438d6c86c4efceca2a1dafb6b469e7f3d82",
+          "author": "Mariah Miller",
+          "description": "Stretto replaced its web-form lead capture with Tara, an AI voice agent built on Amazon Nova 2 Sonic that conducts bankruptcy intake interviews by phone and qualifies leads. See how Stretto, the AWS Generative AI Innovation Center, and CI&T designed the voice architecture, validated it for sensitive conversations, and moved it to production.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
+          "publishedOn": "2026-11-18T18:58:42.000Z",
+          "wordCount": 44985,
+          "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-21890-featured-image.png"
+        },
+        {
+          "id": "d5eea00aea29a85eff0d9de8f93855cb71eff5af",
+          "author": "Jane Ridge",
+          "description": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
+          "link": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
+          "publishedOn": "2026-11-18T18:54:08.000Z",
+          "wordCount": 43365,
+          "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/16/ML-22393-featured-image.png"
+        },
         {
           "id": "7d273ceec71d93e4d51e244ed3e0dd70fd6b8ef7",
           "author": "Vinay Arora",

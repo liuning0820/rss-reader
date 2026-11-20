@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-20T01:37:40.414Z</updated>
+    <updated>2026-11-20T09:39:21.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1664,36 +1664,6 @@
         <summary type="html"><![CDATA[Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.]]></summary>
         <author>
             <name>Yoonseo Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive agentic intelligence framework using Strands Agents]]></title>
-        <id>bc3c26fa1b9f32217f78b6ea7dade55d7572f14d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/"/>
-        <updated>2026-10-21T21:23:26.000Z</updated>
-        <summary type="html"><![CDATA[The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Amazon Bedrock, using an Internet of Things monitoring scenario.]]></summary>
-        <author>
-            <name>Nitin Eusebius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Train Qwen3 on AWS Trainium with torchtitan]]></title>
-        <id>54e8299bd0c441c1532fc17ed8f18dacc33ccc0d</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/"/>
-        <updated>2026-10-21T20:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The same torchrun launcher and config structure work unchanged across all three paths, including loading and saving published Hugging Face safetensors.]]></summary>
-        <author>
-            <name>Josh Longenecker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How U.S. Hunger connects leaders and data using Amazon Quick]]></title>
-        <id>3041691fe51fb842c8451055f54e6f1d4b96e4bf</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/"/>
-        <updated>2026-10-21T19:19:50.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and financial context in Quick Spaces, and investigate policy questions with Quick Research.]]></summary>
-        <author>
-            <name>Rick Whitted</name>
         </author>
     </entry>
 </feed>

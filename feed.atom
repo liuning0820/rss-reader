@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-20T09:39:21.070Z</updated>
+    <updated>2026-11-20T18:17:20.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1644,26 +1644,6 @@
         <summary type="html"><![CDATA[Private keys for eight eMudhra intermediate Certificate Authority (CA) certificates have been compromised, making it trivial for attackers to forge certificates that would be trusted by unpatched roots of trust. Six of the impacted certificates were for Transport Layer Security (TLS) and trusted by the Apple, Chrome, Microsoft and Mozilla root programs. The other two […]]]></summary>
         <author>
             <name>Chris Swan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Quick access from corporate networks with AWS PrivateLink]]></title>
-        <id>34e5ea1686b4ddadf422c6b8da002f20b620869c</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/"/>
-        <updated>2026-10-21T23:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.]]></summary>
-        <author>
-            <name>Rahul Kulkarni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 production challenges in multi-agent systems and how Deep Insight solved them]]></title>
-        <id>592e790776f1a784bac6fdbee94e1681b38d082b</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/"/>
-        <updated>2026-10-21T23:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.]]></summary>
-        <author>
-            <name>Yoonseo Kim</name>
         </author>
     </entry>
 </feed>

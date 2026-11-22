@@ -1635,16 +1635,6 @@
           "wordCount": 48404,
           "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
           "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21614-featured-image.png"
-        },
-        {
-          "id": "d4a0021627e124e1cbf32bd2a1426e1abfda6b33",
-          "author": "Daniel Quang",
-          "description": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
-          "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
-          "publishedOn": "2026-10-23T17:48:54.000Z",
-          "wordCount": 46341,
-          "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/12/ML-22014-featured-image.png"
         }
       ]
     }

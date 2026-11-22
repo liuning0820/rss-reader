@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-22T05:02:31.674Z</updated>
+    <updated>2026-11-22T14:01:03.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
@@ -1574,16 +1574,6 @@
         <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, Dragonfly: Redis runs one core per process. Your server has 64. Dragonfly is a Redis/Valkey-compatible data store, rebuilt multi-threaded by an ex-AWS ElastiCache engineer: 6M ops/sec on one node, no cluster Drop-in: same clients, same commands Instacart migrated and cut latency by 50% using 70% fewer nodes […]]]></summary>
         <author>
             <name>lex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide]]></title>
-        <id>d4a0021627e124e1cbf32bd2a1426e1abfda6b33</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/"/>
-        <updated>2026-10-23T17:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.]]></summary>
-        <author>
-            <name>Daniel Quang</name>
         </author>
     </entry>
 </feed>

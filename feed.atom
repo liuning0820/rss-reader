@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuning0820.github.io/rss-reader/index.html</id>
     <title>RSS Feed Reader</title>
-    <updated>2026-11-23T02:13:06.509Z</updated>
+    <updated>2026-11-23T13:59:51.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://liuning0820.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://liuning0820.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRE Weekly Issue #544]]></title>
+        <id>https://sreweekly.com/?p=1846</id>
+        <link href="https://sreweekly.com/sre-weekly-issue-544/"/>
+        <updated>2026-11-23T04:06:38.000Z</updated>
+        <summary type="html"><![CDATA[View on sreweekly.com A message from our sponsor, JAMS Software: Our support team moved its on-call off PagerDuty in under an hour. JAMS Incident Management checks your PagerDuty account read-only, then imports: schedules, rotations, and overrides escalation policies, teams, and people without emailing, texting, or calling anyone ☞ Run the PagerDuty conversion, free for 14 […]]]></summary>
+        <author>
+            <name>lex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta ads is now available in AWS Quick]]></title>
         <id>2f499b0fad46f2d46fc1c337c454cd6adc7edd47</id>

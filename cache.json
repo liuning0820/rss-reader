@@ -53,6 +53,16 @@
       "siteUrl": "https://sreweekly.com",
       "articles": [
         {
+          "id": "https://sreweekly.com/?p=1846",
+          "author": "lex",
+          "description": "View on sreweekly.com A message from our sponsor, JAMS Software: Our support team moved its on-call off PagerDuty in under an hour. JAMS Incident Management checks your PagerDuty account read-only, then imports: schedules, rotations, and overrides escalation policies, teams, and people without emailing, texting, or calling anyone ☞ Run the PagerDuty conversion, free for 14 […]",
+          "link": "https://sreweekly.com/sre-weekly-issue-544/",
+          "publishedOn": "2026-11-23T04:06:38.000Z",
+          "wordCount": 1064,
+          "title": "SRE Weekly Issue #544",
+          "imageUrl": null
+        },
+        {
           "id": "https://sreweekly.com/?p=1844",
           "author": "lex",
           "description": "View on sreweekly.com A message from our sponsor, Incident.io: Your agent is only as useful as the tools it can reach, and only as safe as the limits you set. Join incident.io’s engineering team for an Extensions showcase. We’ll build a skill live, watch it run, and safely deploy. Register Now → Introducing 100 Things […]",
